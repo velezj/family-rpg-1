@@ -51,3 +51,36 @@ Very little is known about these creatures. They are assumed "alive" because the
 <unknown by players/universe>
 Planetvores are the source and keepers of time magic in the universe.
 When a planetvore senses that time magic is weakening, it instinctually starts to feed in order to procreate. Once enough matter is devoured, a part of the planetvore separates from the original and become a brand new planetvore. The original planetvore then diffused into the space-time and time magic. New planetvores do not contain the black-liquid skin when born as must build it up by gathering the time magic around it until a skin forms.
+
+
+## The Federation Council
+
+This is a galactic group of societies that coordinate most interplanitary laws and comflicts. Somewhat like the UN and WHO combined. Most planets belong to the Council and have a representative. Each planet may send *one* representative. The Council self-selects leaders but mainly consists of smaller divisions that handle scoped problems and issues. In particular, the only memebers of the Council are from this universe, so Ruk is *not* part of it.
+
+
+### Magic Division
+
+The division that deals with widespread magic entanglements, rules governing magic safety and galactic-scale magic events.
+
+### Division of Derrivative Execution
+
+This division handles most logistic and treasury requests. Also handles the minutia of getting communications across teh span of the galaxy. Includes the galactic post / freight service management.
+
+### Other Division
+
+A secretive division. Mainly deals with strange things. Does know about Ruk incursion. 
+
+
+## The Estate
+
+Agency handling all thing recursion related, including Ruk. Secretive.
+
+## The Ruk
+
+### Renegade 
+
+Trying to destroy earth because they think it will "release" ruk form earth's hold
+
+### Free-Space Commision
+
+Looking into Ruk's destruction / world.
