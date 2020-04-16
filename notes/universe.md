@@ -83,4 +83,24 @@ Trying to destroy earth because they think it will "release" ruk form earth's ho
 
 ### Free-Space Commision
 
-Looking into Ruk's destruction / world.
+Looking into Ruk's destruction / world (from Ruks' side).
+
+# The Spirit World
+
+The spirit waorld was created millions of years ago and did not exist when earth began forming. It is in fact a "scab" that sorrounds earth. A buffer that is mostly magical energy meant to defend earth from the planetvore child. It is the direct reaction of earth to the impact and intriccion of the planetvore gathering time magic from the earth to itself. 
+
+The spirit world is ruled over by the "Great Spirits" who were the first defenders and helped create and shape the barrier (the spirit world). They cultivate warriors for future defense and also actively fight to keep the planetvore from stealing all time magic. The spririt world is the only place on earth left with time magic, and most magic.
+
+The spirit world, being solely of earth, does not protect against recursion since they stand outside our universe completely aand are too far removed from earth. It also did not exists in the Predation time and hence cannot comprehend the renegade ruk, predation agent, and portal.
+
+# Time travel and Magic
+
+Very few mages have attunement for grand time manipultaion, but most low-level accolytes become goverment workes that can "project" a person's body trhough time and space. This projection can feel and interact but cannot substantially change events. Thesemages are like taxi drivers or travel agents.
+
+A few mages are able to actually move objects through space and time. Olivia is one such at the top of skill. The Division of Magic also employs these rare mages. The Federation Council military divisions also have these mages as logistics experts.
+
+# Technolgy/Science and Magic
+
+Science and Technology use the rules of physics to get things done.
+Magic bends the rules of physics to get things done.
+They can and do work side-by-side in this universe.
