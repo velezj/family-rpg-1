@@ -13,10 +13,11 @@ An eccentric Ruk that does not follow The Collective. He has a theory that the M
 ## Talent: I Don't Move Mountains, I Sculpt Them
 +2 to any roll where topology, geography, or geology is used along with the Clever or Sneaky approaches
 
-## Who Needs Their Blessings
+## Talent: Who Needs Their Blessings
 +2 to any roll against being persuaded by using other people's point of view
 
-
+## Talent: I Know Big Words
++2 when trying to intimidate using a Clever approach
 
 
 # Current Goals
