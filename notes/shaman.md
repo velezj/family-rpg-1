@@ -1,5 +1,8 @@
 # General characteristics
 
+Name: Avi Sanchez
+Age: 35
+
 # Current Status
 
 ## Talent: Follow Your Heart

@@ -15,7 +15,7 @@ Chosen as the avatar by spirit rat. This allows communication with all rats and 
 +2 on any roll where more than 10 other rats are helping
 
 ## Talent: Scurry
-+2 on any roll to escape or survive or otherwise prevent being physically restrained using Clever or Quick approaches.
++2 on any roll to escape or survive or otherwise prevent being physically restrained using Quick approach.
 
 # Current Goals
 
