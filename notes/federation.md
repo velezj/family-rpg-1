@@ -1,0 +1,5 @@
+# Description
+
+The Federation, technically known as the Federation Council of Worlds, is a loose representative republic. Most systems agree to non-aggression and trade pacts, as well as military support and any other needed aid. However, each system and world is considered sovereing and has a vote in the council. The council itself has a chairmen who is just a logistics crank turning the machine. Much power is left to the world's themselves, although a system of interconnected education and trade routes has made the Federation the welthiest and most educated of all the galactic nations. The Council itself is split into several Divisions that attend to more speicif super-cluster-wide matters. Each world can also voluntarily join Cadres which are used to regeulate and implement local-cluster-level rules and law. Each Cadre can send a representative to one or many Divisions. Locally, Sheaves regulate and control galaxy-wide concerns. Every planet in a Sheave's space has a representative in the Sheave, and a Scheave may send a representative to one or many Cadres.
+
+Earth, and most of Lakaena, does not belong to the Federation, or any other universal actor.
