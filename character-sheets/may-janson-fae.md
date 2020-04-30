@@ -10,8 +10,11 @@ css: pandoc.css
 ### IDENTITY
 
 ```
-Name        : 
-Description :
+Name        : May Jansson
+Description : Junior agent for The Estate. Her first real-world operation was dealing with the "Frozen Men" case. She is confident in her ability to handle anything and will try to use force to get here way more often than not.
+
+DESEASED
+
 ```
 
 ---
