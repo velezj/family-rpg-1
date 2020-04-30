@@ -10,8 +10,14 @@ css: pandoc.css
 ### IDENTITY
 
 ```
-Name        : 
-Description :
+Name        : Victor Vajas
+Description : Born in Merida he considers himself a Yucatan native 
+              through and through. He's the best, everyone else just 
+			  dosn't know it. His confidence got him into trouble 
+			  with the cartels, but rather than punish him he talked 
+			  his way into working for Gillermo Santos at age 11. 
+			  He quickly rose in rank because of his abilities 
+			  (and attitude).
 ```
 
 ---
@@ -19,8 +25,8 @@ Description :
 ### REFRESH
 
 ```
-Refresh     :
-Fate Points :
+Refresh     : 2
+Fate Points : 2
 ```
 
 ---
@@ -28,8 +34,9 @@ Fate Points :
 ### ASPECTS
 
 ```
-high concept :
-     trouble :
+high concept : I'll Show You How Good I Am ... Are You Impressed?
+     trouble : I Think I Can Do Anything
+	 aspect  : I'm Rising in the Ranks
 ```
 
 ---
@@ -37,17 +44,29 @@ high concept :
 ### APPROACHES
 
 | | |
-| ----------------: | :---------------- |
-|**CAREFUL** | |
-|**CLEVER** | |
-|**FLASHY** | |
-|**FORCEFUL** | |
-|**QUICK** | |
-|**SNEAKY** | |
+| ----------: | :---------------- |
+|**CAREFUL**  | 2 |
+|**CLEVER**   | 2 |
+|**FLASHY**   | 4 |
+|**FORCEFUL** | 3 |
+|**QUICK**    | 1 |
+|**SNEAKY**   | 0 |
 
 ---
 
 ### STUNTS
+
+_Oh, You Mean THIS_\
++2 to any roll when searching for a physical object
+
+_Cool As Ice_\
++2 on any roll resisting intimidation
+
+_Look At Me_\
++2 on any roll trying to create a distraction
+
+_WTF?\
+Can use Flashy approach when Quick is used for dodging
 
 ---
 
