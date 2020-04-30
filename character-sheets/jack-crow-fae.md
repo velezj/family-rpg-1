@@ -11,7 +11,14 @@ css: pandoc.css
 
 ```
 Name        : Jack Crow
-Description :New(ish) agent for The Estate. His first partner retired a few years after he started as an agent. May Jansson was his second partner and the first partner that was greener that him. She was also the first partner he had die while on a mission. In fact, she is the first agent that has died directly working with him on any opeartion. Jack is patient and careful, alwasy following protocol as a shield for all of the strange things that happen when working of The Estate.
+Description : New(ish) agent for The Estate. His first partner retired 
+              a few years after he started as an agent. May Jansson was 
+              his second partner and the first partner that was greener 
+              that him. She was also the first partner he had die while 
+              on a mission. In fact, she is the first agent that has died 
+              directly working with him on any opeartion. Jack is patient 
+              and careful, alwasy following protocol as a shield for all 
+              of the strange things that happen when working of The Estate.
 ```
 
 ---
@@ -30,7 +37,7 @@ Fate Points : 3
 ```
 high concept : By the Book Agent
      trouble : I Lost a Partner but I Did Nothing Wrong
-	 aspect  : No-one Knows When I'll Snap, Least of All Me
+     aspect  : No-one Knows When I'll Snap, Least of All Me
 ```
 
 ---
@@ -53,11 +60,11 @@ high concept : By the Book Agent
 There's A Protocol For That
 : +2 to any roll where he is trying to interact with any sort of bureaucracy or mid-level management
 
-I Know Just What To Do
-: Can use the Careful approach instead of the Forceful approach when defending against physical attacks.
+#### I Know Just What To Do
+Can use the Careful approach instead of the Forceful approach when defending against physical attacks.
 
-Let Me Check The Manual
-: +2 roll when defending/overcoming being deceived
+#### Let Me Check The Manual
++2 roll when defending/overcoming being deceived
 
 ---
 
