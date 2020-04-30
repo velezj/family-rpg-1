@@ -57,13 +57,13 @@ high concept : By the Book Agent
 
 ### STUNTS
 
-There's A Protocol For That
+##### There's A Protocol For That
 : +2 to any roll where he is trying to interact with any sort of bureaucracy or mid-level management
 
-#### I Know Just What To Do
+##### I Know Just What To Do
 Can use the Careful approach instead of the Forceful approach when defending against physical attacks.
 
-#### Let Me Check The Manual
+##### Let Me Check The Manual
 +2 roll when defending/overcoming being deceived
 
 ---
