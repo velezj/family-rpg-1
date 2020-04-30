@@ -5,6 +5,8 @@
   - Deseased
 
 - Junior Agent Partner: Jack Crow
+  - new(ish) agent
+  - first partner retired, May was his first partner death
 
 - NPC: Abi Winters
 
@@ -14,12 +16,15 @@
   - italian
 
 - Estate Librarian: Jean Araullo
-  - phillipina
+  - Filipino
 
 # Predation
 
 - NPC: Mark Chan
   - predation agent following renegade ruk Imi
+  - young new agent tasked with a "rookie" job of following sanitation worker.
+  - Loves adventure and wants to fight for the cause
+  - is in way over his head
 
 # Ruk
 
@@ -71,13 +76,13 @@
 
 - NPC: Gla
   - Ambassador to Og in Federation
-  - Spy
   - Feels Federation was at fault for destruction of Og
+  - Part of the "practical" movement against peace
   
 - NPC: Feilor
   - Current president of Og
   - Unpopular because rebuilding efforts have stalled
-  - Uncooperative with Federation
+  - politically tied own because of civil "ideal" versus "practical" parties.
   
 - NPC: Harr
   - Cheif Magic Officer for Og
@@ -86,15 +91,57 @@
   - most powerful time mage around (until olivia :) )
   - did his version of a PhD on the disapearing planets (including Og)
   
-- Og Intelligence Officer: Mallur
+- NPC: Og Ex-Intelligence Officer: Mallur
   - Intercepts communications from Federation about Olivia
   - Intercepts communication from Ruk about Olivia
+  - Part of the "ideal" party
+  - Outspoken enemy of "practical" party
+  - considered to be an "extremist" by both sides
 
 # Drug Cartels
 
+- NPC: Gillermo Santos
+  - regional boss
+  - suspects new player 
+  - sends minions to find the new player
+  - sends minions to investigate crash
+  
+- NPC: Manuel Milvallas
+  - Charged by Gillermo to find new player
+  - Starts investigate strange town Kirchil
+  - Will discover alien plants and will start tracking them to portal/Imi
+  
+- NPC: Victor Vajas
+  - Group Leader sent to investigate crash
+  - New leader of group appointed by Gillermo himself
+  - Wants to prove himself but is very cautious
+  
+
 # Mexico Navy
 
+- NPC: Captain Juan Allende
+  - Veteran Navy captain (15 years)
+  - In charge of supporting and defending science survey team
+  - Investigates crash and is first to find silo island
+  - Believes in the rules and structure of the navy
+  
+- NPC: First Mate Simon Villaparte
+  - Impulsive first mate to balance out the captain
+  - Has a vivid imagination
+
 # US Navy
+
+- NPC: Admiral Robert Steel
+  - regional admiral of gulf fleet
+  - knows about and coordinated mexico navy and science team joint operation
+  - has sent a few ships to help out
+  - will investigate a crash in his region
+  - old soul who will try to negotiate but is willing to make hard decisions
+  
+- NPC: John Morris
+  - Navy marine accompanying Dr. Williams
+  - Cool under pressure and will not blink and eye because of aliens
+  - Is bored with this assigment
 
 # Science Survey Team
 
@@ -102,6 +149,12 @@
   - associate (as close to any other) to Volkner
   - leads the scientific survey
   - was asked to look into frozen men during survey prep
+  
+- NPC: Dr. Josh Telbany
+  - Head systems and mechanism buy in science survey team
+  - Leads the engineering group that handles any problems during operation
+  - Does not like Navy "types" (either side) but is willing to put up with them as long as his "babies" get to map the islands.
+  - Is enamoured with lost islands, including Bermeja
 
 # Spirits and Shamans
 
@@ -112,3 +165,18 @@
   - Sent to help Ghost Owl
 
 - The Great Spirits: group of initial spirits focused on creating spirit world and blocking off planetvore
+
+- Great Spirit Rodan
+  - Fire spirit
+  - Cleansing and purification
+  - Can, with effort, destroy black liquid
+  
+- Great Spirit Dogora
+  - Spirit of permanence
+  - Contains and protects the time magic 
+  - Fights against the planetvore's consumption of time magic
+  
+- Great Spirit Izanami
+  - Spirit of Borders 
+  - Created the spirit word as a scab between the world and the planetvore
+  
