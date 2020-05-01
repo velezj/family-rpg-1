@@ -33,11 +33,11 @@
   - attampting to classify meteor composition
   - awakening planevore using equipment, thereby temporaryly stoping black liquid reclamation
   
-- Ruk Intelligence Officer: Ganut
+- Ruk Intelligence Officer, Ally Discovery Group: Ganut
   - sent to investigate newly emerging signal of Olivia
   - sent to assertain whether she might be an ally against Federation
 
-- Ruk Intelligence Sub-Commander: Chiden
+- Ruk Intelligence Sub-Commander, Logistics Division: Chiden
   - sends out Ganut
   - knows about Imi
   - In charge of "logistic network" for getting Ruk into stable universe
@@ -49,7 +49,7 @@
   
 - Ruk Xenobiologist: Drof
   - starts looking at planet disappearances as "biological" after sample of black matter is unable to be analyzed by science division.
-  - Often works with Chiden when tracking new allies.
+  - Often works with Ganut when tracking new allies.
 
 # Federation
 
