@@ -151,7 +151,7 @@
   - was asked to look into frozen men during survey prep
   
 - NPC: Dr. Josh Telbany
-  - Head systems and mechanism buy in science survey team
+  - Head systems and mechanism guy in science survey team
   - Leads the engineering group that handles any problems during operation
   - Does not like Navy "types" (either side) but is willing to put up with them as long as his "babies" get to map the islands.
   - Is enamoured with lost islands, including Bermeja
