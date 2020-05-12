@@ -1,26 +1,32 @@
+---
+author: Javier J Velez
+toc: true
+css: pandoc.css
+title: Names
+---
 
 # The Estate
 
-- Junior Agent: May Jansson
+- [x] Junior Agent: May Jansson
   - Deseased
 
-- Junior Agent Partner: Jack Crow
+- [x] Junior Agent Partner: Jack Crow
   - new(ish) agent
   - first partner retired, May was his first partner death
 
-- NPC: Abi Winters
+- [x] NPC: Abi Winters
 
-- NPC: Melhorn
+- [x] NPC: Melhorn
 
-- Estate Division Head: Sarah Donati
+- [x] Estate Division Head: Sarah Donati
   - italian
 
-- Estate Librarian: Jean Araullo
+- [x] Estate Librarian: Jean Araullo
   - Filipino
 
 # Predation
 
-- NPC: Mark Chan
+- [x] NPC: Mark Chan
   - predation agent following renegade ruk Imi
   - young new agent tasked with a "rookie" job of following sanitation worker.
   - Loves adventure and wants to fight for the cause
@@ -28,26 +34,26 @@
 
 # Ruk
 
-- NPC: Imi
+- [x] NPC: Imi
   - renegade ruk
   - attampting to classify meteor composition
   - awakening planevore using equipment, thereby temporaryly stoping black liquid reclamation
   
-- Ruk Intelligence Officer, Ally Discovery Group: Ganut
+- [x] Ruk Intelligence Officer, Ally Discovery Group: Ganut
   - sent to investigate newly emerging signal of Olivia
   - sent to assertain whether she might be an ally against Federation
 
-- Ruk Intelligence Sub-Commander, Logistics Division: Chiden
+- [x] Ruk Intelligence Sub-Commander, Logistics Division: Chiden
   - sends out Ganut
   - knows about Imi
   - In charge of "logistic network" for getting Ruk into stable universe
   
-- Ruk Historian: Ma
+- [x] Ruk Historian: Ma
   - expert on disaster
   - tried to diasuade Imi
   - Knows more abouot Ruks history than anyone elsse
   
-- Ruk Xenobiologist: Drof
+- [x] Ruk Xenobiologist: Drof
   - starts looking at planet disappearances as "biological" after sample of black matter is unable to be analyzed by science division.
   - Often works with Ganut when tracking new allies.
 
@@ -57,7 +63,7 @@
   - deseased
   - talked to olivia
   
-- NPC: Marshall Walt, new Head of Division of Magic
+- [x] NPC: Marshall Walt, new Head of Division of Magic
   - grandson of Gerald
   - division has been torn and wuthered under previous head, is trying to rebuild it
   
@@ -65,7 +71,7 @@
   - Commander of Federation of Defense in Frontier Space
   - Relatively new and anxious for praise and honors
 
-- NPC: Sucras Fre, Bounty Hunter
+- [x] NPC: Sucras Fre, Bounty Hunter
   - Intercepts Olivia signal and warrant
   - Has visited Earth before as a planetary exploration support agent
   - Was part of the first (and only) meeting with The Estate and installation of Federation communications equipment.
@@ -100,18 +106,18 @@
 
 # Drug Cartels
 
-- NPC: Gillermo Santos
+- [x] NPC: Gillermo Santos
   - regional boss
   - suspects new player 
   - sends minions to find the new player
   - sends minions to investigate crash
   
-- NPC: Manuel Milvallas
+- [x] NPC: Manuel Milvallas
   - Charged by Gillermo to find new player
   - Starts investigate strange town Kirchil
   - Will discover alien plants and will start tracking them to portal/Imi
   
-- NPC: Victor Vajas
+- [x] NPC: Victor Vajas
   - Group Leader sent to investigate crash
   - New leader of group appointed by Gillermo himself
   - Wants to prove himself but is very cautious
@@ -138,19 +144,19 @@
   - will investigate a crash in his region
   - old soul who will try to negotiate but is willing to make hard decisions
   
-- NPC: John Morris
+- [x] NPC: John Morris
   - Navy marine accompanying Dr. Williams
   - Cool under pressure and will not blink and eye because of aliens
   - Is bored with this assigment
 
 # Science Survey Team
 
-- NPC: Dr. David Williams
+- [x] NPC: Dr. David Williams
   - associate (as close to any other) to Volkner
   - leads the scientific survey
   - was asked to look into frozen men during survey prep
   
-- NPC: Dr. Josh Telbany
+- [x] NPC: Dr. Josh Telbany
   - Head systems and mechanism guy in science survey team
   - Leads the engineering group that handles any problems during operation
   - Does not like Navy "types" (either side) but is willing to put up with them as long as his "babies" get to map the islands.
@@ -158,7 +164,7 @@
 
 # Spirits and Shamans
 
-- NPC: Avi Sanchez
+- [x] NPC: Avi Sanchez
   - Shaman
   - Handyman
   - Mechanical Hacker
