@@ -20,7 +20,7 @@ title: Names
 
 - [x] Estate Division Head: Sarah Donati
   - italian
-
+  
 - [x] Estate Librarian: Jean Araullo
   - Filipino
 
@@ -111,6 +111,7 @@ title: Names
   - suspects new player 
   - sends minions to find the new player
   - sends minions to investigate crash
+  - Local leader of Cult of Zerta (which help Elder Gods fight Deep Ones)
   
 - [x] NPC: Manuel Milvallas
   - Charged by Gillermo to find new player
@@ -137,7 +138,7 @@ title: Names
 
 # US Navy
 
-- NPC: Admiral Robert Steel
+- [x] NPC: Admiral Roberta Steel
   - regional admiral of gulf fleet
   - knows about and coordinated mexico navy and science team joint operation
   - has sent a few ships to help out
@@ -161,7 +162,21 @@ title: Names
   - Leads the engineering group that handles any problems during operation
   - Does not like Navy "types" (either side) but is willing to put up with them as long as his "babies" get to map the islands.
   - Is enamoured with lost islands, including Bermeja
+  
+# Cultists
 
+- [x] Zertas: Guillermo Santos
+
+- Moen: Raul Salinas
+  - High-Level officer in Cult of Moen
+  - Has communed with Innsmouth recursion before
+  - His mind has been mildly warped because of proximity to Innsmouth
+  - Believes the tennents of Moer:
+      - The Deep Ones represent freedom from our physical bodies
+      - The Elder Gods are Ancient Masters who were outwitted and now are vengfull
+  - Is drawn to the easthetics of arcana, symbols, and rites.
+        - 
+    
 # Spirits and Shamans
 
 - [x] NPC: Avi Sanchez
