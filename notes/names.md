@@ -59,7 +59,7 @@ title: Names
 
 # Federation
 
-- NPC: Gerald Walt, Head of Division of Magic
+- [x] NPC: Gerald Walt, Head of Division of Magic
   - deseased
   - talked to olivia
   
@@ -67,7 +67,7 @@ title: Names
   - grandson of Gerald
   - division has been torn and wuthered under previous head, is trying to rebuild it
   
-- NPC: Janus Fitch
+- [x] NPC: Janus Fitch
   - Commander of Federation of Defense in Frontier Space
   - Relatively new and anxious for praise and honors
 
