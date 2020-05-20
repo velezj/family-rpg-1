@@ -175,6 +175,11 @@ title: Names
       - The Deep Ones represent freedom from our physical bodies
       - The Elder Gods are Ancient Masters who were outwitted and now are vengfull
   - Is drawn to the easthetics of arcana, symbols, and rites.
+  
+- Moen: Benton
+  - undercover agent in estate office.
+  - Tries, and fails, to stab Alejandro
+  - Will be killed in scuffle
         - 
     
 # Spirits and Shamans
