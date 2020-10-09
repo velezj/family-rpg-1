@@ -50,7 +50,7 @@ Very little is known about these creatures. They are assumed "alive" because the
 
 <unknown by players/universe>
 Planetvores are the source and keepers of time magic in the universe.
-When a planetvore senses that time magic is weakening, it instinctually starts to feed in order to procreate. Once enough matter is devoured, a part of the planetvore separates from the original and become a brand new planetvore. The original planetvore then diffused into the space-time and time magic. New planetvores do not contain the black-liquid skin when born as must build it up by gathering the time magic around it until a skin forms.
+When a planetvore senses that time magic is weakening, it instinctually starts to feed in order to procreate. Once enough matter is devoured, a part of the planetvore separates from the original and become a brand new planetvore. The original planetvore then diffused into the space-time and time magic. New planetvores do not contain the black-liquid skin when born as must build it up by gathering the time magic around it until a skin forms. This is usually a quick process since the abundance of time magic from the diffused "parent".
 
 
 ## The Federation Council
@@ -87,7 +87,7 @@ Looking into Ruk's destruction / world (from Ruks' side).
 
 # The Spirit World
 
-The spirit waorld was created millions of years ago and did not exist when earth began forming. It is in fact a "scab" that sorrounds earth. A buffer that is mostly magical energy meant to defend earth from the planetvore child. It is the direct reaction of earth to the impact and intriccion of the planetvore gathering time magic from the earth to itself. 
+The spirit waorld was created millions of years ago and did not exist when earth began forming. It is in fact a "scab" that sorrounds earth. A buffer that is mostly magical energy meant to heal the younf planetvore who is in pain. It is the direct reaction of earth to the impact and intriccion of the planetvore gathering time magic from the earth to itself. The spirit world acts a sorf of "blanket" for the planetvore allowing it to stay is a sort of "hybernation" until it has healed enough that it is no longer in pain. A young planetvore in pain is chaotic in nature and is often aggressive towards anything it is scared of (which is most things since it is an infant).
 
 The spirit world is ruled over by the "Great Spirits" who were the first defenders and helped create and shape the barrier (the spirit world). They cultivate warriors for future defense and also actively fight to keep the planetvore from stealing all time magic. The spririt world is the only place on earth left with time magic, and most magic.
 
