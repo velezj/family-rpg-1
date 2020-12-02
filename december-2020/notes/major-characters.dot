@@ -1,0 +1,47 @@
+graph {
+label="Major Characters and Crews"
+
+Sarah [label="Sarah"]
+Blair [label="Blaire"]
+Jimmy [label="Jimmy"]
+Miguel [label="Miguel Muertas"]
+
+
+
+subgraph cluster_Sarah_Crew {
+	label="Sarah's Crew"
+	Sarah	
+}
+
+subgraph cluster_Blaire_Crew {
+	label="Blaire's Crew"
+	Blaire
+	Miguel
+}
+
+subgraph cluster_Jimmy_Crew {
+	label="Jimmy's Crew"
+	Jimmy
+}
+
+subgraph cluster_Japanese_Imperial_Crew {
+	label="Japanese Imperial Crew"
+}
+
+subgraph cluster_Japanese_Defense_Crew {
+	label="Japanese Defense Crew"
+}
+
+subgraph cluster_Animal_Smuggling_Crew {
+	label="Animal Smugglers"
+}
+
+subgraph cluster_Black_Market_Crew {
+	label="Black Market Crew"
+}
+
+subgraph cluster_Reporter_Crew {
+	label="Reporter/Investigation Crew"
+}
+
+}
