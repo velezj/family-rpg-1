@@ -1,4 +1,8 @@
 
+## Names
+
+- FSM abbreviation everywhere
+
 ## Safety
 
 - Stray dogs
@@ -81,3 +85,17 @@ no public transit system
 - diverce moey nets: internet, commision, middlemen and inflation
 - Largest market of illegal wildlife is for marine animal		
 - Estaimted US$2.5 billion a year in illegal animal trade around pacific
+
+
+## Chuuk
+
+The high islands of the Chuuk group have mangrove swamps along their coasts, as well as rainforests in the central mountainous areas. The native people are Micronesians who fish, raise pigs and poultry, and grow taro, breadfruit, yams, and bananas. Copra is the chief cash crop. The islands are popular with scuba divers, who come to explore the lagoon’s shipwrecks, many of which have become foundations for new reef growth. The largest urban area is on Weno; the rest of the population resides mostly in traditional villages scattered around the islands. Chuuk has a commercial dock and an international airport, both located on Weno. Total land area 49.1 square miles (127.2 square km). Pop. (2010) 48,654.
+
+- Fishing or Farming
+  - Taro, yams, banana, breadfruit
+  - pigs and birds/poultry
+  
+
+## News/Info
+
+- Pacific Daily News

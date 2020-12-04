@@ -1,47 +1,61 @@
 graph {
-label="Major Characters and Crews"
+	label="Major Characters and Crews"
+	
+	Sarah [label="Sarah Lark"]
+	Blaire [label="Blaire Watts"]
+	Jimmy [label="Jones \"Jimmy\" Terel"]
+	Miguel [label="Miguel Muertas"]
+	Antony [label="Anotny Revusi"]
+	Naomi [label="Naomi Han"]
+	MrCombs [label="Mrs. Combs"]
+	Falthin [label="Falthin Palemar"]
+	DavidTosie [label="David Tosie"]
+	Chiko [label="Chiko Yasu"]
+	Minato [label="Minato Harutaka"]
+	Lorleen [label="Lorleen Nena"]
+	
+	subgraph cluster_Sarah_Crew {
+		label="Sarah's Crew"
+		Sarah
+		Antony
+	}
 
-Sarah [label="Sarah"]
-Blair [label="Blaire"]
-Jimmy [label="Jimmy"]
-Miguel [label="Miguel Muertas"]
+	subgraph cluster_Blaire_Crew {
+		label="Blaire's Crew"
+		Blaire
+		Miguel
+		MrCombs
+	}
 
+	subgraph cluster_Jimmy_Crew {
+		label="Jimmy's Crew"
+		Jimmy
+		Falthin
+	}
 
+	subgraph cluster_Japanese_Imperial_Crew {
+		label="Japanese Imperial Crew"
+		Chiko
+	}
 
-subgraph cluster_Sarah_Crew {
-	label="Sarah's Crew"
-	Sarah	
-}
+	subgraph cluster_Japanese_Defense_Crew {
+		label="Japanese Defense Crew"
+		Minato
+	}
 
-subgraph cluster_Blaire_Crew {
-	label="Blaire's Crew"
-	Blaire
-	Miguel
-}
+	subgraph cluster_Animal_Smuggling_Crew {
+		label="Animal Smugglers"
+		DavidTosie
+	}
 
-subgraph cluster_Jimmy_Crew {
-	label="Jimmy's Crew"
-	Jimmy
-}
+	subgraph cluster_Black_Market_Crew {
+		label="Black Market Crew"
+		Naomi
+	}
 
-subgraph cluster_Japanese_Imperial_Crew {
-	label="Japanese Imperial Crew"
-}
-
-subgraph cluster_Japanese_Defense_Crew {
-	label="Japanese Defense Crew"
-}
-
-subgraph cluster_Animal_Smuggling_Crew {
-	label="Animal Smugglers"
-}
-
-subgraph cluster_Black_Market_Crew {
-	label="Black Market Crew"
-}
-
-subgraph cluster_Reporter_Crew {
-	label="Reporter/Investigation Crew"
-}
+	subgraph cluster_Reporter_Crew {
+		label="Reporter/Investigation Crew"
+		Lorleen
+	}
 
 }
