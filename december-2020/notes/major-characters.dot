@@ -58,4 +58,14 @@ graph {
 		Lorleen
 	}
 
+
+	cluster_Blaire_Crew -- cluster_Sarah_Crew
+	cluster_Black_Market_Crew -- cluster_Jimmy_Crew
+	cluster_Black_Market_Crew -- cluster_Japanese_Defense_Crew
+	cluster_Animal_Smuggling_Crew -- cluster_Japanese_Defense_Crew
+	cluster_Jimmy_Crew -- cluster_Japanese_Defense_Crew
+	cluster_Animal_Smuggling_Crew -- cluster_Black_Market_Crew
+	cluster_Japanese_Imperial_Crew -- cluster_Jimmy_Crew
+	cluster_Reporter_Crew -- cluster_Sarah_Crew
+	cluster_Blaire_Crew -- cluster_Japanese_Defense_Crew
 }
