@@ -1,0 +1,26 @@
+graph {
+
+# =============================
+# Animal Smugglers
+Rendalt [label="Howard Rendalt"]
+
+
+# =============================
+# Reporter
+Maki [label="Maki Negatori"]
+
+
+# =============================
+# Japan Self-Defense Force
+Hiko [label="Hiko Adachi"]
+
+# =============================
+# Blaire
+
+# =============================
+# Jimmy
+Mina [label="Mina Davidas"]
+
+# =============================
+# Sarah
+}
