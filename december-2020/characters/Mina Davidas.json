@@ -1,0 +1,195 @@
+{
+    "schema_version": 2,
+    "oldId": "-MNsk5q7M4Rp7zmywTzu",
+    "name": "Mina Davidas",
+    "avatar": "https://s3.amazonaws.com/files.d20.io/images/183413172/t12DRAVtot2NcIGidaOi1A/med.jpg?1607270148",
+    "bio": "%3Cp%3ESecretary%20for%20Falthin%20Palimar.%20She%20known%20enough%20about%20his%20%22other%20projects%22%20that%20she%20does%20not%20pry%20into%20them.%20She%27s%20extremely%20organized%20but%20has%20very%20little%20attachment%20to%20or%20respect%20for%20Falthin%20Palimar.%20She%20has%20unfortunately%20encountered%20Jimmy%20a%20few%20times%20and%20thinks%20he%27s%20the%20scum%20of%20the%20Earth.%20She%20has%20a%20photographic%20memory%20%28unbeknown%20to%20anyone%20else%29%20and%20so%20can%20remember%20all%20of%20the%20papers%20that%20have%20flowed%20through%20Falthin%20Palimar%27s%20office%20in%20the%20past%205%20years%20since%20she%20began%20working%20for%20him.%3Cbr%3E%3C/p%3E%3Cp%3E%3Cbr%3E%3C/p%3E%3Cp%3E%3Cb%3EMotivations%3C/b%3E%3Cbr%3E%3Cbr%3E-%20keep%20her%20job%2C%20don%27t%20dig%20to%20deep%2C%20and%20keep%20her%20life%20organized%3Cbr%3E%3Cbr%3E%3Cb%3EConnections%3C/b%3E%3Cbr%3E%3Cbr%3E-%20Secretary%20for%20Falthin%20Palemar%20for%20last%205%20years%3Cbr%3E%3Cbr%3E-%20Has%20contacted%20and%20met%20with%20Jimmy%20a%20few%20times%20on%20business%20for%20Palemar%3C/p%3E",
+    "gmnotes": "%3Cp%3E%3Cbr%3E%3Cbr%3E%3C/p%3E",
+    "defaulttoken": "{\"left\":516,\"top\":327,\"width\":64,\"height\":43,\"imgsrc\":\"https://s3.amazonaws.com/files.d20.io/images/183499259/D1PLi6BKL2ObU0d54yIblA/max.png?1607287126\",\"page_id\":\"-MNfFwJ_EMLkPaX_cmM-\",\"layer\":\"objects\",\"name\":\"Mina Davidas\",\"represents\":\"-MNsk5q7M4Rp7zmywTzu\",\"bar1_link\":\"sheetattr_speed\",\"bar2_link\":\"sheetattr_intellect\",\"bar3_link\":\"sheetattr_might\",\"showname\":true,\"night_vision_tint\":\"\"}",
+    "tags": "[]",
+    "controlledby": "",
+    "inplayerjournals": "",
+    "attribs": [
+        {
+            "name": "gnlsettings_sheet_style",
+            "current": "0",
+            "max": "",
+            "id": "-MNsk5r5DBZnNw9eynYy"
+        },
+        {
+            "name": "version",
+            "current": 2.1,
+            "max": "",
+            "id": "-MNsk6B9dBeCQmj9TaY_"
+        },
+        {
+            "name": "rollqstasset",
+            "current": "@{rollvarasset}[Asset]",
+            "max": "",
+            "id": "-MNsk6BERqZPeGeNbIUK"
+        },
+        {
+            "name": "rollqstbonus",
+            "current": "@{rollvarbonus}[Bonus]",
+            "max": "",
+            "id": "-MNsk6BH_7ojNGc7FHwH"
+        },
+        {
+            "name": "rollqstcost",
+            "current": "@{rollvarcost}[Cost]",
+            "max": "",
+            "id": "-MNsk6BK9jYMl6rUve9Q"
+        },
+        {
+            "name": "rollqstdiff",
+            "current": "@{rollvardiff}[Difficulty]",
+            "max": "",
+            "id": "-MNsk6BNm489I3WO-Gbm"
+        },
+        {
+            "name": "rollqstrolleff",
+            "current": "@{rollvarrolleff}[Roll Effort]",
+            "max": "",
+            "id": "-MNsk6BP4KjVH92a1Vac"
+        },
+        {
+            "name": "rollqstrolldmg",
+            "current": "@{rollvarrolldmg}[Damage Effort]",
+            "max": "",
+            "id": "-MNsk6BSanLmlkswSBpI"
+        },
+        {
+            "name": "sheet_style",
+            "current": "99",
+            "max": "",
+            "id": "-MNsk74aKRiJie0wjFGJ"
+        },
+        {
+            "name": "sheet_style_0",
+            "current": 0,
+            "max": "",
+            "id": "-MNsk76VUhM-4pZtrton"
+        },
+        {
+            "name": "sheet_style_1",
+            "current": 0,
+            "max": "",
+            "id": "-MNsk76caRWaYkZOnvJ8"
+        },
+        {
+            "name": "sheet_style_2",
+            "current": 0,
+            "max": "",
+            "id": "-MNsk76gsixxeryByZCA"
+        },
+        {
+            "name": "sheet_style_99",
+            "current": 1,
+            "max": "",
+            "id": "-MNsk76lGaTTXlvEQRrw"
+        },
+        {
+            "name": "npcbasetn",
+            "current": 3,
+            "max": "",
+            "id": "-MNsk773uOKca7eFz0LP"
+        },
+        {
+            "name": "sheet_font_easy",
+            "current": "font-easy",
+            "max": "",
+            "id": "-MNsk7L8lvUAYPyJokjD"
+        },
+        {
+            "name": "sheet_rolls",
+            "current": "0",
+            "max": "",
+            "id": "-MNsk7c7AoRgz8AijvT4"
+        },
+        {
+            "name": "showuseasset",
+            "current": "0",
+            "max": "",
+            "id": "-MNsk7eJPYvb5c7wky1s"
+        },
+        {
+            "name": "showusebonus",
+            "current": "0",
+            "max": "",
+            "id": "-MNsk7eMAZjYRPVwxQqG"
+        },
+        {
+            "name": "showusecost",
+            "current": "1",
+            "max": "",
+            "id": "-MNsk7eOGQTbzFDQPFa2"
+        },
+        {
+            "name": "sheetusecost",
+            "current": "1",
+            "max": "",
+            "id": "-MNsk7tri0sfJz-vQpxv"
+        },
+        {
+            "name": "settings_show",
+            "current": "0",
+            "max": "",
+            "id": "-MNsk8StPC3JXA3H4dF5"
+        },
+        {
+            "name": "level",
+            "current": "1",
+            "max": "",
+            "id": "-MNskAlyBZg3mcyWYapM"
+        },
+        {
+            "name": "health",
+            "current": "3",
+            "max": "3",
+            "id": "-MNskBP-SQTZl5tlAK3f"
+        },
+        {
+            "name": "damage",
+            "current": "1",
+            "max": "",
+            "id": "-MNskE2SsP8mThTQIfIS"
+        },
+        {
+            "name": "repeating_npcmods_-MNskEHiD7pnsXAgSKz1_npcmods-name",
+            "current": "Memory",
+            "max": "",
+            "id": "-MNskFCxHT51MRUIJruE"
+        },
+        {
+            "name": "repeating_npcmods_-MNskEHiD7pnsXAgSKz1_npcmods-level",
+            "current": "9",
+            "max": "",
+            "id": "-MNskFontIeYhB1OFAbe"
+        },
+        {
+            "name": "repeating_npcmods_-MNskGFLJpYlY6QzOaZ8_npcmods-name",
+            "current": "Knowledge: Falthin Palemar",
+            "max": "",
+            "id": "-MNskITgpSd4gBRZpvuh"
+        },
+        {
+            "name": "repeating_npcmods_-MNskGFLJpYlY6QzOaZ8_npcmods-level",
+            "current": "5",
+            "max": "",
+            "id": "-MNskIx1L-XCUzs-lY0b"
+        },
+        {
+            "name": "npcdescription",
+            "current": "Falthin Palemar's Secretary for past 5 years",
+            "max": "",
+            "id": "-MNskNGJwuDDs2BU3KuB"
+        },
+        {
+            "name": "npcmotive",
+            "current": "Keep The Job, Keep Safe. Don't Know too Much.",
+            "max": "",
+            "id": "-MNskR6Apa3THeusN79h"
+        }
+    ],
+    "abilities": []
+}

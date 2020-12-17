@@ -1,0 +1,237 @@
+{
+    "schema_version": 2,
+    "oldId": "-MNsfR1y4mGalLRJ1e9h",
+    "name": "Howard Rendalt",
+    "avatar": "https://s3.amazonaws.com/files.d20.io/images/183410176/OMK4ijFfx6J8xLdKj2Md2A/med.jpg?1607269429",
+    "bio": "%3Cp%3EThe%20%22face%22%20for%20the%20the%20smuggling%20crew.%20He%20is%20busy%20making%20connections%20and%20sniffing%20out%20any%20people%20too%20%22interested%22%20in%20their%20operation.%20A%20born%20coward%2C%20he%20works%20indirectly%20in%20the%20shadows%20and%20has%20a%20honed%20sense%20of%20danger%20which%20has%20kept%20him%20alive%20in%20a%20tough%20business%20%28smuggling%29.%3C/p%3E%3Cp%3E%3Cbr%3E%3C/p%3E%3Cp%3EWhile%20Howard%20hates%20to%20be%20seen%2C%20he%20is%20a%20highly%20tuned%20perception%20machine.%26nbsp%3B%20His%20gift%20for%20lying%20without%20getting%20caught%2C%20as%20well%20as%20turning%20every%20event%20into%20a%20counterpoint%20in%20an%20argument%2C%20has%20led%20him%20to%20be%20connected%20to%20most%20large%20organizations%20in%20Micronesia.%20Furthermore%2C%20many%20people%20are%20indebted%20to%20Howard.%20He%20works%20for%20himself%20and%20the%20money%3A%20good%20or%20bad%20actions%20are%20for%20someone%20else%20to%20worry%20about.%3C/p%3E%3Cp%3E%3Cbr%3E%3C/p%3E%3Cp%3E%3Cb%3EMotivations%3C/b%3E%3Cbr%3E%3Cbr%3E-%20Make%20himself%20richer%20and%20richer%2C%20and%20find%20blackmail%20material%20if%20possible%20to%20get%20out%20of%20unexpected%20situations.%20He%20wants%20to%20be%20everyone%27s%20%22friend%22%3Cbr%3E%3Cbr%3E-%20Gets%20a%20cut%20of%20the%20proceeds%20from%20David%20Tosei%27s%20transport%20jobs%3Cbr%3E%3Cbr%3E%3Cb%3EConnections%3C/b%3E%3Cbr%3E%3Cbr%3E-%20Perceives%20the%20movement%20and%20feelers%20being%20used%20by%20Mr.%20Combs%20%28Japan%20Government%20interest%29.%20He%20gets%20wind%20of%20something%20happening%20and%20starts%20digging.%20He%20finds%20out%20about%20Antonia%20and%20expedition%20%28although%20not%20about%20Sarah%29%20and%20gets%20Tosei%20the%20job%20of%20transportation%20and%20vehicle%20assistance.%3Cbr%3E%3Cbr%3E-%20Connects%20with%20Chiko%20Yasu%20about%20possible%20gold%20and%20makes%20deal%20with%20him%20to%20transport%20it%20if%20it%20exists.%20Howard%20in%20fact%20gets%20a%20%22finder%27s%22%20bonus%20unknown%20to%20the%20rest%20of%20Tosei%27s%20crew.%3Cbr%3E%3Cbr%3E%3C/p%3E",
+    "gmnotes": "",
+    "defaulttoken": "{\"left\":594,\"top\":121,\"width\":64,\"height\":49,\"imgsrc\":\"https://s3.amazonaws.com/files.d20.io/images/183499257/ZlYB0HRkX7gc5pGzqVWUlQ/max.png?1607287126\",\"page_id\":\"-MNfFwJ_EMLkPaX_cmM-\",\"layer\":\"objects\",\"name\":\"Howard Rendalt\",\"represents\":\"-MNsfR1y4mGalLRJ1e9h\",\"bar1_link\":\"sheetattr_speed\",\"bar2_link\":\"sheetattr_intellect\",\"bar3_link\":\"sheetattr_might\",\"showname\":true,\"night_vision_tint\":\"\"}",
+    "tags": "[]",
+    "controlledby": "",
+    "inplayerjournals": "",
+    "attribs": [
+        {
+            "name": "gnlsettings_sheet_style",
+            "current": "0",
+            "max": "",
+            "id": "-MNsfR35sSfdq-vJf0Bp"
+        },
+        {
+            "name": "version",
+            "current": 2.1,
+            "max": "",
+            "id": "-MNsfRjAvWfiD6VrkieT"
+        },
+        {
+            "name": "rollqstasset",
+            "current": "@{rollvarasset}[Asset]",
+            "max": "",
+            "id": "-MNsfRjG8-J3TR0WGasC"
+        },
+        {
+            "name": "rollqstbonus",
+            "current": "@{rollvarbonus}[Bonus]",
+            "max": "",
+            "id": "-MNsfRjMiQJqqyIUsat2"
+        },
+        {
+            "name": "rollqstcost",
+            "current": "@{rollvarcost}[Cost]",
+            "max": "",
+            "id": "-MNsfRjQOBX6PmPM5UDN"
+        },
+        {
+            "name": "rollqstdiff",
+            "current": "@{rollvardiff}[Difficulty]",
+            "max": "",
+            "id": "-MNsfRjTBMS3GV31bYqV"
+        },
+        {
+            "name": "rollqstrolleff",
+            "current": "@{rollvarrolleff}[Roll Effort]",
+            "max": "",
+            "id": "-MNsfRjXma_pWfBJwSsO"
+        },
+        {
+            "name": "rollqstrolldmg",
+            "current": "@{rollvarrolldmg}[Damage Effort]",
+            "max": "",
+            "id": "-MNsfRjZvmnEwdlTq2Dm"
+        },
+        {
+            "name": "sheet_style",
+            "current": "99",
+            "max": "",
+            "id": "-MNsfU1BUBx3Y9C_Tpje"
+        },
+        {
+            "name": "sheet_style_0",
+            "current": 0,
+            "max": "",
+            "id": "-MNsfU35XXKNraDjq6YN"
+        },
+        {
+            "name": "sheet_style_1",
+            "current": 0,
+            "max": "",
+            "id": "-MNsfU3FZQZPo6cRR9m1"
+        },
+        {
+            "name": "sheet_style_2",
+            "current": 0,
+            "max": "",
+            "id": "-MNsfU3LUG6g7M_RyWS7"
+        },
+        {
+            "name": "sheet_style_99",
+            "current": 1,
+            "max": "",
+            "id": "-MNsfU3PDV4P_innrUnA"
+        },
+        {
+            "name": "npcbasetn",
+            "current": 9,
+            "max": "",
+            "id": "-MNsfU3iqGY8IIHM4ZrE"
+        },
+        {
+            "name": "sheet_font_easy",
+            "current": "font-easy",
+            "max": "",
+            "id": "-MNsfUIqSgbMNuIqhOwW"
+        },
+        {
+            "name": "sheetusecost",
+            "current": "1",
+            "max": "",
+            "id": "-MNsfUdax3imOQEaar1C"
+        },
+        {
+            "name": "sheet_rolls",
+            "current": "0",
+            "max": "",
+            "id": "-MNsfUzSteZq72c2Q6fM"
+        },
+        {
+            "name": "showuseasset",
+            "current": "0",
+            "max": "",
+            "id": "-MNsfV0eCaIpUxtcYne_"
+        },
+        {
+            "name": "showusebonus",
+            "current": "0",
+            "max": "",
+            "id": "-MNsfV0h1BXOiSXrKCr9"
+        },
+        {
+            "name": "showusecost",
+            "current": "1",
+            "max": "",
+            "id": "-MNsfV0mo84secRvho-D"
+        },
+        {
+            "name": "settings_show",
+            "current": "0",
+            "max": "",
+            "id": "-MNsfVKUNPSYgahpEGl7"
+        },
+        {
+            "name": "level",
+            "current": "3",
+            "max": "",
+            "id": "-MNsfXjrweHcx84u3lWo"
+        },
+        {
+            "name": "health",
+            "current": "9",
+            "max": "9",
+            "id": "-MNsfYAl4lwzpCGtlIcH"
+        },
+        {
+            "name": "damage",
+            "current": "1",
+            "max": "",
+            "id": "-MNsfZ9DdLapaHAeWhBv"
+        },
+        {
+            "name": "npcmovement",
+            "current": "long",
+            "max": "",
+            "id": "-MNsf_ZP7G-n5VkzLGuO"
+        },
+        {
+            "name": "repeating_npcmods_-MNsfZmcBD-epo9tQL6-_npcmods-name",
+            "current": "Deception",
+            "max": "",
+            "id": "-MNsfbCpF-7TP4t8_Qk1"
+        },
+        {
+            "name": "repeating_npcmods_-MNsfZmcBD-epo9tQL6-_npcmods-level",
+            "current": "4",
+            "max": "",
+            "id": "-MNsfbcvyxOs8rT7muN3"
+        },
+        {
+            "name": "repeating_npcmods_-MNsfc8gxzDCiycfWFpI_npcmods-name",
+            "current": "Purssuasion",
+            "max": "",
+            "id": "-MNsffDvHzCl8bgz589N"
+        },
+        {
+            "name": "repeating_npcmods_-MNsfc8gxzDCiycfWFpI_npcmods-level",
+            "current": "4",
+            "max": "",
+            "id": "-MNsffaz0srwMMaVBjd_"
+        },
+        {
+            "name": "repeating_npcmods_-MNsfiR91AY6pwLILOC5_npcmods-name",
+            "current": "Initiaitve",
+            "max": "",
+            "id": "-MNsfjYpYmVApMtnyoDm"
+        },
+        {
+            "name": "repeating_npcmods_-MNsfiR91AY6pwLILOC5_npcmods-level",
+            "current": "6",
+            "max": "",
+            "id": "-MNsfkOMpeOPfq7YRu5G"
+        },
+        {
+            "name": "repeating_npcmods_-MNsfoVF3iAJHZM9VOA4_npcmods-name",
+            "current": "Sense Motive",
+            "max": "",
+            "id": "-MNsfrOp5UsGnGufpQ1p"
+        },
+        {
+            "name": "repeating_npcmods_-MNsfoVF3iAJHZM9VOA4_npcmods-level",
+            "current": "4",
+            "max": "",
+            "id": "-MNsfryjUe3G2Dj9ICAT"
+        },
+        {
+            "name": "repeating_npcmods_-MNsfs08QL7nJBenppyo_npcmods-name",
+            "current": "See Through Deception",
+            "max": "",
+            "id": "-MNsftjVODFVU4BtFQht"
+        },
+        {
+            "name": "repeating_npcmods_-MNsfs08QL7nJBenppyo_npcmods-level",
+            "current": "5",
+            "max": "",
+            "id": "-MNsfuNMFH1sPEwXj_e4"
+        },
+        {
+            "name": "npcmotive",
+            "current": "Himself , Then Money",
+            "max": "",
+            "id": "-MNsfz-wAlU064OPRSLk"
+        },
+        {
+            "name": "npcdescription",
+            "current": "Smuggler's \"Face\" and Coward",
+            "max": "",
+            "id": "-MNsg1LV9sMNZoDhhIji"
+        }
+    ],
+    "abilities": []
+}

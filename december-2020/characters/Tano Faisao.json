@@ -1,0 +1,225 @@
+{
+    "schema_version": 2,
+    "oldId": "-MO812SyHE3jNn9nvmY1",
+    "name": "Tano Faisao",
+    "avatar": "https://s3.amazonaws.com/files.d20.io/images/184119935/cX7CVOkqded_o6NFU-6iEw/med.jpg?1607546354",
+    "bio": "%3Cp%3EBorn%20and%20left%20for%20dead%20in%20Guam%2C%20Tano%20grew%20up%20on%20the%20tides%20of%20Micronesia.%20His%20many%20scars%20and%20muscular%20frame%20make%20him%20one%20real%20tough-looking%20guy%2C%20and%20he%20has%20the%20skills%20to%20back%20that%20up.%20Most%20of%20his%20day%20is%20spent%20on%20the%20open%20waters%20either%20fishing%20%28with%20his%20knife%29%20or%20practicing%20his%20diving.%20After%20so%20much%20time%20in%20the%20water%2C%20he%20is%20a%20specialist%20in%20underwater%20combat.%20After%20meeting%20up%20with%20Jimmy%2C%20he%20has%20had%20a%20steady%20stream%20of%20prey%20to%20take%20his%20mind%20off%20the%20monotony%20of%20life.%20His%20favorite%20prey%20is%20human.%3C/p%3E%3Cp%3E%3Cbr%3E%3C/p%3E%3Cp%3E%3Cb%3EMotivations%3C/b%3E%3Cbr%3E%3Cbr%3E-%20Sadistic%20hunter%20of%20humans%20to%20keep%20away%20boredom%3Cbr%3E%3Cbr%3E%3Cb%3EConnections%3C/b%3E%3Cbr%3E%3Cbr%3E-%20Part%20of%20Jimmy%27s%20crew%20%28Jones%20%22Jimmy%22%20Terel%29%3Cbr%3E%3Cbr%3E-%20Crossed%20path%20with%20Naomi%20but%20does%20not%20really%20remember%20much%3Cbr%3E%3Cbr%3E%3C/p%3E",
+    "gmnotes": "",
+    "defaulttoken": "",
+    "tags": "[]",
+    "controlledby": "",
+    "inplayerjournals": "",
+    "attribs": [
+        {
+            "name": "gnlsettings_sheet_style",
+            "current": "0",
+            "max": "",
+            "id": "-MO812UYRuIWR1sor9GR"
+        },
+        {
+            "name": "version",
+            "current": 2.1,
+            "max": "",
+            "id": "-MO813DecXk3xCtpHGVe"
+        },
+        {
+            "name": "rollqstasset",
+            "current": "@{rollvarasset}[Asset]",
+            "max": "",
+            "id": "-MO813DtNC6y8dxEa4gt"
+        },
+        {
+            "name": "rollqstbonus",
+            "current": "@{rollvarbonus}[Bonus]",
+            "max": "",
+            "id": "-MO813DzjEt_6WQzeDle"
+        },
+        {
+            "name": "rollqstcost",
+            "current": "@{rollvarcost}[Cost]",
+            "max": "",
+            "id": "-MO813E2x7t33DShYtLm"
+        },
+        {
+            "name": "rollqstdiff",
+            "current": "@{rollvardiff}[Difficulty]",
+            "max": "",
+            "id": "-MO813E7c9rBqtyeU5gd"
+        },
+        {
+            "name": "rollqstrolleff",
+            "current": "@{rollvarrolleff}[Roll Effort]",
+            "max": "",
+            "id": "-MO813EBC2QF2vryAyjo"
+        },
+        {
+            "name": "rollqstrolldmg",
+            "current": "@{rollvarrolldmg}[Damage Effort]",
+            "max": "",
+            "id": "-MO813EEfmyhOAx__dnu"
+        },
+        {
+            "name": "sheet_style",
+            "current": "99",
+            "max": "",
+            "id": "-MO81DcV2EVTHmAOlV48"
+        },
+        {
+            "name": "sheet_style_0",
+            "current": 0,
+            "max": "",
+            "id": "-MO81DeayC_uZfzPAyW4"
+        },
+        {
+            "name": "sheet_style_1",
+            "current": 0,
+            "max": "",
+            "id": "-MO81DepVG7rNhpzzjPX"
+        },
+        {
+            "name": "sheet_style_2",
+            "current": 0,
+            "max": "",
+            "id": "-MO81Dev01Kl94jJUZmv"
+        },
+        {
+            "name": "sheet_style_99",
+            "current": 1,
+            "max": "",
+            "id": "-MO81Df-UVy9HfvKYe7S"
+        },
+        {
+            "name": "npcbasetn",
+            "current": 9,
+            "max": "",
+            "id": "-MO81Df44UiDLjtPzyPm"
+        },
+        {
+            "name": "sheet_font_easy",
+            "current": "font-easy",
+            "max": "",
+            "id": "-MO81EZeT8a-tl8fCOaQ"
+        },
+        {
+            "name": "sheet_rolls",
+            "current": "0",
+            "max": "",
+            "id": "-MO81FDtsNRD_XbPDk9X"
+        },
+        {
+            "name": "showuseasset",
+            "current": "0",
+            "max": "",
+            "id": "-MO81FGTTC_S4ItgMpuS"
+        },
+        {
+            "name": "showusebonus",
+            "current": "0",
+            "max": "",
+            "id": "-MO81FGXTYoRjMNWfMqC"
+        },
+        {
+            "name": "showusecost",
+            "current": "1",
+            "max": "",
+            "id": "-MO81FGcoB_CA9FkxuuU"
+        },
+        {
+            "name": "sheetusecost",
+            "current": "1",
+            "max": "",
+            "id": "-MO81FYW1lUWOm4TLgKw"
+        },
+        {
+            "name": "settings_show",
+            "current": "0",
+            "max": "",
+            "id": "-MO81Fvq7VmpB-VARtp6"
+        },
+        {
+            "name": "level",
+            "current": "3",
+            "max": "",
+            "id": "-MO81N6GzAhh6WF7TA3p"
+        },
+        {
+            "name": "health",
+            "current": "9",
+            "max": "9",
+            "id": "-MO81NWyPq201C8Ze_6_"
+        },
+        {
+            "name": "armor",
+            "current": "1",
+            "max": "",
+            "id": "-MO81NzkvAkrAccrRkGy"
+        },
+        {
+            "name": "damage",
+            "current": "3",
+            "max": "",
+            "id": "-MO81ORmuo7M_rlKPrc9"
+        },
+        {
+            "name": "repeating_npcmods_-MO81Pb2Rx7s7OsNkJrQ_npcmods-name",
+            "current": "Intimiation",
+            "max": "",
+            "id": "-MO81QTu4uSX39NjqGOW"
+        },
+        {
+            "name": "repeating_npcmods_-MO81Pb2Rx7s7OsNkJrQ_npcmods-level",
+            "current": "4",
+            "max": "",
+            "id": "-MO81QqTXAuGNtwOz-iR"
+        },
+        {
+            "name": "repeating_npcmods_-MO81ROnPTTAaXAoYJ-4_npcmods-name",
+            "current": "Swimming",
+            "max": "",
+            "id": "-MO81TxYQp9uf5ymzVj4"
+        },
+        {
+            "name": "repeating_npcmods_-MO81ROnPTTAaXAoYJ-4_npcmods-level",
+            "current": "5",
+            "max": "",
+            "id": "-MO81UIgDglY83UfIaPC"
+        },
+        {
+            "name": "npccombat",
+            "current": "A true sadist, Tano prefers to see his prey while attacking, making sure they do not die too quickly for his tastes. His favorite weapon is a knife.",
+            "max": "",
+            "id": "-MO81f4oLq5slLj0bI6k"
+        },
+        {
+            "name": "npcdescription",
+            "current": "He only smiles when he hears a scream.",
+            "max": "",
+            "id": "-MO82PpRhHMojxRlII7b"
+        },
+        {
+            "name": "repeating_npcmods_-MO82RCOrwZtJhajCbZU_npcmods-name",
+            "current": "Underwater Combat",
+            "max": "",
+            "id": "-MO82SFd8V8F2HDxdoHi"
+        },
+        {
+            "name": "repeating_npcmods_-MO82RCOrwZtJhajCbZU_npcmods-level",
+            "current": "5",
+            "max": "",
+            "id": "-MO82SZ0XCPqf09e9DVa"
+        },
+        {
+            "name": "npcmotive",
+            "current": "Boredom Relief (Sadist)",
+            "max": "",
+            "id": "-MO82aaAdXHiqzJ4QIZm"
+        },
+        {
+            "name": "npcinteraction",
+            "current": "Sadist, through and through",
+            "max": "",
+            "id": "-MO82cvK3t7VeVAwEvwK"
+        }
+    ],
+    "abilities": []
+}

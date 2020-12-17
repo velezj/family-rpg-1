@@ -1,0 +1,741 @@
+{
+    "schema_version": 2,
+    "oldId": "-MNoswSD-lYCNSN-LAue",
+    "name": "Chiko Yasu",
+    "avatar": "https://s3.amazonaws.com/files.d20.io/images/184137951/Hx4_cBBi-4q977PnnHdyqQ/med.jpg?1607551177",
+    "bio": "%3Cp%3E%3Cb%3EMotivations%3C/b%3E%3Cbr%3E%3Cbr%3E-%20Bring%20back%20%22imperial%22%20japan%20without%20western%20ties%3Cbr%3E%3Cbr%3E-%20Erase%20dishonor%20of%20Japan%27s%20surrender%20in%20WW2%20%28and%20his%20grandfather%27s%20--%20and%20families%20--%20dishonor%20as%20a%20general%20in%20the%20Japanese%20army%29%3Cbr%3E%3Cbr%3E-%20Get%20Japanese%20gold%20back%20to%20%22imperialist%22%20group%3Cbr%3E%3Cbr%3E%3Cb%3EConnections%3C/b%3E%3Cbr%3E%3Cbr%3E-%20Hears%20from%20Howard%20Rendalt%20about%20expedition%20and%20hires%20Tosei%27s%20crew%20to%20get%20and%20transport%20gold%20to%20him%3Cbr%3E%3Cbr%3E-%20Enemy%20of%20Mr.%20Combs%20%28and%20the%20Japan%20Cultural%20Division%29%3Cbr%3E%3Cbr%3E%3C/p%3E",
+    "gmnotes": "",
+    "defaulttoken": "{\"left\":329,\"top\":321,\"width\":62,\"height\":64,\"imgsrc\":\"https://s3.amazonaws.com/files.d20.io/images/183499243/Nn0yzbTRnnFmBp6qKdFkWQ/max.png?1607287126\",\"page_id\":\"-MNfFwJ_EMLkPaX_cmM-\",\"layer\":\"objects\",\"name\":\"Chiko Yasu\",\"represents\":\"-MNoswSD-lYCNSN-LAue\",\"bar1_value\":11,\"bar1_max\":11,\"bar1_link\":\"-MNot8yHAUXX7_eItd2i\",\"bar2_value\":14,\"bar2_max\":14,\"bar2_link\":\"-MNot9_taSy0GZhelh-S\",\"bar3_value\":10,\"bar3_max\":10,\"bar3_link\":\"-MNot8V1Ae-hAWETSUQp\",\"showname\":true,\"night_vision_tint\":\"\"}",
+    "tags": "[]",
+    "controlledby": "",
+    "inplayerjournals": "",
+    "attribs": [
+        {
+            "name": "gnlsettings_sheet_style",
+            "current": "0",
+            "max": "",
+            "id": "-MNoswTGxqgHzKUXEKOq"
+        },
+        {
+            "name": "version",
+            "current": 2.1,
+            "max": "",
+            "id": "-MNosx7mSvQAa4D4EruI"
+        },
+        {
+            "name": "rollqstasset",
+            "current": "@{rollvarasset}[Asset]",
+            "max": "",
+            "id": "-MNosx7r3xD5hqW-RFlX"
+        },
+        {
+            "name": "rollqstbonus",
+            "current": "@{rollvarbonus}[Bonus]",
+            "max": "",
+            "id": "-MNosx7sD9e6njS5WXOA"
+        },
+        {
+            "name": "rollqstcost",
+            "current": "@{rollvarcost}[Cost]",
+            "max": "",
+            "id": "-MNosx7un3yzBEIk6iCD"
+        },
+        {
+            "name": "rollqstdiff",
+            "current": "@{rollvardiff}[Difficulty]",
+            "max": "",
+            "id": "-MNosx7zd69H0Rp_VT3Q"
+        },
+        {
+            "name": "rollqstrolleff",
+            "current": "@{rollvarrolleff}[Roll Effort]",
+            "max": "",
+            "id": "-MNosx8-8Wj3CELTkFYa"
+        },
+        {
+            "name": "rollqstrolldmg",
+            "current": "@{rollvarrolldmg}[Damage Effort]",
+            "max": "",
+            "id": "-MNosx80JF48Bg_Ydn6Z"
+        },
+        {
+            "name": "sheet_style",
+            "current": "0",
+            "max": "",
+            "id": "-MNosyEh-Ch0PKTNf1sH"
+        },
+        {
+            "name": "sheet_style_0",
+            "current": 1,
+            "max": "",
+            "id": "-MNosyGbofbu7gqB5V3u"
+        },
+        {
+            "name": "sheet_style_1",
+            "current": 0,
+            "max": "",
+            "id": "-MNosyGjjcR4pz-rTmXj"
+        },
+        {
+            "name": "sheet_style_2",
+            "current": 0,
+            "max": "",
+            "id": "-MNosyGrsJWMKtKdDapA"
+        },
+        {
+            "name": "sheet_style_99",
+            "current": 0,
+            "max": "",
+            "id": "-MNosyGvbMY-QJia3VfD"
+        },
+        {
+            "name": "sheet_rolls",
+            "current": "0",
+            "max": "",
+            "id": "-MNosygfLonJgjed78dg"
+        },
+        {
+            "name": "showuseasset",
+            "current": "0",
+            "max": "",
+            "id": "-MNosyj3QYqpZuw04j9s"
+        },
+        {
+            "name": "showusebonus",
+            "current": "0",
+            "max": "",
+            "id": "-MNosyj5P6WzkuYvRotY"
+        },
+        {
+            "name": "showusecost",
+            "current": "1",
+            "max": "",
+            "id": "-MNosyj7ySqIkUD2GpGe"
+        },
+        {
+            "name": "sheet_font_easy",
+            "current": "font-easy",
+            "max": "",
+            "id": "-MNosz1-hOPNOn2Jcydg"
+        },
+        {
+            "name": "sheetusecost",
+            "current": "1",
+            "max": "",
+            "id": "-MNoszRbV3kE1KsynV7b"
+        },
+        {
+            "name": "settings_show",
+            "current": "0",
+            "max": "",
+            "id": "-MNoszo-7ScYyHUkPp4D"
+        },
+        {
+            "name": "type",
+            "current": "Speaker",
+            "max": "",
+            "id": "-MNot35W8WAb3y3PI6zl"
+        },
+        {
+            "name": "might",
+            "current": "10",
+            "max": "10",
+            "id": "-MNot8V1Ae-hAWETSUQp"
+        },
+        {
+            "name": "damage-track",
+            "current": 0,
+            "max": "",
+            "id": "-MNot8X0rwv17GysGwDl"
+        },
+        {
+            "name": "might_edge",
+            "current": "0",
+            "max": "",
+            "id": "-MNot8nqFOUaAb73nCXx"
+        },
+        {
+            "name": "speed",
+            "current": "11",
+            "max": "11",
+            "id": "-MNot8yHAUXX7_eItd2i"
+        },
+        {
+            "name": "speed_edge",
+            "current": "0",
+            "max": "",
+            "id": "-MNot9QLblgMZVN1wNXO"
+        },
+        {
+            "name": "intellect",
+            "current": "14",
+            "max": "14",
+            "id": "-MNot9_taSy0GZhelh-S"
+        },
+        {
+            "name": "intellect_edge",
+            "current": "1",
+            "max": "",
+            "id": "-MNot9rpPclJvnDjXTyo"
+        },
+        {
+            "name": "repeating_abilities_-MNotDMhuS7XrMTvZS7d_abilityname",
+            "current": "Enthrall",
+            "max": "",
+            "id": "-MNotGaaITzQyg9SQUOJ"
+        },
+        {
+            "name": "repeating_abilities_-MNotDMhuS7XrMTvZS7d_abtype",
+            "current": "A",
+            "max": "",
+            "id": "-MNotGccSlnfrGI0sGN8"
+        },
+        {
+            "name": "repeating_abilities_-MNotDMhuS7XrMTvZS7d_abilitycost",
+            "current": "1",
+            "max": "",
+            "id": "-MNotHMTAFlqCtrtBM9N"
+        },
+        {
+            "name": "repeating_abilities_-MNotDMhuS7XrMTvZS7d_abilitystat",
+            "current": "intellect",
+            "max": "",
+            "id": "-MNotHowZqsblEddcBpr"
+        },
+        {
+            "name": "expand_abilities",
+            "current": "1",
+            "max": "",
+            "id": "-MNotICZ8pVfw1lR7A2o"
+        },
+        {
+            "name": "repeating_abilities_-MNotDMhuS7XrMTvZS7d_abilitydesc",
+            "current": "For as long as you only speak, the target cannot make any ections except defense actions",
+            "max": "",
+            "id": "-MNotP7TI3blPeOALZ6N"
+        },
+        {
+            "name": "repeating_abilities_-MNotDMhuS7XrMTvZS7d_abilitychkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNotTU9F1YH1KGe8_7C"
+        },
+        {
+            "name": "repeating_abilities_-MNotU-k8xhsuPvy9t34_abilityname",
+            "current": "Spin Identity",
+            "max": "",
+            "id": "-MNotVyOKrI1AzBUTta_"
+        },
+        {
+            "name": "repeating_abilities_-MNotU-k8xhsuPvy9t34_abtype",
+            "current": "A",
+            "max": "",
+            "id": "-MNotW-KRwRQFAjaYSr2"
+        },
+        {
+            "name": "repeating_abilities_-MNotU-k8xhsuPvy9t34_abilitycost",
+            "current": "2",
+            "max": "",
+            "id": "-MNotWbCiVwqT_N1EEIr"
+        },
+        {
+            "name": "repeating_abilities_-MNotU-k8xhsuPvy9t34_abilitystat",
+            "current": "intellect",
+            "max": "",
+            "id": "-MNotXDMHr-lc13RJqNi"
+        },
+        {
+            "name": "repeating_abilities_-MNotU-k8xhsuPvy9t34_abilitydesc",
+            "current": "Convince all target that can hear/see you that you are someone other than who you are. This must be a person not specifically known to any target. Intellect points increse by one for every target other than the first. Diguise lasts at most an hour.",
+            "max": "",
+            "id": "-MNotqH2gfomGRy-gScl"
+        },
+        {
+            "name": "repeating_abilities_-MNotU-k8xhsuPvy9t34_abilitychkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNotr-Mh8yH5MvgoK-0"
+        },
+        {
+            "name": "repeating_skills_-MNotuKk-q2f8Lil-3yF_skillname",
+            "current": "Deceiving",
+            "max": "",
+            "id": "-MNotwIklTqiyYC0O0DX"
+        },
+        {
+            "name": "expand_skills",
+            "current": "1",
+            "max": "",
+            "id": "-MNotwKKAdkpL34tf6Fa"
+        },
+        {
+            "name": "repeating_skills_-MNotuKk-q2f8Lil-3yF_skilledge",
+            "current": "@{intellect_edge}",
+            "max": "",
+            "id": "-MNotwMTC8SdhDCBd5I5"
+        },
+        {
+            "name": "repeating_skills_-MNotuKk-q2f8Lil-3yF_skillarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNotwMWsYCsq2TRusoT"
+        },
+        {
+            "name": "repeating_skills_-MNotuKk-q2f8Lil-3yF_skilltype",
+            "current": "I • T",
+            "max": "",
+            "id": "-MNotwMYTA9kI6WWTJFq"
+        },
+        {
+            "name": "repeating_skills_-MNotwkTzafYaPRybdbg_skillname",
+            "current": "Persuading",
+            "max": "",
+            "id": "-MNotxqPN4yA00mDrM9w"
+        },
+        {
+            "name": "repeating_skills_-MNotwkTzafYaPRybdbg_skilledge",
+            "current": "@{intellect_edge}",
+            "max": "",
+            "id": "-MNotxsmeqCOmsmtNq1U"
+        },
+        {
+            "name": "repeating_skills_-MNotwkTzafYaPRybdbg_skillarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNotxspP58EJnIuovX7"
+        },
+        {
+            "name": "repeating_skills_-MNotwkTzafYaPRybdbg_skilltype",
+            "current": "I • T",
+            "max": "",
+            "id": "-MNotxsrZMqOS40UGFDL"
+        },
+        {
+            "name": "repeating_skills_-MNotyChPoHF1W2sBLib_skillname",
+            "current": "Seeing Through Deception",
+            "max": "",
+            "id": "-MNou1B3qjLnqC0orASF"
+        },
+        {
+            "name": "repeating_skills_-MNotyChPoHF1W2sBLib_skilledge",
+            "current": "@{intellect_edge}",
+            "max": "",
+            "id": "-MNou1DR994G1pYTmOz2"
+        },
+        {
+            "name": "repeating_skills_-MNotyChPoHF1W2sBLib_skillarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNou1DVyX46Ehmss3NE"
+        },
+        {
+            "name": "repeating_skills_-MNotyChPoHF1W2sBLib_skilltype",
+            "current": "I • T",
+            "max": "",
+            "id": "-MNou1DX3_ZIieaVxela"
+        },
+        {
+            "name": "repeating_skills_-MNou1Teckx6qHeYVTyq_skillname",
+            "current": "Orating (Public Speaking)",
+            "max": "",
+            "id": "-MNou3PLflLIFItP-kLm"
+        },
+        {
+            "name": "repeating_skills_-MNotwkTzafYaPRybdbg_skillchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNou3R59vYfWeeSXEA6"
+        },
+        {
+            "name": "repeating_skills_-MNou1Teckx6qHeYVTyq_skilledge",
+            "current": "@{intellect_edge}",
+            "max": "",
+            "id": "-MNou3TITIWoVuvy1djI"
+        },
+        {
+            "name": "repeating_skills_-MNou1Teckx6qHeYVTyq_skillarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNou3TKoHaIAbphxZ2_"
+        },
+        {
+            "name": "repeating_skills_-MNou1Teckx6qHeYVTyq_skilltype",
+            "current": "I • T",
+            "max": "",
+            "id": "-MNou3TM9i-AYviuKY41"
+        },
+        {
+            "name": "repeating_skills_-MNotyChPoHF1W2sBLib_skillchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNou3iYBpy_gk3hvSZV"
+        },
+        {
+            "name": "repeating_skills_-MNou1Teckx6qHeYVTyq_skillchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNou3zTyNtmA2EmzF4X"
+        },
+        {
+            "name": "repeating_skills_-MNotuKk-q2f8Lil-3yF_skillchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNou4GpzKwByAsaHqC8"
+        },
+        {
+            "name": "descriptor",
+            "current": "Exiled",
+            "max": "",
+            "id": "-MNouZosYYz5mU5Y2uFD"
+        },
+        {
+            "name": "repeating_skills_-MNouc0yEcECMYTtQVqb_skillname",
+            "current": "Innability: Loner",
+            "max": "",
+            "id": "-MNoudow8sTjdQGqya50"
+        },
+        {
+            "name": "repeating_skills_-MNouc0yEcECMYTtQVqb_skilledge",
+            "current": "@{intellect_edge}",
+            "max": "",
+            "id": "-MNoudr4nF5sYqjY-9YD"
+        },
+        {
+            "name": "repeating_skills_-MNouc0yEcECMYTtQVqb_skillarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNoudr7MPnrDntcwjOm"
+        },
+        {
+            "name": "repeating_skills_-MNouc0yEcECMYTtQVqb_skilltype",
+            "current": "I • I",
+            "max": "",
+            "id": "-MNoudr9yIxDwI2vhIJW"
+        },
+        {
+            "name": "repeating_skills_-MNouc0yEcECMYTtQVqb_skilllvl",
+            "current": "-1",
+            "max": "",
+            "id": "-MNoue5pf0gDm9k5yZ6t"
+        },
+        {
+            "name": "repeating_skills_-MNouc0yEcECMYTtQVqb_skilldesc",
+            "current": "Cannot get asset from other person's help",
+            "max": "",
+            "id": "-MNougxtxA0NZorJzMk0"
+        },
+        {
+            "name": "repeating_skills_-MNouc0yEcECMYTtQVqb_skillchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNouht3fOVjYLcp8xt5"
+        },
+        {
+            "name": "repeating_skills_-MNoulGF84HXjyzaZ1e9_skillname",
+            "current": "Sneaking",
+            "max": "",
+            "id": "-MNoumYqs_K-7GjLyLYy"
+        },
+        {
+            "name": "repeating_skills_-MNoulGF84HXjyzaZ1e9_skilledge",
+            "current": "@{speed_edge}",
+            "max": "",
+            "id": "-MNoum_w1ADm8b9jOOtM"
+        },
+        {
+            "name": "repeating_skills_-MNoulGF84HXjyzaZ1e9_skillarmorcost",
+            "current": "@{armorspeedcost}",
+            "max": "",
+            "id": "-MNoum_yS4ePNQ4kOJHj"
+        },
+        {
+            "name": "repeating_skills_-MNoulGF84HXjyzaZ1e9_skilltype",
+            "current": "S • T",
+            "max": "",
+            "id": "-MNouma-PsNZ0aaHLAvN"
+        },
+        {
+            "name": "repeating_skills_-MNoulGF84HXjyzaZ1e9_skillstat",
+            "current": "speed",
+            "max": "",
+            "id": "-MNoumrlBdMn6VkazCpp"
+        },
+        {
+            "name": "repeating_skills_-MNounBxU9eg7k39t94P_skillname",
+            "current": "Finding/Hunting/Shelter",
+            "max": "",
+            "id": "-MNous_rrybtt69YbVG7"
+        },
+        {
+            "name": "repeating_skills_-MNounBxU9eg7k39t94P_skilledge",
+            "current": "@{speed_edge}",
+            "max": "",
+            "id": "-MNousbiOpFsxhbhesxN"
+        },
+        {
+            "name": "repeating_skills_-MNounBxU9eg7k39t94P_skillarmorcost",
+            "current": "@{armorspeedcost}",
+            "max": "",
+            "id": "-MNousbk_iPUbQtgHTkd"
+        },
+        {
+            "name": "repeating_skills_-MNounBxU9eg7k39t94P_skilltype",
+            "current": "S • T",
+            "max": "",
+            "id": "-MNousbmTpjacFjpRGOE"
+        },
+        {
+            "name": "repeating_skills_-MNounBxU9eg7k39t94P_skillstat",
+            "current": "speed",
+            "max": "",
+            "id": "-MNout12AeSC8H4KMjaH"
+        },
+        {
+            "name": "repeating_skills_-MNounBxU9eg7k39t94P_skillchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNoux-GCIR1Klx-u0Ki"
+        },
+        {
+            "name": "repeating_skills_-MNoulGF84HXjyzaZ1e9_skillchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNouxJaFoTGLuQ7OaB_"
+        },
+        {
+            "name": "repeating_skills_-MNouxk7tUM8MtEvZ72m_skillname",
+            "current": "Innability: Social Interactions",
+            "max": "",
+            "id": "-MNouzyYE87yMgmCy3FH"
+        },
+        {
+            "name": "repeating_skills_-MNouxk7tUM8MtEvZ72m_skilledge",
+            "current": "@{intellect_edge}",
+            "max": "",
+            "id": "-MNov--pTBNnzqPIpa74"
+        },
+        {
+            "name": "repeating_skills_-MNouxk7tUM8MtEvZ72m_skillarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNov--rG_Kgj5ClVGR4"
+        },
+        {
+            "name": "repeating_skills_-MNouxk7tUM8MtEvZ72m_skilltype",
+            "current": "I • I",
+            "max": "",
+            "id": "-MNov--tgi5bMbJ1XiLw"
+        },
+        {
+            "name": "repeating_skills_-MNouxk7tUM8MtEvZ72m_skilllvl",
+            "current": "-1",
+            "max": "",
+            "id": "-MNov-lo8aSJKt2f3rtJ"
+        },
+        {
+            "name": "repeating_skills_-MNouxk7tUM8MtEvZ72m_skillchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNov0FIxpUO_JNVuY8_"
+        },
+        {
+            "name": "focus",
+            "current": "Operates Undercover",
+            "max": "",
+            "id": "-MNovJj_hBwrb84ZcFEd"
+        },
+        {
+            "name": "repeating_skills_-MNovK9aS1Jp1Zat3bpI_skillname",
+            "current": "Perception",
+            "max": "",
+            "id": "-MNovLfPnxXS-EcP2tcz"
+        },
+        {
+            "name": "repeating_skills_-MNovK9aS1Jp1Zat3bpI_skilledge",
+            "current": "@{intellect_edge}",
+            "max": "",
+            "id": "-MNovLhjC5UbvlJSTFGB"
+        },
+        {
+            "name": "repeating_skills_-MNovK9aS1Jp1Zat3bpI_skillarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNovLhlAKVgUQNz2lvI"
+        },
+        {
+            "name": "repeating_skills_-MNovK9aS1Jp1Zat3bpI_skilltype",
+            "current": "I • T",
+            "max": "",
+            "id": "-MNovLhnQN-sDA7Kx2QN"
+        },
+        {
+            "name": "repeating_skills_-MNovLwfjHWr7eEgG216_skillname",
+            "current": "Decipher",
+            "max": "",
+            "id": "-MNovNKZ5yEnxO7j2Z44"
+        },
+        {
+            "name": "repeating_skills_-MNovLwfjHWr7eEgG216_skilledge",
+            "current": "@{intellect_edge}",
+            "max": "",
+            "id": "-MNovNMseTW5ful1MOCx"
+        },
+        {
+            "name": "repeating_skills_-MNovLwfjHWr7eEgG216_skillarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNovNMuCHfimjITNZ5o"
+        },
+        {
+            "name": "repeating_skills_-MNovLwfjHWr7eEgG216_skilltype",
+            "current": "I • T",
+            "max": "",
+            "id": "-MNovNMwC8VFHO1bIBoj"
+        },
+        {
+            "name": "repeating_skills_-MNovNcgL3fJVvzUhF4z_skillname",
+            "current": "Cryptography",
+            "max": "",
+            "id": "-MNovR6MW6enYGrhQHeR"
+        },
+        {
+            "name": "repeating_skills_-MNovNcgL3fJVvzUhF4z_skillchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNovR7TGhmoim3D5Oq5"
+        },
+        {
+            "name": "repeating_skills_-MNovNcgL3fJVvzUhF4z_skilledge",
+            "current": "@{intellect_edge}",
+            "max": "",
+            "id": "-MNovR9oPgHPZKaZoRam"
+        },
+        {
+            "name": "repeating_skills_-MNovNcgL3fJVvzUhF4z_skillarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNovR9qkJQ1Us7a_cbX"
+        },
+        {
+            "name": "repeating_skills_-MNovNcgL3fJVvzUhF4z_skilltype",
+            "current": "I • T",
+            "max": "",
+            "id": "-MNovR9tGkF-pKdbF7Ch"
+        },
+        {
+            "name": "repeating_skills_-MNovLwfjHWr7eEgG216_skillchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNovRSn6K6lqm45mLd7"
+        },
+        {
+            "name": "repeating_skills_-MNovK9aS1Jp1Zat3bpI_skillchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNovRidzJLGB7Pr6yMJ"
+        },
+        {
+            "name": "repeating_skills_-MNovSzFTU2GZMSOogtQ_skillname",
+            "current": "Hacking",
+            "max": "",
+            "id": "-MNovU8r95OpBZvA6yFp"
+        },
+        {
+            "name": "repeating_skills_-MNovSzFTU2GZMSOogtQ_skillchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNovUAAga8QseKzQeJ9"
+        },
+        {
+            "name": "repeating_skills_-MNovSzFTU2GZMSOogtQ_skilledge",
+            "current": "@{intellect_edge}",
+            "max": "",
+            "id": "-MNovUCe73qnqMrd0H7U"
+        },
+        {
+            "name": "repeating_skills_-MNovSzFTU2GZMSOogtQ_skillarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNovUCgk-ypxmgOECrz"
+        },
+        {
+            "name": "repeating_skills_-MNovSzFTU2GZMSOogtQ_skilltype",
+            "current": "I • T",
+            "max": "",
+            "id": "-MNovUCirgK1-WyCLhoZ"
+        },
+        {
+            "name": "repeating_atks_-MNovqC-caXDJBRbd7AA_atkname",
+            "current": "Unarmed",
+            "max": "",
+            "id": "-MNovrehixcUMjDWhoEh"
+        },
+        {
+            "name": "repeating_atks_-MNovqC-caXDJBRbd7AA_atkedge",
+            "current": "@{might_edge}",
+            "max": "",
+            "id": "-MNovrgpflC8GJnEg8zs"
+        },
+        {
+            "name": "repeating_atks_-MNovqC-caXDJBRbd7AA_atkarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNovrgsHOwZ572ZL_0U"
+        },
+        {
+            "name": "repeating_atks_-MNovqC-caXDJBRbd7AA_atktype",
+            "current": "M • 2",
+            "max": "",
+            "id": "-MNovrgtL-kdKwRC_Aa6"
+        },
+        {
+            "name": "repeating_atks_-MNovqC-caXDJBRbd7AA_atkdmg",
+            "current": "2",
+            "max": "",
+            "id": "-MNovsQLwYa6Ummt1Ar5"
+        },
+        {
+            "name": "repeating_atks_-MNovqC-caXDJBRbd7AA_atkchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNovsRa20fq8AXAr8yD"
+        },
+        {
+            "name": "expand_attacks",
+            "current": "1",
+            "max": "",
+            "id": "-MNovsyaO0B_211ColMR"
+        },
+        {
+            "name": "repeating_cypher-list_-MNovv5DmJvfsAwQ1mRA_cypher-name",
+            "current": "Talk To My Lawyer",
+            "max": "",
+            "id": "-MNovyT3MjY2-nLSbPqG"
+        },
+        {
+            "name": "repeating_cypher-list_-MNovv5DmJvfsAwQ1mRA_cypher-chkdesc",
+            "current": "1",
+            "max": "",
+            "id": "-MNovyU_3a-P9tYI9n1Z"
+        },
+        {
+            "name": "expand_cyphers",
+            "current": "1",
+            "max": "",
+            "id": "-MNovz7kerrR4ORn1ciN"
+        },
+        {
+            "name": "repeating_cypher-list_-MNovv5DmJvfsAwQ1mRA_cypher-level",
+            "current": "3",
+            "max": "",
+            "id": "-MNow-k9BLLattDIJROu"
+        },
+        {
+            "name": "repeating_cypher-list_-MNovv5DmJvfsAwQ1mRA_cypher-description",
+            "current": "Cancel any and all intellect action being used on character",
+            "max": "",
+            "id": "-MNow4tBU8RgLIYkzEsM"
+        }
+    ],
+    "abilities": []
+}

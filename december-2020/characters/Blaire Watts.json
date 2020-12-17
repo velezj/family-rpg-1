@@ -1,0 +1,585 @@
+{
+    "schema_version": 2,
+    "oldId": "-MNjgv4kLSgDAl21yAZh",
+    "name": "Blaire Watts",
+    "avatar": "https://s3.amazonaws.com/files.d20.io/images/182985732/q2GZdxYzN_2aPOykFycnNg/med.jpg?1607136107",
+    "bio": "%3Cp%3EBlaire%20was%20born%20in%20the%20UK%20to%20a%20small%20grocery%20chain%20owner.%20She%20soon%20grew%20bored%20of%20anything%20around%20her%20home%20and%20started%20rambling%20around%20the%20countryside.%20There%2C%20she%20found%20her%20passion%3A%20history.%20She%20began%20studying%20the%20past%2C%20finding%20the%20actions%20and%20cultures%20riveting.%3C/p%3E%3Cp%3E%3Cbr%3E%3C/p%3E%3Cp%3EShe%20successfully%20go%20into%20Oxford%20University%2C%20where%20she%20finished%20a%20doctorate%20in%20Naval%20History%20%28specializing%20in%20Naval%20Combat%29.%20During%20her%20dissertation%20research%2C%20she%20crossed%20paths%20with%20Sarah%20Lark.%20Sarah%20was%20building%20a%20new%20wing%20for%20a%20library%2C%20and%20Blaire%20took%20offense%20with%20the%20lack%20of%20history%20resources%20at%20said%20wing.%26nbsp%3B%20What%20started%20as%20an%20argument%20soon%20became%20a%20relationship%20and%20then%20a%20marriage.%3C/p%3E%3Cp%3E%3Cbr%3E%3C/p%3E%3Cp%3EAs%20time%20passed%2C%20Blaire%20began%20to%20see%20a%20side%20of%20Sarah%20she%20was%20not%20comfortable%20with%3A%20Sarah%27s%20lack%20of%20respect%20for%20history%20as%20anything%20more%20that%20knowledge.%20Whereas%20Blaire%20revered%20the%20cultures%20of%20the%20past%2C%20Sarah%20used%20them%20as%20a%20poisoned%20weapon%20in%20her%20plan%20and%20ploys%20to%20keep%20from%20getting%20bored.%20Blaire%20broke%20the%20marriage.%20However%2C%20after%20all%20the%20time%20with%20Sarah%2C%20she%20knew%20that%20someone%20had%20to%20keep%20an%20eye%20out%20for%20whatever%20else%20Sarah%20might%20destroy%20in%20her%20search%20for%20%22fun%22.%3C/p%3E%3Cp%3E%3Cbr%3E%3C/p%3E%3Cp%3EBlaire%20learned%20of%20Sarah%27s%20interest%20in%20the%20WW2%20treasure%2C%20and%20in%20fact%20was%20the%20reason%20Sarah%20even%20knew%20about%20the%20whisper%20and%20theories.%20Taking%20it%20upon%20herself%20to%20stop%20Sarah%2C%20Blaire%20has%20sent%20Miguel%20in%20as%20a%20covert%20agent%20and%20met%20up%20with%20Mr.%20Combs%20to%20ensure%20that%20history%20is%20respected%2C%20not%20weaponized.%3C/p%3E%3Cp%3E%3Cbr%3E%3C/p%3E%3Cp%3E%3Cb%3EMotivations%3C/b%3E%3Cbr%3E%3Cbr%3E-%20Preserve%20the%20Gudgeon%20as%20a%20historic%20treasure%20and%20allow%20international%20community%20%28especially%20academic%20community%29%20knowledge%20and%20access%20to%20this%20wonderful%20historic%20artifact.%3Cbr%3E%3Cbr%3E-%20Conscience%20to%20Sarah%27s%20single-minded%20pursuit%20of%20remains.%20She%20also%20thinks%20there%20may%20be%20gold%20%28Japan%27s%20plundered%20treasure%29.%3Cbr%3E%3Cbr%3E%3Cb%3EConnections%3C/b%3E%3Cbr%3E%3Cbr%3E-%20Ex-Partner%20in%20Marriage%20to%20Sarah%20Lark%3Cbr%3E%3Cbr%3E-%20Hires%20Miguel%20to%20additionally%20help%20preserve%20Gudgeon%3Cbr%3E%3Cbr%3E-%20Contacts%20Mr.%20Combs%20about%20the%20Gudgeon%20expedition%20and%20situation%3Cbr%3E%3Cbr%3E-%20Highly%20regarded%20academic%3Cbr%3E%3Cbr%3E%3C/p%3E",
+    "gmnotes": "",
+    "defaulttoken": "{\"left\":816,\"top\":87,\"width\":51,\"height\":64,\"imgsrc\":\"https://s3.amazonaws.com/files.d20.io/images/183499244/J5M5D1mZ40bqzW72y8gcNQ/max.png?1607287126\",\"page_id\":\"-MNfFwJ_EMLkPaX_cmM-\",\"layer\":\"objects\",\"name\":\"Blaire Watts\",\"represents\":\"-MNjgv4kLSgDAl21yAZh\",\"bar1_value\":9,\"bar1_max\":9,\"bar1_link\":\"-MNjhf4JsQHwRW0pZTdu\",\"bar2_value\":15,\"bar2_max\":15,\"bar2_link\":\"-MNjhfZ7TZhiRHWvfATZ\",\"bar3_value\":10,\"bar3_max\":10,\"bar3_link\":\"-MNjheupTA8MZOz4shzo\",\"showname\":true,\"lastmove\":\"912,102\",\"night_vision_tint\":\"\"}",
+    "tags": "[]",
+    "controlledby": "",
+    "inplayerjournals": "",
+    "attribs": [
+        {
+            "name": "gnlsettings_sheet_style",
+            "current": "0",
+            "max": "",
+            "id": "-MNjgv5rtMyEJ_ZY_AAr"
+        },
+        {
+            "name": "version",
+            "current": 2.1,
+            "max": "",
+            "id": "-MNjgvfH_YWJdpY6nJ0V"
+        },
+        {
+            "name": "rollqstasset",
+            "current": "@{rollvarasset}[Asset]",
+            "max": "",
+            "id": "-MNjgvfeTLsGVspUnuNc"
+        },
+        {
+            "name": "rollqstbonus",
+            "current": "@{rollvarbonus}[Bonus]",
+            "max": "",
+            "id": "-MNjgvfgJ1kBB6PB-GND"
+        },
+        {
+            "name": "rollqstcost",
+            "current": "@{rollvarcost}[Cost]",
+            "max": "",
+            "id": "-MNjgvfiOJVduENDIPTr"
+        },
+        {
+            "name": "rollqstdiff",
+            "current": "@{rollvardiff}[Difficulty]",
+            "max": "",
+            "id": "-MNjgvfm3wmlvT3v7rqP"
+        },
+        {
+            "name": "rollqstrolleff",
+            "current": "@{rollvarrolleff}[Roll Effort]",
+            "max": "",
+            "id": "-MNjgvfo3woSMAWS5rah"
+        },
+        {
+            "name": "rollqstrolldmg",
+            "current": "@{rollvarrolldmg}[Damage Effort]",
+            "max": "",
+            "id": "-MNjgvfqZCRGBUs3fJHD"
+        },
+        {
+            "name": "sheet_style",
+            "current": "0",
+            "max": "",
+            "id": "-MNjgz8dFESAjQZRR4wb"
+        },
+        {
+            "name": "sheet_style_0",
+            "current": 1,
+            "max": "",
+            "id": "-MNjgzA_tYQFF4Xu6Gr_"
+        },
+        {
+            "name": "sheet_style_1",
+            "current": 0,
+            "max": "",
+            "id": "-MNjgzAgWIcxiGrnEmlQ"
+        },
+        {
+            "name": "sheet_style_2",
+            "current": 0,
+            "max": "",
+            "id": "-MNjgzAmLHh-K233qP7F"
+        },
+        {
+            "name": "sheet_style_99",
+            "current": 0,
+            "max": "",
+            "id": "-MNjgzAqJc2heOX0Szrr"
+        },
+        {
+            "name": "sheet_rolls",
+            "current": "0",
+            "max": "",
+            "id": "-MNjgzSELLlxcrATqbfl"
+        },
+        {
+            "name": "showuseasset",
+            "current": "0",
+            "max": "",
+            "id": "-MNjgzUGPBsY_LxbZHYM"
+        },
+        {
+            "name": "showusebonus",
+            "current": "0",
+            "max": "",
+            "id": "-MNjgzUIWTItFJ2pJS4Y"
+        },
+        {
+            "name": "showusecost",
+            "current": "1",
+            "max": "",
+            "id": "-MNjgzUKdDWYM54Rk7vr"
+        },
+        {
+            "name": "sheetusecost",
+            "current": "1",
+            "max": "",
+            "id": "-MNjgznmea66Nqry-8xY"
+        },
+        {
+            "name": "sheet_font_easy",
+            "current": "font-easy",
+            "max": "",
+            "id": "-MNjh-Awxy11_adaCjhS"
+        },
+        {
+            "name": "settings_show",
+            "current": "0",
+            "max": "",
+            "id": "-MNjh-lcOb_HxQLYpTWx"
+        },
+        {
+            "name": "type",
+            "current": "Explorer",
+            "max": "",
+            "id": "-MNjh5TIentBWaijFrKJ"
+        },
+        {
+            "name": "descriptor",
+            "current": "naive",
+            "max": "",
+            "id": "-MNjhMYqrzQYqHI_wWWY"
+        },
+        {
+            "name": "focus",
+            "current": "never says die",
+            "max": "",
+            "id": "-MNjheQOB32R_OFaJqn6"
+        },
+        {
+            "name": "might",
+            "current": "10",
+            "max": "10",
+            "id": "-MNjheupTA8MZOz4shzo"
+        },
+        {
+            "name": "damage-track",
+            "current": 0,
+            "max": "",
+            "id": "-MNjhewhd227qNGK0TYi"
+        },
+        {
+            "name": "might_edge",
+            "current": "1",
+            "max": "",
+            "id": "-MNjhey0L3MKoY2ewBdE"
+        },
+        {
+            "name": "speed",
+            "current": "9",
+            "max": "9",
+            "id": "-MNjhf4JsQHwRW0pZTdu"
+        },
+        {
+            "name": "speed_edge",
+            "current": "0",
+            "max": "",
+            "id": "-MNjhfPSzB03xHoa4YNM"
+        },
+        {
+            "name": "intellect",
+            "current": "15",
+            "max": "15",
+            "id": "-MNjhfZ7TZhiRHWvfATZ"
+        },
+        {
+            "name": "intellect_edge",
+            "current": "1",
+            "max": "",
+            "id": "-MNjhg4SqGDZ_6tUxeBj"
+        },
+        {
+            "name": "expand_skills",
+            "current": "1",
+            "max": "",
+            "id": "-MNjhheoXd_qlShBzDZ8"
+        },
+        {
+            "name": "expand_actiondamage",
+            "current": "1",
+            "max": "",
+            "id": "-MNjhi3pHi12WHURfp7N"
+        },
+        {
+            "name": "repeating_skills_-MNjhkC94nbE10MyjHwb_skillname",
+            "current": "Knowledge: Japanese History",
+            "max": "",
+            "id": "-MNjhukGjZNGp62HBbee"
+        },
+        {
+            "name": "repeating_skills_-MNjhkC94nbE10MyjHwb_skilledge",
+            "current": "@{intellect_edge}",
+            "max": "",
+            "id": "-MNjhumN4tYCGINRkQr7"
+        },
+        {
+            "name": "repeating_skills_-MNjhkC94nbE10MyjHwb_skillarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNjhumQBrDa8GfzkC50"
+        },
+        {
+            "name": "repeating_skills_-MNjhkC94nbE10MyjHwb_skilltype",
+            "current": "I • T",
+            "max": "",
+            "id": "-MNjhumTLFPtnDOFZ6wS"
+        },
+        {
+            "name": "repeating_skills_-MNjhv9FlvQg2mOCN5YV_skillname",
+            "current": "Knowledge: Ancient Cultures",
+            "max": "",
+            "id": "-MNji0_eXoZQ2xqZ7LaH"
+        },
+        {
+            "name": "repeating_skills_-MNjhv9FlvQg2mOCN5YV_skilledge",
+            "current": "@{intellect_edge}",
+            "max": "",
+            "id": "-MNji0bq2iNsXkA-vTzs"
+        },
+        {
+            "name": "repeating_skills_-MNjhv9FlvQg2mOCN5YV_skillarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNji0bvf3LylMpGy0SP"
+        },
+        {
+            "name": "repeating_skills_-MNjhv9FlvQg2mOCN5YV_skilltype",
+            "current": "I • T",
+            "max": "",
+            "id": "-MNji0byf9JI78EDJCLk"
+        },
+        {
+            "name": "repeating_skills_-MNjiAejEe8Bmr1IRo2l_skillname",
+            "current": "Knowledge: Naval Warfare History",
+            "max": "",
+            "id": "-MNjiCQ376MHLvyvyLgm"
+        },
+        {
+            "name": "repeating_skills_-MNjiAejEe8Bmr1IRo2l_skilledge",
+            "current": "@{intellect_edge}",
+            "max": "",
+            "id": "-MNjiCSIcUz19aKFHsQK"
+        },
+        {
+            "name": "repeating_skills_-MNjiAejEe8Bmr1IRo2l_skillarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNjiCSMj2_F5f_rG6R8"
+        },
+        {
+            "name": "repeating_skills_-MNjiAejEe8Bmr1IRo2l_skilltype",
+            "current": "I • T",
+            "max": "",
+            "id": "-MNjiCSQ9SM0ovjrJ8Ye"
+        },
+        {
+            "name": "repeating_skills_-MNjiRPsmbb08jqRmQIo_skillname",
+            "current": "Knowledge: World Religions",
+            "max": "",
+            "id": "-MNjiTvNztU60JIbld_T"
+        },
+        {
+            "name": "repeating_skills_-MNjiRPsmbb08jqRmQIo_skilledge",
+            "current": "@{intellect_edge}",
+            "max": "",
+            "id": "-MNjiTxbO1Jm_khcqd5h"
+        },
+        {
+            "name": "repeating_skills_-MNjiRPsmbb08jqRmQIo_skillarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNjiTxdc0YuryiEBdt_"
+        },
+        {
+            "name": "repeating_skills_-MNjiRPsmbb08jqRmQIo_skilltype",
+            "current": "I • T",
+            "max": "",
+            "id": "-MNjiTxfuf2bIqikAGR4"
+        },
+        {
+            "name": "repeating_skills_-MNjhkC94nbE10MyjHwb_skillchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNjimLzyFNbGR_jLf3s"
+        },
+        {
+            "name": "repeating_skills_-MNjhv9FlvQg2mOCN5YV_skillchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNjimc1nbw2b1Iz3eMv"
+        },
+        {
+            "name": "repeating_skills_-MNjiAejEe8Bmr1IRo2l_skillchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNjimout0MDpibOqpMe"
+        },
+        {
+            "name": "repeating_skills_-MNjiRPsmbb08jqRmQIo_skillchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNjin1AnwNW7ZUXQNV9"
+        },
+        {
+            "name": "repeating_abilities_-MNjixEp50MD5sQehGLT_abilityname",
+            "current": "Decipher",
+            "max": "",
+            "id": "-MNjj2A3c54CPjWxQ2Bz"
+        },
+        {
+            "name": "repeating_abilities_-MNjixEp50MD5sQehGLT_abtype",
+            "current": "A",
+            "max": "",
+            "id": "-MNjj2C5MP_wb5SnvAyq"
+        },
+        {
+            "name": "repeating_abilities_-MNjixEp50MD5sQehGLT_abilitycost",
+            "current": "1",
+            "max": "",
+            "id": "-MNjj2xeSsn8wi6WHpdf"
+        },
+        {
+            "name": "repeating_abilities_-MNjixEp50MD5sQehGLT_abilitystat",
+            "current": "intellect",
+            "max": "",
+            "id": "-MNjj3FH7e47V5VKzjDv"
+        },
+        {
+            "name": "repeating_abilities_-MNjixEp50MD5sQehGLT_abilitydesc",
+            "current": "Examine piece of writing or code for 1 minute, make a intelect roll of 3 (or higher) to get the gist of the message",
+            "max": "",
+            "id": "-MNjj75w3LLIhLMbjQnL"
+        },
+        {
+            "name": "expand_abilities",
+            "current": "1",
+            "max": "",
+            "id": "-MNjj77WMOCBSlrRXeea"
+        },
+        {
+            "name": "repeating_abilities_-MNjixEp50MD5sQehGLT_abilitychkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNjjQBJh1xzHkM8P6aR"
+        },
+        {
+            "name": "recoverybonus",
+            "current": "2",
+            "max": "",
+            "id": "-MNjjinMSb3Y9pPJxcqT"
+        },
+        {
+            "name": "recovery-rolls",
+            "current": 0,
+            "max": "",
+            "id": "-MNjjod8biPlfVLph8t0"
+        },
+        {
+            "name": "repeating_skills_-MNjk1gtucELjqR4OX2E_skillname",
+            "current": "Incorruptible",
+            "max": "",
+            "id": "-MNjk39p_OWAHO4VaQM5"
+        },
+        {
+            "name": "repeating_skills_-MNjk1gtucELjqR4OX2E_skilledge",
+            "current": "@{intellect_edge}",
+            "max": "",
+            "id": "-MNjk3C4p1Zffl-PZFfP"
+        },
+        {
+            "name": "repeating_skills_-MNjk1gtucELjqR4OX2E_skillarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNjk3C7QpBSIA6CghqC"
+        },
+        {
+            "name": "repeating_skills_-MNjk1gtucELjqR4OX2E_skilltype",
+            "current": "I • T",
+            "max": "",
+            "id": "-MNjk3C9OMqpmDB6hrnX"
+        },
+        {
+            "name": "repeating_skills_-MNjk1gtucELjqR4OX2E_skilldesc",
+            "current": "All defenses against temptation",
+            "max": "",
+            "id": "-MNjk9g4F0Bct5-HLU_H"
+        },
+        {
+            "name": "repeating_skills_-MNjkAE5hYcOnK0uwRxd_skillname",
+            "current": "Intellect Defense",
+            "max": "",
+            "id": "-MNjkBYssngs6fTQZcim"
+        },
+        {
+            "name": "repeating_skills_-MNjkAE5hYcOnK0uwRxd_skilledge",
+            "current": "@{intellect_edge}",
+            "max": "",
+            "id": "-MNjkBa5hnERGUbDEpPW"
+        },
+        {
+            "name": "repeating_skills_-MNjkAE5hYcOnK0uwRxd_skillarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNjkBa9F7xcgB1njB43"
+        },
+        {
+            "name": "repeating_skills_-MNjkAE5hYcOnK0uwRxd_skilltype",
+            "current": "I • T",
+            "max": "",
+            "id": "-MNjkBaBrQ-njv1KmrxR"
+        },
+        {
+            "name": "repeating_skills_-MNjk1gtucELjqR4OX2E_skillchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNjkCen9o7M1V8HgX1k"
+        },
+        {
+            "name": "repeating_skills_-MNjkAE5hYcOnK0uwRxd_skillchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNjkCxQF-Owh-QSK5Jw"
+        },
+        {
+            "name": "repeating_skills_-MNjkFZ8khjJkKQlGYDP_skillname",
+            "current": "Wide-Eyed: Perception Skills",
+            "max": "",
+            "id": "-MNjkIfJjWhIKBK3Kmxz"
+        },
+        {
+            "name": "repeating_skills_-MNjkFZ8khjJkKQlGYDP_skilledge",
+            "current": "@{intellect_edge}",
+            "max": "",
+            "id": "-MNjkIhb2LmZeTg1U3eb"
+        },
+        {
+            "name": "repeating_skills_-MNjkFZ8khjJkKQlGYDP_skillarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNjkIhdCqwroFDwRmoe"
+        },
+        {
+            "name": "repeating_skills_-MNjkFZ8khjJkKQlGYDP_skilltype",
+            "current": "I • T",
+            "max": "",
+            "id": "-MNjkIhgUSA5BGoO718N"
+        },
+        {
+            "name": "repeating_skills_-MNjkLdn729uYOnIQS2m_skillname",
+            "current": "Naive",
+            "max": "",
+            "id": "-MNjkMinU_jQkUDe-6YQ"
+        },
+        {
+            "name": "repeating_skills_-MNjkLdn729uYOnIQS2m_skilledge",
+            "current": "@{intellect_edge}",
+            "max": "",
+            "id": "-MNjkMl-B9wQbDPLNprK"
+        },
+        {
+            "name": "repeating_skills_-MNjkLdn729uYOnIQS2m_skillarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNjkMl3zXWmqBxz2j5s"
+        },
+        {
+            "name": "repeating_skills_-MNjkLdn729uYOnIQS2m_skilltype",
+            "current": "I • I",
+            "max": "",
+            "id": "-MNjkMl4PvWHLB81AGbI"
+        },
+        {
+            "name": "repeating_skills_-MNjkLdn729uYOnIQS2m_skilllvl",
+            "current": "-1",
+            "max": "",
+            "id": "-MNjkMwlde3RB8vK2Hfl"
+        },
+        {
+            "name": "repeating_skills_-MNjkLdn729uYOnIQS2m_skilldesc",
+            "current": "When trying to discern deception or seeing tru motivations",
+            "max": "",
+            "id": "-MNjkSPWHd_byOLVa1Wv"
+        },
+        {
+            "name": "repeating_skills_-MNjkFZ8khjJkKQlGYDP_skillchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNjkSiiBLvIlRrujGWR"
+        },
+        {
+            "name": "repeating_skills_-MNjkLdn729uYOnIQS2m_skillchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNjkT4pOzWGZTTZgHvw"
+        },
+        {
+            "name": "repeating_abilities_-MNjkl6UHpXuW6NTkSQU_abilityname",
+            "current": "Rapid Recovery",
+            "max": "",
+            "id": "-MNjkmRLkmwr6J6Z9y65"
+        },
+        {
+            "name": "repeating_abilities_-MNjkl6UHpXuW6NTkSQU_abtype",
+            "current": "E",
+            "max": "",
+            "id": "-MNjkmT5qyEi_0ghpzzl"
+        },
+        {
+            "name": "repeating_abilities_-MNjkl6UHpXuW6NTkSQU_abilityuse",
+            "current": "Enabler",
+            "max": "",
+            "id": "-MNjkmmaGpEXT-rpEKU2"
+        },
+        {
+            "name": "repeating_abilities_-MNjkl6UHpXuW6NTkSQU_abilitydesc",
+            "current": "Second recovery only takes a single action",
+            "max": "",
+            "id": "-MNjkqxSqL6VLil7_rHg"
+        },
+        {
+            "name": "repeating_abilities_-MNjkl6UHpXuW6NTkSQU_abilitychkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNjkraslY33I-2v-44S"
+        },
+        {
+            "name": "repeating_abilities_-MNjkuWSPVSSlcokN01Q_abilityname",
+            "current": "Oush On Through",
+            "max": "",
+            "id": "-MNjkwTXjc-Zu7TB8M5N"
+        },
+        {
+            "name": "repeating_abilities_-MNjkuWSPVSSlcokN01Q_abtype",
+            "current": "A",
+            "max": "",
+            "id": "-MNjkwVWKAE7qk5zhUa2"
+        },
+        {
+            "name": "repeating_abilities_-MNjkuWSPVSSlcokN01Q_abilitycost",
+            "current": "2",
+            "max": "",
+            "id": "-MNjkxP0816LnBCt0xOB"
+        },
+        {
+            "name": "repeating_abilities_-MNjkuWSPVSSlcokN01Q_abilitystat",
+            "current": "might",
+            "max": "",
+            "id": "-MNjkxi6cVGTC_UeAgrQ"
+        },
+        {
+            "name": "repeating_abilities_-MNjkuWSPVSSlcokN01Q_abilitydesc",
+            "current": "Ignore terrain effects for 1 hour",
+            "max": "",
+            "id": "-MNjl1bLbH_RyZH-d1q8"
+        },
+        {
+            "name": "specialdamage",
+            "current": 0,
+            "max": "",
+            "id": "-MNjlD20Mmz-5GNaQaNv"
+        }
+    ],
+    "abilities": []
+}

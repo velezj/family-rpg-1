@@ -1,0 +1,669 @@
+{
+    "schema_version": 2,
+    "oldId": "-MNn_pgd3T2GOOaNGh4l",
+    "name": "Lorleen Nena",
+    "avatar": "https://s3.amazonaws.com/files.d20.io/images/183101759/bDBTabW4nMoYM0Pyvs-s9g/med.jpg?1607184255",
+    "bio": "%3Cp%3EAs%20a%20child%2C%20Lorleen%20was%20perpetually%20covered%20in%20cuts%20and%20bruises%3B%20the%20marks%20of%20her%20adventures%20each%20day.%20Born%20in%20Yap%2C%20she%20had%20already%20covered%20most%20of%20the%20island%20in%20her%20explorations%20by%20age%2010.%20Figuring%20that%20it%20was%20hard%20to%20get%20to%20another%20island%20when%20so%20young%2C%20she%20decided%20to%20explore%20the%20people%20of%20Yap.%20She%27s%20been%20doing%20that%20ever%20since.%3C/p%3E%3Cp%3E%3Cbr%3E%3C/p%3E%3Cp%3EQuick%20witted%2C%20stealthy%20and%20lacking%20any%20common%20sense%2C%20Lorleen%20is%20a%20fearless%20reporter.%20She%20can%20sniff%20out%20a%20dodgy%20deal%20or%20a%20forced%20coincidence%20just%20by%20analyzing%20people%27s%20faces.%20She%20makes%20sure%20to%20keep%20tabs%20on%20everyone%20in%20her%20town%2C%20and%20is%20greatly%20interested%20whenever%20someone%20new%20shows%20up.%3C/p%3E%3Cp%3E%3Cbr%3E%3C/p%3E%3Cp%3EShe%20abides%20by%20her%20own%20reporter%27s%20code%3A%20Kind%20Truth.%26nbsp%3B%20She%20is%20known%20to%20refuse%20to%20air%20stories%20she%20herself%20promoted%20because%20of%20the%20resulting%20content%20and%20the%20possibility%20of%20hurting%20innocents.%20However%2C%20she%20refuses%20to%20lie%20and%20has%20never%20once%20betrayed%20a%20source.%3C/p%3E%3Cp%3E%3Cbr%3E%3C/p%3E%3Cp%3EDuring%20her%20early%20career%20she%20quickly%20realized%20that%20she%20was%20better%20at%20getting%20into%20trouble%20than%20out%20of%20it.%20Then%20she%20met%20Maki%20Nagatori%2C%20and%20new%20intern%20for%20the%20newsroom.%26nbsp%3B%20She%20saw%20his%20potential%2C%20both%20as%20an%20investigator%20as%20well%20as%20a%20street-savvy%20protector.%20She%20stole%20him%20from%20the%20newsroom%20to%20become%20her%20partner.%20He%20had%20very%20little%20say%20in%20the%20matter.%20However%2C%20now%20the%20two%20are%20a%20formidable%20team%2C%20working%20in%20almost%20perfect%20harmony%20and%20effortlessly%20combining%20their%20strengths%20while%20mitigating%20their%20weaknesses.%20%3C/p%3E%3Cp%3E%3Cbr%3E%3C/p%3E%3Cp%3E%3Cb%3EMotivations%3C/b%3E%3Cbr%3E%3Cbr%3E-%20Sniff%20out%20dodgy%20deals%20and%20corruption%20in%20her%20home-region%20%28Micronesia%29%3Cbr%3E%3Cbr%3E-%20Kind%20Truth%3A%20truth%20without%20being%20painful%3Cbr%3E%3Cbr%3E%3Cb%3EConnections%3C/b%3E%3Cbr%3E%3Cbr%3E-%20Partner%20with%20Maki%20Nagatori%3Cbr%3E%3Cbr%3E-%20Has%20crossed%20paths%20with%20Howard%20Rendalt%3B%20she%20thinks%20he%27s%20trouble%20but%20has%20yet%20to%20prove%20it%20or%20catch%20him%20in%20the%20act%3Cbr%3E%3Cbr%3E-%20Previous%20%22altercation%22%20with%20Jimmy.%20Only%20saved%20by%20Maki%20Nagatori.%20Neither%20has%20forgotten%3Cbr%3E%3Cbr%3E-%20Gets%20wind%20of%20Antonia%20as%20a%20new%20person%20that%20is%20%22interesting%22%3Cbr%3E%3Cbr%3E%3C/p%3E%3Cp%3E%3Cbr%3E%3C/p%3E",
+    "gmnotes": "",
+    "defaulttoken": "{\"left\":398,\"top\":118,\"width\":49,\"height\":64,\"imgsrc\":\"https://s3.amazonaws.com/files.d20.io/images/183499254/L5GeONhpYqlmwM4We7gYFQ/max.png?1607287126\",\"page_id\":\"-MNfFwJ_EMLkPaX_cmM-\",\"layer\":\"objects\",\"name\":\"Lorleen Nena\",\"represents\":\"-MNn_pgd3T2GOOaNGh4l\",\"bar1_value\":10,\"bar1_max\":9,\"bar1_link\":\"-MNna3EKf5a-JZpQMcxa\",\"bar2_value\":7,\"bar2_max\":9,\"bar2_link\":\"-MNna3VwdjVCMXQO4FLe\",\"bar3_value\":11,\"bar3_max\":12,\"bar3_link\":\"-MNna3198VpaCpYoKbj8\",\"showname\":true,\"lastmove\":\"601,195\",\"night_vision_tint\":\"\"}",
+    "tags": "[]",
+    "controlledby": "",
+    "inplayerjournals": "",
+    "attribs": [
+        {
+            "name": "gnlsettings_sheet_style",
+            "current": "0",
+            "max": "",
+            "id": "-MNn_pht5U3R9GiaQikr"
+        },
+        {
+            "name": "version",
+            "current": 2.1,
+            "max": "",
+            "id": "-MNn_q7Cu3_1D5C0liJd"
+        },
+        {
+            "name": "rollqstasset",
+            "current": "@{rollvarasset}[Asset]",
+            "max": "",
+            "id": "-MNn_q7IrlOsTGzXSfWK"
+        },
+        {
+            "name": "rollqstbonus",
+            "current": "@{rollvarbonus}[Bonus]",
+            "max": "",
+            "id": "-MNn_q7LrZE4n4M5Z886"
+        },
+        {
+            "name": "rollqstcost",
+            "current": "@{rollvarcost}[Cost]",
+            "max": "",
+            "id": "-MNn_q7PgdRP-RSysusk"
+        },
+        {
+            "name": "rollqstdiff",
+            "current": "@{rollvardiff}[Difficulty]",
+            "max": "",
+            "id": "-MNn_q7RxV3LU3XJLlMN"
+        },
+        {
+            "name": "rollqstrolleff",
+            "current": "@{rollvarrolleff}[Roll Effort]",
+            "max": "",
+            "id": "-MNn_q7VMtcYX7Qtd9Dh"
+        },
+        {
+            "name": "rollqstrolldmg",
+            "current": "@{rollvarrolldmg}[Damage Effort]",
+            "max": "",
+            "id": "-MNn_q7ZEWnrfATirxC3"
+        },
+        {
+            "name": "sheet_style",
+            "current": "0",
+            "max": "",
+            "id": "-MNn_qzoVEm11clXpglt"
+        },
+        {
+            "name": "sheet_style_0",
+            "current": 1,
+            "max": "",
+            "id": "-MNn_r0gaz4Z_0nV7t8_"
+        },
+        {
+            "name": "sheet_style_1",
+            "current": 0,
+            "max": "",
+            "id": "-MNn_r0qb4euym5cvBZ-"
+        },
+        {
+            "name": "sheet_style_2",
+            "current": 0,
+            "max": "",
+            "id": "-MNn_r0uoFjIySQWUbyl"
+        },
+        {
+            "name": "sheet_style_99",
+            "current": 0,
+            "max": "",
+            "id": "-MNn_r1-mGhIGxV5sIIe"
+        },
+        {
+            "name": "sheet_font_easy",
+            "current": "font-easy",
+            "max": "",
+            "id": "-MNn_rGJh-J1MIgP4doI"
+        },
+        {
+            "name": "sheet_rolls",
+            "current": "0",
+            "max": "",
+            "id": "-MNn_rhohhrs_HUheKs6"
+        },
+        {
+            "name": "showuseasset",
+            "current": "0",
+            "max": "",
+            "id": "-MNn_rk2kWxAGbfVjL04"
+        },
+        {
+            "name": "showusebonus",
+            "current": "0",
+            "max": "",
+            "id": "-MNn_rk4E3s-Lz8IEa7i"
+        },
+        {
+            "name": "showusecost",
+            "current": "1",
+            "max": "",
+            "id": "-MNn_rk6gNUQ5bmhNpLM"
+        },
+        {
+            "name": "sheetusecost",
+            "current": "1",
+            "max": "",
+            "id": "-MNn_s-cNpHKyZVUBU5P"
+        },
+        {
+            "name": "settings_show",
+            "current": "0",
+            "max": "",
+            "id": "-MNn_sNahtoQGe7I7DXh"
+        },
+        {
+            "name": "type",
+            "current": "Explorer",
+            "max": "",
+            "id": "-MNna2UaU8CjSRLEho88"
+        },
+        {
+            "name": "might",
+            "current": "12",
+            "max": "12",
+            "id": "-MNna3198VpaCpYoKbj8"
+        },
+        {
+            "name": "damage-track",
+            "current": 0,
+            "max": "",
+            "id": "-MNna331Y7XE_X37a28I"
+        },
+        {
+            "name": "might_edge",
+            "current": "1",
+            "max": "",
+            "id": "-MNna3558ZbZ2cSi_NHO"
+        },
+        {
+            "name": "speed",
+            "current": "9",
+            "max": "9",
+            "id": "-MNna3EKf5a-JZpQMcxa"
+        },
+        {
+            "name": "speed_edge",
+            "current": "0",
+            "max": "",
+            "id": "-MNna3Nw1rwBNMrfAILX"
+        },
+        {
+            "name": "intellect",
+            "current": "9",
+            "max": "9",
+            "id": "-MNna3VwdjVCMXQO4FLe"
+        },
+        {
+            "name": "intellect_edge",
+            "current": "0",
+            "max": "",
+            "id": "-MNna4vGv4jdiaK_3L5I"
+        },
+        {
+            "name": "expand_abilities",
+            "current": "1",
+            "max": "",
+            "id": "-MNnaIYxOxHeHBB00cz7"
+        },
+        {
+            "name": "repeating_abilities_-MNnaItzldq50PBlEsf0_abilityname",
+            "current": "decipher",
+            "max": "",
+            "id": "-MNnaKnVLFwbMslLjItN"
+        },
+        {
+            "name": "repeating_abilities_-MNnaItzldq50PBlEsf0_abtype",
+            "current": "A",
+            "max": "",
+            "id": "-MNnaKpaqCy_lIOkHArK"
+        },
+        {
+            "name": "repeating_abilities_-MNnaItzldq50PBlEsf0_abilitystat",
+            "current": "intellect",
+            "max": "",
+            "id": "-MNnaLQUwpMHbniA5gNx"
+        },
+        {
+            "name": "repeating_abilities_-MNnaItzldq50PBlEsf0_abilitycost",
+            "current": "1",
+            "max": "",
+            "id": "-MNnaMUQnM2ykupNzDcR"
+        },
+        {
+            "name": "repeating_abilities_-MNnaItzldq50PBlEsf0_abilitydesc",
+            "current": "spend 1 minute and get gist of a code or writtenwords",
+            "max": "",
+            "id": "-MNnaTvcrETwiO0Yyqa7"
+        },
+        {
+            "name": "repeating_abilities_-MNnaItzldq50PBlEsf0_abilitychkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNnaWJzlead98FufKf6"
+        },
+        {
+            "name": "repeating_abilities_-MNnaWcYh89hnAg-AP5Z_abilityname",
+            "current": "endurance",
+            "max": "",
+            "id": "-MNnaYmKz3uGtUHBQCo3"
+        },
+        {
+            "name": "repeating_abilities_-MNnaWcYh89hnAg-AP5Z_abtype",
+            "current": "E",
+            "max": "",
+            "id": "-MNnaYoCsGSc68SzyEDL"
+        },
+        {
+            "name": "repeating_abilities_-MNnaWcYh89hnAg-AP5Z_abilityuse",
+            "current": "Enabler",
+            "max": "",
+            "id": "-MNnaZ0pvcc20OJOyKfX"
+        },
+        {
+            "name": "repeating_abilities_-MNnaWcYh89hnAg-AP5Z_abilitydesc",
+            "current": "any duration dealing with physical actions is halved or doubled",
+            "max": "",
+            "id": "-MNnahxTgLNMir05JHe7"
+        },
+        {
+            "name": "repeating_abilities_-MNnaWcYh89hnAg-AP5Z_abilitychkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNnaivEYx3mmJ3qvj24"
+        },
+        {
+            "name": "repeating_skills_-MNnat2D8g1gZE5v35MI_skillname",
+            "current": "knowledge: social networks",
+            "max": "",
+            "id": "-MNnb0uajPtUDqsiKH9e"
+        },
+        {
+            "name": "expand_skills",
+            "current": "1",
+            "max": "",
+            "id": "-MNnb0vTW0Kk4WGQ_3mZ"
+        },
+        {
+            "name": "repeating_skills_-MNnat2D8g1gZE5v35MI_skilledge",
+            "current": "@{intellect_edge}",
+            "max": "",
+            "id": "-MNnb0x_NgGrQnZnU2UU"
+        },
+        {
+            "name": "repeating_skills_-MNnat2D8g1gZE5v35MI_skillarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNnb0xdu8uqYXsVPd3y"
+        },
+        {
+            "name": "repeating_skills_-MNnat2D8g1gZE5v35MI_skilltype",
+            "current": "I • T",
+            "max": "",
+            "id": "-MNnb0xfAca3KEcjSGwc"
+        },
+        {
+            "name": "repeating_skills_-MNnb1NJsTTfqUpprJh7_skillname",
+            "current": "knowledge: conspiracies",
+            "max": "",
+            "id": "-MNnb5VzXqowWP8z-hx0"
+        },
+        {
+            "name": "repeating_skills_-MNnb1NJsTTfqUpprJh7_skilledge",
+            "current": "@{intellect_edge}",
+            "max": "",
+            "id": "-MNnb5Y5EkAspFSKHj5c"
+        },
+        {
+            "name": "repeating_skills_-MNnb1NJsTTfqUpprJh7_skillarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNnb5Y92do_SBOv1puP"
+        },
+        {
+            "name": "repeating_skills_-MNnb1NJsTTfqUpprJh7_skilltype",
+            "current": "I • T",
+            "max": "",
+            "id": "-MNnb5YDjEi-dFbIgLxh"
+        },
+        {
+            "name": "repeating_skills_-MNnat2D8g1gZE5v35MI_skillchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNnb6846r_gmVWGYo6I"
+        },
+        {
+            "name": "repeating_skills_-MNnb1NJsTTfqUpprJh7_skillchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNnb6PVKt3JJAnJCuZj"
+        },
+        {
+            "name": "repeating_abilities_-MNnbD5NdJrD2qlphsRj_abilityname",
+            "current": "fleet of foot",
+            "max": "",
+            "id": "-MNnbGt0WxZo-ZRlCLxM"
+        },
+        {
+            "name": "repeating_abilities_-MNnbD5NdJrD2qlphsRj_abtype",
+            "current": "E",
+            "max": "",
+            "id": "-MNnbGvF_SzuXBbFrZHO"
+        },
+        {
+            "name": "repeating_abilities_-MNnbD5NdJrD2qlphsRj_abilityuse",
+            "current": "Enabler",
+            "max": "",
+            "id": "-MNnbH8aKFNIkTHct-LG"
+        },
+        {
+            "name": "repeating_abilities_-MNnbD5NdJrD2qlphsRj_abilitydesc",
+            "current": "if you beat difficulty 2 for run action, you can move short AND take another action",
+            "max": "",
+            "id": "-MNnbSOWvKglo0mK1F02"
+        },
+        {
+            "name": "repeating_abilities_-MNnbD5NdJrD2qlphsRj_abilitychkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNnbTd9GsW_2hVOcuMh"
+        },
+        {
+            "name": "descriptor",
+            "current": "driven",
+            "max": "",
+            "id": "-MNnbcVrikpzkKtR1Fr-"
+        },
+        {
+            "name": "repeating_skills_-MNnbiGVOjiFDk2-r-tI_skillname",
+            "current": "intellect defense",
+            "max": "",
+            "id": "-MNnbkB1NKaTGcWoJU1O"
+        },
+        {
+            "name": "repeating_skills_-MNnbiGVOjiFDk2-r-tI_skilledge",
+            "current": "@{intellect_edge}",
+            "max": "",
+            "id": "-MNnbkDFYcd-OZJIqg98"
+        },
+        {
+            "name": "repeating_skills_-MNnbiGVOjiFDk2-r-tI_skillarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNnbkDKdVsPR_4vc_0P"
+        },
+        {
+            "name": "repeating_skills_-MNnbiGVOjiFDk2-r-tI_skilltype",
+            "current": "I • T",
+            "max": "",
+            "id": "-MNnbkDNLlf40xP9NWFf"
+        },
+        {
+            "name": "repeating_skills_-MNnbiGVOjiFDk2-r-tI_skillchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNnbkSUvaOpRVdvebd4"
+        },
+        {
+            "name": "repeating_abilities_-MNnbmUjq7HbnQ8qr7-v_abilityname",
+            "current": "driven",
+            "max": "",
+            "id": "-MNnbrFSGqf1VBdnKkRb"
+        },
+        {
+            "name": "repeating_abilities_-MNnbmUjq7HbnQ8qr7-v_abtype",
+            "current": "A",
+            "max": "",
+            "id": "-MNnbrHVX4ighXH4kqJx"
+        },
+        {
+            "name": "repeating_skills_-MNnbrcjOzN6BQQuZNeg_skillname",
+            "current": "Driven (daily choice)",
+            "max": "",
+            "id": "-MNnbtbeZ7-sntS3mgAk"
+        },
+        {
+            "name": "repeating_skills_-MNnbrcjOzN6BQQuZNeg_skilledge",
+            "current": "@{intellect_edge}",
+            "max": "",
+            "id": "-MNnbtdpZUXTYs2cjm26"
+        },
+        {
+            "name": "repeating_skills_-MNnbrcjOzN6BQQuZNeg_skillarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNnbtdtdztddiIQuYY1"
+        },
+        {
+            "name": "repeating_skills_-MNnbrcjOzN6BQQuZNeg_skilltype",
+            "current": "I • T",
+            "max": "",
+            "id": "-MNnbtdvE__YUWuVBdLF"
+        },
+        {
+            "name": "repeating_skills_-MNnbrcjOzN6BQQuZNeg_skillchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNnbu4kEpNg--U_yqpk"
+        },
+        {
+            "name": "repeating_skills_-MNnbwl3g1lzu5HpxzBN_skillname",
+            "current": "Innability: Perception",
+            "max": "",
+            "id": "-MNnbySZLdPYQqU4uWnb"
+        },
+        {
+            "name": "repeating_skills_-MNnbwl3g1lzu5HpxzBN_skilledge",
+            "current": "@{intellect_edge}",
+            "max": "",
+            "id": "-MNnbyUm5MKqFEc_5YYV"
+        },
+        {
+            "name": "repeating_skills_-MNnbwl3g1lzu5HpxzBN_skillarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNnbyUqvSJSfuRDVo1-"
+        },
+        {
+            "name": "repeating_skills_-MNnbwl3g1lzu5HpxzBN_skilltype",
+            "current": "I • I",
+            "max": "",
+            "id": "-MNnbyUt3kl7hLWnssSS"
+        },
+        {
+            "name": "repeating_skills_-MNnbwl3g1lzu5HpxzBN_skilllvl",
+            "current": "-1",
+            "max": "",
+            "id": "-MNnbybwxOvbu77sj7k6"
+        },
+        {
+            "name": "repeating_skills_-MNnbwl3g1lzu5HpxzBN_skillchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNnbz3EQV0raRfWFcQd"
+        },
+        {
+            "name": "focus",
+            "current": "looks for trouble",
+            "max": "",
+            "id": "-MNncOvAZeIbcZh2JEKG"
+        },
+        {
+            "name": "repeating_abilities_-MNncPNAQ-9ONv5OBdwr_abilityname",
+            "current": "brawler",
+            "max": "",
+            "id": "-MNncQa6SYrMFkO6q1Ww"
+        },
+        {
+            "name": "repeating_abilities_-MNncPNAQ-9ONv5OBdwr_abtype",
+            "current": "E",
+            "max": "",
+            "id": "-MNncQbwNW6-FlVsn8dC"
+        },
+        {
+            "name": "repeating_abilities_-MNncPNAQ-9ONv5OBdwr_abilityuse",
+            "current": "Enabler",
+            "max": "",
+            "id": "-MNncQp4UT5YpQcGXz76"
+        },
+        {
+            "name": "repeating_abilities_-MNncPNAQ-9ONv5OBdwr_abilitydesc",
+            "current": "melee damade +1",
+            "max": "",
+            "id": "-MNncSu_xGlK-sya_JEh"
+        },
+        {
+            "name": "repeating_abilities_-MNncPNAQ-9ONv5OBdwr_abilitychkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNncTIZQA_VSejAxiBD"
+        },
+        {
+            "name": "repeating_abilities_-MNnbmUjq7HbnQ8qr7-v_abilitychkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNncTXaC2kCZOGrHbzC"
+        },
+        {
+            "name": "repeating_skills_-MNncYLBrOdMOp4O0vP0_skillname",
+            "current": "healing / first aid",
+            "max": "",
+            "id": "-MNnc_o0lQ1kPD1d4bgX"
+        },
+        {
+            "name": "repeating_skills_-MNncYLBrOdMOp4O0vP0_skilledge",
+            "current": "@{intellect_edge}",
+            "max": "",
+            "id": "-MNnc_q2I5bo37rWsF-C"
+        },
+        {
+            "name": "repeating_skills_-MNncYLBrOdMOp4O0vP0_skillarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNnc_q51PjhgOhYw8LK"
+        },
+        {
+            "name": "repeating_skills_-MNncYLBrOdMOp4O0vP0_skilltype",
+            "current": "I • T",
+            "max": "",
+            "id": "-MNnc_q9vRMJceVeToYC"
+        },
+        {
+            "name": "repeating_skills_-MNncYLBrOdMOp4O0vP0_skillchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNnca4d67WOB2pyOj3a"
+        },
+        {
+            "name": "repeating_attacks_-MNnciQa5G3ZYZ6Pjkb7_atkname",
+            "current": "Baton",
+            "max": "",
+            "id": "-MNncm87KldXGuCxTfhP"
+        },
+        {
+            "name": "repeating_attacks_-MNnciQa5G3ZYZ6Pjkb7_weapontype",
+            "current": "0 • 2",
+            "max": "",
+            "id": "-MNncmACRlr9_kcBq9FX"
+        },
+        {
+            "name": "repeating_attacks_-MNnciQa5G3ZYZ6Pjkb7_atkdmg",
+            "current": "2",
+            "max": "",
+            "id": "-MNncnPLpiu1lu0nNVMl"
+        },
+        {
+            "name": "expand_weapons",
+            "current": "1",
+            "max": "",
+            "id": "-MNncnih4b90RdQt2Xog"
+        },
+        {
+            "name": "repeating_atks_-MNncqanPLfSHoOwht7Y_atkname",
+            "current": "Baton",
+            "max": "",
+            "id": "-MNncrg5zduLPHEEgBnr"
+        },
+        {
+            "name": "repeating_atks_-MNncqanPLfSHoOwht7Y_atkedge",
+            "current": "@{might_edge}",
+            "max": "",
+            "id": "-MNncriPnUIJRhnn3wBe"
+        },
+        {
+            "name": "repeating_atks_-MNncqanPLfSHoOwht7Y_atkarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNncriU0tInxvqr1ukF"
+        },
+        {
+            "name": "repeating_atks_-MNncqanPLfSHoOwht7Y_atktype",
+            "current": "M • 3",
+            "max": "",
+            "id": "-MNncriWAydIIIFOxYWj"
+        },
+        {
+            "name": "repeating_atks_-MNncqanPLfSHoOwht7Y_atkdmg",
+            "current": "3",
+            "max": "",
+            "id": "-MNncsL6kJHRaZNhJ5BJ"
+        },
+        {
+            "name": "repeating_atks_-MNncqanPLfSHoOwht7Y_atklvl",
+            "current": "1",
+            "max": "",
+            "id": "-MNncsaCArO9hUPGkXx8"
+        },
+        {
+            "name": "expand_attacks",
+            "current": "1",
+            "max": "",
+            "id": "-MNnctA1dhKBj-U08-Jq"
+        },
+        {
+            "name": "repeating_atks_-MNnctqEJZIdXd-i0VgB_atkname",
+            "current": "Punch/Kick",
+            "max": "",
+            "id": "-MNncvKSZ7UhPUFJjSVA"
+        },
+        {
+            "name": "repeating_atks_-MNnctqEJZIdXd-i0VgB_atkedge",
+            "current": "@{might_edge}",
+            "max": "",
+            "id": "-MNncvMSCacZW0Uy6d09"
+        },
+        {
+            "name": "repeating_atks_-MNnctqEJZIdXd-i0VgB_atkarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNncvMUgXXUxlY_-JQV"
+        },
+        {
+            "name": "repeating_atks_-MNnctqEJZIdXd-i0VgB_atktype",
+            "current": "M • 3",
+            "max": "",
+            "id": "-MNncvMYYu5oAS8N0qtq"
+        },
+        {
+            "name": "repeating_atks_-MNnctqEJZIdXd-i0VgB_atkdmg",
+            "current": "3",
+            "max": "",
+            "id": "-MNncwSx5MpPGz8VnMhD"
+        },
+        {
+            "name": "repeating_atks_-MNnctqEJZIdXd-i0VgB_atkchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNncxcY2h_Vxp-ij91F"
+        },
+        {
+            "name": "repeating_attacks_-MNnciQa5G3ZYZ6Pjkb7_weapchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNncxwckQioITgEks-A"
+        },
+        {
+            "name": "repeating_atks_-MNncqanPLfSHoOwht7Y_atkchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNncyVIvlxCdaxbG53s"
+        },
+        {
+            "name": "repeating_cypher-list_-MNncyyzU0s73HN-zwew_cypher-name",
+            "current": "pepper spray",
+            "max": "",
+            "id": "-MNnd-oyAnBD5KOvUf5L"
+        },
+        {
+            "name": "repeating_cypher-list_-MNncyyzU0s73HN-zwew_cypher-level",
+            "current": "3",
+            "max": "",
+            "id": "-MNnd09JQCckRSkYhYE2"
+        },
+        {
+            "name": "repeating_cypher-list_-MNncyyzU0s73HN-zwew_cypher-description",
+            "current": "daze target for 1 minute",
+            "max": "",
+            "id": "-MNnd32hCgD9sEESQ6eG"
+        }
+    ],
+    "abilities": []
+}

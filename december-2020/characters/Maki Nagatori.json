@@ -1,0 +1,207 @@
+{
+    "schema_version": 2,
+    "oldId": "-MNsjCd6Mf_pvYRaCEDk",
+    "name": "Maki Nagatori",
+    "avatar": "https://s3.amazonaws.com/files.d20.io/images/183412072/fpKXSdp-5-oZMCZDjt0_aw/med.jpg?1607269870",
+    "bio": "%3Cp%3EThe%20stalwart%20wing-man%20for%20Lorleen%20Nena.%20He%27s%20in%20charge%20of%20making%20sure%20to%20help%20Lorleen%20when%20she%20inevitably%20get%20in%20over%20he%20head.%20Trained%20as%20a%20JSDF%20%22S%22%20%28special%29%20unit%2C%20he%27s%20very%20quick%20and%20creative%20in%20a%20fight%20and%20know%20how%20to%20extract%20assets%20%28like%20Lorleen%29.%3Cbr%3E%3Cb%3E%3Cbr%3E%3C/b%3E%3C/p%3E%3Cp%3E%3Cb%3E%3Cbr%3E%3C/b%3E%3C/p%3E%3Cp%3E%3Cb%3EMotivations%3C/b%3E%3Cbr%3E%3Cbr%3E-%20Help%20Lorleen%20out%20of%20trouble%3Cbr%3E%3Cbr%3E%3Cb%3EConnections%3C/b%3E%3Cbr%3E%3Cbr%3E-%20Partner%20to%20Lorleen%20Nena%3Cbr%3E%3Cbr%3E-%20Ex%20Japanese%20Self-Defense%20Force%20%22S%22%20%28special%20unit%29%3Cbr%3E%3Cbr%3E-%20Has%20met%20and%20worked%20with%20Mr.%20Combs%20before%20to%20keep%20something%20secret%3Cbr%3E%3Cbr%3E%3C/p%3E",
+    "gmnotes": "",
+    "defaulttoken": "{\"left\":222,\"top\":94,\"width\":51,\"height\":64,\"imgsrc\":\"https://s3.amazonaws.com/files.d20.io/images/183499250/UOgDxc9IIPMt0z9lDigOeA/max.png?1607287126\",\"page_id\":\"-MNfFwJ_EMLkPaX_cmM-\",\"layer\":\"objects\",\"name\":\"Maki Nagatori\",\"represents\":\"-MNsjCd6Mf_pvYRaCEDk\",\"bar1_link\":\"sheetattr_speed\",\"bar2_link\":\"sheetattr_intellect\",\"bar3_link\":\"sheetattr_might\",\"showname\":true,\"lastmove\":\"194,83\",\"night_vision_tint\":\"\"}",
+    "tags": "[]",
+    "controlledby": "",
+    "inplayerjournals": "",
+    "attribs": [
+        {
+            "name": "gnlsettings_sheet_style",
+            "current": "0",
+            "max": "",
+            "id": "-MNsjCeO9aCk-IMrCz-S"
+        },
+        {
+            "name": "version",
+            "current": 2.1,
+            "max": "",
+            "id": "-MNsjD78zewWTgOTpFZ7"
+        },
+        {
+            "name": "rollqstasset",
+            "current": "@{rollvarasset}[Asset]",
+            "max": "",
+            "id": "-MNsjD7GCFdKmRSthm9x"
+        },
+        {
+            "name": "rollqstbonus",
+            "current": "@{rollvarbonus}[Bonus]",
+            "max": "",
+            "id": "-MNsjD7LTmGUTS-jrntT"
+        },
+        {
+            "name": "rollqstcost",
+            "current": "@{rollvarcost}[Cost]",
+            "max": "",
+            "id": "-MNsjD7RBd8e4I8kfd7w"
+        },
+        {
+            "name": "rollqstdiff",
+            "current": "@{rollvardiff}[Difficulty]",
+            "max": "",
+            "id": "-MNsjD7VCri6o5o5CWJZ"
+        },
+        {
+            "name": "rollqstrolleff",
+            "current": "@{rollvarrolleff}[Roll Effort]",
+            "max": "",
+            "id": "-MNsjD7Xrycn5AZKkr4y"
+        },
+        {
+            "name": "rollqstrolldmg",
+            "current": "@{rollvarrolldmg}[Damage Effort]",
+            "max": "",
+            "id": "-MNsjD7ajsI9NvyrWCdF"
+        },
+        {
+            "name": "sheet_rolls",
+            "current": "0",
+            "max": "",
+            "id": "-MNsjGCYku21ZyhGl6EN"
+        },
+        {
+            "name": "showuseasset",
+            "current": "0",
+            "max": "",
+            "id": "-MNsjGEsrgqZcMUZ5iHp"
+        },
+        {
+            "name": "showusebonus",
+            "current": "0",
+            "max": "",
+            "id": "-MNsjGEvvSNA2NE4iXo6"
+        },
+        {
+            "name": "showusecost",
+            "current": "1",
+            "max": "",
+            "id": "-MNsjGEyAxZsc-XIn7VK"
+        },
+        {
+            "name": "sheet_style",
+            "current": "99",
+            "max": "",
+            "id": "-MNsjGTSJuXbqh4-d-Wh"
+        },
+        {
+            "name": "sheet_style_0",
+            "current": 0,
+            "max": "",
+            "id": "-MNsjGVKmqMDJZx3Uwp7"
+        },
+        {
+            "name": "sheet_style_1",
+            "current": 0,
+            "max": "",
+            "id": "-MNsjGVTuSA4jHSYZlfJ"
+        },
+        {
+            "name": "sheet_style_2",
+            "current": 0,
+            "max": "",
+            "id": "-MNsjGVX6D6FGdkMdmPL"
+        },
+        {
+            "name": "sheet_style_99",
+            "current": 1,
+            "max": "",
+            "id": "-MNsjGVc0WtHlXaD-LPn"
+        },
+        {
+            "name": "npcbasetn",
+            "current": 12,
+            "max": "",
+            "id": "-MNsjGVwvD7jbFDTEBy0"
+        },
+        {
+            "name": "sheet_font_easy",
+            "current": "font-easy",
+            "max": "",
+            "id": "-MNsjGlmK-WdXiu3WLrW"
+        },
+        {
+            "name": "sheetusecost",
+            "current": "1",
+            "max": "",
+            "id": "-MNsjH2czCcGEVh-pHVF"
+        },
+        {
+            "name": "settings_show",
+            "current": "0",
+            "max": "",
+            "id": "-MNsjHMaBFcKvPYGrSjO"
+        },
+        {
+            "name": "level",
+            "current": "4",
+            "max": "",
+            "id": "-MNsjMl2J9GU4PbAtkJ9"
+        },
+        {
+            "name": "health",
+            "current": "12",
+            "max": "12",
+            "id": "-MNsjNGeatu9RHqL5spf"
+        },
+        {
+            "name": "repeating_npcmods_-MNsjPKmszIMmZ8b5wAx_npcmods-name",
+            "current": "Perception",
+            "max": "",
+            "id": "-MNsjQTN-J6NLr_sjooy"
+        },
+        {
+            "name": "repeating_npcmods_-MNsjPKmszIMmZ8b5wAx_npcmods-level",
+            "current": "5",
+            "max": "",
+            "id": "-MNsjRIdflpK3XPi4aQR"
+        },
+        {
+            "name": "repeating_npcmods_-MNsjRZ2dvnJygNfhgEw_npcmods-name",
+            "current": "Speed Defense",
+            "max": "",
+            "id": "-MNsjTPszzDgvhsSbJlj"
+        },
+        {
+            "name": "repeating_npcmods_-MNsjRZ2dvnJygNfhgEw_npcmods-level",
+            "current": "5",
+            "max": "",
+            "id": "-MNsjUK_kEqfrzv8QfWJ"
+        },
+        {
+            "name": "damage",
+            "current": "4",
+            "max": "",
+            "id": "-MNsjWr9afqo1I0dL_Nq"
+        },
+        {
+            "name": "npcmovement",
+            "current": "short",
+            "max": "",
+            "id": "-MNsjY9SdPeuMXL9BrIj"
+        },
+        {
+            "name": "npcmotive",
+            "current": "Help Lorleen out of Trouble",
+            "max": "",
+            "id": "-MNsjaR2L4kCrlMEhhJO"
+        },
+        {
+            "name": "npcdescription",
+            "current": "Ex-JSDF \"S\" partner with Loreen",
+            "max": "",
+            "id": "-MNsjd4bAtBFOAXgCRAB"
+        },
+        {
+            "name": "npccombat",
+            "current": "Bare hands, Knife. Trained in all weapons, including improvised",
+            "max": "",
+            "id": "-MNsjjwI324Wa5OYNaQc"
+        }
+    ],
+    "abilities": []
+}

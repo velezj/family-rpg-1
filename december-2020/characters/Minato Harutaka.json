@@ -1,0 +1,819 @@
+{
+    "schema_version": 2,
+    "oldId": "-MNoweiHjB6e0A-xlNas",
+    "name": "Minato Harutaka",
+    "avatar": "https://s3.amazonaws.com/files.d20.io/images/183260946/mJ8Kst28FkkIjUACDOxoeA/med.jpg?1607215446",
+    "bio": "%3Cp%3ESince%20birth%2C%20Minato%20has%20shown%20a%20rigid%20understanding%20of%20law%20and%20order.%20She%20would%20often%20remind%20the%20adults%20around%20her%20about%20any%20rules%20that%20were%20being%20ignored%20or%20forgotten.%26nbsp%3B%20Books%20about%20ancient%20empires%20and%20historic%20battles%20enthralled%20her%20to%20the%20point%20that%20she%20became%20the%20de-facto%20historian%20of%20her%20family.%20Other%20than%20reading%20up%20on%20ancient%20rulers%2C%20her%20second%20passion%20was%20dance.%20She%20felt%20that%20dancing%20allowed%20her%20to%20be%20free%20from%20all%20order%20in%20a%20way%20that%20was%20encouraged%20by%20society.%3Cbr%3E%3C/p%3E%3Cp%3E%3Cbr%3E%3C/p%3E%3Cp%3EShe%20enlisted%20into%20the%20JSDF%20directly%20after%20finishing%20high%20school.%26nbsp%3B%20Her%20historical%20knowledge%2C%20especially%20of%20tactics%2C%20and%20her%20superb%20control%20of%20her%20body%20tuned%20by%20years%20of%20dancing%20made%20attracted%20the%20attention%20of%20her%20senior%20officers.%20She%20was%20put%20into%20the%20officer%27s%20track.%20However%2C%20her%20flexibility%20in%20body%20did%20not%20match%20her%20flexibility%20in%20her%20thinking.%26nbsp%3B%20It%20became%20clear%2C%20both%20to%20her%20and%20her%20superiors%2C%20that%20she%20was%20not%20cut%20out%20to%20lead%20large%20groups%20of%20people.%20Rather%2C%20she%20was%20exactly%20the%20person%20to%20lead%20a%20small%2C%20autonomous%20group%20that%20was%20able%20to%20exactly%20follow%20orders%20and%20get%20things%20done%20%28no%20matter%20how%20hard%29.%20She%20was%20moved%20into%20the%20S%20program%20where%20she%20thrived.%3C/p%3E%3Cp%3E%3Cbr%3E%3C/p%3E%3Cp%3EShe%20was%20given%20a%20post%20in%20the%20naval%20arm%20of%20the%20JSDF%2C%20being%20able%20to%20work%20in%20both%20land%2C%20sea%2C%20and%20air%20environments%20without%20difficulty%20is%20a%20rare%20find%20after%20all.%20She%20leads%20a%20small%20recognizance%20team%20of%204.%3C/p%3E%3Cp%3E%3Cbr%3E%3C/p%3E%3Cp%3E%3Cb%3EMotivations%3C/b%3E%3Cbr%3E%3Cbr%3E-%20Duty%20as%20a%20JSDF%20%22S%22.%20Pride%20and%20honor%20in%20getting%20the%20mission%20done%20well.%3Cbr%3E%3Cbr%3E-%20Control%20illegal%20smuggling%20activity%20around%20Japan%20and%20Micronesia%3Cbr%3E%3Cbr%3E%3Cb%3EConnections%3C/b%3E%3Cbr%3E%3Cbr%3E-%20Sometimes%20works%20under%20Mr.%20Combs%3Cbr%3E%3Cbr%3E-%20Knows%20about%20Jimmy%20but%20no%20order%20to%20take%20down%20yet%3Cbr%3E%3Cbr%3E-%20Knows%20about%20Naomi%20%28although%20not%20her%20background%20or%20the%20extent%20of%20her%20connections%29%3Cbr%3E%3Cbr%3E-%20Has%20investigated%20and%20tailed%20Howard%20Rendalt%3Cbr%3E%3Cbr%3E%3C/p%3E",
+    "gmnotes": "",
+    "defaulttoken": "{\"left\":539,\"top\":94,\"width\":56,\"height\":64,\"imgsrc\":\"https://s3.amazonaws.com/files.d20.io/images/183499251/AkgiLxLfG5xbsPNzH305QA/max.png?1607287126\",\"page_id\":\"-MNfFwJ_EMLkPaX_cmM-\",\"layer\":\"objects\",\"name\":\"Minato Harutaka\",\"represents\":\"-MNoweiHjB6e0A-xlNas\",\"bar1_value\":16,\"bar1_max\":16,\"bar1_link\":\"-MNowohdnupk_62TTag5\",\"bar2_value\":10,\"bar2_max\":10,\"bar2_link\":\"-MNowozsWBxmfg1QOgne\",\"bar3_value\":10,\"bar3_max\":10,\"bar3_link\":\"-MNowoHX39XVlkO0oTfj\",\"showname\":true,\"night_vision_tint\":\"\"}",
+    "tags": "[]",
+    "controlledby": "",
+    "inplayerjournals": "",
+    "attribs": [
+        {
+            "name": "gnlsettings_sheet_style",
+            "current": "0",
+            "max": "",
+            "id": "-MNowej71UEKdCDIJzkc"
+        },
+        {
+            "name": "version",
+            "current": 2.1,
+            "max": "",
+            "id": "-MNowf5mBFsQ96qB9JYn"
+        },
+        {
+            "name": "rollqstasset",
+            "current": "@{rollvarasset}[Asset]",
+            "max": "",
+            "id": "-MNowf5qhMcRrPFghwE0"
+        },
+        {
+            "name": "rollqstbonus",
+            "current": "@{rollvarbonus}[Bonus]",
+            "max": "",
+            "id": "-MNowf5tWqYn8NEdt_ee"
+        },
+        {
+            "name": "rollqstcost",
+            "current": "@{rollvarcost}[Cost]",
+            "max": "",
+            "id": "-MNowf5v_x5cc_7-hCIj"
+        },
+        {
+            "name": "rollqstdiff",
+            "current": "@{rollvardiff}[Difficulty]",
+            "max": "",
+            "id": "-MNowf5yXmMZgz7IJrnG"
+        },
+        {
+            "name": "rollqstrolleff",
+            "current": "@{rollvarrolleff}[Roll Effort]",
+            "max": "",
+            "id": "-MNowf61BQNggSK1Pidv"
+        },
+        {
+            "name": "rollqstrolldmg",
+            "current": "@{rollvarrolldmg}[Damage Effort]",
+            "max": "",
+            "id": "-MNowf62B-IzckjGE2ww"
+        },
+        {
+            "name": "sheet_style",
+            "current": "0",
+            "max": "",
+            "id": "-MNowg10_v_DB-1NYbQu"
+        },
+        {
+            "name": "sheet_style_0",
+            "current": 1,
+            "max": "",
+            "id": "-MNowg2o5_G6xWsAB4LJ"
+        },
+        {
+            "name": "sheet_style_1",
+            "current": 0,
+            "max": "",
+            "id": "-MNowg2xJnWFdJdlhk04"
+        },
+        {
+            "name": "sheet_style_2",
+            "current": 0,
+            "max": "",
+            "id": "-MNowg30yckc5rd1a5FL"
+        },
+        {
+            "name": "sheet_style_99",
+            "current": 0,
+            "max": "",
+            "id": "-MNowg33t7ByOMHkHApi"
+        },
+        {
+            "name": "sheet_font_easy",
+            "current": "font-easy",
+            "max": "",
+            "id": "-MNowgP1jHQThztRIsJB"
+        },
+        {
+            "name": "sheet_rolls",
+            "current": "0",
+            "max": "",
+            "id": "-MNowgmZnsrTrCyKODbH"
+        },
+        {
+            "name": "showuseasset",
+            "current": "0",
+            "max": "",
+            "id": "-MNowgoncDBQ3kbhIT0z"
+        },
+        {
+            "name": "showusebonus",
+            "current": "0",
+            "max": "",
+            "id": "-MNowgoohICOvxhQsBKa"
+        },
+        {
+            "name": "showusecost",
+            "current": "1",
+            "max": "",
+            "id": "-MNowgoqnThFudJMVAuI"
+        },
+        {
+            "name": "sheetusecost",
+            "current": "1",
+            "max": "",
+            "id": "-MNowh3xd0xXAtptvM1F"
+        },
+        {
+            "name": "settings_show",
+            "current": "0",
+            "max": "",
+            "id": "-MNowhtFhpEOwmToV6jB"
+        },
+        {
+            "name": "type",
+            "current": "Warrior",
+            "max": "",
+            "id": "-MNownzjL1ZISCIX4PCf"
+        },
+        {
+            "name": "might",
+            "current": "10",
+            "max": "10",
+            "id": "-MNowoHX39XVlkO0oTfj"
+        },
+        {
+            "name": "damage-track",
+            "current": 0,
+            "max": "",
+            "id": "-MNowoJMYq1LMYyvM5he"
+        },
+        {
+            "name": "might_edge",
+            "current": "1",
+            "max": "",
+            "id": "-MNowoMiwDnx6lo_N63H"
+        },
+        {
+            "name": "speed",
+            "current": "16",
+            "max": "16",
+            "id": "-MNowohdnupk_62TTag5"
+        },
+        {
+            "name": "speed_edge",
+            "current": "1",
+            "max": "",
+            "id": "-MNowotYMkDBXN5rn5tV"
+        },
+        {
+            "name": "intellect",
+            "current": "10",
+            "max": "10",
+            "id": "-MNowozsWBxmfg1QOgne"
+        },
+        {
+            "name": "intellect_edge",
+            "current": "0",
+            "max": "",
+            "id": "-MNowpmFS0O_BXrdGdvS"
+        },
+        {
+            "name": "initname",
+            "current": "Initiative",
+            "max": "",
+            "id": "-MNowurUR7cmHevzgrGi"
+        },
+        {
+            "name": "initedge",
+            "current": "@{speed_edge}",
+            "max": "",
+            "id": "-MNowutLFMsLTmF_e_kk"
+        },
+        {
+            "name": "inittype",
+            "current": "S • U",
+            "max": "",
+            "id": "-MNowutPRzMF-ljM6XjY"
+        },
+        {
+            "name": "initarmorcost",
+            "current": "@{armorspeedcost}",
+            "max": "",
+            "id": "-MNowutSjDYRu-ZKsSno"
+        },
+        {
+            "name": "expand_skills",
+            "current": "1",
+            "max": "",
+            "id": "-MNowvaQZRZCiz3NvVa2"
+        },
+        {
+            "name": "expand_abilities",
+            "current": "1",
+            "max": "",
+            "id": "-MNoww4lniiIiswZLIxS"
+        },
+        {
+            "name": "repeating_abilities_-MNowz44VoxdOjaTCcyz_abilityname",
+            "current": "Overwatch",
+            "max": "",
+            "id": "-MNox-qMNyrGRIQ4FeyI"
+        },
+        {
+            "name": "repeating_abilities_-MNowz44VoxdOjaTCcyz_abtype",
+            "current": "A",
+            "max": "",
+            "id": "-MNox-sOMOc1L5mCza1-"
+        },
+        {
+            "name": "repeating_abilities_-MNowz44VoxdOjaTCcyz_abilitycost",
+            "current": "1",
+            "max": "",
+            "id": "-MNox0N2NvclklfvYafV"
+        },
+        {
+            "name": "repeating_abilities_-MNowz44VoxdOjaTCcyz_abilitystat",
+            "current": "intellect",
+            "max": "",
+            "id": "-MNox0j0buU3R-Dr3YoB"
+        },
+        {
+            "name": "repeating_abilities_-MNowz44VoxdOjaTCcyz_abilitydesc",
+            "current": "Using a ranged weapon, you tager a limited area and make an attack on next target that enteres area. This attack ignores any beneftis target for cover, sneaking, surprise, range. The damage to target is +1. Can stay in overwatch for a reasonable time.",
+            "max": "",
+            "id": "-MNox_g_WDx-2F_D2IFs"
+        },
+        {
+            "name": "repeating_abilities_-MNoxdsXTAvedBKeCHa1_abilityname",
+            "current": "Practiced in Armor",
+            "max": "",
+            "id": "-MNoxfY7vsy9ns8tfoUb"
+        },
+        {
+            "name": "repeating_abilities_-MNoxdsXTAvedBKeCHa1_abtype",
+            "current": "E",
+            "max": "",
+            "id": "-MNoxf_A86NWVJmz0Zpd"
+        },
+        {
+            "name": "repeating_abilities_-MNoxdsXTAvedBKeCHa1_abilityuse",
+            "current": "Enabler",
+            "max": "",
+            "id": "-MNoxgFiNbHcEI4CacNZ"
+        },
+        {
+            "name": "armor",
+            "current": "2",
+            "max": "",
+            "id": "-MNoxnTTzIWSEPw5T2pR"
+        },
+        {
+            "name": "repeating_abilities_-MNoxdsXTAvedBKeCHa1_abilitychkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNoxvyuqm6BOOvIrQP4"
+        },
+        {
+            "name": "repeating_abilities_-MNowz44VoxdOjaTCcyz_abilitychkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNoxwJe5ZnP5KMPHPN1"
+        },
+        {
+            "name": "repeating_abilities_-MNoxwopPp-ha9qGWb3I_abilityname",
+            "current": "Control The Field",
+            "max": "",
+            "id": "-MNoxypbe3qWOeF6rpt2"
+        },
+        {
+            "name": "repeating_abilities_-MNoxwopPp-ha9qGWb3I_abtype",
+            "current": "A",
+            "max": "",
+            "id": "-MNoxyrQsr6Y8WayMkmF"
+        },
+        {
+            "name": "repeating_abilities_-MNoxwopPp-ha9qGWb3I_abilitycost",
+            "current": "1",
+            "max": "",
+            "id": "-MNoxzftE6fTRI7yACN6"
+        },
+        {
+            "name": "repeating_abilities_-MNoxwopPp-ha9qGWb3I_abilitystat",
+            "current": "might",
+            "max": "",
+            "id": "-MNoxzxfUoQDoiHqtNUZ"
+        },
+        {
+            "name": "repeating_abilities_-MNoxwopPp-ha9qGWb3I_abilitydesc",
+            "current": "Melee attack with -1 damage, but can position target anywhere within immediate range (even if target not hit)",
+            "max": "",
+            "id": "-MNoy6M_Kh6_Z3nuYO3s"
+        },
+        {
+            "name": "repeating_atks_-MNoy7TetABrG2dLMoIM_atkname",
+            "current": "control field",
+            "max": "",
+            "id": "-MNoy8km-Xx0KBoR0B5M"
+        },
+        {
+            "name": "repeating_atks_-MNoy7TetABrG2dLMoIM_atkedge",
+            "current": "@{might_edge}",
+            "max": "",
+            "id": "-MNoy8mcgcWZsNAd77k3"
+        },
+        {
+            "name": "repeating_atks_-MNoy7TetABrG2dLMoIM_atkarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNoy8mficWtZVgzicsb"
+        },
+        {
+            "name": "repeating_atks_-MNoy7TetABrG2dLMoIM_atktype",
+            "current": "M • 1",
+            "max": "",
+            "id": "-MNoy8mgDNP2ehzojrJ7"
+        },
+        {
+            "name": "repeating_atks_-MNoy7TetABrG2dLMoIM_atkdmg",
+            "current": "1",
+            "max": "",
+            "id": "-MNoy9cW4HKqPSenGrOD"
+        },
+        {
+            "name": "repeating_atks_-MNoy7TetABrG2dLMoIM_atklvl",
+            "current": "1",
+            "max": "",
+            "id": "-MNoyA7MxYMT5kQ0-hff"
+        },
+        {
+            "name": "expand_attacks",
+            "current": "1",
+            "max": "",
+            "id": "-MNoyAug9JayRs7_DbCI"
+        },
+        {
+            "name": "repeating_abilities_-MNoxwopPp-ha9qGWb3I_abilitychkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNoyBZtfQXXloouInC9"
+        },
+        {
+            "name": "descriptor",
+            "current": "Graceful",
+            "max": "",
+            "id": "-MNoyLy44qKrJDg4sE-n"
+        },
+        {
+            "name": "repeating_skills_-MNoyMrWkcg-reqA4Loy_skillname",
+            "current": "Physical: Balance / Careful",
+            "max": "",
+            "id": "-MNoyPgd3O3QGL9sk_lY"
+        },
+        {
+            "name": "repeating_skills_-MNoyMrWkcg-reqA4Loy_skilledge",
+            "current": "@{speed_edge}",
+            "max": "",
+            "id": "-MNoyPibqrc51eSPRpuk"
+        },
+        {
+            "name": "repeating_skills_-MNoyMrWkcg-reqA4Loy_skillarmorcost",
+            "current": "@{armorspeedcost}",
+            "max": "",
+            "id": "-MNoyPienr9NgVZKacCp"
+        },
+        {
+            "name": "repeating_skills_-MNoyMrWkcg-reqA4Loy_skilltype",
+            "current": "S • T",
+            "max": "",
+            "id": "-MNoyPih97ygdLr8ORo5"
+        },
+        {
+            "name": "repeating_skills_-MNoySYHjRtb5eVJwGH-_skillname",
+            "current": "Physical Performing Arts",
+            "max": "",
+            "id": "-MNoyUsWto2nyBDQi80P"
+        },
+        {
+            "name": "repeating_skills_-MNoySYHjRtb5eVJwGH-_skillchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNoyUtHPvjVz4XZFdr0"
+        },
+        {
+            "name": "repeating_skills_-MNoySYHjRtb5eVJwGH-_skilledge",
+            "current": "@{speed_edge}",
+            "max": "",
+            "id": "-MNoyUvTMyxeMqp9Z1Jp"
+        },
+        {
+            "name": "repeating_skills_-MNoySYHjRtb5eVJwGH-_skillarmorcost",
+            "current": "@{armorspeedcost}",
+            "max": "",
+            "id": "-MNoyUvVsCMvRr12Ow6g"
+        },
+        {
+            "name": "repeating_skills_-MNoySYHjRtb5eVJwGH-_skilltype",
+            "current": "S • T",
+            "max": "",
+            "id": "-MNoyUvWEh5xipmrniw8"
+        },
+        {
+            "name": "repeating_skills_-MNoyMrWkcg-reqA4Loy_skillchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNoyV8f-nZU9n8vGMpp"
+        },
+        {
+            "name": "repeating_skills_-MNoySYHjRtb5eVJwGH-_skillstat",
+            "current": "speed",
+            "max": "",
+            "id": "-MNoyWup-J8CukDXkHR7"
+        },
+        {
+            "name": "repeating_skills_-MNoyMrWkcg-reqA4Loy_skillstat",
+            "current": "speed",
+            "max": "",
+            "id": "-MNoyY2HdcKlEvw6nFSZ"
+        },
+        {
+            "name": "repeating_skills_-MNoyaIRc0U-n2hl6HpV_skillname",
+            "current": "Speed Defense",
+            "max": "",
+            "id": "-MNoybVgW082BwnwxlkD"
+        },
+        {
+            "name": "repeating_skills_-MNoyaIRc0U-n2hl6HpV_skilledge",
+            "current": "@{speed_edge}",
+            "max": "",
+            "id": "-MNoybXlcZfqOEvrpPYG"
+        },
+        {
+            "name": "repeating_skills_-MNoyaIRc0U-n2hl6HpV_skillarmorcost",
+            "current": "@{armorspeedcost}",
+            "max": "",
+            "id": "-MNoybXmGGu6rBnF5Qaz"
+        },
+        {
+            "name": "repeating_skills_-MNoyaIRc0U-n2hl6HpV_skilltype",
+            "current": "S • T",
+            "max": "",
+            "id": "-MNoybXp_QZKr5TshN3g"
+        },
+        {
+            "name": "repeating_skills_-MNoyaIRc0U-n2hl6HpV_skillstat",
+            "current": "speed",
+            "max": "",
+            "id": "-MNoybo3yOSoaPsOpVrm"
+        },
+        {
+            "name": "repeating_skills_-MNoyaIRc0U-n2hl6HpV_skillchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNoycJpgHhrDMPMdAZY"
+        },
+        {
+            "name": "repeating_attacks_-MNoyfCOPkX0Q8yKXRhY_atkname",
+            "current": "sidearm",
+            "max": "",
+            "id": "-MNoygEt8jGjFi-dyKlA"
+        },
+        {
+            "name": "repeating_attacks_-MNoyfCOPkX0Q8yKXRhY_weapontype",
+            "current": "0 • 4",
+            "max": "",
+            "id": "-MNoygGu9dyCJT0GAdwx"
+        },
+        {
+            "name": "repeating_attacks_-MNoyfCOPkX0Q8yKXRhY_atkdmg",
+            "current": "4",
+            "max": "",
+            "id": "-MNoygqM6YwuaV05Q4VU"
+        },
+        {
+            "name": "repeating_attacks_-MNoyfCOPkX0Q8yKXRhY_ammunition",
+            "current": "20",
+            "max": "",
+            "id": "-MNoyhphDf8JUFsbSRPB"
+        },
+        {
+            "name": "expand_weapons",
+            "current": "1",
+            "max": "",
+            "id": "-MNoyhr-GZe_YdGp3uZv"
+        },
+        {
+            "name": "repeating_attacks_-MNoyiT79D83y4RFtGiB_atkname",
+            "current": "Knife",
+            "max": "",
+            "id": "-MNoynTI76Wtr6Xz55ud"
+        },
+        {
+            "name": "repeating_attacks_-MNoyiT79D83y4RFtGiB_weapontype",
+            "current": "0 • 2",
+            "max": "",
+            "id": "-MNoynVLH8f0a6yhT4WG"
+        },
+        {
+            "name": "repeating_attacks_-MNoyiT79D83y4RFtGiB_atkdmg",
+            "current": "2",
+            "max": "",
+            "id": "-MNoyoFaWWdCeA0iVDaB"
+        },
+        {
+            "name": "repeating_attacks_-MNoyfCOPkX0Q8yKXRhY_weapchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNpTBH90v2uibUA3_x4"
+        },
+        {
+            "name": "repeating_attacks_-MNoyiT79D83y4RFtGiB_weapchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNpTBbVbCJoxaGQX1JA"
+        },
+        {
+            "name": "repeating_attacks_-MNpTPIrHXwlZn-C2B8P_atkname",
+            "current": "smoke bomb",
+            "max": "",
+            "id": "-MNpTQcCFZShsP82NV0J"
+        },
+        {
+            "name": "repeating_attacks_-MNpTPIrHXwlZn-C2B8P_weapontype",
+            "current": "0 • 2",
+            "max": "",
+            "id": "-MNpTQeP4TjewZwwrUhv"
+        },
+        {
+            "name": "repeating_attacks_-MNpTPIrHXwlZn-C2B8P_atkdmg",
+            "current": "2",
+            "max": "",
+            "id": "-MNpTQzBk_wHOK9liNKd"
+        },
+        {
+            "name": "repeating_attacks_-MNpTPIrHXwlZn-C2B8P_ammunition",
+            "current": "2",
+            "max": "",
+            "id": "-MNpTRP4fCkQF4r9B0FG"
+        },
+        {
+            "name": "repeating_attacks_-MNpTPIrHXwlZn-C2B8P_atkdesc",
+            "current": "all within range short have full cover. Attack at level 2 for speed damage",
+            "max": "",
+            "id": "-MNpTUqh6XRF3MdzQEFd"
+        },
+        {
+            "name": "repeating_attacks_-MNpTPIrHXwlZn-C2B8P_weapchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNpTVZsfGpao7pMfWvL"
+        },
+        {
+            "name": "repeating_attacks_-MNpTVxONq5OMHpT36Lz_atkname",
+            "current": "flash bomb",
+            "max": "",
+            "id": "-MNpTXLNl4tIhKvERZKj"
+        },
+        {
+            "name": "repeating_attacks_-MNpTVxONq5OMHpT36Lz_weapontype",
+            "current": "0 • 0",
+            "max": "",
+            "id": "-MNpTXNe-k_hCF9L1ZcF"
+        },
+        {
+            "name": "repeating_attacks_-MNpTVxONq5OMHpT36Lz_ammunition",
+            "current": "2",
+            "max": "",
+            "id": "-MNpTXq7b1HeUk51wVJ7"
+        },
+        {
+            "name": "repeating_attacks_-MNpTVxONq5OMHpT36Lz_atkdesc",
+            "current": "all targets dazed for a turn at level 3",
+            "max": "",
+            "id": "-MNpTbCJHeGOJcd8JpKa"
+        },
+        {
+            "name": "repeating_attacks_-MNpTVxONq5OMHpT36Lz_weapchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNpTbD8VMiSeuMC6nz0"
+        },
+        {
+            "name": "repeating_attacks_-MNpTjDMs0iqojWCZTUo_atkname",
+            "current": "tear gas",
+            "max": "",
+            "id": "-MNpTkwktQXt14XqSc6p"
+        },
+        {
+            "name": "repeating_attacks_-MNpTjDMs0iqojWCZTUo_weapontype",
+            "current": "0 • 1",
+            "max": "",
+            "id": "-MNpTkylly6gAF-8gVPX"
+        },
+        {
+            "name": "repeating_attacks_-MNpTjDMs0iqojWCZTUo_atkdmg",
+            "current": "1",
+            "max": "",
+            "id": "-MNpTl_MbCI43AzgAkrc"
+        },
+        {
+            "name": "repeating_attacks_-MNpTjDMs0iqojWCZTUo_ammunition",
+            "current": "2",
+            "max": "",
+            "id": "-MNpTlznH1f1gJDsHsYy"
+        },
+        {
+            "name": "repeating_attacks_-MNpTjDMs0iqojWCZTUo_atkdesc",
+            "current": "Attack intelect level 2 for 1 damage, attack speed level 4 for 1 damage. Targets dazed if either attack hits. All  within short range.",
+            "max": "",
+            "id": "-MNpTyYFrPlc13dM12he"
+        },
+        {
+            "name": "repeating_attacks_-MNpTjDMs0iqojWCZTUo_weapchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNpU-5xbDOJ04DIAAwc"
+        },
+        {
+            "name": "focus",
+            "current": "Is Licensed to Carry",
+            "max": "",
+            "id": "-MNpUI9ebERmvpZWui_3"
+        },
+        {
+            "name": "repeating_abilities_-MNpUIUkaByvsbzq02j8_abilityname",
+            "current": "Gunner",
+            "max": "",
+            "id": "-MNpUJCgr6HIr9xOS1XS"
+        },
+        {
+            "name": "repeating_abilities_-MNpUIUkaByvsbzq02j8_abtype",
+            "current": "E",
+            "max": "",
+            "id": "-MNpUJEtH6LZ0i1Bibpm"
+        },
+        {
+            "name": "repeating_abilities_-MNpUIUkaByvsbzq02j8_abilityuse",
+            "current": "Enabler",
+            "max": "",
+            "id": "-MNpUJRExHkTeZ6GZdUf"
+        },
+        {
+            "name": "repeating_abilities_-MNpUIUkaByvsbzq02j8_abilitydesc",
+            "current": "1 extra damage from guns.",
+            "max": "",
+            "id": "-MNpULqbZ7SiZDp_7XVf"
+        },
+        {
+            "name": "repeating_abilities_-MNpUIUkaByvsbzq02j8_abilitychkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNpULrRRD2a1YEH0aMl"
+        },
+        {
+            "name": "repeating_atks_-MNoy7TetABrG2dLMoIM_atkchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNpUNqGmRBa0fpBCkCu"
+        },
+        {
+            "name": "repeating_atks_-MNpUS2M34PsQQnBgY1I_atkname",
+            "current": "sidearm",
+            "max": "",
+            "id": "-MNpUSsLKfzvgzNR28-n"
+        },
+        {
+            "name": "repeating_atks_-MNpUS2M34PsQQnBgY1I_atkedge",
+            "current": "@{speed_edge}",
+            "max": "",
+            "id": "-MNpUSuG57hfN8bPFta-"
+        },
+        {
+            "name": "repeating_atks_-MNpUS2M34PsQQnBgY1I_atkarmorcost",
+            "current": "@{armorspeedcost}",
+            "max": "",
+            "id": "-MNpUSuJ_xrD1CCqswSH"
+        },
+        {
+            "name": "repeating_atks_-MNpUS2M34PsQQnBgY1I_atktype",
+            "current": "S • 5",
+            "max": "",
+            "id": "-MNpUSuMKXcek21G1zXL"
+        },
+        {
+            "name": "repeating_atks_-MNpUS2M34PsQQnBgY1I_atkstat",
+            "current": "speed",
+            "max": "",
+            "id": "-MNpUT5mS-DcyMzqBDWr"
+        },
+        {
+            "name": "repeating_atks_-MNpUS2M34PsQQnBgY1I_atkdmg",
+            "current": "5",
+            "max": "",
+            "id": "-MNpUU5zqZeE4YSRg6AV"
+        },
+        {
+            "name": "repeating_atks_-MNpUS2M34PsQQnBgY1I_atklvl",
+            "current": "1",
+            "max": "",
+            "id": "-MNpUVZMGe83H2SXTZGA"
+        },
+        {
+            "name": "repeating_atks_-MNpUS2M34PsQQnBgY1I_distance",
+            "current": "Short",
+            "max": "",
+            "id": "-MNpUW2VgYn2uoGeRHXm"
+        },
+        {
+            "name": "repeating_atks_-MNpUS2M34PsQQnBgY1I_atkchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNpUXOTOR9YdvuUgNBf"
+        },
+        {
+            "name": "repeating_atks_-MNpUXoxCh3M-UxJTTS-_atkname",
+            "current": "knife",
+            "max": "",
+            "id": "-MNpUZqNgB9_3tdB5vbw"
+        },
+        {
+            "name": "repeating_atks_-MNpUXoxCh3M-UxJTTS-_atkedge",
+            "current": "@{might_edge}",
+            "max": "",
+            "id": "-MNpUZseRWxLswA_CZgH"
+        },
+        {
+            "name": "repeating_atks_-MNpUXoxCh3M-UxJTTS-_atkarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNpUZshQ7gEoe6h608P"
+        },
+        {
+            "name": "repeating_atks_-MNpUXoxCh3M-UxJTTS-_atktype",
+            "current": "M • 2",
+            "max": "",
+            "id": "-MNpUZsjad6IA00aB5ke"
+        },
+        {
+            "name": "repeating_atks_-MNpUXoxCh3M-UxJTTS-_atkdmg",
+            "current": "2",
+            "max": "",
+            "id": "-MNpU_I_hcCQESz_aZi6"
+        },
+        {
+            "name": "repeating_atks_-MNpUXoxCh3M-UxJTTS-_atklvl",
+            "current": "1",
+            "max": "",
+            "id": "-MNpU_YIqS_t0Y8dFa6p"
+        },
+        {
+            "name": "repeating_atks_-MNpUXoxCh3M-UxJTTS-_atkchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNpUaqNbCDV7n21_1Ja"
+        },
+        {
+            "name": "repeating_atks_-MNpUck7pdsnP5ubaPJk_atkname",
+            "current": "Punch/Kick",
+            "max": "",
+            "id": "-MNpUeI8EmPmF_lgQ24w"
+        },
+        {
+            "name": "repeating_atks_-MNpUck7pdsnP5ubaPJk_atkedge",
+            "current": "@{might_edge}",
+            "max": "",
+            "id": "-MNpUeKWEdVPU1OIZ8WP"
+        },
+        {
+            "name": "repeating_atks_-MNpUck7pdsnP5ubaPJk_atkarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNpUeKZDPfCB1JA5-nb"
+        },
+        {
+            "name": "repeating_atks_-MNpUck7pdsnP5ubaPJk_atktype",
+            "current": "M • 2",
+            "max": "",
+            "id": "-MNpUeKam_fBYdFDF0Tl"
+        },
+        {
+            "name": "repeating_atks_-MNpUck7pdsnP5ubaPJk_atkdmg",
+            "current": "2",
+            "max": "",
+            "id": "-MNpUedVIrHfM0t9SIVO"
+        },
+        {
+            "name": "repeating_atks_-MNpUck7pdsnP5ubaPJk_atkchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNpUf29ZqRy3SgDQlwu"
+        },
+        {
+            "name": "background",
+            "current": "JSDF Naval Officer instructed to find smugglers",
+            "max": "",
+            "id": "-MOCM-a5B-otPy3StGEu"
+        }
+    ],
+    "abilities": []
+}

@@ -1,0 +1,219 @@
+{
+    "schema_version": 2,
+    "oldId": "-MO8DvOOV3T3DYxYJlBm",
+    "name": "Andelina Pinaula",
+    "avatar": "https://s3.amazonaws.com/files.d20.io/images/184123421/vfhwjnN49zEHMfNmO_peag/med.jpg?1607547377",
+    "bio": "%3Cp%3ENicknamed%20the%20%22Ice%20Princess%22%2C%20Andelina%20rarely%20speaks%2C%20and%20even%20then%20always%20used%20the%20shortest%20words%20to%20get%20across%20her%20point.%20She%20is%20extremely%20good%20at%20long-range%20combat%20and%20can%20easily%20evaluate%20the%20tactical%20situation%20within%20seconds%2C%20allowing%20her%20to%20be%20once%20of%20the%20highest%20rapid-fire%20snipers%20in%20the%20region.%20On%20a%20good%20day%2C%20she%20can%20neutralize%20one%20target%20every%202%20seconds.%20Being%20born%20in%20the%20Mariana%20islands%20to%20a%20fisherman%2C%20her%20high%20intelligence%20quickly%20turned%20towards%20the%20inevitable%20nihilism%20as%20her%20days%20blended%20together%20in%20the%20tiny%20island.%20She%20is%20not%20very%20fond%20of%20water%2C%20traumatized%26nbsp%3B%20by%20almost%20drowning%20by%20a%20strong%20riptide%20when%20young.%20Left%20feeling%20as%20if%20she%20*should*%20have%20died%2C%20Andelina%20spends%20her%20days%20making%20sure%20man%20kind%20finds%20peace.%3Cbr%3E%3Cbr%3EAndelina%20rarely%20expresses%20any%20emotions%2C%20even%20when%20riled%20up.%20He%20days%20are%20spent%20killing%20targets%20and%20simulating%20encounters%20in%20her%20mind.%3C/p%3E%3Cp%3E%3Cbr%3E%3C/p%3E%3Cp%3E%3Cb%3EMotivations%3C/b%3E%3Cbr%3E%3Cbr%3E-%20Money%20and%20nihilism%20%28freeing%20people%20from%20this%20world%29%3Cbr%3E%3Cbr%3E%3Cb%3EConnections%3C/b%3E%3Cbr%3E%3Cbr%3E-%20Works%20in%20David%20Tosei%27s%20crew%3Cbr%3E%3Cbr%3E%3C/p%3E",
+    "gmnotes": "",
+    "defaulttoken": "",
+    "tags": "[]",
+    "controlledby": "",
+    "inplayerjournals": "",
+    "attribs": [
+        {
+            "name": "gnlsettings_sheet_style",
+            "current": "0",
+            "max": "",
+            "id": "-MO8DvPgDZtbcWRnghXJ"
+        },
+        {
+            "name": "version",
+            "current": 2.1,
+            "max": "",
+            "id": "-MO8DvzBGAhGg9HCg_21"
+        },
+        {
+            "name": "rollqstasset",
+            "current": "@{rollvarasset}[Asset]",
+            "max": "",
+            "id": "-MO8DvzGBarlX0HsP-EE"
+        },
+        {
+            "name": "rollqstbonus",
+            "current": "@{rollvarbonus}[Bonus]",
+            "max": "",
+            "id": "-MO8DvzJSQlELUEBkIUI"
+        },
+        {
+            "name": "rollqstcost",
+            "current": "@{rollvarcost}[Cost]",
+            "max": "",
+            "id": "-MO8DvzL-di8Rs2ZAZHp"
+        },
+        {
+            "name": "rollqstdiff",
+            "current": "@{rollvardiff}[Difficulty]",
+            "max": "",
+            "id": "-MO8DvzO5Ul-458H0UGC"
+        },
+        {
+            "name": "rollqstrolleff",
+            "current": "@{rollvarrolleff}[Roll Effort]",
+            "max": "",
+            "id": "-MO8DvzPFAtJ7o-NQ7lw"
+        },
+        {
+            "name": "rollqstrolldmg",
+            "current": "@{rollvarrolldmg}[Damage Effort]",
+            "max": "",
+            "id": "-MO8DvzSAPWPYy41iNHX"
+        },
+        {
+            "name": "sheet_style",
+            "current": "99",
+            "max": "",
+            "id": "-MO8Dx2O6QeTneVar_RE"
+        },
+        {
+            "name": "sheet_style_0",
+            "current": 0,
+            "max": "",
+            "id": "-MO8Dx4G4l4WmNXJ2d_r"
+        },
+        {
+            "name": "sheet_style_1",
+            "current": 0,
+            "max": "",
+            "id": "-MO8Dx4Pz0osSYm2azAA"
+        },
+        {
+            "name": "sheet_style_2",
+            "current": 0,
+            "max": "",
+            "id": "-MO8Dx4U2jns5Sh5av2F"
+        },
+        {
+            "name": "sheet_style_99",
+            "current": 1,
+            "max": "",
+            "id": "-MO8Dx4Zo7n9VqMHD-TS"
+        },
+        {
+            "name": "npcbasetn",
+            "current": 12,
+            "max": "",
+            "id": "-MO8Dx4rcMmZuSFEHrx6"
+        },
+        {
+            "name": "sheet_font_easy",
+            "current": "font-easy",
+            "max": "",
+            "id": "-MO8DxOcNHQWBu75OY9V"
+        },
+        {
+            "name": "sheet_rolls",
+            "current": "0",
+            "max": "",
+            "id": "-MO8DxuTcUZboXJuAHH7"
+        },
+        {
+            "name": "showuseasset",
+            "current": "0",
+            "max": "",
+            "id": "-MO8Dxwd5FXNTF_qDWOa"
+        },
+        {
+            "name": "showusebonus",
+            "current": "0",
+            "max": "",
+            "id": "-MO8DxwgJGvUkPEcMG7A"
+        },
+        {
+            "name": "showusecost",
+            "current": "1",
+            "max": "",
+            "id": "-MO8DxwjggM--AWwCA5W"
+        },
+        {
+            "name": "sheetusecost",
+            "current": "1",
+            "max": "",
+            "id": "-MO8DyCtffvRA_lSYYRY"
+        },
+        {
+            "name": "settings_show",
+            "current": "0",
+            "max": "",
+            "id": "-MO8Dz05ZQyqkeayWIv-"
+        },
+        {
+            "name": "level",
+            "current": "4",
+            "max": "",
+            "id": "-MO8ECxsTocaGtRdHDNP"
+        },
+        {
+            "name": "health",
+            "current": "12",
+            "max": "12",
+            "id": "-MO8EFURsXHrV8yjPdF2"
+        },
+        {
+            "name": "armor",
+            "current": "0",
+            "max": "",
+            "id": "-MO8EGBd3kNpDoQ2Pfy1"
+        },
+        {
+            "name": "damage",
+            "current": "6",
+            "max": "",
+            "id": "-MO8EHuBEDJ9OdDqsC1D"
+        },
+        {
+            "name": "repeating_npcmods_-MO8EIm1Dwxyqai6X-Wv_npcmods-name",
+            "current": "Sniper",
+            "max": "",
+            "id": "-MO8EJeSzXm2gzAYDBdb"
+        },
+        {
+            "name": "repeating_npcmods_-MO8EIm1Dwxyqai6X-Wv_npcmods-level",
+            "current": "5",
+            "max": "",
+            "id": "-MO8EKOj0b82H4cxCxVU"
+        },
+        {
+            "name": "repeating_npcmods_-MO8EKn7x9WqKA6uTOIr_npcmods-name",
+            "current": "Speed Defense",
+            "max": "",
+            "id": "-MO8EMFzBx610iVbBF6j"
+        },
+        {
+            "name": "repeating_npcmods_-MO8EKn7x9WqKA6uTOIr_npcmods-level",
+            "current": "5",
+            "max": "",
+            "id": "-MO8EMY8fHGSzfA5djEi"
+        },
+        {
+            "name": "npccombat",
+            "current": "Calm and composed, Andelina evaluates, executes, and the target is dead before they can even react.\n\nSniper Rifle: 6 damage\nKnife: 2 Damage (thrown short)",
+            "max": "",
+            "id": "-MO8EgjYEzCNShBOC-FX"
+        },
+        {
+            "name": "npcmotive",
+            "current": "Nihilism + Money",
+            "max": "",
+            "id": "-MO8Ep_u23Mq6zWlqrqA"
+        },
+        {
+            "name": "npcdescription",
+            "current": "Calm, cold, with no emotions showing. Usually seen with her rifle, a knife, and a skin-tight suits meat for mobility.",
+            "max": "",
+            "id": "-MO8FcNu6HrMRemeMLTI"
+        },
+        {
+            "name": "npcinteraction",
+            "current": "Curt and void",
+            "max": "",
+            "id": "-MO8GK-7B9bYcrK13S0K"
+        },
+        {
+            "name": "npcmovement",
+            "current": "long",
+            "max": "",
+            "id": "-MO8I3V0cgpc8UhPQPp4"
+        }
+    ],
+    "abilities": []
+}

@@ -1,0 +1,213 @@
+{
+    "schema_version": 2,
+    "oldId": "-MNsdmoeYtJBJZcRhN6B",
+    "name": "Hiko Adachi",
+    "avatar": "https://s3.amazonaws.com/files.d20.io/images/183407045/to7LytBJTFlhEw3x86GWyg/med.jpg?1607268643",
+    "bio": "%3Cp%3EThe%20partner%20and%20first%20lieutenant%20working%20with%20Minato%20Harutaka.%20A%20commander%20that%20is%20capable%20of%20thinking%20strategically%20as%20well%20as%20supporting%20crew%20with%20extensive%20medical%20knowledge.%20Combat%20Medic.%3C/p%3E%3Cp%3E%3Cbr%3E%3C/p%3E%3Cp%3EHiko%20was%20born%20in%20the%20outlying%20islands%20of%20japan%2C%20where%20he%20lived%20as%20a%20healer%27s%20apprentice%20through%20his%20high%20school%20career.%20He%20journeyed%20away%20from%20his%20town%20as%20he%20himself%20was%20considered%20to%20be%20a%20young%20healer.%26nbsp%3B%20As%20was%20tradition%2C%20he%20would%20go%20out%20into%20the%20world%20and%20begin%20his%20own%20practice%20of%20healing.%20What%20he%20found%20was%20the%20suffering%20of%20soldiers.%20He%20could%20not%20turn%20a%20blind%20eye%20to%20those%20who%20were%20hurt%20protecting%20the%20citizens%20of%20Japan.%20He%20enrolled%20into%20the%20JSDF%20and%20became%20a%20combat%20medic.%3C/p%3E%3Cp%3E%3Cbr%3E%3C/p%3E%3Cp%3EHiko%20is%20a%20patient%2C%20calm%20healer.%20He%20can%20access%20a%20situation%20and%20correctly%20predict%20the%20healing%20and%20resources%20needed%20for%20medical%20support.%20He%20treats%20everyone%3A%20poor%2C%20rich%2C%20JSDF%20or%20enemy.%20He%20has%20not%2C%20and%20will%20never%20take%20a%20life.%3C/p%3E%3Cp%3E%3Cbr%3E%3C/p%3E%3Cp%3E%3Cb%3EMotivations%3C/b%3E%3Cbr%3E%3Cbr%3E-%20Heal%20the%20wounded%20honorably%20while%20following%20the%20mission%20%28JSDF%20%22S%22%29%3Cbr%3E%3Cbr%3E%3Cb%3EConnections%3C/b%3E%3Cbr%3E%3Cbr%3E-%20Works%20under%20Minato%20Harutaka%20command%20in%20her%20special%20unit%3Cbr%3E%3Cbr%3E-%20Has%20crossed%20paths%20with%20Naomi%20during%20visits%20to%20the%20orphans%20around%20town%20helping%20them%20for%20free.%3Cbr%3E%3Cbr%3E%3C/p%3E",
+    "gmnotes": "",
+    "defaulttoken": "{\"left\":348,\"top\":92,\"width\":39,\"height\":64,\"imgsrc\":\"https://s3.amazonaws.com/files.d20.io/images/183499247/riF6TJv8Lfc83GVF3lXtjw/max.png?1607287126\",\"page_id\":\"-MNfFwJ_EMLkPaX_cmM-\",\"layer\":\"objects\",\"name\":\"Hiko Adachi\",\"represents\":\"-MNsdmoeYtJBJZcRhN6B\",\"bar1_link\":\"sheetattr_speed\",\"bar2_link\":\"sheetattr_intellect\",\"bar3_link\":\"sheetattr_might\",\"showname\":true,\"lastmove\":\"349,92\",\"night_vision_tint\":\"\"}",
+    "tags": "[]",
+    "controlledby": "",
+    "inplayerjournals": "",
+    "attribs": [
+        {
+            "name": "gnlsettings_sheet_style",
+            "current": "0",
+            "max": "",
+            "id": "-MNsdmplfEybaM_8BVzJ"
+        },
+        {
+            "name": "version",
+            "current": 2.1,
+            "max": "",
+            "id": "-MNsdndqt53KYCQ3Oni4"
+        },
+        {
+            "name": "rollqstasset",
+            "current": "@{rollvarasset}[Asset]",
+            "max": "",
+            "id": "-MNsdndvPQIgA1BqrWTr"
+        },
+        {
+            "name": "rollqstbonus",
+            "current": "@{rollvarbonus}[Bonus]",
+            "max": "",
+            "id": "-MNsdndznlx2RswzH7wX"
+        },
+        {
+            "name": "rollqstcost",
+            "current": "@{rollvarcost}[Cost]",
+            "max": "",
+            "id": "-MNsdne1w_CuQtoWM9uS"
+        },
+        {
+            "name": "rollqstdiff",
+            "current": "@{rollvardiff}[Difficulty]",
+            "max": "",
+            "id": "-MNsdne5g0jEv_xqP0yX"
+        },
+        {
+            "name": "rollqstrolleff",
+            "current": "@{rollvarrolleff}[Roll Effort]",
+            "max": "",
+            "id": "-MNsdne72G3gC2erWYFs"
+        },
+        {
+            "name": "rollqstrolldmg",
+            "current": "@{rollvarrolldmg}[Damage Effort]",
+            "max": "",
+            "id": "-MNsdneAg0tc2J--sLbJ"
+        },
+        {
+            "name": "sheet_style",
+            "current": "99",
+            "max": "",
+            "id": "-MNsdo_IRgRk8bCFWGx8"
+        },
+        {
+            "name": "sheet_style_0",
+            "current": 0,
+            "max": "",
+            "id": "-MNsdobBmPlkquSrd0fm"
+        },
+        {
+            "name": "sheet_style_1",
+            "current": 0,
+            "max": "",
+            "id": "-MNsdobJ72nktvZg-v-q"
+        },
+        {
+            "name": "sheet_style_2",
+            "current": 0,
+            "max": "",
+            "id": "-MNsdobLy2rcC4HO5L2W"
+        },
+        {
+            "name": "sheet_style_99",
+            "current": 1,
+            "max": "",
+            "id": "-MNsdobQMGEdnebZE-DR"
+        },
+        {
+            "name": "npcbasetn",
+            "current": 9,
+            "max": "",
+            "id": "-MNsdobhq_tGEqwUIfWS"
+        },
+        {
+            "name": "sheet_rolls",
+            "current": "0",
+            "max": "",
+            "id": "-MNsdp4BtvQzoaiQxnU0"
+        },
+        {
+            "name": "showuseasset",
+            "current": "0",
+            "max": "",
+            "id": "-MNsdp6QLZmOmb27n9__"
+        },
+        {
+            "name": "showusebonus",
+            "current": "0",
+            "max": "",
+            "id": "-MNsdp6TSimZrSAIQJ57"
+        },
+        {
+            "name": "showusecost",
+            "current": "1",
+            "max": "",
+            "id": "-MNsdp6VIMCji-_3WkfK"
+        },
+        {
+            "name": "sheetusecost",
+            "current": "1",
+            "max": "",
+            "id": "-MNsdpRL9GxqWWcL9btx"
+        },
+        {
+            "name": "sheet_font_easy",
+            "current": "font-easy",
+            "max": "",
+            "id": "-MNsdpf3ZnrsjPBufAcG"
+        },
+        {
+            "name": "settings_show",
+            "current": "0",
+            "max": "",
+            "id": "-MNsdq7Qd0exvpB9GMAV"
+        },
+        {
+            "name": "level",
+            "current": "3",
+            "max": "",
+            "id": "-MNsdsjeSuMoDBSely_M"
+        },
+        {
+            "name": "armor",
+            "current": "2",
+            "max": "",
+            "id": "-MNsdtojiAWRUTVg8xBl"
+        },
+        {
+            "name": "health",
+            "current": "9",
+            "max": "9",
+            "id": "-MNsdujn47m4U3i0m1eK"
+        },
+        {
+            "name": "damage",
+            "current": "3",
+            "max": "",
+            "id": "-MNsdwo3pwYNv4r7eF3w"
+        },
+        {
+            "name": "npcmotive",
+            "current": "Keep JSDF crew healthy / Support",
+            "max": "",
+            "id": "-MNse0DqDjXAodOdSKas"
+        },
+        {
+            "name": "npcdescription",
+            "current": "Combat Medic of JSDF",
+            "max": "",
+            "id": "-MNse5i6BYl616zfWCSP"
+        },
+        {
+            "name": "sheet_subsection_height",
+            "current": "0",
+            "max": "",
+            "id": "-MNseBYSGLiu2_KS9S7k"
+        },
+        {
+            "name": "repeating_npcmods_-MNseEYhmc5puPL6cQtX_npcmods-name",
+            "current": "Healing / First Aid ",
+            "max": "",
+            "id": "-MNseGyrggjJ7jIEPvd2"
+        },
+        {
+            "name": "repeating_npcmods_-MNseEYhmc5puPL6cQtX_npcmods-level",
+            "current": "5",
+            "max": "",
+            "id": "-MNseHWYXYNKkX7Wjxev"
+        },
+        {
+            "name": "repeating_npcmods_-MODZMKOUFa0O7PSJcub_npcmods-name",
+            "current": "Honest Persuation",
+            "max": "",
+            "id": "-MOD_OJRGWgAw_MGiVNj"
+        },
+        {
+            "name": "repeating_npcmods_-MODZMKOUFa0O7PSJcub_npcmods-level",
+            "current": "5",
+            "max": "",
+            "id": "-MOD_OtCnfO1ESifEXnd"
+        },
+        {
+            "name": "npccombat",
+            "current": "Only dazes or makes oponents faint. No might damage.",
+            "max": "",
+            "id": "-MOD_W1_4Ja_H43PtCeM"
+        }
+    ],
+    "abilities": []
+}

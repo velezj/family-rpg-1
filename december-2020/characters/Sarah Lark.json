@@ -1,0 +1,603 @@
+{
+    "schema_version": 2,
+    "oldId": "-MNGMWPO5BnCUdaaAWPB",
+    "name": "Sarah Lark",
+    "avatar": "https://s3.amazonaws.com/files.d20.io/images/181636718/1OoAESn3kciVVf3QTG7FnA/med.jpg?1606611619",
+    "bio": "%3Cp%3EAn%20Eccentric%20billionaire%2C%20little%20is%20known%20about%20Sarah.%20She%20pops%20up%20here%20and%20there%20in%20the%20Art%20scene%2C%20as%20well%20as%20the%20energy%20sector.%20She%20was%20briefly%20married%20to%20Blaire%20Watts.%26nbsp%3B%20Sarah%20seems%20to%20follow%20the%20Shinto%20tradition.%3C/p%3E%3Cp%3E%3Cbr%3E%3C/p%3E%3Cp%3E%3Cb%3EMotivations%3C/b%3E%3Cbr%3E%3C/p%3E%3Cp%3E-%20Self-centered%20and%20rich%2C%20Sarah%20cares%20about%20her%20current%20whim%20and%20does%20not%20bother%20with%20details%20and%20ramifications.%3C/p%3E%3Cp%3E%3Cbr%3E-%20Retrieve%20Grandfather%27s%20Remains%20for%20%22proper%22%20Shinto%20ceremony%20and%20send-off%3Cbr%3E%3Cbr%3E-%20Could%20care%20less%20about%20the%20historic%20Gudgeon%20otherwise%3Cbr%3E%3Cbr%3E%3Cb%3EConnections%3C/b%3E%3Cbr%3E%3Cbr%3E-%20Ex-Partner%20in%20Marriage%20to%20Blaire%20Watts%3Cbr%3E%3Cbr%3E-%20Mother%20of%20Antonia%20Revusi%3Cbr%3E%3Cbr%3E%3C/p%3E",
+    "gmnotes": "",
+    "defaulttoken": "{\"left\":869,\"top\":152,\"width\":64,\"height\":48,\"imgsrc\":\"https://s3.amazonaws.com/files.d20.io/images/183499256/fZfdYHolCwIwH0TVyHDvTw/max.png?1607287126\",\"page_id\":\"-MNfFwJ_EMLkPaX_cmM-\",\"layer\":\"objects\",\"name\":\"Sarah Lark\",\"represents\":\"-MNGMWPO5BnCUdaaAWPB\",\"bar1_value\":13,\"bar1_max\":13,\"bar1_link\":\"-MNi1Wb-mFWmCmkROftX\",\"bar2_value\":15,\"bar2_max\":15,\"bar2_link\":\"-MNi1X1B2XPO_RJSqA-A\",\"bar3_value\":8,\"bar3_max\":8,\"bar3_link\":\"-MNi1VzZ6JWQ811tpnrC\",\"showname\":true,\"night_vision_tint\":\"\"}",
+    "tags": "[]",
+    "controlledby": "",
+    "inplayerjournals": "",
+    "attribs": [
+        {
+            "name": "gnlsettings_sheet_style",
+            "current": "0",
+            "max": "",
+            "id": "-MNGMWQgL4p5jzqgi3GW"
+        },
+        {
+            "name": "version",
+            "current": 2.1,
+            "max": "",
+            "id": "-MNGMX1smV-xm3Snc9gD"
+        },
+        {
+            "name": "rollqstasset",
+            "current": "@{rollvarasset}[Asset]",
+            "max": "",
+            "id": "-MNGMX1zGpGEDl6DQkUm"
+        },
+        {
+            "name": "rollqstbonus",
+            "current": "@{rollvarbonus}[Bonus]",
+            "max": "",
+            "id": "-MNGMX200BU3DVJangji"
+        },
+        {
+            "name": "rollqstcost",
+            "current": "@{rollvarcost}[Cost]",
+            "max": "",
+            "id": "-MNGMX23Y5FJaObPhYvJ"
+        },
+        {
+            "name": "rollqstdiff",
+            "current": "@{rollvardiff}[Difficulty]",
+            "max": "",
+            "id": "-MNGMX25KrSX6-b0v2dZ"
+        },
+        {
+            "name": "rollqstrolleff",
+            "current": "@{rollvarrolleff}[Roll Effort]",
+            "max": "",
+            "id": "-MNGMX28msQZjTR-CwY2"
+        },
+        {
+            "name": "rollqstrolldmg",
+            "current": "@{rollvarrolldmg}[Damage Effort]",
+            "max": "",
+            "id": "-MNGMX2B6oXaXsiHu8I3"
+        },
+        {
+            "name": "sheet_style",
+            "current": "0",
+            "max": "",
+            "id": "-MNi16B9texoCn4yHWxR"
+        },
+        {
+            "name": "sheet_style_0",
+            "current": 1,
+            "max": "",
+            "id": "-MNi16D88DLdM3J1Mx_K"
+        },
+        {
+            "name": "sheet_style_1",
+            "current": 0,
+            "max": "",
+            "id": "-MNi16DD99LP7F1AKK71"
+        },
+        {
+            "name": "sheet_style_2",
+            "current": 0,
+            "max": "",
+            "id": "-MNi16DHe9-_sgrJaTOu"
+        },
+        {
+            "name": "sheet_style_99",
+            "current": 0,
+            "max": "",
+            "id": "-MNi16DJMmVWvtxLHN0r"
+        },
+        {
+            "name": "sheet_rolls",
+            "current": "0",
+            "max": "",
+            "id": "-MNi17t0v0Ar4MIbbzV1"
+        },
+        {
+            "name": "showuseasset",
+            "current": "0",
+            "max": "",
+            "id": "-MNi17vWQOZaxXjZdU1P"
+        },
+        {
+            "name": "showusebonus",
+            "current": "0",
+            "max": "",
+            "id": "-MNi17vYv6Tr7Wvd8ai5"
+        },
+        {
+            "name": "showusecost",
+            "current": "1",
+            "max": "",
+            "id": "-MNi17v_hoAMYlum7f87"
+        },
+        {
+            "name": "sheet_font_easy",
+            "current": "font-easy",
+            "max": "",
+            "id": "-MNi19FNnaB7EWUu89vy"
+        },
+        {
+            "name": "sheet_subsection_height",
+            "current": "0",
+            "max": "",
+            "id": "-MNi19c0mmZnNq5T1mX1"
+        },
+        {
+            "name": "settings_show",
+            "current": "0",
+            "max": "",
+            "id": "-MNi1AnW0GT_VeiOEP1G"
+        },
+        {
+            "name": "type",
+            "current": "Speaker",
+            "max": "",
+            "id": "-MNi1KZVtJjafC-fnzaO"
+        },
+        {
+            "name": "might",
+            "current": "8",
+            "max": "8",
+            "id": "-MNi1VzZ6JWQ811tpnrC"
+        },
+        {
+            "name": "damage-track",
+            "current": 0,
+            "max": "",
+            "id": "-MNi1W0akdkNWFF1zzoC"
+        },
+        {
+            "name": "might_edge",
+            "current": "0",
+            "max": "",
+            "id": "-MNi1W7Qgqx3nSkK6HN0"
+        },
+        {
+            "name": "speed",
+            "current": "13",
+            "max": "13",
+            "id": "-MNi1Wb-mFWmCmkROftX"
+        },
+        {
+            "name": "speed_edge",
+            "current": "0",
+            "max": "",
+            "id": "-MNi1WhF2FqMsCDpDnSA"
+        },
+        {
+            "name": "intellect",
+            "current": "15",
+            "max": "15",
+            "id": "-MNi1X1B2XPO_RJSqA-A"
+        },
+        {
+            "name": "intellect_edge",
+            "current": "1",
+            "max": "",
+            "id": "-MNi1dMtbK7Ngc_d2hBP"
+        },
+        {
+            "name": "repeating_skills_-MNi2-DHsH2geUrkgDRt_skillname",
+            "current": "light weapons",
+            "max": "",
+            "id": "-MNi21bt-cTXsReuUcv-"
+        },
+        {
+            "name": "repeating_skills_-MNi2-DHsH2geUrkgDRt_skillchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNi21d1IQrw3CXu5iVd"
+        },
+        {
+            "name": "repeating_skills_-MNi2-DHsH2geUrkgDRt_skilledge",
+            "current": "@{intellect_edge}",
+            "max": "",
+            "id": "-MNi21fI5baBtd_wbl7w"
+        },
+        {
+            "name": "repeating_skills_-MNi2-DHsH2geUrkgDRt_skillarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNi21fOXZRhlXyOKoXu"
+        },
+        {
+            "name": "repeating_skills_-MNi2-DHsH2geUrkgDRt_skilltype",
+            "current": "I • T",
+            "max": "",
+            "id": "-MNi21fR7cEnnm92zXW5"
+        },
+        {
+            "name": "expand_skills",
+            "current": "1",
+            "max": "",
+            "id": "-MNi22P3Zob9wfLpH-6c"
+        },
+        {
+            "name": "repeating_skills_-MNi2SkwzFqiGo8I54G6_skillname",
+            "current": "persuasion",
+            "max": "",
+            "id": "-MNi2U70z9BOOdrDWMHx"
+        },
+        {
+            "name": "repeating_skills_-MNi2SkwzFqiGo8I54G6_skilledge",
+            "current": "@{intellect_edge}",
+            "max": "",
+            "id": "-MNi2U97McPMTRMPNANi"
+        },
+        {
+            "name": "repeating_skills_-MNi2SkwzFqiGo8I54G6_skillarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNi2U9AZvWj4vV9Yyxo"
+        },
+        {
+            "name": "repeating_skills_-MNi2SkwzFqiGo8I54G6_skilltype",
+            "current": "I • T",
+            "max": "",
+            "id": "-MNi2U9D1j6Y6WMQu70U"
+        },
+        {
+            "name": "sheetusecost",
+            "current": "1",
+            "max": "",
+            "id": "-MNi2YY2g46VmZJU5sQn"
+        },
+        {
+            "name": "repeating_skills_-MNi2-DHsH2geUrkgDRt_skilldesc",
+            "current": "may use light weapons",
+            "max": "",
+            "id": "-MNi2csmFtfkhs97QW4b"
+        },
+        {
+            "name": "repeating_skills_-MNi2SkwzFqiGo8I54G6_skillchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNi2eUEX7sje0Hdat00"
+        },
+        {
+            "name": "expand_actiondamage",
+            "current": "0",
+            "max": "",
+            "id": "-MNi2hAKxbSd1RsW060L"
+        },
+        {
+            "name": "repeating_atks_-MNi2tan3GXHyMnfYbka_atkname",
+            "current": "aggression",
+            "max": "",
+            "id": "-MNi2vb4iUhYlr7jWY-9"
+        },
+        {
+            "name": "repeating_atks_-MNi2tan3GXHyMnfYbka_atkedge",
+            "current": "@{intellect_edge}",
+            "max": "",
+            "id": "-MNi2vcrgxEsnt9LXnw-"
+        },
+        {
+            "name": "repeating_atks_-MNi2tan3GXHyMnfYbka_atkarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNi2vcuNV1-4KabmvfC"
+        },
+        {
+            "name": "repeating_atks_-MNi2tan3GXHyMnfYbka_atktype",
+            "current": "I • 0",
+            "max": "",
+            "id": "-MNi2vcwgePReu2Bsk2t"
+        },
+        {
+            "name": "repeating_atks_-MNi2tan3GXHyMnfYbka_atkstat",
+            "current": "intellect",
+            "max": "",
+            "id": "-MNi2w50mvhDmJ3F3ejE"
+        },
+        {
+            "name": "expand_attacks",
+            "current": "1",
+            "max": "",
+            "id": "-MNi2wuTG6pO6Ab2sLlq"
+        },
+        {
+            "name": "repeating_atks_-MNi2tan3GXHyMnfYbka_atklvl",
+            "current": "1",
+            "max": "",
+            "id": "-MNi2xciZ4rQYTYbHPKi"
+        },
+        {
+            "name": "repeating_atks_-MNi2tan3GXHyMnfYbka_atkcost",
+            "current": "2",
+            "max": "",
+            "id": "-MNi2yT-qabSWm7nqSY2"
+        },
+        {
+            "name": "repeating_atks_-MNi2tan3GXHyMnfYbka_atkdesc",
+            "current": "asset on might attack for 1 minute",
+            "max": "",
+            "id": "-MNi37F9QprA2kGFC3Y-"
+        },
+        {
+            "name": "repeating_atks_-MNi3DwMD3n5kk9Z2UUg_atkname",
+            "current": "encouragement",
+            "max": "",
+            "id": "-MNi3IfUkHWjajsMS2zX"
+        },
+        {
+            "name": "repeating_atks_-MNi3DwMD3n5kk9Z2UUg_atkedge",
+            "current": "@{intellect_edge}",
+            "max": "",
+            "id": "-MNi3IhgvVVL9B7fTOb8"
+        },
+        {
+            "name": "repeating_atks_-MNi3DwMD3n5kk9Z2UUg_atkarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNi3IhizY5r7ZKSVizh"
+        },
+        {
+            "name": "repeating_atks_-MNi3DwMD3n5kk9Z2UUg_atktype",
+            "current": "I • 0",
+            "max": "",
+            "id": "-MNi3IhlrxTZbMLp8PoG"
+        },
+        {
+            "name": "repeating_atks_-MNi3DwMD3n5kk9Z2UUg_atkstat",
+            "current": "intellect",
+            "max": "",
+            "id": "-MNi3IxvcTdvSxZHclsc"
+        },
+        {
+            "name": "repeating_atks_-MNi3DwMD3n5kk9Z2UUg_atkcost",
+            "current": "1",
+            "max": "",
+            "id": "-MNi3KGX24Ekel8qndf2"
+        },
+        {
+            "name": "repeating_atks_-MNi3DwMD3n5kk9Z2UUg_distance",
+            "current": "Short",
+            "max": "",
+            "id": "-MNi3KeLI10xFQnIiQNK"
+        },
+        {
+            "name": "repeating_atks_-MNi3DwMD3n5kk9Z2UUg_atkdesc",
+            "current": "whle ongoing, allies modify difficulty by 1 one of the following task types: defense, attack, skill you are trained with",
+            "max": "",
+            "id": "-MNi3aqu75cEM-eNDADB"
+        },
+        {
+            "name": "repeating_atks_-MNi3DwMD3n5kk9Z2UUg_atkchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNi3z_24P08m95I8DCF"
+        },
+        {
+            "name": "repeating_atks_-MNi2tan3GXHyMnfYbka_atkchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNi3zt4nmmt1O5BTsDe"
+        },
+        {
+            "name": "repeating_atks_-MNi45V9TBZ55uTZiQFg_atkname",
+            "current": "terrifying pressence",
+            "max": "",
+            "id": "-MNi48nqgrnUm77uKD43"
+        },
+        {
+            "name": "repeating_atks_-MNi45V9TBZ55uTZiQFg_atkedge",
+            "current": "@{intellect_edge}",
+            "max": "",
+            "id": "-MNi48pkHW4bpZ4IawJa"
+        },
+        {
+            "name": "repeating_atks_-MNi45V9TBZ55uTZiQFg_atkarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNi48pnnWbP8zu3ToTF"
+        },
+        {
+            "name": "repeating_atks_-MNi45V9TBZ55uTZiQFg_atktype",
+            "current": "I • 0",
+            "max": "",
+            "id": "-MNi48pqvVDDVwCU1D7l"
+        },
+        {
+            "name": "repeating_atks_-MNi45V9TBZ55uTZiQFg_atkstat",
+            "current": "intellect",
+            "max": "",
+            "id": "-MNi495JiLdS0LYl24RG"
+        },
+        {
+            "name": "repeating_atks_-MNi45V9TBZ55uTZiQFg_atkcost",
+            "current": "2",
+            "max": "",
+            "id": "-MNi4AwNzP_6oFEfx4vr"
+        },
+        {
+            "name": "repeating_atks_-MNi45V9TBZ55uTZiQFg_distance",
+            "current": "Short",
+            "max": "",
+            "id": "-MNi4BJywY7rTGmBU_q-"
+        },
+        {
+            "name": "repeating_atks_-MNi45V9TBZ55uTZiQFg_atklvl",
+            "current": "1",
+            "max": "",
+            "id": "-MNi4Emlcn03vKw0-8NH"
+        },
+        {
+            "name": "repeating_atks_-MNi3DwMD3n5kk9Z2UUg_atklvl",
+            "current": "1",
+            "max": "",
+            "id": "-MNi4FJOmF_DKbxFKA4b"
+        },
+        {
+            "name": "repeating_atks_-MNi45V9TBZ55uTZiQFg_atkdesc",
+            "current": "terrify level 3 or less creature that can understand you. As long as you keep ongoing, target is frozen in place or flees. Effort raises max level.",
+            "max": "",
+            "id": "-MNi4gaTC9Ifnfpw1lbS"
+        },
+        {
+            "name": "repeating_skills_-MNi5yVbp7tgtvq3NyHW_skillname",
+            "current": "intimidation",
+            "max": "",
+            "id": "-MNi6-jOSg6Tdh_Nbp6B"
+        },
+        {
+            "name": "repeating_skills_-MNi5yVbp7tgtvq3NyHW_skilledge",
+            "current": "@{intellect_edge}",
+            "max": "",
+            "id": "-MNi6-lW133Dzq2mznk5"
+        },
+        {
+            "name": "repeating_skills_-MNi5yVbp7tgtvq3NyHW_skillarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNi6-lcHG2W3AJBbQB-"
+        },
+        {
+            "name": "repeating_skills_-MNi5yVbp7tgtvq3NyHW_skilltype",
+            "current": "I • T",
+            "max": "",
+            "id": "-MNi6-lg4cf44I08quC6"
+        },
+        {
+            "name": "repeating_skills_-MNi5yVbp7tgtvq3NyHW_skillchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNi60VcKuIcNJAio_wb"
+        },
+        {
+            "name": "initchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNi61v6ZMs-w0FSG7Tu"
+        },
+        {
+            "name": "repeating_atks_-MNi45V9TBZ55uTZiQFg_atkchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNi64aZ9q5BQOQs1Bk1"
+        },
+        {
+            "name": "repeating_cypher-list_-MNi6E9cbGEs5Qtb1ICt_cypher-name",
+            "current": "panic button",
+            "max": "",
+            "id": "-MNi6L7_BaUfag6Ls3Qe"
+        },
+        {
+            "name": "repeating_cypher-list_-MNi6E9cbGEs5Qtb1ICt_cypher-description",
+            "current": "creates a blinding and earsplitting effect. all others within short distance are dazed for 2 turns",
+            "max": "",
+            "id": "-MNi6hWDpdpBT06dld5u"
+        },
+        {
+            "name": "repeating_cypher-list_-MNi6E9cbGEs5Qtb1ICt_cypher-chkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNi6hX4jyziY7RIAqT8"
+        },
+        {
+            "name": "expand_cyphers",
+            "current": "1",
+            "max": "",
+            "id": "-MNi6i8JsvNxgSTGcz2q"
+        },
+        {
+            "name": "descriptor",
+            "current": "impulsive",
+            "max": "",
+            "id": "-MNi71VYHpHhehiPiec0"
+        },
+        {
+            "name": "initlvl",
+            "current": "1",
+            "max": "",
+            "id": "-MNi7GNdAqEnH8sPA-B9"
+        },
+        {
+            "name": "initedge",
+            "current": "@{speed_edge}",
+            "max": "",
+            "id": "-MNi7GPXvl_rV7U5q7Li"
+        },
+        {
+            "name": "inittype",
+            "current": "S • T",
+            "max": "",
+            "id": "-MNi7GPhtZjfP3hbiwfq"
+        },
+        {
+            "name": "initarmorcost",
+            "current": "@{armorspeedcost}",
+            "max": "",
+            "id": "-MNi7GPoWm4NUrtw5K4S"
+        },
+        {
+            "name": "repeating_skills_-MNi7LJMNpqpxSVyOLWD_skilllvl",
+            "current": "-1",
+            "max": "",
+            "id": "-MNi7MWnt7rt-kiLSUA9"
+        },
+        {
+            "name": "repeating_skills_-MNi7LJMNpqpxSVyOLWD_skilledge",
+            "current": "@{intellect_edge}",
+            "max": "",
+            "id": "-MNi7MZ2TGL-BhCyeAP2"
+        },
+        {
+            "name": "repeating_skills_-MNi7LJMNpqpxSVyOLWD_skillarmorcost",
+            "current": 0,
+            "max": "",
+            "id": "-MNi7MZ6YxgxJUBZuIOM"
+        },
+        {
+            "name": "repeating_skills_-MNi7LJMNpqpxSVyOLWD_skilltype",
+            "current": "I • I",
+            "max": "",
+            "id": "-MNi7MZBUZJ6f_b2U2h5"
+        },
+        {
+            "name": "repeating_skills_-MNi7LJMNpqpxSVyOLWD_skillname",
+            "current": "impulsive",
+            "max": "",
+            "id": "-MNi7Q_K0ASpBCO-tfyk"
+        },
+        {
+            "name": "repeating_skills_-MNi7LJMNpqpxSVyOLWD_skilldesc",
+            "current": "difficulty of any task using patience, willpower, or discipline increases by one",
+            "max": "",
+            "id": "-MNi7bWDnpXmdb-nS68c"
+        },
+        {
+            "name": "repeating_skills_-MNi7LJMNpqpxSVyOLWD_skillchkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNi7c4hsKrjXahfORje"
+        },
+        {
+            "name": "expand_weapons",
+            "current": "1",
+            "max": "",
+            "id": "-MNiBB7Mg2WuimN0eOzH"
+        },
+        {
+            "name": "repeating_cypher-list_-MNiBJBBVSCiAQHMaqhq_cypher-name",
+            "current": "taser",
+            "max": "",
+            "id": "-MNiBKrirMQspzeNLqkV"
+        },
+        {
+            "name": "repeating_cypher-list_-MNiBJBBVSCiAQHMaqhq_cypher-description",
+            "current": "Immediate target takes 2 speed damage and is dazed for 1 turn",
+            "max": "",
+            "id": "-MNiBO8FbeKQEj9IFFMt"
+        },
+        {
+            "name": "repeating_cypher-list_-MNiBJBBVSCiAQHMaqhq_cypher-chkdesc",
+            "current": "0",
+            "max": "",
+            "id": "-MNiBUKl3cMDpD1HutrW"
+        }
+    ],
+    "abilities": []
+}
