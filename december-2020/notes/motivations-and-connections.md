@@ -14,7 +14,7 @@ toc: true
 
 - Ex-Partner in Marriage to Blaire Watts
 
-- Mother of Antonia Revusi
+- Mother (adopted) of Antonia Revusi
 
 =====
 
@@ -90,13 +90,15 @@ toc: true
 
 - Make money and survive with as much honor as you can being a smuggler in south pacific waters. He's definately a realist but is not mean or hateful, rather calm and impartial
 
-- Get two paydays for the work of one: Anotnia (transport remains) and Chiko (transport Gold)
+- Get two paydays for the work of one: Antonia/Sarah (transport remains) and Antonia (transport Gold)
+
+- Stay on Balalaika's good side
 
 #### Connections
 
 - Hired by Antonia to be their transportation. Both for around and for getting remains to Sarah (in Japan)
 
-- Hired by Chiko to grab and transport the gold (if any) to Chiko (in Japan)
+- Hired by Anotnia to also carry any gold to Japan for her (without telling Sarah or rest of party).
 
 ======
 
@@ -108,11 +110,13 @@ toc: true
 
 - Gets a cut of the proceeds from Tosei's transport jobs
 
+- Is playing both Antonia and Chiko (and keeping David's Crew in the dark).
+
 #### Connections
 
 - Perceives the movement and feelers being used by Mr. Combs (Japan Goverment interest). He gets wind of something happening and starts digging. He finds out about Antonia and expedition (although not about Sarah) and gets Tosie the job of transportation and vehicle assistance.
 
-- Connects with Chiko about possible gold and makes deal with him to transport it if it exists. Howard in fact gets a "finder's" bonus unknown to the rest of Tosie's crew.
+- Connects with Chiko about possible gold. Howard in fact gets a "finder's" bonus unknown to the rest of Tosie's crew. He tells Chiko they can transport the gold to japan either way (fro Antonia of Chiko). He does *not* tell rest of Tosie's crew about this or Chiko.
 
 ======
 
@@ -223,13 +227,17 @@ toc: true
 
 #### Motivations
 
-- Help her mother and make her proud
+- Execute things Sarah wants, in what ever way possible
+
+- Ambition to get from under Sarah's shadow.
 
 #### Connections
 
 - Adopted daughter of Sarah Lark
 
 - Operations leader, so contracted David Tosei (via Howard Rendalt) to get Tosei's crew
+
+- Connected with Jimmy to help protect and be a small "gang" with her. Got to Jimmy via Falthin (which did all the helicopter and import/export red tape while keeping it under wraps and quiet from the rest of the community).
 
 ======
 
@@ -263,6 +271,10 @@ toc: true
 
 - Sees Tosei's crew as targets since they might have valuable cargo
 
+- Wrorking and muscle for Antonia
+
+- Heard about David Tosie working with Antonia, figures she's going to double corss him so kidnaps her. Did *not* realize base camp was in Balalika territory.
+
 ======
 
 # Falthin Palemar
@@ -279,6 +291,8 @@ toc: true
 - Works with Jimmy
 
 - Is weary of Lorleen. She has been a pain for a while
+
+- Handled red tape of expedition comming into (and out of) Micronesia; kept expedition hidden/secret from govermenet(s) and community.
 
 
 ======
@@ -307,7 +321,7 @@ toc: true
 
 #### Connections
 
-- Hears from Howard Rendalt about expedition and hires Tosei's crew to get and trasport gold to him
+- Hears from Howard Rendalt about potential gold. Hires David's Crew (but they don't know it except of Howard) to transport gold to Japan.
 
 - Enemy of Mr. Combs (and the Japan Cultural Division)
 
