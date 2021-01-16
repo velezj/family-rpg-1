@@ -1,0 +1,141 @@
+digraph {
+	label="Groups and Connections";
+	compound=true;
+	overlap=scale;
+	splines=polyline;
+
+	Sarah [label="Sarah Lark"];
+	Blaire [label="Blaire Watts"];
+	Jimmy [label="Jones \"Jimmy\" Terel"];
+	Miguel [label="Miguel Muertas"];
+	Antonia [label="Anotnia Revusi"];
+	Naomi [label="Naomi Han"];
+	MrCombs [label="Mrs. Combs"];
+	Falthin [label="Falthin Palemar"];
+	DavidTosie [label="David Tosie"];
+	Chiko [label="Chiko Yasu"];
+	Minato [label="Minato Harutaka"];
+	Hiko [label="Hiko Adachi"];
+	Lorleen [label="Lorleen Nena"];
+	Balalika [label="Balalika"];
+	Sylfred [label="Sylfred"];
+	Gustavo [label="Gustavo"];
+	Ai [label="Ai Fujita"];
+	Howard [label="Howard Rendalt"];
+	Mina [label="Mina Davis"];
+	Maki [label="Maki Nagatori"];
+	Tano [label="Tano Faisao"];
+	Andelina [label="Andelina Pinaula"];
+	Kirby96 [label="Kirby[96]"];
+	
+	subgraph cluster_expedition {
+		label="Expedition";
+		
+		cluster_expedition_hook [label="Expedition" ; style=invis]
+		Miguel;
+		Ai;
+		Sylfred;
+		Gustavo;
+		Sarah;
+		Blaire;
+		Kirby96;
+	}
+	
+	subgraph cluster_imperialists {
+		label="Imperialists";
+		
+		cluster_imperialists_hook [label="Imperialists" ; style=invis]
+		Chiko;
+	}
+
+	subgraph cluster_antonia {
+		label="Antonia";
+		
+		cluster_antonia_hook [label="Antonia" ; style=invis]
+		Antonia;
+	}
+
+	subgraph cluster_mafia {
+		label="Russian Mafia";
+		
+		cluster_mafia_hook [label="Russian Mafia" ; style=invis]
+		Balalika;
+	}
+
+	subgraph cluster_japan {
+		label="Japan";
+		
+		cluster_japan_hook [label="Japan" ; style=invis]
+		MrCombs;
+		Minato;
+		Hiko;
+	}
+
+	subgraph cluster_falthin {
+		label="Falthin Palemar";
+		
+		cluster_falthin_hook [label="Flathin Palemar" ; style=invis]
+		Jimmy;
+		Falthin;
+		Tano;
+	}
+
+	subgraph cluster_opportunists {
+		label="Opportunists";
+		
+		cluster_opportunists_hook [label="Opportunists" ; style=invis]
+		Naomi;
+		Lorleen;
+		Maki;
+		Mina;
+	}
+
+	subgraph cluster_tosie {
+		label="David Tosie Crew";
+		
+		cluster_tosie_hook [label="David Tosie's Crew" ; style=invis]
+		DavidTosie;
+		Andelina;
+		Howard;
+	}
+
+
+	Sarah -> Antonia [label="Gives Command To"];
+
+	Antonia -> cluster_expedition_hook [label="Creates and Leads"];
+	Falthin -> Antonia [label=<
+			    Red-Tape under wraps for expedition<br/>
+			    in and out for Micronesia (including helicopters)>]
+	Antonia -> Jimmy [label="hires as muscle"]
+	Antonia -> cluster_tosie_hook [label=<
+				       hires for support<br/>
+				       and transportation<br/>
+				       of remains>]
+	Antonia -> cluster_tosie_hook [label=<hires for transportation<br/>
+				       of treasure>]
+	Antonia -> Howard [label=<point man for hiring<br/>
+			   Tosie's crew>]
+
+	Howard -> Chiko [label=<Accepts job for David Tosie's<br/>
+			 crew to transport treasure<br/>
+			 to Chiko not Antonia>]
+	Howard -> cluster_tosie_hook [label=<Works independently<br/>
+				      "double books" treasure transport>]
+
+	Blaire -> Miguel [label=<Hires to watch out for<br/>
+			  treasure and make sure it gets<br/>
+			  returned to the international<br/>
+			  historical community>]
+	Blaire -> MrCombs [label=<Tells about possible<br/>
+			   treasure and expedition>]
+
+	MrCombs -> Chiko [label="Is hunting after Imperialists"]
+	MrCombs -> cluster_japan_hook [label=<Leads japan's involvement<br/>
+				       into expedition and treasure>]
+
+	Lorleen -> Jimmy [label="Is trying to destroy"]
+	Lorleen -> Antonia [label="Suspicious of"]
+	Lorleen -> Falthin [label="Looking for dirt"]
+
+	
+}
