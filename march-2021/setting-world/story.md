@@ -31,3 +31,7 @@
 
 # Possible Events
 
+- Meet the ratfolk which have been tracking teh mutations/monsters in the sewers from *their* town over to the current sewers. They will join the party and help explore what is going on if the party is willing to help their village when the source is discovered.
+
+- bring back sewer remains of mutated worms/rats to Garth. He will suggest ot take them to Rosaline Cotswad and will go with party. Her father was a friend of Garth's and she is like a niece to Garth.
+
