@@ -6,11 +6,11 @@
 
 1. Get to Beggarsbottom
    - picture of travel and smalltalk with Mary
-   - assets: scenery
+   - assets: scenery DONE
 
 1. Get invited to stay with Mary for sleep
    - picture of beggarsbottom town
-   - asset: town scenery
+   - asset: town scenery DONE
 
 1. Find empty/closed Adventurer's Guild
    - picture of guild (done) and dialogue about demon lord and the guild call.
@@ -28,7 +28,7 @@
 1. Practice and train with Mary
    - Picture of training ground and developing backstory of Other Guild
    - Dialog with both Mary and Garth separately to get backstories
-   - assets: Training grounds scenery
+   - assets: Training grounds scenery DONE
 
 1. Sewer cleanup quest
    - assets:
@@ -51,42 +51,42 @@
 
 1. Investigate the ratfolk village and their troubles
    - assets
-	 - ratfolk town
+	 - ratfolk town DONE
 	 - ratfolk guild DONE
 
 1. Follow the water/river to the farm with awakened animals
    - assets: encounter map DONE
 
 1. Deal with monsters and investigate farm. Find out about common feed.
-   - assets: farm scenery, farmer npc
+   - assets: farm scenery, farmer npc DONE
 
 1. Trace source of feed to a single farm. investigate this farm
-   - assets: another farm, another npc
+   - assets: another farm, another npc DONE
 
 1. Find that bad feed is all located inside a specific region of the farm.
-   - assets: encounter map
+   - assets: encounter map DONE
 
 1. Discover buried gem cache by farmer. Including newest gems brought by eldest son (not around)
-   - assets: farm, farmer as before
+   - assets: farm, farmer as before DONE
 
 1. Analyze gems to figure out where/when the gems come from.
    - assets: rosaline study DONE
 
 1. Track down "rogue" miner group which are mining pn their own. Eldest son is part of this group. This group is gowing outside of the formal Miner's Guild.
    - assets: 
-	 - miner's guild scenery
+	 - miner's guild scenery DONE
 	 - miner's guild worker/master
 
 1. Meet with Ku, who has apprehended most of the rogue miner group and is looking for the source of the gems. He has been called by his goddess to help.
    - assets:
 	 - ku DONE
-	 - ku's warehouse room
+	 - ku's warehouse room DONE
 
 1. Explore mine, discovering the new hole in the gem wall. Also discover the lack of awakened creatures near the hole.
-   - assets: encounter map
+   - assets: encounter map? YUST EXPOSITION, DONE
 
 1. Meet Sogo and get an explanation of the heart and gems
-   - assets: cave scenery
+   - assets: cave scenery DONE
 
 
 # audio 
