@@ -52,6 +52,10 @@ However, her eyes are constantly roaming her surroundings, ready for the Fey to 
 
 - She has never had friends or a community, so she does not know how to behave with people or groups, causing her to be shy and introverted.
 
+- when she is excited or scared, she will start chilling her skin and will be cooler than normal to the touch. If she stays in this state for more than 5 minutes, her breath will be chilled and will mist as condensation from the cold hits the air outside the body.
+
+- Her tears are cold but not frozen
+
 # Hooks
 
 
