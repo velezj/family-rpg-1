@@ -53,9 +53,19 @@
    - assets
 	 - ratfolk town DONE
 	 - ratfolk guild DONE
+	 
+1. Get quest from Marksfield for a strange liquid
+   - assets
+	 - encounter map
+	 - town map DONE
+	 - npc's for quest
+	 
+1. Meet up with Violet and Jenavive who are new adventurers lost in beggarsbottom. Potentially invite them into Other Guild.
 
 1. Follow the water/river to the farm with awakened animals
    - assets: encounter map DONE
+   
+1. Get found by Marix during river exploration. He's smuggling something but is very interested in a new group of adventurers from Beggarsbottom.
 
 1. Deal with monsters and investigate farm. Find out about common feed.
    - assets: farm scenery, farmer npc DONE
@@ -68,19 +78,37 @@
 
 1. Discover buried gem cache by farmer. Including newest gems brought by eldest son (not around)
    - assets: farm, farmer as before DONE
+   
+1. Meet Frieda, who is considered a "witch" and the farmer thinks it's her fault that the crops are dying. She could join the party.
+   - asset
+	 - encounter map (for possible violence)
 
 1. Analyze gems to figure out where/when the gems come from.
    - assets: rosaline study DONE
+   
+1. Meeting with Vir. She's energetic and a bit fidgety, but at night you can hear her moans and shivers of nightmares. She will be working temporarily for the farm with the monsters. She witnesses your encounter and decides that you are in need of help. She is drawn to the innocence of Owlet and the pain in Mary's eyes (they resonate with hers: both see themselves as failures).
 
 1. Track down "rogue" miner group which are mining pn their own. Eldest son is part of this group. This group is gowing outside of the formal Miner's Guild.
    - assets: 
 	 - miner's guild scenery DONE
 	 - miner's guild worker/master
+	 
+1. Meeting with Gron. He wants to stay with party and help them. He will find them either while traveling or while they get into a town.
 
 1. Meet with Ku, who has apprehended most of the rogue miner group and is looking for the source of the gems. He has been called by his goddess to help.
    - assets:
 	 - ku DONE
 	 - ku's warehouse room DONE
+	 
+1. Search for remaining miners or have someone take care of them (and their gems)
+
+1. Meeting with Bo. He will be trying to help people and will be asking if anyone needs help. He will be chasing (and catching) a mugger when they meet.
+   - assets
+	 - encounter map
+
+1. Owlex meets with nature spirit for Level 2
+
+1. Gustavo is told about mentor/teachers for wizards. Can try to make an npc teacher for Level 2.
 
 1. Explore mine, discovering the new hole in the gem wall. Also discover the lack of awakened creatures near the hole.
    - assets: encounter map? YUST EXPOSITION, DONE
