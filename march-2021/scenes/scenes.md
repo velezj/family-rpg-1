@@ -60,6 +60,14 @@
 	 - town map DONE
 	 - npc's for quest
 	 
+	 1. Find out about new "farmer" around Marksfield
+	 1. Find farmer's farm (zombified)
+		 - assets
+			 - encounter map DONE
+	 1. Find river cave with farmer's research
+		 - assets
+			 - encounter map DONE
+	 
 1. Meet up with Violet and Jenavive who are new adventurers lost in beggarsbottom. Potentially invite them into Other Guild.
 
 1. Follow the water/river to the farm with awakened animals
