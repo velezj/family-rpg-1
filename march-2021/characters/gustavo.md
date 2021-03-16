@@ -1,8 +1,12 @@
+---
+title:
 name:
 race:
 class:
 alignment:
 background:
+---
+
 
 # Summary Line
 

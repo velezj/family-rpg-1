@@ -1,8 +1,12 @@
+---
+title: Sogo
 name: Sogo
 race: Mimic/Demon Hybrid
 class: Cleric, Void Domain
 alignment: Neutral
 background: Folk Hero
+---
+
 
 # Summary Line
 

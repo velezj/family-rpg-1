@@ -1,8 +1,12 @@
+---
+title: Sahata
 name: Sahata
 race: Tabaxi (cat-folk)
 class: Way of Mercy Monk
 alignment: Neutral Good
 background: Pilgrim (Far Traveler)
+---
+
 
 # Summary Line
 

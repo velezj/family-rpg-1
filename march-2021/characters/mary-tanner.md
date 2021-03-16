@@ -1,8 +1,12 @@
+---
+title: Mary Tanner
 name: Mary Tanner
 race: Human
 class: Fighter
 alignment: Lawful Good
 background: Soldier (Officer)
+---
+
 
 # Summary Line
 

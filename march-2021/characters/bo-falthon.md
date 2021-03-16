@@ -1,8 +1,13 @@
+---
+title: Bo Falthon
 name: Bo Falthon
 race: Human
 class: Paladin
 alignment: Lawful Good
 background: Noble
+---
+
+
 
 # Summary Line
 

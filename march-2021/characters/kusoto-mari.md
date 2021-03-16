@@ -1,8 +1,12 @@
+---
+title: Kusoto Mari
 name: Kusoto Mari
 race: Ratfolk
 class: Bard
 alignment: Chaotic Good
 background: Nomad
+---
+
 
 # Summary Line
 

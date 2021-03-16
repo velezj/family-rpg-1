@@ -1,8 +1,12 @@
+---
+title: Mika Strawfur
 name: Mika Strawfur
 race: Ratfolk (Mousekin)
 class: Cleric (Life Domain)
 alignment: Lawful Good
 background: Farmer
+---
+
 
 # Summary Line
 

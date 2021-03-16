@@ -1,8 +1,12 @@
+---
+title: Temo
 name: Temo
 race: Lizard-folk
 class: Circle of Spores Druid
 alignment: Lawful Neutral
 background: Hermit (done with care-taking)
+---
+
 
 # Summary Line
 

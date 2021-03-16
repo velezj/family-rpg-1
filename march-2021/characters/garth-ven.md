@@ -1,8 +1,12 @@
+---
+title: Garth Ven
 name: Garth Ven
 race: Rock Gnome
 class: Rogue / Wizard
 alignment: Lawful Good
 background: Cartographer's Guild
+---
+
 
 # Summary Line
 

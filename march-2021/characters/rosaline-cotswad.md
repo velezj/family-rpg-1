@@ -1,8 +1,12 @@
+---
+title: Rosaline Cotswad
 name: Rosaline Cotswad
 race: Human
 class: Wizard
 alignment: Lawful Good
 background: Archivist
+---
+
 
 # Summary Line
 

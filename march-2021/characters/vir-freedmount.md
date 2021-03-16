@@ -1,8 +1,12 @@
+---
+title: Vir Freedmount
 name: Vir Freedmount
 race: Tiefling
 class: Monk
 alignment: Chaotic Good
 background: Spy (Smuggler)
+---
+
 
 # Summary Line
 

@@ -1,8 +1,12 @@
+---
+title: Violet Yamada
 name: Violet Yamada
 race: Human
 class: Cleric (Travel Domain)
 alignment: Neutral Good
 background: Student
+---
+
 
 # Summary Line
 

@@ -1,8 +1,12 @@
+---
+title: Marix June
 name: Marix June
 race: High Elf
 class: Wizard (Transmutation)
 alignment: Neutral Evil
 background: Criminal (Hired Killer)
+---
+
 
 # Summary Line
 

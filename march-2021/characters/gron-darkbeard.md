@@ -1,8 +1,12 @@
+---
+title: Gron Darkbeard
 name: Gron Darkbeard
 race: Hill Dwarf
 class: Range
 alignment: Chaotic Good
 background: Out-lander (Hunter/Gatherer)
+---
+
 
 # Summary Line
 

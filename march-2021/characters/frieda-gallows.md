@@ -1,8 +1,12 @@
+---
+title: Frieda Gallows
 name: Frieda Gallows
 race: Forest Gnome
 class: Warlock (from The Frozen One)
 alignment: Chaotic Neutral
 background: Fey Hostage (They left me alive in a raid for unknown reasons)
+---
+
 
 # Summary Line
 

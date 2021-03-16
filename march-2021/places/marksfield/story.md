@@ -21,6 +21,8 @@ He was not the best at keeping his experiments contained, and would actually pou
 
 - When the party arrives at Marksfield they make an unusual sight. Marksfield is a small community and gossip flows freely. Temo takes notice of the new arrivals and believes their timing is too coincidental to the liquid to ignore. He will investigate the party, thinking that they might have something to do with the strange events. Without subtlety, Temo will walk up to the party and accuse them of causing the liquid, asking them to prove they are not, in fact, responsible for the event. If he is persuaded, he will join in the search for the true source if the party decides to investigate it. The party cannot stop him from coming, even if he has to follow them :).
 
+- 
+
 
 <!--  LocalWords:  Marksfield Rootbreaker Danfir NPCs Temo Unma
  -->

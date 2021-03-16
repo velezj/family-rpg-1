@@ -1,8 +1,12 @@
+---
+title: Kahn Flornell
 name: Kahn Flornell
 race: Half-Elf
 class: Bard
 alignment: Lawful Good
 background: Entertainer (Storyteller)
+---
+
 
 # Summary Line
 
