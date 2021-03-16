@@ -28,11 +28,11 @@ Born in the depths of the Orgbolg mountains, Sahata felt an uncertain pressure i
 
 # Hooks
 
-- Sahata will smell a strange odor from Mary's wound and will be curious.
+- Sahata will smell a strange odor from [Mary's](mary-tanner.md) wound and will be curious.
 
-- Sahata will have never seen a druid (so Owlex or Temo) and will be interested
+- Sahata will have never seen a druid (so [Owlex](owlex.md) or [Temo](temo.md)) and will be interested
 
 - Sahata will be interested in the miasma and gems, including the awakened animals
 
-<!--  LocalWords:  Orgbolg Tabaxi
+<!--  LocalWords:  Orgbolg Tabaxi Sahata
  -->

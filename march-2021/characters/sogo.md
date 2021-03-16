@@ -14,7 +14,7 @@ Beyond good and evil, I must stand against that which devours all.
 
 # Goals
 
-- imprison and guard The Outsider.
+- imprison and guard [The Outsider](../setting-world/the-outsider.md).
 
 # Behavior
 

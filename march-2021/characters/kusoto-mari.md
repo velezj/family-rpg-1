@@ -12,7 +12,7 @@ A traveler by day and charming gentleman by night, Kusoto's melodies always refe
 
 Born to a nomadic tribe of brown ratfolk near the mountains, Kusoto's wanderlust blossomed early. He left his tribe, the youngest to leave, to make his way around the world lightening hearts and minds with his music and tales. After a few years, he realized that a bard's life was not the most lucrative in the civilized world. What was he to do? Still wanting to use his songs for good, he decided to become and adventurer.
 
-He became part of the Adventurer's guild in Beggarsbottom. At around the same time as he joined, another ratfolk, Mika Strawfur, also joined the guild. While their group was at first created out of convenience, the two have begun to enjoy adventuring together.
+He became part of the Adventurer's guild in Beggarsbottom. At around the same time as he joined, another ratfolk, [Mika Strawfur](mika-strawfur.md), also joined the guild. While their group was at first created out of convenience, the two have begun to enjoy adventuring together.
 
 # Appearance
 

@@ -32,11 +32,11 @@ From the egg, Temo was fated to imbue nature and the cycles. The sacred circle o
 
 # Hooks
 
-- Will sense/learn about Marksfield liquid
+- Will sense/learn about [Marksfield](../places/marksfield/story.md) liquid
 
 - Will sense the awakened heart
 
-- Will try to stop Danfir Rootbreaker
+- Will try to stop [Danfir Rootbreaker](danfir-rootbreaker.md)
 
 - Looking for companions to fight the heart
 

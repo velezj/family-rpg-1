@@ -10,7 +10,7 @@ Mika wants to do good, for her family and for everyone.
 
 # History
 
-Mika is the eldest of 8 children born to a farming family. She was always helping with her siblings and took her responsibilities as the eldest seriously. However, the farm took a turn for the worse. There was not enough for everyone. Being the eldest, the most responsible and the person most filled with a sense of right and good, Mika decided to leave and live on her own. She chose the path of the adventurer, having some small connection to the Celestials. She always sends funds to her family to help the farm out.
+Mika is the eldest of 8 children born to a farming family. She was always helping with her siblings and took her responsibilities as the eldest seriously. However, the farm took a turn for the worse. There was not enough for everyone. Being the eldest, the most responsible and the person most filled with a sense of right and good, Mika decided to leave and live on her own. She chose the path of the adventurer, having some small connection to the [Celestials](../setting-world/celestials.md). She always sends funds to her family to help the farm out.
 
 # Appearance
 

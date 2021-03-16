@@ -10,17 +10,17 @@ Nobody's going to help us children except us children!
 
 # History
 
-Penny less, tired, hungry and all alone in the slums. This is Jenavive's earliest memory. The streets are harsh on children. She lived on her own, stealing what she could and running from everyone and everything. After a few years of living this way, she realized she was good at it. She could run, she could act, and she knew when to get out and when to keep going. But she was always alone and she was never, ever, relaxed.
+Penny-less, tired, hungry and all alone in the slums. This is Jenavive's earliest memory. The streets are harsh on children. She lived on her own, stealing what she could and running from everyone and everything. After a few years of living this way, she realized she was good at it. She could run, she could act, and she knew when to get out and when to keep going. But she was always alone and she was never, ever, relaxed.
 
 One day, Jenavive saw a nun pass by with dressings she did not recognize. Curious, she followed the sister. To her surprise, the sister turn down a mostly empty street and called out to her, asking if she was all right. Scared and confused that a nun had noticed her and talked to her, Jenavive ran.
 
 As the years went by, she kept a lookout for the same clothes and designs and would follow (now extremely carefully) the nuns around town. It was a fascinating experience for Jenavive. The sisters talked to all people, walked into the slums confident of their skill at surviving and even thriving in the lower parts of the city. And she saw them help, to give, to take care of and nurture everyone they met. 
 
-At 11 years old, Jenavive decided to leave the city and follow a sister. Curiosity, and maybe a small spark of hope, drawing her to find out where she was going and what she was going to do. She arrived at a convent, apparently a place for the Sisters of the Sole. As she was about to step back and figure out where to go from there (the nun she was following had already stepped inside), she heard someone call out to her and offer her food, a bath, warm sheets and a dry room. Unlike last time, Jenavive decided to look at the sister calling out to her in the eyes.  She accepted the offer, and was glad she did.
+At 11 years old, Jenavive decided to leave the city and follow a sister. Curiosity, and maybe a small spark of hope, drawing her to find out where she was going and what she was going to do. She arrived at a convent, apparently a place for the [Sisters of the Sole](../setting-world/sisters_of_the_sole.md). As she was about to step back and figure out where to go from there (the nun she was following had already stepped inside), she heard someone call out to her and offer her food, a bath, warm sheets and a dry room. Unlike last time, Jenavive decided to look at the sister calling out to her in the eyes.  She accepted the offer, and was glad she did.
 
-Jenavive spent her days at the monastery, helping with anything and everything. She found the joy of teaching children and was soon in charge of the younger members staying at the convent. There she met made her very first friend, another young girl staying at the convent called Violet Yamada. She is Jenavive's best friend. For the first time, Jenavive did not feel alone, and she finally experience what it was to relax under shelter without worry of tomorrow.
+Jenavive spent her days at the monastery, helping with anything and everything. She found the joy of teaching children and was soon in charge of the younger members staying at the convent. There she met made her very first friend, another young girl staying at the convent called [Violet Yamada](violet-yamada.md). She is Jenavive's best friend. For the first time, Jenavive did not feel alone, and she finally experience what it was to relax under shelter without worry of tomorrow.
 
-Violet was serious and dedicated to the sisters, enough so that she wished to become a Sister of the Sole herself. The sisters mirrored The Traveler in all they did, and so Violet left on the very first of her journeys; the first step to becoming a sister. Where she goes, I follow and protect her from the world she does not know.
+[Violet](violet-yamada.md) was serious and dedicated to the sisters, enough so that she wished to become a Sister of the Sole herself. The sisters mirrored The Traveler in all they did, and so [Violet](violet-yamada.md) left on the very first of her journeys; the first step to becoming a sister. Where she goes, I follow and protect her from the world she does not know.
 
 # Appearance
 
@@ -28,9 +28,9 @@ Jenavive wears loose-fitting, thick clothing. Preferring robe-like vestments wit
 
 # Goals
 
-- Protect Violet Yamada
+- Protect [Violet Yamada](violet-yamada.md)
 
-- Fund the Sisters of the Sole and their orphanages 
+- Fund the [Sisters of the Sole](../setting-world/sisters_of_the_sole.md) and their orphanages 
 
 - Stop others from having to live their lives on the streets
 
