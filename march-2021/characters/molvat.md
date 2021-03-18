@@ -43,5 +43,7 @@ Dark, from hair to skin to armor. The only contrast the yellow irises and sharp 
 
 - Molvat will be interested in the sudden "awakening". He's smart enough to understand that if he could awaken his elite monsters they would be an even greater force to deal with.
 
+- His units are training in the underground sewers, both to grab awakened flesh to study and to hone their skills at stealth etc. against the rats and other creatures of the sewers. The goblin units are the one that train, since they are the lowest units and a rat is a big thing for them.
+
 <!--  LocalWords:  Dragonborn Molvat Canjok
  -->
