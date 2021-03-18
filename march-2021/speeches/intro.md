@@ -1,3 +1,7 @@
+---
+title: Introduction Speech
+toc-title: Table Of Contents
+---
 
 Welcome to the land of Cloven. It is taught that our land was once covered in ocean, full of sea life and placid in it's waters. Soon, the land fell from the sky, crashing atop waves, bringing with it life that thrived in the sun. The Celestials, in their wisdom, bestowed upon the land peoples. The Races of the Dawn spread throughout the land and were at peace. So above, so below, Cloven was whole. That is, until The Fall.
 

@@ -1,3 +1,6 @@
+---
+title: Find Closed Adventurer's Guild
+---
 
 Mary, Gustavo, and Owlex get to the adventurer's guild in Beggarsbottom. They find the guild empty and closed for new members. The guild person inside will tell them about the call given to all guilds to help with the demon lord. 
 

@@ -1,3 +1,6 @@
+---
+title: Meeting Mary
+---
 
 Gustavo and Owlex are traveling through to forest to get to Fir when they find a tree trunk down on the road and get ambushed by a set of goblins. The goblins look pretty beat up, but there are still 10 of them and will pressure the party by first trying to kill their mule and then trying to knock them down. 
 

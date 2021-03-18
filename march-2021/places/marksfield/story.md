@@ -1,3 +1,7 @@
+---
+title: Marksfield - Story
+---
+
 # Initial Hook
 
 The Other Guild is contacted about a strange liquid that is encroaching on the edges of Marksfield from the forest.

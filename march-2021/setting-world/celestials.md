@@ -1,3 +1,8 @@
+---
+title: Celestials
+toc-title: Table Of Contents
+---
+
 # Basics
 
 The celestials are beings that travel across the universe, living an existence that is slightly out of reach of the mortal realms. However, they can communicate with and interact with the mortal plane (and hence the world). 

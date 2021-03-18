@@ -1,3 +1,6 @@
+---
+title: Mentors
+---
 
 # Druid Mentors
 

@@ -1,3 +1,6 @@
+---
+title: Wizard Notes
+---
 
 # Possible schools/traditions
 

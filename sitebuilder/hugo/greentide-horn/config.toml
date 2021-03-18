@@ -1,5 +1,8 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Greenhorn Tide"
-theme = "hugo-theme-learn"
+theme = "hugo-theme-docdock-1.1"
 contentDir = "content/march-2021"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]

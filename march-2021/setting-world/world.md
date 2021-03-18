@@ -1,3 +1,8 @@
+---
+title: The World
+toc-title: Table Of Contents
+---
+
 # Cloven: The World
 
 The world of Cloven is a small world mostly covered with water. Intelligent life exists within a small northern region of Cloven, centerd around two large continents: Gallar and Admor. Ther are several outlying islands that also show signs of intelligent life.  The seas of Cloven are full of life. UNlike Earth, the food ecosystem of Cloven originates with hot, acrid steam vents on hte ocean's floor that gush out minerals and chemicals that are further processed by microbial life. Form there, small to mesium arthropods build up the lowest level of the food chain, as well as the lowest depths of the ocean. The major sea life consists of Cephalopods of all types, sizes, and personalities. There is even a conjecture among the intelligent life that some of these sea creatures contains levels of intelligence, perhaps even being the most intelligent life in the world. However, little is actually known about the sea life of Cloven, due to the land-faring residents having very little ability to explore the seas beyond a few meters from land.

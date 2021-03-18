@@ -1,3 +1,7 @@
+---
+title: The Story (start)
+toc-title: Table Of Contents
+---
 
 # Events prior / background
 

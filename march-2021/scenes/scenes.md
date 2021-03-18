@@ -1,3 +1,8 @@
+---
+title: Scenes
+toc-title: Table Of Contents
+---
+
 # Possible scenes (in order-ish)
 
 1. Meetup with Mary

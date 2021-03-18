@@ -1,3 +1,6 @@
+---
+title: Mary and Garth Reunion
+---
 
 When Mary brings Gustavo and Owlex to the Other Guild, she yells out to see if Garth is still alive.
 

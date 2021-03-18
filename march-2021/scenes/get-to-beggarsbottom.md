@@ -1,3 +1,6 @@
+---
+title: Get to Beggarsbottom
+---
 
 Mary, Owlex, and Gustavo start heading on to Fir. There is only the single mule between all of them. If Mary is walking she will be half-speed, otherwise they will be at walking speed. During the travel Mary will ask them questions and will reply with part of the story:
 
