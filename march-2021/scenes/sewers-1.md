@@ -9,7 +9,7 @@ toc-title: Table Of Contents
 
 # Narrative Details
 
-During a mid-morning training session with [Mary](../characters/mary-tanner.md), a young man cautiously enters the guild. "Hello? ... Sirs?"  He looks around and hears the sound coming from the training yard. Slowly, he leans out and sees the training. [Garth](../characters/garth-ven.md] quickly notices him.
+During a mid-morning training session with [Mary](../characters/mary-tanner.md), a young man cautiously enters the guild. "Hello? ... Sirs?"  He looks around and hears the sound coming from the training yard. Slowly, he leans out and sees the training. [Garth](../characters/garth-ven.md) quickly notices him.
 
 "Yes? Can I help you?"
 
@@ -17,7 +17,7 @@ The young man takes of his hat, holding it in front of his chest with both hands
 
 "Yes, and? ..."
 
-"Oh ... excuse me. My name is Ivan Helman. I came from [Cairston](../places/cairston/story.md) ... Well ... I was sent from [Cairston](../places/cairston/story.md) with a request for the [Adventurers Guild](../places/adventurers-guild.md). But when I got there, the guild was closed. I didn't know what to do, so I stood around in front of the closed door .... a kind mam told me that the guild was closed but said there was another guild ... the [Other Guild](../places/other-guild) ... that may be able to help me. She pointed me here ...." He looks around at the people training and then back to [Garth](../characters/garth-ven.md).
+"Oh ... excuse me. My name is Ivan Helman. I came from [Cairston](../places/cairston/story.md) ... Well ... I was sent from [Cairston](../places/cairston/story.md) with a request for the [Adventurers Guild](../places/adventurers-guild.md). But when I got there, the guild was closed. I didn't know what to do, so I stood around in front of the closed door .... a kind mam told me that the guild was closed but said there was another guild ... the [Other Guild](../places/other-guild.md) ... that may be able to help me. She pointed me here ...." He looks around at the people training and then back to [Garth](../characters/garth-ven.md).
 
 [Garth](../characters/garth-ven.md) turns towards [Gustavo](../characters/gustavo.md), "Keep practicing what we just talked about. Try to focus on you focus during the second half of the incantation..." He then walks up the Ivan. "Let's hear what you've got lad"
 

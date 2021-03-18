@@ -5,3 +5,5 @@
 **/*.svg
 **/*.gif
 **/*.png
+**/*.md.html
+**/*.html
