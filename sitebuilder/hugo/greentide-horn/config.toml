@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Greenhorn Tide"
+theme = "hugo-theme-learn"
+contentDir = "content/march-2021"

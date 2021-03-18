@@ -10,7 +10,7 @@ background: Cartographer's Guild
 
 # Summary Line
 
-I create the space for peace, whether by exploring and writing down my experiences and routes or guiding the young towards the light.
+I create the space for peace, whether by exploring and writing down my experiences and routes or guiding the young towards the light. Guild master of [The Other Guild](../places/other-guild.md).
 
 # History
 
@@ -18,7 +18,7 @@ I create the space for peace, whether by exploring and writing down my experienc
 
 # Goals
 
-- Guiding his guild mates. These are a motley crew of people that did not fit into the regular Adventurer's Guild.
+- Guiding his guild mates. These are a motley crew of people that did not fit into the regular [Adventurer's Guild](./places/adventurers-guild.md).
 
 - Keeping the Peace
 
@@ -28,3 +28,15 @@ I create the space for peace, whether by exploring and writing down my experienc
 
 # Hooks
 
+- Guild master to [Mary Tanner](mary-tanner.md)
+
+- Will invite [Owlex](owlex.md) and [Gustavo](gustavo.md) to guild
+
+- Willing to teach [Gustavo](gustavo.md) magic up to level 2
+
+- Willing to teach Rouge skill-sets
+
+- Knows and trusts [Rosaline Cotswad](rosaline-cotswad.md) along with her late father and mother
+
+<!--  LocalWords:  Owlex Rosaline Cotswad
+ -->

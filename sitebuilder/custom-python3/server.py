@@ -41,7 +41,7 @@ class CustomHandler( http.server.SimpleHTTPRequestHandler ):
                 HTTPStatus.NOT_FOUND,
                 "No permission to list directory")
             return None
-        listA.append( ".." )
+        #listA.append( ".." )
         listA.sort(key=lambda a: a.lower())
         r = []
         try:
