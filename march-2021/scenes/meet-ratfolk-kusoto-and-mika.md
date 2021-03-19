@@ -31,6 +31,10 @@ You see as she starts breathing heavily then slumps onto the floor, unconscious.
 
 # NPC list
 
+- [Kusoto Mari](../characters/kusoto-mari.md)
+
+- [Mika Strawfur](../characters/mika-strawfur.md)
+
 
 <!--  LocalWords:  Kusoto Mika Strawfur Cairston
  -->

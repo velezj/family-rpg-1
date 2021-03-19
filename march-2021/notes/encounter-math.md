@@ -31,6 +31,15 @@ PC + Mary + Rat-folks at PC Level
 | 2     | 275  | 550    | 825  | 1200   |
 | 3     | 575  | 850    | 1275 | 2100   |
 
+PC + Mary + 1 Rat-folk at PC Level
+
+| level | easy | medium | hard | deadly |
+|-------|------|--------|------|--------|
+| 1     | 125  | 250    | 375  | 500    |
+| 2     | 225  | 450    | 675  | 1000   |
+| 3     | 500  | 700    | 1050 | 1900   |
+
+
 	
 # Monsters XP lists
 
@@ -109,6 +118,33 @@ Adjusted For Numbers = 1300
 
 Total = 540
 Adjusted For Numbers = 1080
+
+
+### Level 1 scenario
+
+With MIka
+hard = 450 , deadly = 600
+
+Without Mika
+hard = 375, deadly = 500
+
+| Monster   | Count | XP                        |
+|-----------|-------|---------------------------|
+| Hyena     | 2     | 20 (10)                   |
+| Goblin    | 2     | 100 (50)                  |
+| Hobgoblin | 1     | 100                       |
+|           |       | total = 220               |
+|           |       | adjusted = 220 * 2 =  440 |
+
+
+| Monster   | Count | XP                        |
+|-----------|-------|---------------------------|
+| Hyena     | 4     | 40 (10)                   |
+| Goblin    | 1     | 50 (50)                   |
+| Hobgoblin | 1     | 100                       |
+|           |       | total = 190               |
+|           |       | adjusted = 190 * 2 =  380 |
+
 
 ---------------------------------------------------------
 

@@ -37,6 +37,8 @@ Dark, from hair to skin to armor. The only contrast the yellow irises and sharp 
 
 - Fighting dirty is winning. At the end, the one who's still alive is the strongest.
 
+- He rides a Giant Alligator as a steed, armored, with steel spikes connected over the claws and tail for greater intimidation.
+
 # Hooks
 
 - Molvat has been sent with a small unit to gather and train the local monster population within the Canjok Forest. He and three men are whittling down the monsters into an elite force.
