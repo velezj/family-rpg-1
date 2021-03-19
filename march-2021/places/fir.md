@@ -13,7 +13,7 @@ As soon as you get near Fir you notice that the forest path broadens into more o
 
 The structures themselves are well cared for but not opulent. This is a town of frontier's people that cares for itself but understands that nature and the forest were there before the humans came and will be there after the humans are gone.
 
-The main building and center of attention is the single tavern, [The Willow Stand](#the-willow-standard), which offers decent food at moderate prices and has several large rooms for travelers to rent. Across the tavern is [Maggor's](#maggor-s) which is a general store targeting travelers. On the south-east side of town you will find [Sack's Textiles](#sack-s-textiles), a leather-worker/tailor, as well as [The Fern](#the-fern), an herbal shop.
+The main building and center of attention is the single tavern, [The Willow Stand](#the-willow-standard), which offers decent food at moderate prices and has several large rooms for travelers to rent. Across the tavern is [Maggor's](#maggors) which is a general store targeting travelers. On the south-east side of town you will find [Sack's Textiles](#sacks-textiles), a leather-worker/tailor, as well as [The Fern](#the-fern), an herbal shop.
 
 # Events
 
@@ -78,7 +78,7 @@ On a charisma check (DC 12) Maggor will offer tea to the party as they look arou
   - is interested in tea sets and believes that tea makes everything better
   
 
-### Sack's Textile
+### Sack's Textiles
 
 Nestled a little farther from the center of Fir, Sack's Textiles deals with all things cloth, leather, and fur. Inside you see a pretty conservative collection of clothing and work uniforms. This store mostly caters to the local residents and uses forest colors and strong, sturdy and durable construction over appearance and elegance. Sack (owner and single worker) will be willing to trade for textiles. His workshop is the shop an so you will see him working on pieces of clothing. He is more than willing to take custom orders. He is a simple man and will sell things at base prices.
 
