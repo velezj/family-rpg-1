@@ -1,5 +1,5 @@
 ---
-title: <TEMPLATE>
+title: TEMPLATE_FOR_SCENE
 toc-title: Table Of Contents
 ---
 

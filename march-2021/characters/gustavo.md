@@ -1,6 +1,6 @@
 ---
-title:
-name:
+title: Gustavo (PC)
+name: Gustavo
 race:
 class:
 alignment:

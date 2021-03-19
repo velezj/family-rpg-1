@@ -1,6 +1,6 @@
 ---
-title:
-name:
+title: Owlex (PC)
+name: Owlex
 race:
 class:
 alignment:
