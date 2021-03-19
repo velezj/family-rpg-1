@@ -1,5 +1,5 @@
 ---
-title:
+title: <TEMPLATE>
 toc-title: Table Of Contents
 ---
 
