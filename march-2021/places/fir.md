@@ -105,6 +105,9 @@ Available goods:
 
 Services
 - Temp Job available
+  - looking for
+	- Ishabi (medium cone-shaped red to violet flowers, looking for roots, the sweet nectar is enchanting to most animals)
+	- Star Parsley (pink bright flowers most often near a star willow tree, loved by Fey)
 
 NPCs
 - Sam Willhem

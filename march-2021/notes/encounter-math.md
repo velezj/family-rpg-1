@@ -186,7 +186,29 @@ deadly = 2100
 | Awakened Flower    | 6     | 10            | 60       |
 | Awakened Toadstool | 2     | 100           | 200      |
 | Awakened Patch     | 3     | 100           | 200      |
-|                    |       |               | 910     |
+|                    |       |               | 910      |
+
 
 
 Adjusted for number of monsters = 910 * 3 = 2730
+
+
+# Forest Herb Gathering
+
+targets easy = 100, medium = 200, hard = 300, deadly = 400
+
+| Monster | count | individual xp | total xp     |
+|---------|-------|---------------|--------------|
+| wolf    | 2     | 50            | 100          |
+| kobold  | 2     | 25            | 50           |
+|         |       |               | 150          |
+|         |       |               | 225 adjusted |
+
+
+| Monster | count | individual xp | total xp     |
+|---------|-------|---------------|--------------|
+| wolf    | 4     | 50            | 200          |
+|         |       |               | 300 adjusted |
+
+
+
