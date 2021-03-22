@@ -69,6 +69,14 @@ PC + Mary + 1 Rat-folk at PC Level
 | Awakened Toadstool  | 100  |
 | Awakened Vines      | 450  |
 | Corrupted Animal    | 200  |
+| Harpy               | 200  |
+| Were-rat            | 540  |
+| zombie              | 50   |
+| Skeleton            | 50   |
+| Minatour Skeleton   | 450  |
+| Ogre Zombie         | 450  |
+|                     |      |
+
 
 
 -------------------------------
@@ -212,3 +220,86 @@ targets easy = 100, medium = 200, hard = 300, deadly = 400
 
 
 
+# Harpy Bandits
+
+| PC Level + Mary | +2 | Type | Target XP | Number H | Total XP |
+|-----------------|----|------|-----------|----------|----------|
+| 2               | 0  | med  | 350       | 2        | 600      |
+| 2               | 0  | hard | 525       | 2        | 600      |
+| 2               | 0  | dead | 800       | 3        | 1200     |
+| 2               | 2  | med  | 550       | 2        | 600      |
+| 2               | 2  | hard | 825       | 3        | 1200     |
+| 2               | 2  | dead | 1200      | 3        | 1200     |
+| 3               | 0  | med  | 550       | 2        | 600      |
+| 3               | 0  | hard | 825       | 3        | 1200     |
+| 3               | 0  | dead | 1300      | 4        | 1600     |
+| 3               | 2  | med  | 850       | 3        | 1200     |
+| 3               | 2  | hard | 1275      | 4        | 1600     |
+| 3               | 2  | dead | 2100      | 6        | 2400     |
+|                 |    |      |           |          |          |
+
+
+
+# Were-rat Bandits
+
+| PC Level + Mary | +2 | Type | Target XP | Number W | Total XP |
+|-----------------|----|------|-----------|----------|----------|
+| 2               | 0  | med  | 350       | 1        | 450      |
+| 2               | 0  | hard | 525       | 2        | 1350     |
+| 2               | 0  | dead | 800       | 2        | 1350     |
+| 2               | 2  | med  | 550       | 2        | 1350     |
+| 2               | 2  | hard | 825       | 2        | 1350     |
+| 2               | 2  | dead | 1200      | 2        | 1350     |
+| 3               | 0  | med  | 550       | 2        | 1350     |
+| 3               | 0  | hard | 825       | 2        | 1350     |
+| 3               | 0  | dead | 1300      | 2        | 1350     |
+| 3               | 2  | med  | 850       | 2        | 1350     |
+| 3               | 2  | hard | 1275      | 2        | 1350     |
+| 3               | 2  | dead | 2100      | 3        | 2700     |
+|                 |    |      |           |          |          |
+
+
+# Molvat Patrols
+
+| PC + Mary Level | +2 | type | target xp | goblins | orcs | extra                    | xp  | mod  | total xp |
+|-----------------|----|------|-----------|---------|------|--------------------------|-----|------|----------|
+| 2               | 2  | hard | 825       | 5       | 2    |                          | 450 | 2.5x | 1125     |
+| 2               | 0  | hard | 525       | 6       |      |                          | 300 | 2x   | 600      |
+| 3               | 2  | hard | 1275      | 7       |      | 1 goblin boss            | 550 | 2.5x | 1375     |
+| 3               | 0  | hard | 825       | 5       |      | 3 Grung                  | 400 | 2.5x | 1000     |
+| 2               | 4  | hard | 1125      | 8       | 1    |                          | 500 | 2.5x | 1250     |
+| 2               | 4  | hard | 1125      | 2       | 3    | 2 Gnoll Hunters          | 600 | 2.5x | 1500     |
+| 2               | 2  | hard | 825       | 2       |      | 5 mud mephits            | 350 | 2.5x | 875      |
+| 2               | 0  | hard | 525       |         |      | 3 cackler                | 300 | 2x   | 600      |
+| 2               | 2  | hard | 825       | 5       |      | 1 imp                    | 450 | 2x   | 900      |
+| 2               | 2  | hard | 825       | 2       |      | 1 quasit 1 bugbear       | 500 | 2x   | 1000     |
+| 3               | 2  | hard | 1275      | 4       |      | 1 quasit 2 Giant Spiders | 800 | 2.5x | 2000     |
+|                 |    |      |           |         |      |                          |     |      |          |
+
+
+
+# Danfir Skeleton Groups
+
+| PC+M Level | +2 | type | target xp | zombie | skeleton | extra                            | xp  | moc  | total xp |
+|------------|----|------|-----------|--------|----------|----------------------------------|-----|------|----------|
+| 2          | 0  | hard | 525       |        | 2        | Ghoul                            | 300 | 2x   | 600      |
+| 2          | 0  | hard | 525       |        | 2        | 2 Lesser Shadow, 3 Skeleton Rats | 300 | 2.5x | 750      |
+| 2          | 0  | hard | 525       | 4      |          | 2 skelton Rats                   | 300 | 2x   | 600      |
+| 2          | 0  | hard | 525       | 3      | 3        |                                  | 300 | 2x   | 600      |
+| 2          | 2  | hard | 825       | 4      | 4        |                                  | 400 | 2.5x | 1000     |
+| 2          | 2  | hard | 825       | 5      |          | 2 Lesser Shadow, 3 Skeleton Rats | 400 | 2.5x | 1000     |
+| 2          | 2  | hard | 825       | 3      |          | 2 Ghoul                          | 550 | 2x   | 1100     |
+| 3          | 0  | hard | 825       | 3      |          | 3 shadows                        | 450 | 2x   | 900      |
+| 3          | 0  | hard | 825       | 4      | 4        |                                  | 400 | 2.5x | 1000     |
+| 3          | 2  | hard | 1275      | 4      | 4        | 2 Ghoul                          | 800 | 2.5x | 2000     |
+| 3          | 2  | hard | 1275      | 5      |          | 5 Shadow                         | 750 | 2.5x | 1875     |
+
+
+# Fey Encounter
+
+| Party Level | +2 | type | target xp | creatures                        | xp   | mod  | total xp |
+|-------------|----|------|-----------|----------------------------------|------|------|----------|
+| 2           | +2 | hard | 1275      | Meenlock, Quickling, 4 Blinkdogs | 850  | 2x   | 1700     |
+| 2           | +2 | hard | 1275      | Dryad, 4 Korred                  | 1000 | 2x   | 2000     |
+| 2           | +2 | hard | 1275      | 2 Dryad, 3 Pixie, 4 Sprite       | 750  | 2.5x | 1875     |
+|             |    |      |           |                                  |      |      |          |
