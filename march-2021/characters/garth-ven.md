@@ -18,7 +18,7 @@ I create the space for peace, whether by exploring and writing down my experienc
 
 # Goals
 
-- Guiding his guild mates. These are a motley crew of people that did not fit into the regular [Adventurer's Guild](./places/adventurers-guild.md).
+- Guiding his guild mates. These are a motley crew of people that did not fit into the regular [Adventurer's Guild](../places/adventurers-guild.md).
 
 - Keeping the Peace
 

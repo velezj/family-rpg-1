@@ -17,6 +17,10 @@ The main building and center of attention is the single tavern, [The Willow Stan
 
 # Events
 
+- Herb gathering encounter
+  - [wolves encounter](../scenes/encounters/herb-wolves.md)
+  - 
+
 # Rumors
 
 # NPC/Building List

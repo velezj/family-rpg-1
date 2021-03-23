@@ -205,18 +205,26 @@ Adjusted for number of monsters = 910 * 3 = 2730
 
 targets easy = 100, medium = 200, hard = 300, deadly = 400
 
-| Monster | count | individual xp | total xp     |
-|---------|-------|---------------|--------------|
-| wolf    | 2     | 50            | 100          |
-| kobold  | 2     | 25            | 50           |
-|         |       |               | 150          |
-|         |       |               | 225 adjusted |
-
 
 | Monster | count | individual xp | total xp     |
 |---------|-------|---------------|--------------|
 | wolf    | 4     | 50            | 200          |
 |         |       |               | 300 adjusted |
+
+
+| Monsters     | count | individual xp | mod  | total xp |
+|--------------|-------|---------------|------|----------|
+| Giant Wasp   | 1     | 100           |      |          |
+| insect swarm | 1     | 100           |      |          |
+| Giant Moth   | 1     | 25            |      | 225      |
+|              |       |               | 1.5x | ~ 345    |
+|              |       |               |      |          |
+
+
+| Monsters  | count | individual xp | mod | total xp |
+|-----------|-------|---------------|-----|----------|
+| Quickling | 1     | 200           | 1x  | 200      |
+|           |       |               |     |          |
 
 
 
