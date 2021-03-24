@@ -9,7 +9,7 @@ toc-title: Table Of Contents
 
 # Narrative Details
 
-- Mary will talk about adventurer "levels"
+- [Mary](../characters/mary-tanner.md) will talk about adventurer "levels"
 
   | level | description                                                                                                |
   |-------|------------------------------------------------------------------------------------------------------------|
@@ -22,17 +22,17 @@ toc-title: Table Of Contents
   | A     | Known through Kryta and beyond. Is asked to handle country-level threats.                                  |
   | S     | Power unimaginable by non-adventurers below level C. Unique individuals which are the best at their field. |
 
-- Mary ask about their background and what they want to do going forward
+- [Mary](../characters/mary-tanner.md) ask about their background and what they want to do going forward
 
-- Mary talks about her background
+- [Mary](../characters/mary-tanner.md) talks about her background
 
-- Mary will answer questions about adventuring and the Other Guild
+- [Mary](../characters/mary-tanner.md) will answer questions about adventuring and the Other Guild
 
 - [Garth](../characters/garth-ven.md) will show up sometimes and take [Gustavo](../characters/gustavo.md) aside and helping his learn magic.
 
-- Mary will begin to teach them language snipped for different monsters
+- [Mary](../characters/mary-tanner.md) will begin to teach them language snipped for different monsters
 
-- Mary will begin teaching simple things to know as adventurer (camping, ambush, stealth and sneak, traps, client and requests)
+- [Mary](../characters/mary-tanner.md) will begin teaching simple things to know as adventurer (camping, ambush, stealth and sneak, traps, client and requests)
 
 # Available Events and Results
 

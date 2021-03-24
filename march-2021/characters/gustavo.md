@@ -7,6 +7,7 @@ alignment:
 background:
 ---
 
+Player character.
 
 # Summary Line
 

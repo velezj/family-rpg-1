@@ -3,7 +3,7 @@ title: Historic Figures
 toc-title: Table Of Contents
 ---
 
-Throughout the eons, several individuals have leaped out beyond the monotony of the world. These figures have threaded themselves through the very culture and morals inhabiting Cloven to this day.
+Throughout the eons, several individuals have leaped out beyond the monotony of the world. These figures have threaded themselves through the very culture and morals inhabiting [Cloven](../setting-world/world.md) to this day.
 
 # Jon-yo
 

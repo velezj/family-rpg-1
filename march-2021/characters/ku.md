@@ -7,8 +7,7 @@ alignment: Neutral
 background: Urchin
 ---
 
-
-# Summary Line
+[Frozen One](../setting-world/celestials.md), you were put inside this body by force; you can also be thrown out by force. Truce. Let us give each other a chance for greatness.
 
 # History
 

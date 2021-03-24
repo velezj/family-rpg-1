@@ -7,7 +7,7 @@ toc-title: Table Of Contents
 
 The celestials are beings that travel across the universe, living an existence that is slightly out of reach of the mortal realms. However, they can communicate with and interact with the mortal plane (and hence the world). 
 
-Seven celestials decided to stop their journeys on Cloven. This was before the races of Dawn, and hence before The Fall. Six celestials remain:
+Seven celestials decided to stop their journeys on [Cloven](../setting-world/world.md). This was before the [Races of Dawn](../setting-world/world.md), and hence before [The Fall](../setting-world/world.md). Six celestials remain:
 
 1. The Traveler
    - Giver of Curiosity and composition. The one who creates out of many.

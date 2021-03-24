@@ -55,11 +55,12 @@ events:
 
 # NPC list
 
-- Kusoto Mari
-- Mika Strawfur
+- [Kusoto Mari](../characters/kusoto-mari.md)
+- [Mika Strawfur](../characters/mika-strawfur.md)
 - Request Giver
 
 # Encounter Information
+
 
 
 

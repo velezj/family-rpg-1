@@ -46,7 +46,7 @@ Sometimes, a Demon is born that can command the horde of full demons. This power
 
 ## Borgon Tribe
 
-## Grundil Steppes
+## Grendil Steppes
 
 ## Coldrun Range
 
