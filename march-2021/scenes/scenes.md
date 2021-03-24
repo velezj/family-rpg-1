@@ -129,6 +129,56 @@ toc-title: Table Of Contents
 1. Meet Sogo and get an explanation of the heart and gems
    - assets: cave scenery DONE
 
+1. Encounter with were-rat bandits
+   - assets: 
+	 - map DONE
+	 - monster list
+
+1. Encounter with harpy bandits
+   - assets: 
+	 - map DONE
+	 - monster list
+   
+1. Encounter/following of goblin resource gathering group to cave
+   - assets: 
+	 - outside cave map DONE
+	 - inside cave map DONE
+	 - monster list DONE
+
+1. Encounter herb gathering patch
+   - assets: 
+	 - map DONE
+	 - monster list DONE
+   
+1. Encounter herb-gathering wolves
+   - assets: 
+	 - map DONE
+	 - monster list DONE
+   
+1. Encounter goblin patrols
+   - assets: 
+	 - map
+	 - monster list
+	 
+ 1. Encounter beach fey
+	- assets
+		- map DONE
+		- monster list
+		
+1. Encounter forest-edge fey
+   - assets
+	 - map
+	 - monster list
+	 
+1 Encounter un-dead patrol
+	- assets
+		- map
+		- monster list
+
+1. Encounter Spider Grounds (Druid ruins)
+   - assets
+	 - map
+	 - monster list
 
 # audio 
 
