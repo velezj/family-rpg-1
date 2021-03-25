@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+
+  <!-- the bio that is "computable" -->
+  <div id="character-structured-bio">
+    <h1>Bio Data</h1>
+    <div class="name">{{ name | e }}</div>
+    {% for at in attribs %}
+      {% if at.name in ["class", "race", "subrace", "level", "background", "alignmen", "xp"] %}
+	<div>{{ at.name | lower | e }}:
+	  <div class="bio-{{ at.name | lower | e }}"> {{ at.current | e }} </div>
+	</div>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+
+  <!-- core ability scores -->
+  <div class="core-ability-scores">
+    <h1>Core Ability Scores</h1>
+    {% for at in attribs %}
+      {% if at.name in ["strength", "dexterity", "constitution", "intelligence", "wisdom", "charisma"] %}
+	<div>{{ at.name | lower | e }}:
+	  <div class="ability-{{ at.name | lower | e }}"> {{ at.current | e }} </div>
+	</div>
+      {% endif %}
+    {% endfor %}
+  </div>
+  
+  
+  <!-- saving throws -->
+  <div class="saving-throws">
+    <h1>Saving Throws</h1>
+    {% for at in attribs %}
+      {% if at.name.endswith("save_bonus") %}
+	<div>{{ at.name[:-11] | lower | e }}:
+	  <div class="saving-throw-{{ at.name[:-11] | lower | e }}"> {{ at.current | e }} </div>
+	</div>
+      {% endif %}
+    {% endfor %}    
+  </div>
+
+
+  <!-- skill checks -->
+  <div class="skill-checks">
+    <h1>Skill Checks</h1>
+    {% for at in attribs %}
+      {% if at.name.endswith("_bonus") and not at.name.endswith("_save_bonus") %}
+	{% if at.name[:-6] in ["athletics","acrobatics","sleight_of_hand","stealth","arcana","history","investigation","nature","religion","animal_handling","insight","medicine","perception","survival","deception","intimidation","performance","persuasion"] %}
+	  <div>{{ at.name[:-6].replace("_"," ") | lower | e }}:
+	    <div class="saving-throw-{{ at.name[:-6] | lower | e }}"> {{ at.current | e }} </div>
+	  </div>
+	{% endif %}
+      {% endif %}
+    {% endfor %}    
+  </div>
+  
+</html>
