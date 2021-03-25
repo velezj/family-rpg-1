@@ -16,44 +16,283 @@
   </div>
 
 
-  <!-- core ability scores -->
-  <div class="core-ability-scores">
-    <h1>Core Ability Scores</h1>
+
+  <!--- Scores Section -->
+  <div class="scores-section">
+    <h1>Scores Section</h1>
+    
+    <!-- core ability scores -->
+    <div class="core-ability-scores">
+      <h2>Core Ability Scores</h2>
+      {% for at in attribs %}
+	{% if at.name in ["strength", "dexterity", "constitution", "intelligence", "wisdom", "charisma"] %}
+	  <div>{{ at.name | lower | e }}:
+	    <div class="ability-{{ at.name | lower | e }}"> {{ at.current | e }} </div>
+	  </div>
+	{% endif %}
+      {% endfor %}
+    </div>
+    
+    
+    <!-- saving throws -->
+    <div class="saving-throws">
+      <h2>Saving Throws</h2>
+      {% for at in attribs %}
+	{% if at.name.endswith("save_bonus") %}
+	  <div>{{ at.name[:-11] | lower | e }}:
+	    <div class="saving-throw-{{ at.name[:-11] | lower | e }}"> {{ at.current | e }} </div>
+	  </div>
+	{% endif %}
+      {% endfor %}    
+    </div>
+
+
+    <!-- skill checks -->
+    <div class="skill-checks">
+      <h2>Skill Checks</h2>
+      {% for at in attribs %}
+	{% if at.name.endswith("_bonus") and not at.name.endswith("_save_bonus") %}
+	  {% if at.name[:-6] in ["athletics","acrobatics","sleight_of_hand","stealth","arcana","history","investigation","nature","religion","animal_handling","insight","medicine","perception","survival","deception","intimidation","performance","persuasion"] %}
+	    <div>{{ at.name[:-6].replace("_"," ") | lower | e }}:
+	      <div class="saving-throw-{{ at.name[:-6] | lower | e }}"> {{ at.current | e }} </div>
+	    </div>
+	  {% endif %}
+	{% endif %}
+      {% endfor %}    
+    </div>
+    
+
+    <!-- inspiration, proficency and passive perception -->
+    <div class="misc-scores">
+      <h2>Misc. Scores</h2>
+      {% for at in attribs %}
+	{% if at.name in ["inspiration","proficiency","passive_perception"] %}
+	  <div>{{ at.name | e}}:
+	    <div name="score-{{ at.name | e }}">
+	      {{ at.current | e }}
+	    </div>
+	  </div>
+	{% endif %}
+      {% endfor %}
+    </div>
+    
+  </div> <!-- scores-section -->
+  
+
+
+  <!-- fight sections -->
+  <div class="fight-section">
+    <h1>Fight Section</h1>
     {% for at in attribs %}
-      {% if at.name in ["strength", "dexterity", "constitution", "intelligence", "wisdom", "charisma"] %}
-	<div>{{ at.name | lower | e }}:
-	  <div class="ability-{{ at.name | lower | e }}"> {{ at.current | e }} </div>
+      {% if at.name in ["ac","speed","hp","hitdietype","death_saves"] %}
+	<div>{{ at.name | e }}:
+	  <div name="fight-{{ at.name | e }}">
+	    {{ at.current | e }}
+	  </div>
+	</div>
+      {% endif %}
+    {% endfor %}
+    {% for at in attribs %}
+      {% if at.name in ["initiative_bonus"] %}
+	<div>Initiative:
+	  <div name="fight-{{ at.name[:-6] | e }}">
+	    {{ at.current | e }}
+	  </div>
 	</div>
       {% endif %}
     {% endfor %}
   </div>
-  
-  
-  <!-- saving throws -->
-  <div class="saving-throws">
-    <h1>Saving Throws</h1>
+
+  <!-- structured background -->
+  <div class="structured-background-section">
+    <h1>Structured Background</h1>
+
+    <!-- personality and personal elements -->
     {% for at in attribs %}
-      {% if at.name.endswith("save_bonus") %}
-	<div>{{ at.name[:-11] | lower | e }}:
-	  <div class="saving-throw-{{ at.name[:-11] | lower | e }}"> {{ at.current | e }} </div>
+      {% if at.name in ["personality_traits","ideals","bonds","flaws"] %}
+	<div>{{ at.name | e }}:
+	  <div name="structured-background-{{ at.name | e }}">
+	    {{ at.current | e }}
+	  </div>
 	</div>
       {% endif %}
-    {% endfor %}    
+    {% endfor %}
   </div>
 
 
-  <!-- skill checks -->
-  <div class="skill-checks">
-    <h1>Skill Checks</h1>
+  <!-- traits from classes and races -->
+  <div class="features-and-traits">
+    <h1>Features and Traits</h1>
+    {% set traitmap = dict() %}
+    {% do traitmap.clear() %}
     {% for at in attribs %}
-      {% if at.name.endswith("_bonus") and not at.name.endswith("_save_bonus") %}
-	{% if at.name[:-6] in ["athletics","acrobatics","sleight_of_hand","stealth","arcana","history","investigation","nature","religion","animal_handling","insight","medicine","perception","survival","deception","intimidation","performance","persuasion"] %}
-	  <div>{{ at.name[:-6].replace("_"," ") | lower | e }}:
-	    <div class="saving-throw-{{ at.name[:-6] | lower | e }}"> {{ at.current | e }} </div>
-	  </div>
+      {% if at.name.startswith("repeating_traits_") %}
+	{% set kvtemp = at.name[17:] %}
+	{% set pivot = kvtemp.find("_") %}
+	{% set key = kvtemp[:pivot] %}
+	{% set value = kvtemp[pivot+1:] %}
+	{% if key not in traitmap %}
+	  {% do traitmap.update({ key: dict() }) %}
 	{% endif %}
+	{% do traitmap[key].update({ value : at.current}) %}
       {% endif %}
-    {% endfor %}    
+    {% endfor %}
+    {% for trait in traitmap %}
+      <div class="trait-{{ traitmap[trait].name | e }}">
+	<h3>{{ traitmap[trait].name | e }}</h3>
+	<ul>
+	  {% for kv in traitmap[trait].items() %}
+	    <li>{{ kv[0] | e }} = {{ kv[1] | e }}</li>
+	  {% endfor %}
+	</ul>
+      </div>
+    {% endfor %}
   </div>
+
+
+  <!-- proficiency -->
+  <div class="proficiencies">
+    <h1>Proficiencies</h1>
+    {% set traitmap = dict() %}
+    {% do traitmap.clear() %}
+    {% for at in attribs %}
+      {% if at.name.startswith("repeating_proficiencies_") %}
+	{% set toks = at.name.split("_") %}
+	{% set key = toks[2] %}
+	{% set value = "_".join( toks[3:] ) %}
+	{% if key not in traitmap %}
+	  {% do traitmap.update({ key: dict() }) %}
+	{% endif %}
+	{% do traitmap[key].update({ value : at.current}) %}
+      {% endif %}
+    {% endfor %}
+    {% for trait in traitmap %}
+      <div class="proficiency-{{ traitmap[trait].name | e }}">
+	<h3>{{ traitmap[trait].name | e }}</h3>
+	<ul>
+	  {% for kv in traitmap[trait].items() %}
+	    <li>{{ kv[0] | e }} = {{ kv[1] | e }}</li>
+	  {% endfor %}
+	</ul>
+      </div>
+    {% endfor %}
+  </div>
+
+
+  <!-- items -->
+  <div class="items">
+    <h1>Items</h1>
+    {% set traitmap = dict() %}
+    {% do traitmap.clear() %}
+    {% for at in attribs %}
+      {% if at.name.startswith("repeating_inventory_") %}
+	{% set toks = at.name.split("_") %}
+	{% set key = toks[2] %}
+	{% set value = "_".join( toks[3:] ) %}
+	{% if key not in traitmap %}
+	  {% do traitmap.update({ key: dict() }) %}
+	{% endif %}
+	{% do traitmap[key].update({ value : at.current}) %}
+      {% endif %}
+    {% endfor %}
+    {% for trait in traitmap %}
+      <div class="item-{{ traitmap[trait].itemname | e }}">
+	<h3>{{ traitmap[trait].itemname | e }}</h3>
+	<ul>
+	  {% for kv in traitmap[trait].items() %}
+	    <li>{{ kv[0] | e }} = {{ kv[1] | e }}</li>
+	  {% endfor %}
+	</ul>
+      </div>
+    {% endfor %}
+  </div>
+
+
+  <!-- attacks -->
+  <div class="attacks">
+    <h1>Attacks</h1>
+    {% set traitmap = dict() %}
+    {% for at in attribs %}
+      {% if "id" in at and "name" in at %}
+	{% do traitmap.update({ at.id: at }) %}
+      {% endif %}
+      {% if at.name.startswith("repeating_") %}
+	{% set toks = at.name.split("_") %}
+	{% set ids = [] %}
+	{% for i in toks  %}
+	  {% if i.startswith("-M") %}
+	    {% do ids.append( i ) %}
+	  {% endif %}
+	{% endfor %}
+	{# {% if ids.__len__() > 0 %} #}
+	{#   {% set id = ids[0] %} #}
+	{# {% else %} #}
+	{#   {% set id = toks[0] %} #}
+	{# {% endif %} #}
+	{% set id = ids[0] %}
+	{% set id_index = toks.index( id ) %}
+	{% set key = id %}
+	{% set value = "_".join( toks[id_index:] ) %}
+	{% if key not in traitmap %}
+	  {% do traitmap.update({ key: dict() }) %}
+	{% endif %}
+	{% do traitmap[key].update({ value : at.current}) %}
+      {% endif %}
+    {% endfor %}
+
+
+    <!-- find attack traits -->
+    {% set attack_traits = [] %}
+    {% for trait in traitmap %}
+      {% for inner in traitmap[trait] %}
+	{% if "atkname" in inner %}
+	  {% do attack_traits.append( trait ) %}
+	{% endif %}
+      {% endfor %}
+    {% endfor %}
+    <ul>
+      {% set namemap = {"atkdmgtype":"damage","atkbonus":"to-hit","atkrange":"range"} %}
+      {% for trait in attack_traits %}
+	<li>{{ traitmap[trait][ trait + "_atkname"] | e }}:
+	  <ul>
+	    {% for a in namemap %}
+	      <li>{{ namemap[a] | e }} = {{ traitmap[trait].get( trait + "_" + a, "") | e}} </li>
+	    {% endfor %}
+	  </ul>
+	  {# <ul> #}
+	  {#   {% for n in traitmap[trait] %} #}
+	  {#     {% set name = n %} #}
+	  {#     {% if n.startswith( trait ) %} #}
+	  {# 	{% set name = name[trait.__len__()+1:] %} #}
+	  {#     {% endif %} #}
+	  {#     <li>{{ name | e }} = {{ traitmap[trait][n] | e }}</li> #}
+	  {#   {% endfor %} #}
+	  {# </ul> #}
+	</li>
+      {% endfor %}
+    </ul>
+    
+
+    {# <h2> Traitmap </h2> #}
+    {# <ul> #}
+    {#   {% for trait in traitmap %} #}
+    {# 	{% set nicevalue = traitmap[trait] %} #}
+    {# 	{% if "current" in nicevalue and nicevalue.current.__str__().startswith("-M") %} #}
+    {# 	  <li> #}
+    {# 	    <h3>{{ nicevalue.name | e }}</h3> #}
+    {# 	    <ul> #}
+    {# 	      <li>{{ trait | e }} = {{ nicevalue }}</li> #}
+    {# 	      {% set ids = nicevalue.current.split(",") %} #}
+    {# 	      {% for i in ids %} #}
+    {# 		<li>{{ i | e }} ==>>> {{ traitmap[i] | e }} </li> #}
+    {# 	      {% endfor %} #}
+    {# 	    </ul> #}
+    {# 	  </li> #}
+    {# 	{% endif %} #}
+    {#   {% endfor %} #}
+    {# </ul> #}
+
+  </div>
+  
   
 </html>
