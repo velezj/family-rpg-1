@@ -30,3 +30,36 @@ If the NPC survives, they will be grateful and will actually use the materials t
 Killing the Quickling will be frowned upon by the local [Fey](../../setting-world/fey.md).
 
 Superstitions will stop people from [Fir](../../places/fir.md) an other settlements near this forest to buy the materials.
+
+
+# NPC
+
+
+| name         | ac | hp | attack                                 |
+|--------------|----|----|----------------------------------------|
+| sam          | 11 | 4  | +2 to hit 1d4+1                        |
+| giant moth   | 11 | 7  | +3 to hit 1d6+1                        |
+|              |    |    | 10ft radius con DC 10 blind            |
+|              |    |    |                                        |
+| insect swarm | 12 | 22 | +3 to hit 4d4  when hp > 1/2           |
+|              |    |    | +3 to hit 2d4  when hp < 1/2           |
+|              |    |    |                                        |
+| quickling    | 16 | 10 | multi-attack x3                        |
+|              |    |    | +8 to hit 1d4+6                        |
+|              |    |    | thrown 20/60 +8 to hit 1d4+6           |
+|              |    |    |                                        |
+|              |    |    | attacks against are disadvantage       |
+|              |    |    | dex saving for half or 0 always        |
+|              |    |    |                                        |
+| giant wasp   | 12 | 13 | +5 to hit 1d6+2  3d6 poison DC 11 half |
+|              |    |    |                                        |
+
+
+| name         | str   | dex    | con    | int   | wis    | cha   |
+|--------------|-------|--------|--------|-------|--------|-------|
+| sam          | 10    | 10     | 10     | 10    | 10     | 10    |
+| giant wasp   |       |        |        |       |        |       |
+| giant moth   | 10    | 12(+1) | 10     | 3(-4) | 10     | 7(-2) |
+| insect swarm | 3(-4) | 13(+1) | 10     | 1(-5) | 7(-2)  | 1(-5) |
+| quickling    | 4(-3) | 23(+6) | 13(+1) | 10    | 12(+1) | 7(-2) |
+|              |       |        |        |       |        |       |

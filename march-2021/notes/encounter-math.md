@@ -220,6 +220,13 @@ targets easy = 100, medium = 200, hard = 300, deadly = 400
 |              |       |               | 1.5x | ~ 345    |
 |              |       |               |      |          |
 
+| Monsters     | count | individual xp | mod  | total xp |
+|--------------|-------|---------------|------|----------|
+| insect swarm | 1     | 100           |      |          |
+| Giant Moth   | 1     | 25            |      | 225      |
+|              |       |               | 1.5x | ~ 345    |
+|              |       |               |      |          |
+
 
 | Monsters  | count | individual xp | mod | total xp |
 |-----------|-------|---------------|-----|----------|

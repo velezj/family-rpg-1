@@ -1,11 +1,14 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <link rel="stylesheet" href="style.css"/>
+    <link rel="stylesheet" href="dm-style.css"/>
   </head>
   <body>
 
     <div class="whole">
+
+      <div class="name">{{ name | e }}</div>
+      
       <div class="sheet">
 
 	<!-- the bio that is "computable" -->
@@ -29,7 +32,7 @@
 	  {%- for at in attribs -%}
 	    {%- if at.name in ["strength", "dexterity", "constitution", "intelligence", "wisdom", "charisma"] -%}
 	      <div>{{ at.name | lower | e }}:
-		<span class="ability-{{ at.name | lower | e }}"> {{ at.current | e }} </span>
+		<span class="ability-{{ at.name[:3] | lower | e }}"> {{ at.current | e }} </span>
 	      </div>
 	    {%- endif -%}
 	  {%- endfor -%}
@@ -84,7 +87,7 @@
 	  <h1>Fight Section</h1>
 	  {%- for at in attribs -%}
 	    {%- if at.name in ["ac","speed","hp"] -%}
-	      <div>{{ at.name | e }}:
+	      <div>{{ at.name[:2] | e }}:
 		<span name="fight-{{ at.name | e }}">
 		  {{ at.current | e }}
 		</span>
@@ -93,7 +96,7 @@
 	  {%- endfor -%}
 	  {%- for at in attribs -%}
 	    {%- if at.name in ["initiative_bonus"] -%}
-	      <div>Initiative:
+	      <div>Init:
 		<span name="fight-{{ at.name[:-6] | e }}">
 		  {{ at.current | e }}
 		</span>
@@ -244,12 +247,14 @@
 	      {%- endif -%}
 	    {%- endfor -%}
 	  {%- endfor -%}
-	  {%- set namemap = {"atkdmgtype":"damage","atkbonus":"to-hit","atkrange":"range"} -%}
+	  {%- set namemap = {"atkdmgtype":"","atkbonus":"to-hit = ","atkrange":"range = "} -%}
 	  {%- for trait in attack_traits -%}
 	    <h3>{{ traitmap[trait][ trait + "_atkname"] | e }}:</h3>
 	    <ul>
 	      {%- for a in namemap -%}
-		<li>{{ namemap[a] | e }} = {{ traitmap[trait].get( trait + "_" + a, "") | e}} </li>
+		{%- if trait + "_" + a in traitmap[trait] -%}
+		  <li>{{ namemap[a] | e }}{{ traitmap[trait].get( trait + "_" + a, "") | e}} </li>
+		  {%- endif -%}
 	      {%- endfor -%}
 	    </ul>
 	  {%- endfor -%}
