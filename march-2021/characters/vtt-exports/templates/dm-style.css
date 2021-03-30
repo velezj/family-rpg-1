@@ -1,0 +1,168 @@
+.whole {
+    font-size: 12px;
+    max-width: 500px;
+}
+
+.sheet {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: 1fr 4fr 4fr 6fr 8fr;
+}
+
+body {
+    background: white;
+}
+
+h1 {
+    text-align: center;
+    font-size: larger;
+    display: none;
+}
+
+h3 {
+    font-size: inherit;
+}
+
+div {
+    padding-right: 2px;
+    padding-left: 2px;
+}
+
+.name {
+    text-align: center;
+    font-size: large;
+    display: block;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.fight-section {
+    background: aliceblue;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.fight-section h1 {
+    grid-column-start: 1;
+    grid-column-end: 5;
+}
+
+.character-structured-bio {
+    display: none;
+}
+
+.character-structured-bio h1 {
+    grid-column-start: 1;
+    grid-column-end: 5;
+}
+
+
+.core-ability-scores {
+    background: cornflowerblue;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.attacks {
+    background: chocolate;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 5;
+    grid-row-end: 6;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.saving-throws {
+    background: blueviolet;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 3;
+    grid-row-end: 4;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.skill-checks {
+    background: darkblue;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 4;
+    grid-row-end: 5;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.features-and-traits {
+    background: forestgreen;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 6;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.items {
+    background: goldenrod;
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 5;
+    grid-row-end: 6;
+    display: none;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.spells {
+    background: gray;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.misc-scores {
+    display: none;
+}
+
+.structured-background-section {
+    display: none;
+}
+
+.proficiencies {
+    display: none;
+}

@@ -1,0 +1,150 @@
+.whole {
+    font-size: 12px;
+}
+
+.sheet {
+    display: grid;
+    grid-template-columns: 1fr 1fr 2fr;
+    grid-template-rows: 1fr 4fr 6fr;
+}
+
+body {
+    background: white;
+}
+
+h1 {
+    text-align: center;
+    font-size: larger;
+}
+
+h3 {
+    font-size: inherit;
+}
+
+div {
+    padding-right: 2px;
+    padding-left: 2px;
+}
+
+.fight-section {
+    background: aliceblue;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 10px;
+}
+
+.fight-section h1 {
+    grid-column-start: 1;
+    grid-column-end: 5;
+}
+
+.character-structured-bio {
+    background: brown;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 10px;
+}
+
+.character-structured-bio h1 {
+    grid-column-start: 1;
+    grid-column-end: 5;
+}
+
+
+.core-ability-scores {
+    background: cornflowerblue;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 10px;
+}
+
+.attacks {
+    background: chocolate;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 3;
+    grid-row-end: 6;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 10px;
+}
+
+.saving-throws {
+    background: blueviolet;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 10px;
+}
+
+.skill-checks {
+    background: darkblue;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 3;
+    grid-row-end: 6;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 10px;
+}
+
+.features-and-traits {
+    background: forestgreen;
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 5;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 10px;
+}
+
+.items {
+    background: goldenrod;
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 5;
+    grid-row-end: 6;
+    display: none;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 10px;
+}
+
+.spells {
+    background: gray;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 10px;
+}
+
+.misc-scores {
+    display: none;
+}
+
+.structured-background-section {
+    display: none;
+}
+
+.proficiencies {
+    display: none;
+}
