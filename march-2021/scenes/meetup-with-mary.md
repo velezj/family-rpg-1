@@ -1,5 +1,5 @@
 ---
-title: Meeting [Mary](../characters/mary-tanner.md)
+title: Meeting Mary
 ---
 
 [Gustavo](../characters/gustavo.md) and [Owlex](../characters/owlex.md) are traveling through to forest to get to [Fir](../places/fir.md) when they find a tree trunk down on the road and get ambushed by a set of goblins. The goblins look pretty beat up, but there are still 10 of them and will pressure the party by first trying to kill their mule and then trying to knock them down. 

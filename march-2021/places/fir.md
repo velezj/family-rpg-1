@@ -13,7 +13,7 @@ As soon as you get near Fir you notice that the forest path broadens into more o
 
 The structures themselves are well cared for but not opulent. This is a town of frontier's people that cares for itself but understands that nature and the forest were there before the humans came and will be there after the humans are gone.
 
-The main building and center of attention is the single tavern, [The Willow Stand](#the-willow-standard), which offers decent food at moderate prices and has several large rooms for travelers to rent. Across the tavern is [Maggor's](#maggors) which is a general store targeting travelers. On the south-east side of town you will find [Sack's Textiles](#sacks-textiles), a leather-worker/tailor, as well as [The Fern](#the-fern), an herbal shop.
+The main building and center of attention is the single tavern, [The Willow Stand](#the-willow-stand), which offers decent food at moderate prices and has several large rooms for travelers to rent. Across the tavern is [Maggor's](#maggors) which is a general store targeting travelers. On the south-east side of town you will find [Sack's Textiles](#sacks-textiles), a leather-worker/tailor, as well as [The Fern](#the-fern), an herbal shop.
 
 # Events
 

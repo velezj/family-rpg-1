@@ -24,7 +24,9 @@ A scattering of people throughout history have ever been contacted by, or spoken
 
 # Sects
 
-### The Glittering One
+Only a few sects following the Frozen One exists, and those are secretive. Individuals themselves decide to follow the Frozen One rather than groups. Each being is it's own leader.
+
+### The [Glittering One](../setting-world/glittering-one.md)
 
 A secret sect following the guidance and tenants of the Frozen One. This is less of a religious group and more of a duty-bound line of warriors trying handle the results of [The Fall](../setting-world/world.md). The group is led by [Sheem](../characters/sheem.md), a re-incarnated being whose memories date to before [The Fall](../setting-world/world.md). The soul of [Sheem](../characters/sheem.md) has been reborn countless times, and will continue to be reborn after each body dies, until the fallout from [The Fall](../setting-world/world.md) has been dealt with and calmness is restored to the world.
 

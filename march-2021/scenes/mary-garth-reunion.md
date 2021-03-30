@@ -1,5 +1,5 @@
 ---
-title: Mary and [Garth](../characters/garth-ven.md) Reunion
+title: Mary and Garth Reunion
 ---
 
 When [Mary](../characters/mary-tanner.md) brings [Gustavo](../characters/gustavo.md) and [Owlex](../characters/owlex.md) to the [Other Guild](../places/other-guild.md), she yells out to see if [Garth](../characters/garth-ven.md) is still alive.
