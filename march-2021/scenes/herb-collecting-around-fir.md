@@ -71,7 +71,16 @@ Checks:
 
 # The goblin cave
 
+Inside the goblin cave a small outpost is being made by the goblins. In one corner of the cave you see a Worg training area. Another corner consists of a group of Bugbears which are camping away from the normal goblins. At the far back of the cave you see a slightly fancier tent where the Orc commander of this group sits.
+
 # Back to Fir with information
+
+When you get back to [Fir](../places/fir.md) Sam will want to report what you saw about the goblins to the mayor. [Mary](../characters/mary-tanner.md) will also report the starved wolves and the lack of sounds and creatures in the forest. The mayor will tell the party that the forest has been dangerous of late. More than a few travelers have not come back after paying for rooms at the tavern. One scared couple even ran back to town yelling something about Goblin in the forest. But they've never come down this far from the mountains. The couple probably saw a large frog and through it was a goblin or something. 
+
+Once the conversation with the mayor finishes, Sam will go to her shop and pay the party. Depending on the quality of the herbs gathered she may throw in some extra salves or tea and may pay more as a bonus for the unexpected fights. Sam will also introduce the party to the tanner if there are wolf pelts they want to sell.
+
+If the quickling is killed or brought back and the mayor is told, he will tell you to keep it hidden. In [Fir](../places/fir.md) people are superstitious and messing with the [Fey](../setting-world/fey.md) is a bad omen.
 
 # Heading to Beggarsbottom
 
+The next town in the road is [Juneston](../places/juneston.md). [Mary](../characters/mary-tanner.md) will want to continue traveling with the party. If the party decides to stay an extra day or two in [Fir](../places/fir.md) she will wait with them, otherwise she will keep going and tells them to look her up in [Beggarsbottom](../places/beggarsbottom/story.md) when they get there. She will tell her to ask around for the adventurer [Mary](../characters/mary-tanner.md).
