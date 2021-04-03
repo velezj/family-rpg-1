@@ -14,7 +14,64 @@ After and hour or so, the herbalist looks back, "The forest is quiet today." He 
 
 As you continue deeper, now searching for sounds of animals, you do get a few pieces of birdsong or the scurry of feet burrowing into the ground. About two hours into your journey the herbalist pulls up a clump of grass and smile "Ah yes, here we are. We're almost there, an hour at most." He keeps walking with a determined stride now that the goal is near. [The Wolves](encounters/herb-wolves.md) sense the party and start tracking them for the next 10 minutes, finally attacking.
 
+# Mary's exhaustion
+
+After the battle with the wolves, [Mary](../characters/mary-tanner.md) will slump to the ground exhausted. Your can see that she's sweating profusely and her skin has become a little pale except for the scar on her neck. If asked, she will say she is just tired from the journey and will deflect all questions of worries about her health. She'll want to rest for about half an hour. Soon enough she'll stand up, "It's time to gather some herbs" she says as she begins walking. During the rest, Sam will make some tea for the party that is meant to strengthen the constitution; [Tea of Vitality](../items/tea-of-vitality.md). Sam will gladly accept help lighting the fire from either PC (both have campfire capabilities). As the party continues, it will be at a slower pace because of [Mary's](../characters/mary-tanner.md) state.
 
 # The herb patches
 
+Sam checks the earth and looks up at the trees, "Ok, this is the place". "No it's my time to shine" she pumps her fist a little as she starts searching about the forest. If asked, she'll explain that the two herbs are rare and usually grow in small pockets of the forest. One is pink in color and only grows near a [Star Twinkle](#star-twinkle-tree) tree. The second herb is a darker violet or deep ruby color with fern-like clusters of flowers low to the ground.
+
+| Patch   | Description                    | Name       |
+|---------|--------------------------------|------------|
+| Patch 1 | Insects for deep-ruby herb     | Whitecap   |
+| Patch 2 | Quickly for Star Twinkle herbs | Bloomswell |
+|         |                                |            |
+
+
+The party make an investigation check to see how fast they can find the herbs.
+| Roll    | Time for First | Time for Second | Total Time | notes                                              |
+|---------|----------------|-----------------|------------|----------------------------------------------------|
+| 1 - 5   | 90 min         | 90 min          | 3 hours    |                                                    |
+| 6 - 10  | 60 min         | 60 min          | 2 hours    |                                                    |
+| 11 - 15 | 30 min         | 30 min          | 1 hour     |                                                    |
+| 16 - 20 | 20 min         | 25 min          | 45 min     |                                                    |
+| >= 21   | 10             | 10              | 20 min     |                                                    |
+|         |                |                 |            |                                                    |
+| Nat 1   | 2 hour         | 2 hour          | 2 hour     | Herbs are in bad state, only half useful           |
+| Nat 20  | 10 min         | 10 min          | 20 min     | Herbs are especially potent, get paid extra by Sam |
+
+
+
+## Star Twinkle Tree
+
+An uncommon tree that attracts the essence of magic near it as it grows. Only places with some form of magical energy, however small, can even support Star Twinkle trees. They are easy to spot, as they are covered in light motes that twinkle as you look and are usually very colorful and bright compared to the natural earth tones of most plants. The grow rate of a Star Twinkle tree is related to the amount of magic consumed and so has nothing to do with time. This makes it extremely hard to age a particular tree.
+
+
 # The goblin group
+
+Because of the slow down due to [Mary's](../characters/mary-tanner.md) fatigue the party will not get the [Fir](../places/fir.md) until well after dark. During their walk, the party will hear the sounds of some creatures moving in the forest. With a nature or survival check of DC 13 they realize the sound is that of a cart moving through the forest. If they decide to investigate they will come across the goblin group that is headed to their cave with carts. 
+
+Checks:
+| want/info                  | check skill         | dc | fail                   | success                                          |
+|----------------------------|---------------------|----|------------------------|--------------------------------------------------|
+| Hear goblins               | passive perception  | 10 | no                     | yes                                              |
+| recognize cart sound       | nature/survival     | 13 | no                     | yes                                              |
+| hear goblin speak          | perception          | 16 | no                     | yes                                              |
+| recognize goblin language  | intelligence/nature | 16 | no                     | yes                                              |
+| spy undercover             | stealth             | 11 | heard by group         | hidden/spying                                    |
+| recognize objects in cart  | perception          | 12 | unknown                | wood and raw forest materials                    |
+| follow undercover          | stealth             | 11 | heard by group         | hidden/follow                                    |
+| follow far track           | survival            | 10 | loose trail            | follow up to 3 hour behind or weather conditions |
+| find track after lost      | survival            | 13 | loose trail, no repeat | find and follow trail                            |
+| perceive imp at cave mouth | perception          | 15 | hidden from party      | see imp                                          |
+| unseen at cave entrance    | stealth             | 13 | seen by imp guard      | hidden from imp guard                            |
+| sneak into cave undetected | stealth             | 20 | seen                   | sneak in undetected                              |
+|                            |                     |    |                        |                                                  |
+
+# The goblin cave
+
+# Back to Fir with information
+
+# Heading to Beggarsbottom
+
