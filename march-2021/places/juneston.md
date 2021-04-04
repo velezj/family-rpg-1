@@ -22,19 +22,19 @@ To the right as you enter the town is the [Baron's Rest](#barons-rest), a local 
 - On the board in [The Timber Hut](#the-timeber-hut) you'll find these set of requests:
   - 3 Cedar Logs, unfinished, at least 10 years old : 2 GP per person
   - 10 bunches of mature linseed, unrefined, seeds only : 3 GP per person
-  - Delivery of 20 planks to farmhouse : 2 GP per person
-  - Pickup of 10 pine logs and 5 birch logs from farmhouse : 3 GP per person
+  - Delivery of 20 planks to farmhouse : 2 GP per person (Reed Farm, Marguerite Reed)
+  - Pickup of 10 pine logs and 5 birch logs from farmhouse : 3 GP per person (Clay Farm, Dawn Clay)
   - Splitting 20 Birch Logs into planks, sanding and curing : 4 GP per person, must show skill level to actually do the job well
   
 - Requests from [Sophie's](#sophies) (if asked)
   - two tubs of lard from wild boar (approximately 5 wild boar's worth) : 10 GP per person
   - fabric of all types, including pelts from forest or grassland animals (up to 12 animal's worth) : 2 GP per fabric per person
   - 30 fresh Maxima clams, intact and still alive for pigments. (DC 10 nature to find "good" ones for pigment) : 3 GP total
-  - Delivery of 3 barrels of salt to farmhouse : 2 GP per person
+  - Delivery of 3 barrels of salt to farmhouse : 2 GP per person (Weber Farm, Oscar Weber)
 
 - Jobs from [Gram's](#grams)
-  - Delivery of till and plow set
-  - Delivery of water pump
+  - Delivery of till and plow set :  2GP  (Newman Farm, Kevin Newman)
+  - Delivery of water pump : 2 GP (Duffy Farm, Kent Duffy)
 
   
 

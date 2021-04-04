@@ -8,15 +8,21 @@ toc-title: Table of Contents
 | meetup with Mary encounter        | encounter map                    | done ✓ |       |
 |                                   | monster list                     | done ✓ |       |
 |                                   | narration                        | done ✓ |       |
-| herb gathering                    | wolf encounter map               | done ✓ |       |
-|                                   | Mary exhaustion narrative        |        |       |
+| Fir herb gathering                | wolf encounter map               | done ✓ |       |
+|                                   | Mary exhaustion narrative        | done ✓ |       |
 |                                   | herb gathering encounter map     | done ✓ |       |
 |                                   | goblin party sighting map (cave) | done ✓ |       |
-|                                   | goblin sighting narration        |        |       |
-|                                   | goblin sighting follow math      |        |       |
+|                                   | goblin sighting narration        | done ✓ |       |
+|                                   | goblin sighting follow math      | done ✓ |       |
 |                                   | goblin inside cave map           | done ✓ |       |
-|                                   | back to Fir narration            |        |       |
+|                                   | camping outside narration        | done ✓ |       |
+|                                   | back to Fir narration            | done ✓ |       |
 |                                   | Fir mayor narration              |        |       |
+| Juneston                          | npc and building detail          | done ✓ |       |
+|                                   | delivery/job npc and names       | done ✓ |       |
+|                                   | harpy encounter                  | done ✓ |       |
+|                                   | wild boar encounter              |        |       |
+|                                   | harpy beach encounter            |        |       |
 | Get to Beggarsbottom              | scenery                          | done ✓ |       |
 |                                   | narration                        |        |       |
 | Invited to stay with Mary         | scenery                          | done ✓ |       |
@@ -32,4 +38,5 @@ toc-title: Table of Contents
 | Practice and train with Mary      | scenery                          |        |       |
 |                                   | dialog scenery                   |        |       |
 |                                   | narration                        |        |       |
-|                                   |                                  |        |       |
+
+	
