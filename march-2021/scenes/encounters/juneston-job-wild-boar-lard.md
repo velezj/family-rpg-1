@@ -11,8 +11,10 @@ Mary: "Have you ever fought wild boar before?" (no) "They're tough. Sometimes yo
 
 # Encounter
 
-The party will search for wild boar in the forest area near Juneston. The amount of time they need to find boar is based on a Survival roll:
+The party will search for wild boar in the forest area near Juneston. The amount of time they need to find boar is based on a Survival roll.
 
+
+Survival Roll:
 | Roll / Actions                          | Time    | Found                                                        |
 |-----------------------------------------|---------|--------------------------------------------------------------|
 | < 10                                    | 4 hours | Female sounder of 6 boar in den                              |
@@ -23,14 +25,18 @@ The party will search for wild boar in the forest area near Juneston. The amount
 
 The boars have a passive perception of 9 so party can attempt to sneak in. Each of the dens will be a group of female boars huddled around each other.
 
+The boars will be used for Lye which only needs the fat. However, the boar pelt can be used. It any is only dealt bludgeon damage the pelt is in perfect condition. Boars with slashing damage have their condition worsen to a passable level. Boars that have been singed with fire, ice, or lightning damage will be almost unusable.
 
-| name        | ac | hp | speed | attack                                                                                 |
-|-------------|----|----|-------|----------------------------------------------------------------------------------------|
-| sam         | 11 | 4  | 30    | +2 to hit 1d4+1                                                                        |
-| boar        | 11 | 11 | 40    | +3 to hit 1d6+1 slashing                                                               |
-|             |    |    |       | if moved >= 20ft before attack, strength DC 10 save or be knocked prone                |
-|             |    |    |       | If takes 7 damage or less that would reduce it to 0 hp, stays at 1 instead (only once) |
-| boar piglet | 8  | 4  | 20    | +2 to hit 1 slashing                                                                   |
+
+| name        | ac | hp | speed | attack                                                                                 | treasure             |
+|-------------|----|----|-------|----------------------------------------------------------------------------------------|----------------------|
+| sam         | 11 | 4  | 30    | +2 to hit 1d4+1                                                                        |                      |
+| boar        | 11 | 11 | 40    | +3 to hit 1d6+1 slashing                                                               | perfect = 6 GP pelt  |
+|             |    |    |       | if moved >= 20ft before attack, strength DC 10 save or be knocked prone                | passable = 2 GP pelt |
+|             |    |    |       | If takes 7 damage or less that would reduce it to 0 hp, stays at 1 instead (only once) |                      |
+| boar piglet | 8  | 4  | 20    | +2 to hit 1 slashing                                                                   | perfect = 3 GP       |
+|             |    |    |       |                                                                                        | passable = 1 GP      |
+|             |    |    |       |                                                                                        |                      |
 
 
 | name   | str | dex | con | int | wis | cha | Speed | Skills               |

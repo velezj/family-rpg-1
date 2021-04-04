@@ -35,7 +35,6 @@ To the right as you enter the town is the [Baron's Rest](#barons-rest), a local 
 - Jobs from [Gram's](#grams)
   - Delivery of till and plow set :  2GP  (Newman Farm, Kevin Newman)
   - Delivery of water pump : 2 GP (Duffy Farm, Kent Duffy)
-
   
 
 # Rumors
