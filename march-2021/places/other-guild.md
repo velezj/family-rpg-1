@@ -15,7 +15,7 @@ A guild created by [Garth](../characters/garth-ven.md) and his old group of adve
 
 - Connect to [Rosaline](../characters/rosaline-cotswad.md)
 
-- Find mentor for [Gustavo](../characters/gustavo.md) ([Garth](../characters/garth-ven.md))
+- Find mentor for [Gustavo](../characters/gustavo.md) ( can be [Garth](../characters/garth-ven.md) if wanted)
 
 - Help with lodging (for free if joined)
 
