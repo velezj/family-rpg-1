@@ -16,14 +16,17 @@ As you continue deeper, now searching for sounds of animals, you do get a few pi
 
 # Mary's exhaustion
 
-After the battle with the wolves, [Mary](../characters/mary-tanner.md) will slump to the ground exhausted. Your can see that she's sweating profusely and her skin has become a little pale except for the scar on her neck. If asked, she will say she is just tired from the journey and will deflect all questions of worries about her health. She'll want to rest for about half an hour. Soon enough she'll stand up, "It's time to gather some herbs" she says as she begins walking. During the rest, Sam will make some tea for the party that is meant to strengthen the constitution; [Tea of Vitality](../items/tea-of-vitality.md). Sam will gladly accept help lighting the fire from either PC (both have campfire capabilities). As the party continues, it will be at a slower pace because of [Mary's](../characters/mary-tanner.md) state.
+After the battle with the wolves, [Mary](../characters/mary-tanner.md) will slump to the ground exhausted. Your can see that she's sweating profusely and her skin has become a little pale except for the scar on her neck. If asked, she will say she is just tired from the journey and will deflect all questions of worries about her health. She'll want to rest for about half an hour. During the rest, Sam will make some tea for the party that is meant to strengthen the constitution; [Tea of Vitality](../items/tea-of-vitality.md). Sam will gladly accept help lighting the fire from either PC (both have campfire capabilities).
 
 During the rest, [Mary](../characters/mary-tanner.md) will also give some combat pointers to the party since this is the first time they are fighting together and she's the only one with experience.
 "Gustavo, you're a magic user hugh? That fire magic back there was you right?" ... "Since were working together, let talk about our group and how we best work with each other, fair?" "Almost all of the magic users I know fight from the back of the group. They're not usually trying to hit things with a stick, and they also like to be able to concentrate on their spells without having monsters try to bite them." Mary closes her eyes a bit and lays down on the ground. "And you Owlex, that was nice work with the spear. But you're armor is thinner than mine, so how about you wait until all of the monsters are concentrating on me and then you come in from behind or the sides to hit them. That way, the monsters have to worry about their backs and will be easier to hit."
 
+Soon enough she'll stand up, "It's time to gather some herbs" she says as she begins walking. As the party continues, it will be at a slower pace because of [Mary's](../characters/mary-tanner.md) state.
+
+
 # The herb patches
 
-Sam checks the earth and looks up at the trees, "Ok, this is the place". "No it's my time to shine" she pumps her fist a little as she starts searching about the forest. If asked, she'll explain that the two herbs are rare and usually grow in small pockets of the forest. One is pink in color and only grows near a [Star Twinkle](#star-twinkle-tree) tree. The second herb is a darker violet or deep ruby color with fern-like clusters of flowers low to the ground.
+Sam checks the earth and looks up at the trees, "Ok, this is the place". "Now it's my time to shine" she pumps her fist a little as she starts searching about the forest. If asked, she'll explain that the two herbs are rare and usually grow in small pockets of the forest. One is pink in color and only grows near a [Star Twinkle](#star-twinkle-tree) tree. The second herb is a darker violet or deep ruby color with fern-like clusters of flowers low to the ground.
 
 | Patch   | Description                    | Name       |
 |---------|--------------------------------|------------|
