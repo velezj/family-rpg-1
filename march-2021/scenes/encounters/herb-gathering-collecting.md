@@ -11,6 +11,48 @@ Herb Whitecap is being guarded by a Giant wasps and their minions because of it'
 
 Herb Bloomswell is being guarded by a Quickling.
 
+## Bloomswell
+
+As the party moves closer to the Star Twinkle tree, they will hear a voice.
+"Go away! Go, Go, Go Away" The voice seems to echo around the party in a high pitch. 
+
+The party rolls a perception roll to see what they notice:
+| roll    | effect                                                                                 |
+|---------|----------------------------------------------------------------------------------------|
+| < 10    | Party does not see or notice anything around them                                      |
+| 10 - 17 | The party realizes that the voice seems to be a single voice moving around them        |
+| 18 - 20 | The party notices a slight blur and shimmer moving on the ground quickly on the ground |
+| >= 21   | The party notices a Quickling running around the party                                 |
+|         |                                                                                        |
+
+The Quickling is not hostile but is not a friend either. It is guarding the Star Twinkle tree.
+The quickling is guarding the tree from the goblins and monsters that have recently moved into the forest. Being Fey, Quicklings have some trouble differentiating monsters and races of the dawn, so they will assume the party is also made of monsters. This tree is important to the family of this Quickling, it is in fact the mortal grave of their ancestral matriarch.
+
+"You cannot take this tree. Go, go away!"
+
+| ability/skill                | roll                | effect                                                                                      |
+|------------------------------|---------------------|---------------------------------------------------------------------------------------------|
+| persuasion                   | < 10                | Quickling will try to intimidate them                                                       |
+|                              | 10 - 12             | Quickling will talk to them, trying to figure out if they are goblins or not                |
+|                              | 13 - 20             | Quickling will realize they are not goblins and will ask what they want                     |
+|                              | >= 21               | Quickling will realize they hunted the monster insects and treat them as friends of nature  |
+|                              |                     |                                                                                             |
+| intimidation                 | < 12                | Quickling will turn hostile and try to scare them away                                      |
+|                              | 13 - 16             | Quickling will star running around the tree and ask what you want the tree for              |
+|                              | >= 17               | Quickling will back down and let you take things as long as you keep the tree alive         |
+|                              |                     |                                                                                             |
+| deception                    | VS insight (WIS +1) | on fail, will turn hostile                                                                  |
+|                              |                     | on success, will be deceived. They will still not let party harm tree but will ignore herbs |
+|                              |                     |                                                                                             |
+| acrobatics                   | VS Acro (DEX +6)    | will try to stop party from getting close. Will be amused if fail or success                |
+|                              |                     |                                                                                             |
+| offer trade                  |                     | Advantage on persuasion check                                                               |
+|                              |                     |                                                                                             |
+| show gathered herbs          |                     | Advantage on persuasion                                                                     |
+|                              |                     |                                                                                             |
+| Offer to drink tea with them |                     | Quickling will turn friendly                                                                |
+|                              |                     |                                                                                             |
+
 # Encounter
 
 - Both Insects and Quickling will try to guard the herbs from being picked.
