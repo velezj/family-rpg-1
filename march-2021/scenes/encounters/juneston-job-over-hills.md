@@ -31,7 +31,7 @@ Harpy do *not* usually attack over open lands and prefer cliffs and territory wi
 
 he Harpy will be spotted from far off in a clear day. Weather may obscure the harpy until it is quite close. The Stirge are harder to see since some might be stuck to the Harpy. As the party gets within range, the Harpy will actually fall to the ground with the Stirge swarm either leaving (level 1) or seeing the party as easier food that cannot fly.
 
-If [Juneston](../../places/juneston.md] mayor or any town local is informed of the dead harpy and the Stirge, party will get a reward for killing it and the village will send a full request for Harpy extermination to the [Adventurers Guild](../../setting-world/adventurers-guild.md). If the Harpy is brought to the village Evan will take it off your hands saying that the talons and feather are useful in designs. 
+If [Juneston](../../places/juneston.md] mayor or any town local is informed of the dead harpy and the Stirge, party will get a reward for killing it and the village will send a full request for Harpy extermination to the [Adventurers Guild](../../places/adventurers-guild.md). If the Harpy is brought to the village Evan will take it off your hands saying that the talons and feather are useful in designs. 
 
 If the harpy is brought to a farm, or a farm told about it rather than the mayor, the farmer will thank you and will treat you to provisions and a few coins for the effort.
 

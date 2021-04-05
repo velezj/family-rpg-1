@@ -79,4 +79,4 @@ Run by the loud, muscled, and good-hearted Evan, The Timber Hut handles all thin
 
 ### Mayor
 
-The mayor is currently out of town, having gone with a group to check out reports of Hapys.
+The mayor is currently out of town, having gone with a group to check out reports of Harpys.

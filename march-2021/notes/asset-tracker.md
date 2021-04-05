@@ -18,10 +18,12 @@ toc-title: Table of Contents
 |                                   | camping outside narration        | done ✓ |       |
 |                                   | back to Fir narration            | done ✓ |       |
 |                                   | Fir mayor narration              |        |       |
+| Owlex Meet with Nature Guide      | scenery                          | done ✓ |       |
+|                                   | narration                        |        |       |
 | Juneston                          | npc and building detail          | done ✓ |       |
 |                                   | delivery/job npc and names       | done ✓ |       |
 |                                   | harpy encounter                  | done ✓ |       |
-|                                   | wild boar encounter              |        |       |
+|                                   | wild boar encounter              | done ✓ |       |
 |                                   | harpy beach encounter            |        |       |
 | Get to Beggarsbottom              | scenery                          | done ✓ |       |
 |                                   | narration                        |        |       |
@@ -38,5 +40,14 @@ toc-title: Table of Contents
 | Practice and train with Mary      | scenery                          |        |       |
 |                                   | dialog scenery                   |        |       |
 |                                   | narration                        |        |       |
+| Sewer Cleaning Request Given      | scenery                          | done ✓ |       |
+|                                   | narration                        |        |       |
+|                                   | NPC                              |        |       |
+| Sewer Cleaning Encounter          | map (initial)                    | done ✓ |       |
+|                                   | narration                        |        |       |
+|                                   | map (+ratfolk)                   | done ✓ |       |
+|                                   | narration for ratfolk            |        |       |
+|                                   | map goblins                      | done ✓ |       |
+|                                   |                                  |        |       |
 
 	
