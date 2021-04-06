@@ -80,3 +80,46 @@ Run by the loud, muscled, and good-hearted Evan, The Timber Hut handles all thin
 ### Mayor
 
 The mayor is currently out of town, having gone with a group to check out reports of Harpys.
+
+
+# Surroundings
+
+## Farms
+
+- Nate Farm
+  - Gaff Nate
+  - Pete Nate (22)
+  - Patrick Nate (20)
+  - John Hand (28) (farmhand, worked for 10 years)
+  - Steven Flypool (17) (farmhand, hired this year)
+  - missing
+	- [Danfir](../characters/danfir-rootbreaker.md) experimented on farm and they have turned undead.
+  
+- Reed Farm
+  - Marguerite Reed (lead)
+  - Tom Reed (eldest, 24)
+  - Micheal Reed (20)
+  - Holt (35) (farmhand, Half-Orc, worked for them 20 years)
+
+- Clay Farm
+  - Dawn Clay
+  - Steven Clay
+  - Brandy Clay (15)
+  - Jimmy Clay (14)
+  - Laurel Clay (13)
+  - Jim Clay (oldest, 17, gone adventuring 4 years ago, has not returned)
+  
+- Duffy
+  - Kent Duffy
+  - Milla Duffy
+  - James Duffy (13)
+  
+- Weber
+  - Oscar Weber
+  - Kindra Weber
+  - Stephanie Weber (15)
+  - Laurence Weber (12)
+  
+- Newman
+  - Kevin Newman (18, moved in 2 months ago)
+  - Mersa Newman (18)
