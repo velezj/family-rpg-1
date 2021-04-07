@@ -91,16 +91,16 @@ Superstitions will stop people from [Fir](../../places/fir.md) an other settleme
 # Rewards
 
 Giant moth: 
-  - 3d4 GP per pristine wing
+  - 2 SP per pristine wing
   - Half if wing has elemental damage and can cause discoloration (fire,ice,etc.)
-  - 6d4 GP per pristine antenna
-	- Dexterity or Nature check DC of 12 to retrieve antenna without damaging it
-	- Quarter price if damaged
+  - 1 GP per pristine antenna
+	- Dexterity or Nature check DC of 14 to retrieve antenna without damaging it
+	- 3 SP if damaged
   
 Beetle Swarm:
   - Roll investigation to see how may you find. X = Investigation * 10
   - For each spell that causes material damage that can be seen, halve the number of beetles X, round down
-  - 2 SP of material per beetle X
+  - 1 SP of material per beetle X
 
 # NPC
 

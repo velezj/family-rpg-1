@@ -40,10 +40,10 @@ If the harpy is brought to a farm, or a farm told about it rather than the mayor
 
 | Action                       | Reward                       |
 |------------------------------|------------------------------|
-| Tell Mayor or Village person | 10 GP                        |
-| Tell Farmer                  | Provisions for 2 days + 2 GP |
-| Harpy Materials              | 2 GP per harpy               |
-| Stirge Materials             | 5 SP per Stirge              |
+| Tell Mayor or Village person | 1 GP                         |
+| Tell Farmer                  | Provisions for 2 days + 2 SP |
+| Harpy Materials              | 5 SP per harpy               |
+| Stirge Materials             | 1 SP per Stirge              |
 |                              |                              |
 
 # NPC

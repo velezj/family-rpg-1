@@ -4,7 +4,7 @@ toc-title: Table of Contents
 ---
 
 | Scene/Target                      | Asset Type                       | Status | Notes |
-|-----------------------------------|----------------------------------|--------|-------|
+|-----------------------------------|----------------------------------|:------:|-------|
 | meetup with Mary encounter        | encounter map                    | done ✓ |       |
 |                                   | monster list                     | done ✓ |       |
 |                                   | narration                        | done ✓ |       |
