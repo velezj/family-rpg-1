@@ -34,7 +34,7 @@ On the way to Beggardsbottom, the party encounters a lone, weakened harpy being 
 
 # Reward
 
-If [Juneston](../../places/juneston.md] mayor or any town local is informed of the dead harpy and the Stirge, party will get a reward for killing it and the village will send a full request for Harpy extermination to the [Adventurers Guild](../../places/adventurers-guild.md). If the Harpy is brought to the village Evan will take it off your hands saying that the talons and feather are useful in designs. 
+If [Juneston](../../places/juneston.md) mayor or any town local is informed of the dead harpy and the Stirge, party will get a reward for killing it and the village will send a full request for Harpy extermination to the [Adventurers Guild](../../places/adventurers-guild.md). If the Harpy is brought to the village Evan will take it off your hands saying that the talons and feather are useful in designs. 
 
 If the harpy is brought to a farm, or a farm told about it rather than the mayor, the farmer will thank you and will treat you to provisions and a few coins for the effort.
 
