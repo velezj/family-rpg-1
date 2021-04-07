@@ -20,11 +20,17 @@ toc-title: Table of Contents
 |                                   | Fir mayor narration              |        |       |
 | Owlex Meet with Nature Guide      | scenery                          | done ✓ |       |
 |                                   | narration                        |        |       |
+| Gustavo Spirit Meeting Umrik      | scenery                          |        |       |
+|                                   | narration                        |        |       |
+|                                   | NPC image / dialogue             |        |       |
 | Juneston                          | npc and building detail          | done ✓ |       |
 |                                   | delivery/job npc and names       | done ✓ |       |
-|                                   | harpy encounter                  | done ✓ |       |
+|                                   | harpy -> Beggarsbottom encounter | done ✓ |       |
 |                                   | wild boar encounter              | done ✓ |       |
 |                                   | harpy beach encounter            |        |       |
+|                                   | Mary pass-through narration      | done ✓ |       |
+| Travel Juneston->Beggarsbottom    | scenery                          | done ✓ |       |
+|                                   | narration                        |        |       |
 | Get to Beggarsbottom              | scenery                          | done ✓ |       |
 |                                   | narration                        |        |       |
 | Invited to stay with Mary         | scenery                          | done ✓ |       |
