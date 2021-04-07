@@ -1,21 +1,21 @@
 ---
-title: Junston
+title: Juneston
 toc-title: Table of Contents
 ---
 
 # Summary
 
-A small village at the edge of the forest, Junston is regularly visited by farmers trading produce for goods of the forest.
+A small village at the edge of the forest, Juneston is regularly visited by farmers trading produce for goods of the forest.
 
 # Narrative Details
 
-Junston is on the main road between the forest and [Beggarsbottom](../places/beggarsbottom/story.md). It is a small farming village surrounded by the gentle hills of near the coast of southern Kryta. While there are some travelers that pass through, most decide to go into the forest through [Naver](../places/naver.md) so Junston has many more local residents and caters to the farming community.
+Juneston is on the main road between the forest and [Beggarsbottom](../places/beggarsbottom/story.md). It is a small farming village surrounded by the gentle hills of near the coast of southern Kryta. While there are some travelers that pass through, most decide to go into the forest through [Naver](../places/naver.md) so Juneston has many more local residents and caters to the farming community.
 
 To the right as you enter the town is the [Baron's Rest](#barons-rest), a local tavern, inn, and courier post. Across and to the left of the entrance is the [mayor's](#mayor) house: a relatively large building (for a village mayor) that also acts as a market during the day. At the very end of the road is [Sophie's Shed](#sophies-shed), a general goods store. Next to it on the right is [Gram's](#grams): a farming goods store specializing in feed and equipment for livestock. Lastly, next to the mayor's house if [The Timber Hut](#the-timeber-hut). It handles all wood and forest materials, from procurement, treatment and aging, to buying of rough or finished products.
 
 # Notes
 
-- The area near Juneston has recently been taken over by a nest of Harpys. Because of the lack of adventurers, the usual Harpy cleaning requests have not been filled and so  the nest has grown large enough that the Harpys have broadened their territory. They now claim a significant area around Junston and [Talewater](../places/talewater.md).
+- The area near Juneston has recently been taken over by a nest of Harpys. Because of the lack of adventurers, the usual Harpy cleaning requests have not been filled and so  the nest has grown large enough that the Harpys have broadened their territory. They now claim a significant area around Juneston and [Talewater](../places/talewater.md).
 
 # Events
 

@@ -96,7 +96,38 @@ Mary:
 
 # Back to Fir with information
 
-When you get back to [Fir](../places/fir.md) Sam will want to report what you saw about the goblins to the mayor. [Mary](../characters/mary-tanner.md) will also report the starved wolves and the lack of sounds and creatures in the forest. The mayor will tell the party that the forest has been dangerous of late. More than a few travelers have not come back after paying for rooms at the tavern. One scared couple even ran back to town yelling something about Goblins in the forest. But they've never come down this far from the mountains. The couple probably saw a large frog and through it was a goblin or something. 
+You get back to [Fir](../places/fir.md) and the first thing Sam does it hurry over to the mayor's house. She knocks and enters without even waiting for a response and rushes over to where the mayor is sitting. "Owen we've got trouble. I was out picking herbs when we were attacked by monsters. Insect monsters were flying everywhere trying to eat us."
+
+"Slow down Sam, what's this about an attack? Monsters? We haven't had monsters around here for decades."
+
+[Mary](../characters/mary-tanner.md): "Sir, I've seen these before. Those were definitely a swarm of skin beetles and a giant moth. Look at this beetle carcass and this wing. These were no natural animals."
+
+Oven: "Where were you attack? How far away?"
+
+Sam: "About four hours away west north-west of town."
+
+### if party saw goblins
+
+[Mary](../characters/mary-tanner.md): "I'm afraid that's not the worst of it. We saw a convoy of goblins being led by a Bugbear. This wasn't just a roving band. They had carts and magic. We need to get everyone out of here. Do you have any far-speakers?"
+
+Owen: "Evacuate the whole won? Far-speakers? We're a small village in the middle of the forest. There's no way a far-speaker would live here. This is our home. You only saw 6 goblins and a Bugbear. Some of our men know how to handle themselves." The mayor starts heading outside and yells for Lorna.
+
+[Mary](../characters/mary-tanner.md): "You don't know how may there are! What if those were just the tip of the iceberg. You have no wall, you have no real weapons. You don't even have scouts to track their movements and you have no idea where, when, and how many are coming! Get out now, flee and take word to the people around. Head to [Juneston](../places/juneston.md) or down to [Gade](../places/gade.md). Anywhere outside of this forest."
+
+Owen has stopped listening to [Mary](../characters/mary-tanner.md) and is asking Lorna to help gather people to get rid of this goblin problem. "Sam, we'll need you to lead us to where you saw the goblins."
+
+[Mary](../characters/mary-tanner.md): "Sam, leave, run. You are not prepared for this. And we are not strong enough to help out. Not with a group of unknown size which includes Bugbears." With a look of disgust [Mary](../characters/mary-tanner.md) stops talking and grabs starts pulling [Owlex](../characters/owlex.md). "Lets go. We need to warn everyone we meet and get to [Juneston](../places/juneston.md), see of they have a far-speaker. Otherwise we need to get to [Beggarsbottom](../places/beggarsbottom/story.md) and inform the guild that we may have a goblin horde in out hands."
+
+### if party did not see goblins
+
+Sam: "We were also attacked by starving wolves. The forest was too quiet Owen. Something is not right."
+
+Owen: "Monsters, wolves .... this is our neck of the woods and we'll let them know" Owen starts walking out towards the middle of town yelling for Lorna. "We'll gather a group of us. Sam, we'll need you to lead us to where the monster where. We're going to look around and see if there are any more monsters around And if there are, we're going to deal with them!"
+
+[Mary](../characters/mary-tanner.md): "Come on" she starts pulling [Owlex](../characters/owlex.md). "This town has tough people, but monsters are another thing altogether. We need to get to [Beggarsbottom](../places/beggarsbottom/story.md) and inform the guild of monsters in the forest near [Fir](../places/fir.md). We're in no way to go looking for trouble in the forest ... and who knows ... maybe the townsfolk will be able to deal with it themselves. Either way, the guild needs to know and we're of no help here."
+
+
+### Sam quest closes
 
 Once the conversation with the mayor finishes, Sam will go to her shop and pay the party. Depending on the quality of the herbs gathered she may throw in some extra salves or tea and may pay more as a bonus for the unexpected fights. Sam will also introduce the party to the tanner if there are wolf pelts they want to sell.
 

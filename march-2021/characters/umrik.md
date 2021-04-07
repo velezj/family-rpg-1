@@ -35,6 +35,6 @@ A true traveler, Umrik wears simple dark brown trousers with strong sturdy boots
 
 - [Rosaline Cotswad's](./rosaline-cotswad.md) father was a friend of Umrik, and she treats him as an uncle. She will introduce him to [Gustavo](./gustavo.md) as a potential teacher of magic.
 
-- Garth Ven knows Umrik.
+- [Garth Ven](../characters/garth-ven.md) and Umrik are friends.
 
-- Umrik will guide Gustavo to Garth as a potential teacher, via dreams, if Gustavo acts in a "good" alignment during a whole day.
+- Umrik will guide [Gustavo](../characters/gustavo.md) to [Garth](../characters/garth-ven.md) as a potential teacher, via dreams, if Gustavo acts in a "good" alignment during a whole day.

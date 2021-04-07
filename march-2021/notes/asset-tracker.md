@@ -19,10 +19,10 @@ toc-title: Table of Contents
 |                                   | back to Fir narration            | done ✓ |       |
 |                                   | Fir mayor narration              |        |       |
 | Owlex Meet with Nature Guide      | scenery                          | done ✓ |       |
-|                                   | narration                        |        |       |
-| Gustavo Spirit Meeting Umrik      | scenery                          |        |       |
-|                                   | narration                        |        |       |
-|                                   | NPC image / dialogue             |        |       |
+|                                   | narration                        | done ✓ |       |
+| Gustavo Spirit Meeting Umrik      | scenery                          | done ✓ |       |
+|                                   | narration                        | done ✓ |       |
+|                                   | NPC image / dialogue             | done ✓ |       |
 | Juneston                          | npc and building detail          | done ✓ |       |
 |                                   | delivery/job npc and names       | done ✓ |       |
 |                                   | harpy -> Beggarsbottom encounter | done ✓ |       |
@@ -41,7 +41,7 @@ toc-title: Table of Contents
 |                                   | dialog scenes                    |        |       |
 |                                   | narration                        |        |       |
 | Witness reunion of Mary and Garth | scenery                          | done ✓ |       |
-|                                   | dialog scenes                    |        |       |
+|                                   | dialog scenes                    | done ✓ |       |
 |                                   | narration                        | done ✓ |       |
 | Practice and train with Mary      | scenery                          |        |       |
 |                                   | dialog scenery                   |        |       |
