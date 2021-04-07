@@ -17,7 +17,7 @@ toc-title: Table of Contents
 |                                   | goblin inside cave map           | done ✓ |       |
 |                                   | camping outside narration        | done ✓ |       |
 |                                   | back to Fir narration            | done ✓ |       |
-|                                   | Fir mayor narration              |        |       |
+|                                   | Fir mayor narration              | done ✓ |       |
 | Owlex Meet with Nature Guide      | scenery                          | done ✓ |       |
 |                                   | narration                        | done ✓ |       |
 | Gustavo Spirit Meeting Umrik      | scenery                          | done ✓ |       |
@@ -47,7 +47,7 @@ toc-title: Table of Contents
 |                                   | dialog scenery                   |        |       |
 |                                   | narration                        |        |       |
 | Sewer Cleaning Request Given      | scenery                          | done ✓ |       |
-|                                   | narration                        |        |       |
+|                                   | narration                        | done ✓ |       |
 |                                   | NPC                              |        |       |
 | Sewer Cleaning Encounter          | map (initial)                    | done ✓ |       |
 |                                   | narration                        |        |       |

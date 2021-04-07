@@ -88,6 +88,20 @@ Killing the Quickling will be frowned upon by the local [Fey](../../setting-worl
 Superstitions will stop people from [Fir](../../places/fir.md) an other settlements near this forest to buy the materials.
 
 
+# Rewards
+
+Giant moth: 
+  - 3d4 GP per pristine wing
+  - Half if wing has elemental damage and can cause discoloration (fire,ice,etc.)
+  - 6d4 GP per pristine antenna
+	- Dexterity or Nature check DC of 12 to retrieve antenna without damaging it
+	- Quarter price if damaged
+  
+Beetle Swarm:
+  - Roll investigation to see how may you find. X = Investigation * 10
+  - For each spell that causes material damage that can be seen, halve the number of beetles X, round down
+  - 2 SP of material per beetle X
+
 # NPC
 
 

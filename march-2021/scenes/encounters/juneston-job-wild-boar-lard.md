@@ -17,7 +17,8 @@ The party will search for wild boar in the forest area near Juneston. The amount
 Survival Roll:
 | Roll / Actions                          | Time    | Found                                                        |
 |-----------------------------------------|---------|--------------------------------------------------------------|
-| < 10                                    | 4 hours | Female sounder of 6 boar in den                              |
+| < 5                                     | 2 hours | 1 Giant Boar (deadly)                                        |
+| 5 - 8                                   | 4 hours | Female sounder of 6 boar in den                              |
 | 8-10 and talked to villagers about area | 3 hour  | Female sounder of 6 boar in den                              |
 | 11 - 14                                 | 2 hours | Female sounder of 6 boar in den                              |
 | 15 - 18                                 | 2 hours | Female sounder of 4 boar in den and one male boar on the way |
@@ -36,6 +37,9 @@ The boars will be used for Lye which only needs the fat. However, the boar pelt 
 |             |    |    |       | If takes 7 damage or less that would reduce it to 0 hp, stays at 1 instead (only once) |                      |
 | boar piglet | 8  | 4  | 20    | +2 to hit 1 slashing                                                                   | perfect = 3 GP       |
 |             |    |    |       |                                                                                        | passable = 1 GP      |
+|             |    |    |       |                                                                                        |                      |
+| Giant Boar  | 12 | 42 | 40    | +5 2d6+3 damage                                                                        | perfect = 20 GP      |
+|             |    |    |       |                                                                                        | passable = 15 GP     |
 |             |    |    |       |                                                                                        |                      |
 
 

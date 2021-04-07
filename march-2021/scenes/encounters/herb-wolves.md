@@ -34,6 +34,16 @@ Checks:
 
 - On a nature DC 15 or investigation DC 15 the party notices the wound was caused by a sword or other sharp tool.
 
+# Rewards
+
+Sam will offer to buy the pelts of any defeated wolves:
+| Persuasion Roll | GP range                              | Notes |
+|-----------------|---------------------------------------|-------|
+| < 10            | 5-6 GP per pelt (leader same)         |       |
+| 10 - 15         | 6-8 GP per pelt, 10 GP leader         |       |
+| > 15            | 10 GP per pelt, 12 - 15 GP for leader |       |
+|                 |                                       |       |
+
 # NPC Stats
 
 | name         | ac | hp | attack                                   |

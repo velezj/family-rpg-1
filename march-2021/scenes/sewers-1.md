@@ -17,9 +17,9 @@ The young man takes of his hat, holding it in front of his chest with both hands
 
 "Yes, and? ..."
 
-"Oh ... excuse me. My name is Ivan Helman. I came from [Cairston](../places/cairston.md) ... Well ... I was sent from [Cairston](../places/cairston.md) with a request for the [Adventurers Guild](../places/adventurers-guild.md). But when I got there, the guild was closed. I didn't know what to do, so I stood around in front of the closed door .... a kind mam told me that the guild was closed but said there was another guild ... the [Other Guild](../places/other-guild.md) ... that may be able to help me. She pointed me here ...." He looks around at the people training and then back to [Garth](../characters/garth-ven.md).
+"Oh ... excuse me. My name is Ivan Helman. I came from [Cairston](../places/cairston.md) ... Well ... I was sent from [Cairston](../places/cairston.md) with a request for the [Adventurers Guild](../places/adventurers-guild.md). But when I got there, the guild was closed. I didn't know what to do, so I stood around in front of the closed door .... a kind mam told me that the guild was closed but said there was another guild ... the [Other Guild](../places/other-guild.md) ... that may be able to help me. He pointed me here ...." He looks around at the people training and then back to [Garth](../characters/garth-ven.md).
 
-[Garth](../characters/garth-ven.md) turns towards [Gustavo](../characters/gustavo.md), "Keep practicing what we just talked about. Try to focus on you focus during the second half of the incantation..." He then walks up the Ivan. "Let's hear what you've got lad"
+[Garth](../characters/garth-ven.md) turns towards [Gustavo](../characters/gustavo.md), "Keep practicing what we just talked about. Try to stabilize and strengthen your focus during the second half of the incantation..." He then walks up the Ivan. "Let's hear what you've got lad"
 
 Ivan takes a breath then starts talking. "Fall is coming soon and so we've been harvesting like crazy. Wheat's not growing too well this year ... it's the weather from  the mountains wiping too much ash and sulfur to us ..."
 
@@ -57,7 +57,7 @@ events:
 
 - [Kusoto Mari](../characters/kusoto-mari.md)
 - [Mika Strawfur](../characters/mika-strawfur.md)
-- Request Giver
+- Request Giver Ivan Helman
 
 # Encounter Information
 
