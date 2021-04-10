@@ -28,9 +28,9 @@ With [Gamorr's](../setting-world/celestials.md) blessing, Bo left the Wildwoods 
 # Appearance
 
 Standing at 6' 1", even as a child Bo stood above most humans. His noble feature from the Falthon family shine through: 
-	- Golden brown hair that is as smooth as silk,
-	- Cream-white skin that is untarnished by blemished
-	- Wide eyes the deepest green full of intelligence
+  - Golden brown hair that is as smooth as silk,
+  - Cream-white skin that is untarnished by blemished
+  - Wide eyes the deepest green full of intelligence
 	
 After years of training in the Wildwoods, Bo's body is finely honed. Muscles as strong as steel and as flexible as spider's thread their way through his body. Lithe rather than muscular, Bo's strength comes from the endless hours of work and training. Standing tall and regal, Bo's appearance would never be overlooked as he towers over most and looks everyone in their eyes.
 

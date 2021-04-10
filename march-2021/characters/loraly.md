@@ -11,6 +11,21 @@ background: Soldier
 
 Driven by vague dreams of pain and peril, Loraly left her home to explore the southern reaches of Kryta, including the [Wildwoods](../setting-world/wildwoods.md). Weather spirits or her own internal trauma is causing them is yet to be seen; at least she has left the battlefront. She may have forgotten to tell anyone she was leaving.
 
+# structured background
+
+Personality Traits
+- I’ve lost too many friends, and I’m slow to make new ones.
+- I’m haunted by memories of war. I can’t get the images of violence out of my mind.
+
+Ideals
+- Independence. When people follow orders blindly, they embrace a kind of tyranny. (Chaotic)
+
+Bonds
+- I fight for those who cannot fight for themselves.
+
+Flaws
+- The monstrous enemy we faced in battle still leaves me quivering with fear.
+
 # History
 
 As a scout, she often worked alone during battles and training. She was part of a unit but was mostly running around in the wilderness locating sites, planing paths, and communicating dangers to the rest of the unit. Perhaps because of this, she is the last surviving soldier of her unit. During a routine march, she scouted ahead and communicated back a clear path. However, no response came. When she arrived back to where her unit was resting, all were dead. Killed and dismembered, parts of their organs eaten and their bones crunched. Not many things can make an elf warrior throw up, but Loraly did that day. Unsolved, her unit's death still haunts her. Both the fear of an enemy so brutal, and the guilt of missing the sings of whatever creature attacked the unit. She was the scout and lookout sensing the perimeter; her failure lead to their deaths. 
