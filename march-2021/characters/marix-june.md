@@ -38,6 +38,7 @@ Marix prefers the darker colors, blacks and grays, slimmed to show him lithe for
 
 # Hooks
 
+- Marix will be looking for adventurers to "help clean up some monsters" that have started to ambush coaches traveling along the north of [Beggarsbottom](../places/beggarsbottom/story.md). In reality, he's looking for targets to practice his skills and keep himself honed. He will taken the adventurers down the road then ambush them and trap them in a dome. They will have to fight him to get out.
 
 <!--  LocalWords:  elven Marix gouts Marix's
  -->

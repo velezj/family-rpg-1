@@ -44,9 +44,10 @@ Wearing tight fitting sill weave from head to tow, Loraly optimizes her apparel 
 
 # Behavior
 
-Loraly has a buoyant spirit that can't help but exude out of her. She is always talkative and is easy going with friends and strangers alike. But do not let her chatter fool you, she is incredibly talented and intelligent. She just likes having fun too. She feels like the world is too serious for it's own good and will try to put a smile on everybody's face. But when angered, Loraly will pursue justice with a single minded focus that often scares her friends and petrifies her enemies.
+- Loraly has a buoyant spirit that can't help but exude out of her. She is always talkative and is easy going with friends and strangers alike. But do not let her chatter fool you, she is incredibly talented and intelligent. She just likes having fun too. She feels like the world is too serious for it's own good and will try to put a smile on everybody's face. But when angered, Loraly will pursue justice with a single minded focus that often scares her friends and petrifies her enemies.
 
-Underneath her jubilant exterior Loraly has yet to come to terms with her unit's death. When not dreaming about Kryta, she replays images of her friends as their ravaged bodies dried in the sun, left as food for scavengers. Any army or soldier will cause immediate discomfort.
+- Underneath her jubilant exterior Loraly has yet to come to terms with her unit's death. When not dreaming about Kryta, she replays images of her friends as their ravaged bodies dried in the sun, left as food for scavengers. Any army or soldier will cause immediate discomfort.
 
 # Hooks
 
+- While walking around [Beggarsbottom](../places/beggarsbottom/story.md), the party will witness Loraly bolting down the street with what seems like kingdom soldiers chasing her. Loraly will be leading the soldiers outside far enough away that they cannot see the town. She will then take all of their belongings. They were not actually soldiers, just low-level thieves that were trying to pass as guards and grab "taxes" from citizens.

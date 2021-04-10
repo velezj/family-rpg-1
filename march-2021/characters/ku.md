@@ -15,7 +15,15 @@ background: Urchin
 
 # Goals
 
+- Stay in balance with the [Frozen One](../setting-world/the-frozen-one.md)
+
+- Destroy un-dead to bring them back to the cycle of death
+
 # Behavior
+
+- Ku is actively intimidating, even when it does not work
+
+- Ku will act first, think later. And his gut instincts almost always to run towards trouble.
 
 # Hooks
 

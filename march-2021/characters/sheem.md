@@ -36,3 +36,4 @@ Sheem leads the [Glittering Ones](../setting-world/the-frozen-one.md) to this da
 
 # Hooks
 
+- While around [Talewater](../places/talewater.md), the party will walk/ride and see Sheem gliding across the land. They will also see him fighting some un-dead in the distance.
