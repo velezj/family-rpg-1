@@ -7,3 +7,10 @@ enableRobotsTXT = "true"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
+
+[markup]
+defaultMarkdownHandler = "goldmark"
+  [markup.tableOfContents]
+    endLevel = 3       
+    ordered = true
+    startLevel = 1
