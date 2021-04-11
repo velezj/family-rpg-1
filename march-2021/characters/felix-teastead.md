@@ -29,7 +29,7 @@ Flaws
 
 # History
 
-Felix was born on the northern borderlands of Kryta. For him and his village, tales of monsters and heroes were everyday occurrences. He fell in love with music and art, as it helped him and his sister pass the time while their parents were away keeping the village safe. Once they were older, they both decided to travel the world. His sister [Sam](../characters/smantha-teastead.md) left to live a quiet life down south where monsters were just bedtime stories. He left to embolden the families and children of the northern villages; hoping to bring some laughter and joy to the border. As he traveled, he realized that joy and laughter were needed everywhere, not just at the border. He now walks across Kryta hoping to brighten the day of everyone he meets.
+Felix was born on the northern borderlands of Kryta. For him and his village, tales of monsters and heroes were everyday occurrences. He fell in love with music and art, as it helped him and his sister pass the time while their parents were away keeping the village safe. Once they were older, they both decided to travel the world. His sister [Sam](../characters/samantha-teastead.md) left to live a quiet life down south where monsters were just bedtime stories. He left to embolden the families and children of the northern villages; hoping to bring some laughter and joy to the border. As he traveled, he realized that joy and laughter were needed everywhere, not just at the border. He now walks across Kryta hoping to brighten the day of everyone he meets.
 
 # Appearance
 

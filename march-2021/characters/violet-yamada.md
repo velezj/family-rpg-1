@@ -40,7 +40,7 @@ Slightly short for her age, Violet wear comfortable and travel-friendly robes of
 
 # Hooks
 
-- Getting to the [Adventurers Guild](../place/adventurers-guild.md) and finding it close, Violet will wander around the town and eventually hear about the [Other Guild](../places/other-guild.md) where she will head to and see if they need any help.
+- Getting to the [Adventurers Guild](../places/adventurers-guild.md) and finding it close, Violet will wander around the town and eventually hear about the [Other Guild](../places/other-guild.md) where she will head to and see if they need any help.
 
 <!--  LocalWords:  Baysburrow Yamada
  -->
