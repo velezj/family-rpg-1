@@ -478,13 +478,16 @@ def _compose_repeated_elements( roll20_data ):
     for node in roll20_data.get( "attribs", [] ):
         if node.get( "name", "" ).startswith( "repeating_" ):
             raw_name = node['name']
-            index = raw_name.index("-")
-            rep_name = raw_name[:index]
+            #_log().info( "Found repeating: '%s'", raw_name)
+            index = raw_name.index("-M")
+            rep_name = raw_name[:index-1]
             rest_name = raw_name[index:]
             id_index = rest_name.index( "_" )
             repeat_id = rest_name[:id_index]
             repeat_attribute = rest_name[id_index+1:]
             repeat_type = rep_name[ len("repeating_") : ]
+            #_log().info( "  type=%s attr=%s id=%s name=%s",
+            #             repeat_type, repeat_attribute, repeat_id, rep_name )
             if repeat_type not in typename:
                 typename[ repeat_type ] = {}
             repmap = typename[ repeat_type ]
@@ -553,8 +556,11 @@ def _fill_character_common_DND_structured_features( character, roll20_data ):
                                 min=None,
                                 max=None)
 
+    types_simple = ["traits","proficiencies","tool"]
     repeated = _compose_repeated_elements( roll20_data )
     for reptype in repeated:
+        if reptype not in types_simple:
+            continue
         for _, rep in repeated[ reptype ].items():
             types = [ rep.get("repeat_type") ]
             for name, value in rep.items():
@@ -566,7 +572,63 @@ def _fill_character_common_DND_structured_features( character, roll20_data ):
                                         types=types,
                                         min=None,
                                         max=None,
-                                        value=rep.get('name'))
+                                        value=rep.get('name'),
+                                        extra=rep)
+
+    # spells are special
+    for reptype in repeated:
+        if "spell" not in reptype:
+            continue
+        for _, rep in repeated[ reptype ].items():
+            types = [ rep.get("repeat_type") ]
+            types.append( rep.get("spelllevel") )
+            types.append( "spell" )
+            if rep.get("spellschool",None) is not None:
+                types.append( rep.get("spellschool") )
+            _append_structured_feature( character,
+                                        name=rep.get('spellname'),
+                                        description=rep.get("spelldescription"),
+                                        types=types,
+                                        min=None,
+                                        max=None,
+                                        value=rep.get('spellname'),
+                                        extra=rep)
+
+    # attacks are special
+    if "attack" in repeated:
+        reptype = "attack"
+        for _, rep in repeated[ reptype ].items():
+            types = [ rep.get("repeat_type") ]
+            if len(rep.get('spellid',"")) > 1:
+                types.append( "spell" )
+                if rep.get("spelllevel",None) is not None:
+                    types.append( rep.get("spelllevel") )
+                if rep.get("spell",None) is not None:
+                    types.append( rep.get("spell") )
+            _append_structured_feature( character,
+                                        name=rep.get('atkname'),
+                                        description=rep.get("description"),
+                                        types=types,
+                                        min=None,
+                                        max=None,
+                                        value=rep.get('atkname'),
+                                        extra=rep)
+
+
+    # items are special
+    if "inventory" in repeated:
+        reptype = "inventory"
+        for _, rep in repeated[ reptype ].items():
+            types = [ rep.get("repeat_type") ]
+            types.append( "item" )
+            _append_structured_feature( character,
+                                        name=rep.get('itemname'),
+                                        description=rep.get("itemcontent"),
+                                        types=types,
+                                        min=None,
+                                        max=None,
+                                        value=rep.get('itemname'),
+                                        extra=rep)
 
 
 

@@ -27,8 +27,11 @@ toc-title: Table of Contents
 |                                   | delivery/job npc and names       | done ✓ |                     |
 |                                   | harpy -> Beggarsbottom encounter | done ✓ |                     |
 |                                   | wild boar encounter              | done ✓ |                     |
-|                                   | harpy beach encounter            |        |                     |
+|                                   | harpy beach encounter            | done ✓ |                     |
 |                                   | Mary pass-through narration      | done ✓ |                     |
+| Rip-Tide                          | map                              | done ✓ |                     |
+|                                   | encounter stats/math             | done ✓ |                     |
+|                                   | narration                        |        |                     |
 | Travel Juneston->Beggarsbottom    | scenery                          | done ✓ |                     |
 |                                   | narration                        |        |                     |
 | Get to Beggarsbottom              | scenery                          | done ✓ |                     |
