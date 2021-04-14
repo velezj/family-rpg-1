@@ -51,4 +51,5 @@ def print_character_summary( character ):
             print( heading_line )
             if is_there( i, "description" ):
                 print( "    " + str(i.get("description")).replace("\n","\n    ") )
+            print( "" )
         

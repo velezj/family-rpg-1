@@ -4,7 +4,7 @@ of table top RPG games (such ad D&D)
 '''
 
 import logging
-
+import sys
 
 ## ==========================================================================
 
@@ -470,6 +470,347 @@ def _fill_character_rolls_from_roll20_data( character, roll20_data ):
 
 ## ==========================================================================
 
+def _norm_to_none( x ):
+    if x is None:
+        return None
+    if isinstance( x, str ):
+        if len(x.strip()) < 1:
+            return None
+    if isinstance( x, dict ):
+        if len(x) < 1:
+            return None
+    return x
+
+## ==========================================================================
+
+def _access_equation_data( access, roll20_data ):
+    if access in roll20_data:
+        return roll20_data.get( access )
+    for x in roll20_data.get("attribs",[]):
+        if x.get("name") == access:
+            return x.get("current")
+    return None
+
+## ==========================================================================
+
+def _solve_equations( x, character, roll20_data ):
+    if x is None:
+        return None
+    if "[[" not in x and "@" not in x:
+        return x
+    try:
+        start_index = x.find("[[")
+        end_index = x.find("]]")
+        wrap_len = 2
+        if start_index < 0:
+            start_index = 0
+            wrap_len = 0
+        if end_index < 0:
+            end_index = len(x)
+            wrap_len = 0
+        eq = x[start_index+wrap_len:end_index]
+        _log().info( "  found eq: '%s' (%s,%s)", eq, start_index, end_index )
+        while "@{" in eq:
+            index = eq.index("@{")
+            end_i = eq.index("}")
+            access = eq[index+2:end_i]
+            _log().info("    access: '%s' (%s,%s)", access, index, end_i )
+            value = _access_equation_data( access, roll20_data )
+            _log().info("    value: '%s'", value )
+            eq = eq[:index] + str(value) + eq[end_i+1:]
+            _log().info("    filling: eq='%s'", eq )
+        _log().info("  filled equation: '%s'", eq )
+        value = eval( eq )
+        _log().info("  value: %s", value )
+        x = x[:start_index] + str(value) + x[end_index+wrap_len:]
+        _log().info( "  -> resutsing: '%s'", x )
+        return x
+    except:
+        _log().info( "Unable to solve equation: '%s'",  x )
+        _log().exception("")
+        return x
+
+## ==========================================================================
+
+def _create_spell_description( repeated_element, character, roll20_data ):
+    desc = _norm_to_none(get( repeated_element, ['spelldescription'] ))
+    higher_levels = _norm_to_none(get( repeated_element, ['spellathigherlevels']))
+    casting_time = _norm_to_none(get( repeated_element, ['spellcastingtime']))
+    spell_attack = _norm_to_none(get( repeated_element, ['spellattack'] ))
+    spell_class = _norm_to_none(get( repeated_element, ['spellclass'] ))
+    spell_component_m = _norm_to_none(get( repeated_element, ['spellcomp_m']))
+    spell_component_v = _norm_to_none(get( repeated_element, ['spellcomp_v']))
+    spell_component_s = _norm_to_none(get( repeated_element, ['spellcomp_s']))
+    spell_materials = _norm_to_none(get( repeated_element, ['spellcomp_materials']))
+    spell_concentration = _norm_to_none(get( repeated_element, ['spellconcentration']))
+    damage = _norm_to_none(get( repeated_element, ['spelldamage']))
+    damage2 = _norm_to_none(get( repeated_element, ['spelldamage2']))
+    spell_type = _norm_to_none(get( repeated_element, ['spelltype']))
+    spell_type2 = _norm_to_none(get( repeated_element, ['spelltype2']))
+    spell_range = _norm_to_none(get( repeated_element, ['spellrange']))
+    spell_ritual = _norm_to_none(get( repeated_element, ['spellritual']))
+    spell_save = _norm_to_none(get(repeated_element, ['spellsave']))
+    spell_save_success = _norm_to_none(get( repeated_element, ['spellsavesuccess']))
+    spell_school = _norm_to_none(get( repeated_element, ['spellschool'] ))
+    spell_target = _norm_to_none(get( repeated_element, ['spelltarget'] ))
+    spell_source = _norm_to_none(get( repeated_element, ['spellsource'] ))
+    spell_duration = _norm_to_none(get( repeated_element, ['spellduration'] ))
+
+    description = ""
+    freshline = True
+    freshlist = True
+
+    if spell_school is not None:
+        description += "School of {}".format( spell_school )
+        freshline = False
+        freshlist = False
+    if spell_class is not None:
+        if not freshlist and not freshlist:
+            description += ", "
+        description += str(spell_class)
+        freshline = False
+        freshlist = False
+    if spell_source is not None:
+        if not freshline and not freshlist:
+            description += "/"
+        description += str(spell_source)
+        freshline = False
+        freshlist = False
+    if spell_ritual is not None:
+        if not freshlist:
+            description += ", "
+        description += str(spell_ritual)
+        freshlist = False
+        freshlist = False
+    if not freshline:
+        description = "(" + description + ")" + "\n"
+    freshline = True
+    freshline = True
+
+    
+    if casting_time is not None:
+        description += "Casting Time: {}".format( casting_time )
+        freshline = False
+        freshlist = False
+    if spell_duration is not None:
+        if not freshline and not freshline:
+            description += ", "
+        description += "Duration: {}".format( spell_duration )
+        if spell_concentration is not None:
+            description += "(concentration)"
+        freshline = False
+        freshlist = False
+    if not freshline or not freshlist:
+        description += "\n"
+    freshline = True
+    freshlist = True
+    
+    if any([ spell_component_m is not None,
+             spell_component_v is not None,
+             spell_component_s is not None,
+             spell_materials is not None ]):
+        description += "Components: "
+        freshline = False
+        freshlist = True
+        if spell_component_v is not None:
+            if not freshlist:
+                description += ", "
+            description += "Verbal"
+            freshlist = False
+        if spell_component_s is not None:
+            if not freshlist:
+                description += ", "
+            description += "Sommatic"
+            freshlist = False
+        if spell_materials is not None:
+            if not freshlist:
+                description += ", "
+            description += str(spell_materials)
+    if not freshline:
+        description += "\n"
+    freshline = True
+    freshlist = True
+
+    if spell_attack is not None:
+        if not freshline and not freshlist:
+            description += ", "
+        description += "Spell Attack: {}".format( spell_attack )
+        freshline = False
+        freshlist = False
+    if spell_range is not None:
+        if not freshlist:
+            description += ", "
+        description += "Range: {}".format( spell_range )
+        freshlist = False
+        freshline = False
+    if spell_target is not None:
+        if not freshlist:
+            description += ", "
+        description += "Target: {}".format( spell_target )
+        freshline = False
+        freshlist = False
+    if not freshline:
+        description += "\n"
+    freshline = True
+    freshlist = True
+    
+    if damage is not None:
+        if not freshline and not freshlist:
+            description += ", "
+        description += "Damage: {}".format( damage )
+        freshline = False
+        freshlist = False
+    if spell_type is not None:
+        if not freshlist:
+            description += " "
+        description += "{}".format( spell_type )
+        freshline = False
+        freshlist = False
+    if damage2 is not None:
+        if not freshline and not freshlist:
+            description += " and "
+        description += "{}".format( damage2 )
+        freshline = False
+        freshlist = False
+    if spell_type2 is not None:
+        if not freshine and not freshlist:
+            description += " "
+        description += "{}".format( spell_type2 )
+    if not freshline:
+        description += "\n"
+    freshline = True
+    freshlist = True
+    
+    if spell_save is not None:
+        description += "Save: {}".format( spell_save )
+        freshline = False
+        freshlist = False
+    if spell_save_success is not None:
+        if not freshline and not freshlist:
+            description += ", "
+        description += "on success {}".format( spell_save_success )
+    if not freshline:
+        description += "\n"
+    freshline = True
+    freshlist = True
+    
+    if desc is not None:
+        description += desc
+        freshline = False
+        freshlist = False
+    if higher_levels is not None:
+        if not freshline:
+            description += "\n"
+        description += higher_levels
+
+    # description = """Class: {} School: {} (ritual:{})  Source: {}
+    # Casting Time: {}   Duration: {} (concentration:{}) Range: {} Target: {}
+    # Spell Attack: {} Components: M{} V{} S{} Materials: {}
+    # Damage: {} {} and {} {} damage
+    # Save: {}, on success {}
+    # {}
+    # {}""".format(
+    #     spell_class,
+    #     spell_school,
+    #     spell_ritual,
+    #     spell_source,
+    #     casting_time,
+    #     spell_duration,
+    #     spell_concentration,
+    #     spell_range,
+    #     spell_target,
+    #     spell_attack,
+    #     spell_component_m,
+    #     spell_component_v,
+    #     spell_component_s,
+    #     spell_materials,
+    #     damage, spell_type,
+    #     damage2, spell_type2,
+    #     spell_save, spell_save_success,
+    #     desc,
+    #     higher_levels )
+    
+    return description
+
+## ==========================================================================
+
+def _create_attack_description( repeated_element, character, roll20_data ):
+    name = _norm_to_none(get( repeated_element, ["atkname"] ))
+    damage_base = _norm_to_none( get(repeated_element, ['dmgbase'] ))
+    damage_type = _norm_to_none( get(repeated_element, ['dmgtype'] ))
+    damage2_base = _norm_to_none( get(repeated_element, ['dmg2base'] ))
+    damage2_type = _norm_to_none( get(repeated_element, ['dmg2type'] ))
+    attack_range = _norm_to_none( get(repeated_element, ['atkrange'] ))
+    save_effect = _norm_to_none( get(repeated_element, ['saveeffect'] ))
+    save_attribute = _norm_to_none( get(repeated_element, ['saveattr'] ))
+    save_dc = _norm_to_none( get(repeated_element, ['savedc'] ))
+    hldmg = _norm_to_none( get( repeated_element, ['hldmg'] ))
+    attack_description = _norm_to_none( get(repeated_element, ['atk_desc'] ))
+    attack_attribute_base = _norm_to_none( get(repeated_element, ['atkattr_base']))
+    datastring = str(dict(
+        name=name,
+        damage_base = damage_base,
+        damage_type = damage_type,
+        damage2_base = damage2_base,
+        damage2_type = damage2_type,
+        attack_range = attack_range,
+        save_effect = save_effect,
+        save_attribute = save_attribute,
+        save_dc = save_dc,
+        hldmg = hldmg,
+        attack_description = attack_description,
+        attack_attribute_base = attack_attribute_base ) )
+
+    # attack attribute base does not use normal "equation" or access syntax :( :(
+    if ("[[" not in attack_attribute_base
+        and "@" not in attack_attribute_base
+        and not is_int(attack_attribute_base) ):
+        attack_attribute_base = attack_attribute_base.replace(
+            "spell",
+            "[[@{spell_attack_bonus}]]" )
+
+
+    damage_base = _solve_equations( damage_base, character, roll20_data )
+    damage_type = _solve_equations( damage_type, character, roll20_data )
+    damage2_base = _solve_equations( damage2_base, character, roll20_data )
+    damage2_type = _solve_equations( damage2_type, character, roll20_data )
+    attack_range = _solve_equations( attack_range, character, roll20_data )
+    attack_attribute_base = _solve_equations( attack_attribute_base, character, roll20_data )
+    attack_description = _solve_equations( attack_description, character, roll20_data )
+    save_effect = _solve_equations( save_effect, character, roll20_data )
+    save_attribute = _solve_equations( save_attribute, character, roll20_data )
+    save_dc = _solve_equations( save_dc, character, roll20_data )
+    hldmg = _solve_equations( hldmg, character, roll20_data )
+
+    
+    description = ""
+    if attack_attribute_base is not None:
+        description += "to hit: {0}".format( attack_attribute_base )
+    if attack_range is not None:
+        description += ", range: {0}".format( attack_range )
+    if damage_base is not None:
+        description += ", deals {0} {1} damage".format(
+            damage_base,
+            "" if damage_type is None else damage_type )
+    if damage2_base is not None:
+        description += " and an additional {0} {1} damage".format(
+            damage2_base,
+            "" if damage2_type is None else damage2_type )
+    description += "."
+    if attack_description is not None:
+        description += attack_description
+    if save_effect is not None:
+        description += " Target rolls a {0} save roll with DC {1}. One a success {2}".format(
+            save_attribute,
+            save_dc,
+            save_effect)
+        if hldmg is not None:
+            description += " else {0}.".format( hldmg )
+    #description += "   data={0}".format( datastring )
+    return description
+
+## ==========================================================================
+
 ##
 # Returns a list of single structure with the information in the flattend
 # reapeated_X pattern used in roll20 json
@@ -587,7 +928,9 @@ def _fill_character_common_DND_structured_features( character, roll20_data ):
                 types.append( rep.get("spellschool") )
             _append_structured_feature( character,
                                         name=rep.get('spellname'),
-                                        description=rep.get("spelldescription"),
+                                        description=_create_spell_description( rep,
+                                                                               character,
+                                                                               roll20_data ),
                                         types=types,
                                         min=None,
                                         max=None,
@@ -602,12 +945,14 @@ def _fill_character_common_DND_structured_features( character, roll20_data ):
             if len(rep.get('spellid',"")) > 1:
                 types.append( "spell" )
                 if rep.get("spelllevel",None) is not None:
-                    types.append( rep.get("spelllevel") )
+                    types.append( "spell-" + str(rep.get("spelllevel")) )
                 if rep.get("spell",None) is not None:
                     types.append( rep.get("spell") )
             _append_structured_feature( character,
                                         name=rep.get('atkname'),
-                                        description=rep.get("description"),
+                                        description=_create_attack_description(rep,
+                                                                               character,
+                                                                               roll20_data),
                                         types=types,
                                         min=None,
                                         max=None,
