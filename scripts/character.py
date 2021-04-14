@@ -5,6 +5,8 @@ of table top RPG games (such ad D&D)
 
 import logging
 import sys
+import copy
+import json
 
 ## ==========================================================================
 
@@ -448,9 +450,18 @@ def _fill_character_core_skills_ability_checks_from_roll20_data( character, roll
 
 ## ==========================================================================
 
-def _add_roll_as_structured_feature( character, roll20_node ):
+def _create_roll_description( node, character, roll20_data ):
+    description = str(node.get("current",""))
+    return description
+
+## ==========================================================================
+
+def _add_roll_as_structured_feature( character, roll20_node, roll20_data ):
     _append_structured_feature( character,
                                 name=roll20_node.get("name",""),
+                                description=_create_roll_description( roll20_node,
+                                                                      character,
+                                                                      roll20_data ),
                                 min=None,
                                 max=None,
                                 value=None,
@@ -464,9 +475,9 @@ def _fill_character_rolls_from_roll20_data( character, roll20_data ):
     attribs = roll20_data.get( "attribs", [] )
     for node in attribs:
         if node.get('name',"").endswith( "_roll" ):
-            _add_roll_as_structured_feature( character, node )
+            _add_roll_as_structured_feature( character, node, roll20_data )
         elif node.get('name',"").endswith( "_prof" ):
-            _add_roll_as_structured_feature( character, node )
+            _add_roll_as_structured_feature( character, node, roll20_data )
 
 ## ==========================================================================
 
@@ -1016,3 +1027,39 @@ def fill_character_from_roll20_data( character, roll20_data ):
     _fill_character_core_skills_ability_checks_from_roll20_data( character, roll20_data )
     _fill_character_rolls_from_roll20_data( character, roll20_data )
     _fill_character_common_DND_structured_features( character, roll20_data )
+
+## ==========================================================================
+
+def _is_empty( y ):
+    return (   (isinstance(y,str) and y.strip() == "")
+               or (isinstance(y,dict) and len(y) < 1)
+               or y is None )
+
+##
+# Given a deep structure, normalize empty strings, None, and empty
+# dicionatires into None
+def _normalize_empty( x ):
+    if x is None:
+        return
+    if isinstance( x, dict ):
+        for k in x:
+            y = x[k]
+            if _is_empty(y):
+                x[k] = None
+            _normalize_empty(x[k])
+    if isinstance( x, list ):
+        for i in range(len(x)):
+            if _is_empty(x[i]):
+                x[i] = None
+            _normalize_empty(x[i])
+
+## ==========================================================================
+
+##
+# Write out a JSON representation.
+# We take care of reducing several ways of saying "empty" to a single
+# json null style
+def write_character_as_json( character, outstream ):
+    c = copy.deepcopy( character )
+    _normalize_empty( character )
+    json.dump( c, outstream, indent=2 )

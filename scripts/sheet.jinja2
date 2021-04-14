@@ -1,0 +1,86 @@
+ <!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ character.get("name") | e }}</title>
+    <link rel="stylesheet" type="text/css" href="sheet.css"/>
+  </head>
+  
+  <body>
+
+    <div class="header">
+    </div>
+
+    <div class="main">
+
+      <div class="character">
+	
+	<div class="stats">
+	  {% for s in character.get("stats",[]) -%}
+	    <div class="stat {{s.get('name') | lower | replace(" ","_") | e}}">
+	      {% for prop in s.keys() -%}
+		{%- if s.get(prop) is not none -%}
+		  <div class="property">
+		    <div class="pname {{ prop | lower | replace(' ','_') | e}}"
+			 data-property-name="{{prop | lower | replace(' ','_') | e}}"
+			 data-property-value="{{ s.get(prop) | e }}">{{ prop | e }}</div>
+	            <div class="pvalue">{{ s.get(prop) | e }}</div>
+		  </div>
+		{% endif -%}
+	      {% endfor -%}
+	    </div>
+	  {% endfor -%}
+	</div>
+
+	<div class="structured_features">
+	  {% for s in character.get("structured_features",[]) -%}
+	    <div class="structured_feature {{s.get('name') | lower | replace(" ","_") | e}}">
+	      {% for prop in s.keys() -%}
+		{%- if s.get(prop) is not none -%}
+		  <div class="property">
+		    <div class="pname {{ prop | lower | replace(' ','_') | e}}">{{ prop | e }}</div>
+	            <div class="pvalue">{{ s.get(prop) | e }}</div>
+		  </div>
+		{% endif -%}
+	      {% endfor -%}
+	    </div>
+	  {% endfor -%}
+	</div>
+
+	<div class="narrative_features">
+	  {% for s in character.get("narrative_features",[]) -%}
+	    <div class="narrative_feature {{s.get('name') | lower | replace(" ","_") | e}}">
+	      {% for prop in s.keys() -%}
+		{%- if s.get(prop) is not none -%}
+		  <div class="property">
+		    <div class="pname {{ prop | lower | replace(' ','_') | e}}">{{ prop | e }}</div>
+	            <div class="pvalue">{{ s.get(prop) | e }}</div>
+		  </div>
+		{% endif -%}
+	      {% endfor -%}
+	    </div>
+	  {% endfor -%}
+	</div>
+
+	<div class="sources">
+	  {% for s in character.get("sources",[]) -%}
+	    <div class="source {{s.get('name') | lower | replace(" ","_") | e}}">
+	      {% for prop in s.keys() -%}
+		{%- if s.get(prop) is not none -%}
+		  <div class="property">
+		    <div class="pname {{ prop | lower | replace(' ','_') | e}}">{{ prop | e }}</div>
+	            <div class="pvalue">{{ s.get(prop) | e }}</div>
+		  </div>
+		{% endif -%}
+	      {% endfor -%}
+	    </div>
+	  {% endfor -%}
+	</div>
+
+
+      </div>
+    </div>
+    
+    
+  </body>
+  
+</html> 

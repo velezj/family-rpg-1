@@ -1,0 +1,56 @@
+.extra {
+    display: none;
+}
+
+.types {
+    display: none;
+}
+
+.stats {
+    display: grid;
+    grid-auto-column: 1fr;
+    grid-auto-row: 1fr;
+    grid-template-columns: repeat( 6, 1fr );
+}
+
+.stat {
+    border: 5px solid black;
+    padding: 5px;
+    margin: 2px;
+}
+
+.property .sources, .property .sources + div {
+    display: none;
+}
+
+.property .types, .property .types + div {
+    display: none;
+}
+
+.property .pname.name ~ .pvalue {
+    font-size: bigger;
+    font-weight: bold;
+}
+
+.property .pname.name, .property .pname.is_core, .property .pname.is_core + div {
+    display: none;
+}
+
+.property .pname.value {
+    display: none;
+}
+.property .pname.min, .property .pname.min + div {
+    display: none;
+}
+
+.property {
+    display: block;
+}
+
+.property div {
+    display: inline;
+}
+
+.property div[data-property-name=max] {
+    background-color: red;
+}
