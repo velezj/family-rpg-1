@@ -23,7 +23,7 @@
 		    <div class="pname {{ prop | lower | replace(' ','_') | e}}"
 			 data-property-name="{{prop | lower | replace(' ','_') | e}}"
 			 data-property-value="{{ s.get(prop) | e }}">{{ prop | e }}</div>
-	            <div class="pvalue">{{ s.get(prop) | e }}</div>
+	            <div class="pvalue">{{ s.get(prop) | replace('_',' ') | e }}</div>
 		  </div>
 		{% endif -%}
 	      {% endfor -%}

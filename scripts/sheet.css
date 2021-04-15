@@ -19,38 +19,50 @@
     margin: 2px;
 }
 
-.property .sources, .property .sources + div {
-    display: none;
-}
-
-.property .types, .property .types + div {
-    display: none;
-}
-
-.property .pname.name ~ .pvalue {
-    font-size: bigger;
+.property div[data-property-name=name] {
     font-weight: bold;
+    font-size: bigger;
 }
 
-.property .pname.name, .property .pname.is_core, .property .pname.is_core + div {
-    display: none;
-}
 
-.property .pname.value {
-    display: none;
-}
-.property .pname.min, .property .pname.min + div {
-    display: none;
-}
 
-.property {
-    display: block;
-}
+/* .property .sources, .property .sources + div { */
+/*     display: none; */
+/* } */
 
-.property div {
-    display: inline;
-}
+/* .property .types, .property .types + div { */
+/*     display: none; */
+/* } */
 
-.property div[data-property-name=max] {
-    background-color: red;
-}
+/* .property .pname.name ~ .pvalue { */
+/*     font-size: bigger; */
+/*     font-weight: bold; */
+/* } */
+
+/* .property .pname.name, .property .pname.is_core, .property .pname.is_core + div { */
+/*     display: none; */
+/* } */
+
+/* .property .pname.value { */
+/*     display: none; */
+/* } */
+/* .property .pname.min, .property .pname.min + div { */
+/*     display: none; */
+/* } */
+
+/* /\* .property { *\/ */
+/* /\*     display: block; *\/ */
+/* /\* } *\/ */
+
+/* .property div { */
+/*     display: inline; */
+/* } */
+
+/* .property .pvalue { */
+/*     display: inline-block; */
+/* } */
+
+/* /\* .property div[data-property-name=max] { *\/ */
+/* /\*     background-color: red; *\/ */
+/* /\* } *\/ */
+
