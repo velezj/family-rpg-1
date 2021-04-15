@@ -287,7 +287,7 @@ def _fill_core_dnd_stat( name, character, roll20_data, result_name=None ):
     _append_stat( character,
                   name=result_name,
                   types=types,
-                  min=0,
+                  min=None,
                   value=node['current'],
                   max=node['max'],
                   is_core=True )
@@ -310,7 +310,7 @@ def _fill_core_dnd_skill( name, character, roll20_data, result_name=None ):
             name ))
     _append_stat( character,
                   name=result_name,
-                  min=0,
+                  min=None,
                   value=node['current'],
                   max=node['max'],
                   is_core=True,
@@ -1061,5 +1061,5 @@ def _normalize_empty( x ):
 # json null style
 def write_character_as_json( character, outstream ):
     c = copy.deepcopy( character )
-    _normalize_empty( character )
+    _normalize_empty( c )
     json.dump( c, outstream, indent=2 )

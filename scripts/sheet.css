@@ -8,61 +8,98 @@
 
 .stats {
     display: grid;
-    grid-auto-column: 1fr;
-    grid-auto-row: 1fr;
+    grid-template-rows: minmax( max-content, 1fr );
     grid-template-columns: repeat( 6, 1fr );
+    grid-auto-flow: row;
+    border-image-source: url(stat-border.svg);
+    border-image-slice: 30 30 15 30 fill;
+    border-image-width: 20px;
+    padding: 10px;
+    padding-top: 50px;
+    grid-gap: 5px;
 }
 
 .stat {
-    border: 5px solid black;
+    border: 5px solid transparent;
     padding: 5px;
     margin: 2px;
+    border-image-source: url(stat-shield-straight.svg);
+    border-image-slice: 10 10 120 10;
+    border-image-width: 5px 5px 40px 5px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: minmax(2.3em,max-content) 1fr 1fr;
 }
 
-.property div[data-property-name=name] {
+
+.property[data-property-name=types] {
+    display: none;
+}
+.property[data-property-name=is_core] {
+    display: none;
+}
+.property[data-property-name=sources] {
+    display: none;
+}
+.property div.pname {
+    display: none;
+}
+
+.property div.pvalue {
+    justify-self: center;
+    align-self: center;
+}
+
+.property {
+    justify-self: center;
+}
+
+.stat .property[data-property-name=name] {
     font-weight: bold;
-    font-size: bigger;
+    font-size: larger;
+    grid-column: 1 / 5;
+    grid-row: 1;
+    text-align: center;
+    text-justify: distribute;
 }
 
+.stat .property[data-property-name=value] {
+    grid-column: 2 / 4;
+    grid-row: 2 / 4;
+    align-self: center;
+    font-size: 200%;
+    font-weight: bold;
+}
 
+.stat .property[data-property-name=min] {
+    grid-column: 1 / 2;
+    grid-row: 2 / 4;
+    align-self: center;
+    justify-self: end;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-auto-flow: col;
+}
+    
+.stat .property[data-property-name=max] {
+    grid-column: 4;
+    grid-row: 2 / 4;
+    align-self: start;
+    justify-self: start;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-auto-flow: row;
+    column-gap: 3px;
+}
 
-/* .property .sources, .property .sources + div { */
-/*     display: none; */
-/* } */
+.stat .property[data-property-name=min] .pname {
+    display: inline;
+    align-self: start;
+    text-align: center;
+}
 
-/* .property .types, .property .types + div { */
-/*     display: none; */
-/* } */
-
-/* .property .pname.name ~ .pvalue { */
-/*     font-size: bigger; */
-/*     font-weight: bold; */
-/* } */
-
-/* .property .pname.name, .property .pname.is_core, .property .pname.is_core + div { */
-/*     display: none; */
-/* } */
-
-/* .property .pname.value { */
-/*     display: none; */
-/* } */
-/* .property .pname.min, .property .pname.min + div { */
-/*     display: none; */
-/* } */
-
-/* /\* .property { *\/ */
-/* /\*     display: block; *\/ */
-/* /\* } *\/ */
-
-/* .property div { */
-/*     display: inline; */
-/* } */
-
-/* .property .pvalue { */
-/*     display: inline-block; */
-/* } */
-
-/* /\* .property div[data-property-name=max] { *\/ */
-/* /\*     background-color: red; *\/ */
-/* /\* } *\/ */
-
+.stat .property[data-property-name=max] .pname {
+    display: inline;
+    align-self: center;
+    text-align: center;
+}
