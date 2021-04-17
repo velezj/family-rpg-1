@@ -18,6 +18,8 @@ toc-title: Table of Contents
 |                                   | camping outside narration        | done ✓ |                           |
 |                                   | back to Fir narration            | done ✓ |                           |
 |                                   | Fir mayor narration              | done ✓ |                           |
+| Lost near Fir                     | narration                        | done ✓ |                           |
+|                                   | tables                           | done ✓ |                           |
 | Owlex Meet with Nature Guide      | scenery                          | done ✓ |                           |
 |                                   | narration                        | done ✓ |                           |
 | Gustavo Spirit Meeting Umrik      | scenery                          | done ✓ |                           |

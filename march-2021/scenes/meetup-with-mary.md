@@ -24,7 +24,7 @@ If you choose to hurry onward make a survival check (DC 12) to see how well you 
 
 If you choose to make camp, [Mary](../characters/mary-tanner.md) will find a campsite. Make a survival check (DC 8) to see how well the campsite is. During camp, [Mary](../characters/mary-tanner.md) will take out a tiny pouch and takes a pinch of something from it, putting it on the food being made. It tastes amazing, and like nothing you have tasted before. It's the spice rosemary which is not found around here. [Mary](../characters/mary-tanner.md) will start speaking during dinner. "So ... what's your story kids? .... you look like you're farm-folks, am I right? What made you decide to travel through the forest and to [Fir](../places/fir.md)?"
 
-[Mary](../characters/mary-tanner.md) will ask about their reasons and will say that she herself is returning to [Beggarsbottom](../places/beggarsbottom.md) from home. She lives in near a small village south of here called [Gade](../places/gade.md). Make a history check (DC 10) to see if you recognize the name.
+[Mary](../characters/mary-tanner.md) will ask about their reasons and will say that she herself is returning to [Beggarsbottom](../places/beggarsbottom/story.md) from home. She lives in near a small village south of here called [Gade](../places/gade.md). Make a history check (DC 10) to see if you recognize the name.
 
 
 # Loot
