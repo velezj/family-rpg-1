@@ -17,7 +17,7 @@ The young man takes of his hat, holding it in front of his chest with both hands
 
 "Yes, and? ..."
 
-"Oh ... excuse me. My name is Ivan Helman. I came from [Cairston](../places/cairston.md) ... Well ... I was sent from [Cairston](../places/cairston.md) with a request for the [Adventurers Guild](../places/adventurers-guild.md). But when I got there, the guild was closed. I didn't know what to do, so I stood around in front of the closed door .... a kind mam told me that the guild was closed but said there was another guild ... the [Other Guild](../places/other-guild.md) ... that may be able to help me. He pointed me here ...." He looks around at the people training and then back to [Garth](../characters/garth-ven.md).
+"Oh ... excuse me. My name is Ivan Hellman. I came from [Cairston](../places/cairston.md) ... Well ... I was sent from [Cairston](../places/cairston.md) with a request for the [Adventurers Guild](../places/adventurers-guild.md). But when I got there, the guild was closed. I didn't know what to do, so I stood around in front of the closed door .... a kind mam told me that the guild was closed but said there was another guild ... the [Other Guild](../places/other-guild.md) ... that may be able to help me. He pointed me here ...." He looks around at the people training and then back to [Garth](../characters/garth-ven.md).
 
 [Garth](../characters/garth-ven.md) turns towards [Gustavo](../characters/gustavo.md), "Keep practicing what we just talked about. Try to stabilize and strengthen your focus during the second half of the incantation..." He then walks up the Ivan. "Let's hear what you've got lad"
 
@@ -37,7 +37,15 @@ Ivan takes a breath then starts talking. "Fall is coming soon and so we've been 
 
 "Take them with you!", and he points to [Owlex](../characters/owlex.md) and [Gustavo](../characters/gustavo.md). As [Mary](../characters/mary-tanner.md) turns with a questioning expression, [Garth](../characters/garth-ven.md) continues, "Its good experience for them. Plus you can always give them real-world examples of the types of jobs adventurers usually do". He grins and turns to look at the two new members. "Nothing like cleaning a sewer to give you a realistic perspective on life.
 
-And so the members o the [Other Guild](../places/other-guild.md) head out on their first request: sewer cleaning.
+And so the members of the [Other Guild](../places/other-guild.md) head out on their first request: sewer cleaning.
+
+## On the way to Cairston
+
+[Mary](../characters/mary-tanner.md): "I bet you had irrigation pipes down in Jackson. Did you have a full sewer treatment setup? Not many small villages have a full sewer system, but [Cairston](../places/cairston.md) has a central sewage treatment plant underground that feeds to a nearby lake. You see, there was going to be a lot of chemical processing in [Cairston](../places/cairston.md) and the waste and runoff would kill the nearby forest and creatures without a solid sewer and the magic to have a treatment plant. It's a sight to behold, the first time you see a full sewer plant. Unlike the ones back home, you can actually walk standing up in the tunnels of the main plant. They've even built sidewalks to allow the water mages to check and maintain the plant... unfortunately it's too energy consuming to use magic to make the place smell reasonable, so you'd better be prepared for the stink. When we get the [Cairston](../places/cairston.md) we'll ask them to deliver a few kilograms of Trona crystals to the entrance so at least we can get the stink off our clothes when we're finished." (Trona can be ground into powder that is a mix containing sodium bicarbonate -- baking soda -- and so if you immerse your clothes into powdered trona overnight the smell will be a lot better).
+
+If asked why there *was* going to be processing, will reply: "The wizard never showed up. So now it's just another village in the forest with a few families working the land and gathering what they need."
+
+
 
 # Available Events and Results
 
@@ -57,12 +65,12 @@ events:
 
 - [Kusoto Mari](../characters/kusoto-mari.md)
 - [Mika Strawfur](../characters/mika-strawfur.md)
-- Request Giver Ivan Helman
+- Request Giver Ivan Hellman
 
 # Encounter Information
 
 
 
 
-<!--  LocalWords:  Cairston Kryta Owlex Kusoto Mika Strawfur Helman
+<!--  LocalWords:  Cairston Kryta Owlex Kusoto Mika Strawfur Hellman
  -->

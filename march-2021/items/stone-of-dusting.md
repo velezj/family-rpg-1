@@ -10,7 +10,7 @@ A small flat stone that allows one to dust an area no larger than 1000 squared f
 | Loose Dirt, Sand, fine particles  | +10                        |
 | soil (plains, grasslands, forest) | +5                         |
 | fresh snow                        | +10                        |
-| hardened snow                     | +2                         |
-| ice, stone, hard surface          | +2                         |
+| hardened snow                     | +0                         |
+| ice, stone, hard surface          | +0                         |
 | mud, swamp, maleable surface      | +2                         |
 

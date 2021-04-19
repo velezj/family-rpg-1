@@ -27,7 +27,6 @@ toc-title: Table of Contents
 |                                   | NPC image / dialogue             | done ✓ |                           |
 | Juneston                          | npc and building detail          | done ✓ |                           |
 |                                   | delivery/job npc and names       | done ✓ |                           |
-|                                   | harpy -> Beggarsbottom encounter | done ✓ |                           |
 |                                   | wild boar encounter              | done ✓ |                           |
 |                                   | harpy beach encounter            | done ✓ |                           |
 |                                   | Mary pass-through narration      | done ✓ |                           |
@@ -35,37 +34,34 @@ toc-title: Table of Contents
 |                                   | encounter stats/math             | done ✓ |                           |
 |                                   | narration                        |        |                           |
 | Travel Juneston->Beggarsbottom    | scenery                          | done ✓ |                           |
-|                                   | narration                        |        |                           |
+|                                   | narration                        | done ✓ | travel exposition         |
+|                                   | encounter Harpy                  | done ✓ |                           |
 | Get to Beggarsbottom              | scenery                          | done ✓ |                           |
 |                                   | narration                        | done ✓ |                           |
-| Invited to stay with Mary         | scenery                          | done ✓ |                           |
-|                                   | narration                        | done ✓ | combined with above       |
 | Find closed Adventurers Guild     | scenery                          | done ✓ |                           |
 |                                   | narration (guild workers)        | done ✓ | Introduces some character |
-|                                   |                                  |        |                           |
+| Invited to stay with Mary         | narration                        | done ✓ | combined with above       |
 | Witness reunion of Mary and Garth | scenery                          | done ✓ |                           |
 |                                   | dialog scenes                    | done ✓ |                           |
 |                                   | narration                        | done ✓ |                           |
 | Invited to Join Other Guild       | scenery                          | done ✓ |                           |
-|                                   | dialog scenes                    |        |                           |
 |                                   | narration                        |        |                           |
-| Practice and train with Mary      | scenery                          |        |                           |
-|                                   | dialog scenery                   |        |                           |
+| Practice and train with Mary      | scenery                          | done ✓ |                           |
 |                                   | narration                        |        |                           |
 | Sewer Cleaning Request Given      | scenery                          | done ✓ |                           |
 |                                   | narration                        | done ✓ |                           |
-|                                   | NPC                              |        |                           |
+|                                   | NPC                              | done ✓ | Ivan Hellman              |
 | Sewer Cleaning Encounter          | map (initial)                    | done ✓ |                           |
 |                                   | narration                        |        |                           |
 |                                   | map (+ratfolk)                   | done ✓ |                           |
-|                                   | narration for ratfolk            |        |                           |
+|                                   | narration for ratfolk            | done ✓ |                           |
 |                                   | map goblins                      | done ✓ |                           |
 |                                   |                                  |        |                           |
 
 	
 
 
-| NPC                 | First Meeting           | Already Met | Notes |
+| Imporant NPC        | First Meeting           | Already Met | Notes |
 |---------------------|-------------------------|-------------|-------|
 | Violet Yamada       | First Adventurers Guild |             |       |
 | Jenavive Willowmoon | First Adventurers Guild |             |       |
@@ -74,3 +70,9 @@ toc-title: Table of Contents
 | Garth Ven           | First Other Guild       |             |       |
 | Samantha Teastead   | Fir Herb Gathering      | yes         |       |
 |                     |                         |             |       |
+
+
+| NPCs         | Meeting and Setting                     | Notes                  |
+|--------------|-----------------------------------------|------------------------|
+| Ivan Hellman | Gives out Cairston Sewer cleaning quest | Shy around adventurers |
+|              |                                         |                        |
