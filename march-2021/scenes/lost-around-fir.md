@@ -32,6 +32,18 @@ About and hour after the split, the Bugbear hears the sound of [Mary](../charact
 |               |                                                                                   |
 
 
+# Goblin Patrol
+
+If the party stays around the forest moving more that 10 hours (not counting sleep/rests), they will run into a goblin patrol. They can try to follow them, hide and flee, or fight them.
+
+Encounter: [Goblin Patrol While Lost Around Fir](../scenes/encounters/goblin-patrol-while-lost-around-fir.md)
+
+# Goblin Cave
+
+If the party stays around the forest moving for more that 15 hours (not counting rest/sleep), they will stumble upon the goblin cave.
+
+Encounter: [Goblin Cave while Lost Around Fir](../scenes/encounters/goblin-cave-while-lost-around-fir)
+
 # Sam and Fir' Mayor Decision
 
 While the rest of the party follows the goblins (an then flees), [Sam](../characters/samantha-teastead.md) heads back to [Fir](../places/fir.md). She is nimble and she knows these woods so she makes good time, getting to [Fir](../places/fir.md) in 1.5 hours rather than 3 hours like the party would have taken. Halfway there, the magical dog disappears, and [Sam](../characters/samantha-teastead.md) starts running as quick as she possibly can and still be safe in the dark forest: something must have happened to [Gustavo](../characters/gustavo.md) for the dog to poof like that. When she gets to [Fir](../places/fir.md) she immediately wakes up the mayor and explains what they had seen: a goblin party being led by a much larger, and hairy, goblin-like monster. Not only that, but the goblins were carrying carts with building materials and resources, which indicates they have a hideout somewhere in the deep woods because no-one would carry trees from this deep to the edges of the forest. There is a goblin group somewhere near [Fir](../places/fir.md), or at least they were seen 3 hours away, deeper into the forest. She then tells him of the party, and how they were keeping tabs on the goblins while she came here to inform the village and bring help. At this point it is roughly 1 AM. The mayor wipes his face with his hand then looks straight at  [Sam](../characters/samantha-teastead.md). "You re the fastest of us. The quickest and most able runner we have. You have to go to [Beggarsbottom](../places/beggarsbottom/story.md) and tell the [Adventurers Guild](../places/adventurers-guild.md) about the goblins. We need them to send a team to deal with these monsters ... Tell them we can pay 10 GP per goblin, and 50 GP for the leader.' He wipes his sweaty brow as he internally sighs at the amount of money they will need to spend, then looks up at the sky. "It is near morning. The sun will be out soon, and your guards took that job for a reason. They are tough and can handle themselves. When day breaks, we''l round up a group of our men and women and canvas the forest around [Fir](../places/fir.md). Well head to where you saw the goblins and where last you saw your guards to investigate. We need to make sure there are no other goblins nearer to the village, and we need to find your guards and find out what they know, where the goblins went, and how many more there are." [Sam](../characters/samantha-teastead.md) slowly nods, as she realizes she is the fastest and best way to get help, and it is true the rest of the team can take care of itself, as they showed both with the wolves and the insects. She heads of towards [Beggarsbottom](../places/beggarsbottom/story.md) as quickly as she can, taking with her a stash of [Tea of Vitality](../items/tea-of-vitality.md) for the journey. She will travel through the forest rather than the road since she knows the forest around the area and she is adept at forest travel.

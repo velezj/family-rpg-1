@@ -3,11 +3,23 @@ title: Herbs
 toc-title: Table of Contents
 ---
 
-| Name       | Rarity | Environment               | Difficulty of Processing DC | Difficulty of Gathering DC | Uses    | Notes |
-|------------|--------|---------------------------|-----------------------------|----------------------------|---------|-------|
-| Whitecap   | Rare   | Forests in Southern Kryta | -                           | -                          | Healing |       |
-| Bloomswell | Rare   | Near Twinkle Trees        | 17                          | -                          | Buffs   |       |
-|            |        |                           |                             |                            |         |       |
+Medicinal:
+
+| Name         | Rarity   | Environment                              | Processing DC | Gathering DC | Uses                              | Notes |
+|--------------|----------|------------------------------------------|---------------|--------------|-----------------------------------|-------|
+| Whitecap     | Rare     | Forests in Southern Kryta                | -             | 14           | Healing                           |       |
+| Bloomswell   | Rare     | Near Twinkle Trees                       | 17            | 17           | Buffs                             |       |
+| Slippery Elm | Uncommon | Forest throughout Kryta                  | 12            | -            | Inflammation                      |       |
+| Wild Cherry  | Common   | Coastal Fields                           | -             | -            | Inflammation, Sight               |       |
+| Sweetgum     | Rare     | Salt Marshes and Brine                   | 18            | 18           | Agility, Petrification,  Poison   |       |
+| Sage         | Common   | plains, fields, forests                  | -             | -            | Stomach, Poison, Smell            |       |
+| Purpurea     | Uncommon | plains, fields, forests, away from water | -             | 18           | Hearing, Stamina, Strength, Speed |       |
+| Agrimony     | Rare     | mountains                                | 15            | 15           | Healing, Poison, Bloodflow        |       |
+
+Spices:
+| Name | Rarity | Environment | Processing DC | Gathering DC | Uses | Notes |
+|------|--------|-------------|---------------|--------------|------|-------|
+|      |        |             |               |              |      |       |
 
 
 ## Whitecap
