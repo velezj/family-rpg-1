@@ -20,6 +20,14 @@ toc-title: Table of Contents
 |                                   | Fir mayor narration              | done ✓ |                           |
 | Lost near Fir                     | narration                        | done ✓ |                           |
 |                                   | tables                           | done ✓ |                           |
+| Goblin Patrol                     | narration                        | done ✓ |                           |
+|                                   | encounter                        | done ✓ |                           |
+| Goblin Cave                       | narration                        | done ✓ |                           |
+|                                   | encounter                        | done ✓ |                           |
+| Escape Goblin Patrol              | narration                        |        |                           |
+|                                   | encounter                        |        |                           |
+| Escape Goblin Cave                | narration                        |        |                           |
+|                                   | encounter                        |        |                           |
 | Owlex Meet with Nature Guide      | scenery                          | done ✓ |                           |
 |                                   | narration                        | done ✓ |                           |
 | Gustavo Spirit Meeting Umrik      | scenery                          | done ✓ |                           |
