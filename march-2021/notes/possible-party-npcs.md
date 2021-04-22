@@ -5,17 +5,23 @@ toc-title: Table of Contents
 
 # Companions
 
-[Bo Falthon](../characters/bo-falthon.md)
-- Paladin, Gamorr
+[Jenavive Willowmoon](../characters/jenavive-willowmoon.md)
+- Rogue, Sisters of the Sole (Traveler)
+
+[Violet Yamada](../characters/violet-yamada.md)
+- Travel Domain Cleric, Sisters of the Sole, Traveler
 
 [Frieda Gallows](../characters/frieda-gallows.md)
 - Warlock, Frozen One
 
+[Riley Grayblood](../characters/riley-grayblood.md)
+- Monk, The Traveler (guide or companion)
+
+[Bo Falthon](../characters/bo-falthon.md)
+- Paladin, Gamorr
+
 [Friti](../characters/friti.md)
 - Ranger, Quickling, House of Linedamoor
-
-[Jenavive Willowmoon](../characters/jenavive-willowmoon.md)
-- Rogue, Sisters of the Sole (Traveler)
 
 [Mika Strawfur](../characters/mika-strawfur.md)
 - Life Domain Cleric, Dia
@@ -23,17 +29,12 @@ toc-title: Table of Contents
 [Niona](../characters/niona.md)
 - Barbarian, Erutrea
 
-[Riley Grayblood](../characters/riley-grayblood.md)
-- Monk
-
 [Temo](../characters/temo.md)
 - Druid, Circle of Spores
 
 [Unma](../characters/unma.md)
 - Fighter, Orr
 
-[Violet Yamada](../characters/violet-yamada.md)
-- Travel Domain Cleric, Sisters of the Sole, Traveler
 
 [Vir Freedmount](../characters/vir-freedmount.md)
 - Monk
@@ -44,6 +45,7 @@ toc-title: Table of Contents
 1. The Traveler
    - [Violet Yamada](../characters/violet-yamada.md)
    - [Jenavive Willowmoon](../characters/jenavive-willowmoon.md)
+   - [Riley Grayblood](../characters/riley-grayblood.md)
 
 2. The Frozen One
    - [Frieda Gallows](../characters/frieda-gallows.md)
@@ -64,21 +66,25 @@ toc-title: Table of Contents
 # Celestial Guides and Oracles
 
 1. The Traveler
+   - [Vir Freedmount](../characters/vir-freedmount.md)
 
 2. The Frozen One
    - [Ku](../characters/ku.md)
    - [Sheem](../characters/sheem.md)
    
 3. Gamorr
+   - [Loraly](../characters/loraly.md)
 
 4. Dia
+   - [Felix](../characters/felix-teastead.md)
 
 5. Orr
+   - [Darrius](../characters/darrius.md)
 
 6. Erutrea
+   - [Octar](../characters/octar-mallister.md)
 
 7. Mythical
-   - [Loraly](../characters/loraly.md)
    - [Sahata](../characters/sahata.md)
    - [Umrik](../characters/umrik.md)
    - [Ftata](../characters/ftata.md) (Fey, Quickling, House of Linedamoor)

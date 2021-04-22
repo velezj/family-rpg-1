@@ -36,6 +36,8 @@ She was found floating on a piece of ice on the shores of the Wildwoods. Her sav
 
 She has been given her own vision and has started her own journey of training and self discovery. Her journey has gotten her to the southern part of Kryta, to a forest that may be more dangerous than it seems. In her vision, Riley saw corruption and perversions. She witnessed a gray blight. At the center of it stood a tall warrior woman, her right arm missing and a glowing purple seal on her right side. She was glittering as if covered in thousands of tiny ice diamonds, each containing a miniature rainbow within its depth. Whether she was stopping the blight, or controlling it, the vision did not specify. She did see the woman wearing a peculiar necklace, more like a small plaque with some writing on it she could not understand. 
 
+Unknown to Riley, the vision was a blessing from [The Traveler](../setting-world/the-traveler.md), whose attention was caught and kept by Riley. Her journey, just beginning, is being carefully watched by them, for there is the potential in Riley to be a companion in the long journey of [The Traveler](../setting-world/the-traveler.md).
+
 # Appearance
 
 - The left leg has scars starting at the knee and continuing down and around the foot. This causes Riley to shuffle and limp slightly while walking. It also causes her to lean to the left when standing. She does not wear a shoe on that foot since it is misshaped and scarred.

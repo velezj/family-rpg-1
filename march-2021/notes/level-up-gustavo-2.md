@@ -7,6 +7,32 @@ At second level you gain
 - One extra 1st level spell slot
 - An Arcane Tradition
 
+# Homebrew
+
+## Spells and Learning
+
+Unlike traditional wizards, Gustavo does *not* gain two spells "by default". All of his spell must come from a mentor, a scroll found, *or* taking the time to study a particular "theme" determined by Gustavo. This theme is used to compile a list of *possible* spells that his study stumbled upon. From this list, Gustavo can choose a single spell. A wizard can choose to study this way a number of time equal to half their intelligence modifier, rounded down, with a minimum of 1.
+
+If a wizard spends at least a number of days equal to ( 2 * wizard level * spell level ) days with their master studying a theme or particular spell for a significant portion of their day, they can learn the spell at their next level up, or immediately, decided by the DM and the narrative.
+
+For this first level, his study will only be able to produce 1 (int mod 2 / 2 rounded down, min 1) of those spells. However, Gustavo can now choose a theme of study for the next level up. Furthermore, when Gustavo meets and gets a master, the master will have a list of spells they will teach Gustavo.
+
+For this first level, Gustavo also learn a bonus spell: find familiar. Further, he can cast the spell *once* without needed the components.
+
+## Arcane Tradition
+
+Gustavo will have to meet a master and become and apprentice to them before he chooses the arcane tradition. Different masters may only be able to train him in a subset of the traditions. However, most master can handle low-level basics for any of the traditions as the fundamentals of magic are shared across all traditions. However, beginning at level 3, a master may not be able to teach a particular tradition because of lack of exposure to it or some other narrative device.
+
+In this world, it is possible to have multiple "masters" as long as they each are fine with it. A master can be thought of as more of a teacher and guide rather than fully-controlling person.
+
+# Spell pool
+
+- alarm
+- find familiar (AUTOMATIC GET)
+- unseen servant
+- thunderwave
+- feather field
+- avoid grievous injuries
 
 # Arcane Traditions
 

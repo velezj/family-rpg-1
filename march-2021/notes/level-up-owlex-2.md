@@ -7,6 +7,21 @@ At second level the druid gains the following:
 - Wild Shape (yay)
 - choice of Druid Circle
 
+# Homebrew Druid Spells
+
+Rather than a druid being able to prepare any spell in the druid list, the Druids in the campaign must meet a nature spirit or guide to be taught spells. Each guide/spirit will have several spells to teach that make narrative sense (for the guide/spirit). 
+
+For level 2, Owlex will meet with a nature spirit that will be able to teach the following:
+- wild shape (narrative for the class skill )
+- spell in the roll20 character
+  - cantrips
+	- primal savagery
+  - level 1
+	- beast bond
+	- wolfsong
+	- longstrider
+	- nature's aegis
+
 # Available circles:
 
 ## Circle of the Land
