@@ -772,6 +772,7 @@ Cleaning Request<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     </node>
     <node id="n67">
       <data key="d4" xml:space="preserve"><![CDATA[../scenes/lost-around-fir.md]]></data>
+      <data key="d5" xml:space="preserve"><![CDATA[This is a core node since they may decide to go a lot of places while being lost, and they may come *back* to being lost.]]></data>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="104.240234375" x="1150.301370530841" y="834.7413187499997"/>
