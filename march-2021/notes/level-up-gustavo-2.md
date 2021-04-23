@@ -17,7 +17,7 @@ If a wizard spends at least a number of days equal to ( 2 * wizard level * spell
 
 For this first level, his study will only be able to produce 1 (int mod 2 / 2 rounded down, min 1) of those spells. However, Gustavo can now choose a theme of study for the next level up. Furthermore, when Gustavo meets and gets a master, the master will have a list of spells they will teach Gustavo.
 
-For this first level, Gustavo also learn a bonus spell: find familiar. Further, he can cast the spell *once* without needed the components.
+For this first level, Gustavo also learn a bonus spell: find familiar. Further, he can cast the spell *once* without needed the components. The familiar will be **celestial** because of the connection Umrik gave to Gustavo during their spirit meeting.
 
 ## Arcane Tradition
 
