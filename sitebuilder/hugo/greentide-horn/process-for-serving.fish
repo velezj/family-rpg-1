@@ -9,7 +9,8 @@ cp -r $BASE content/
 for i in (find content/ -iname "*.md")
     echo "relinking '$i'"
     awk -i inplace -e '{ print gensub(/\(([^/]\S+)\)/,"(../\\\\1)","g",$0); }' "$i"
-    awk -i inplace -e '{ print gensub(/\(([^/]\S+)#(.*)\)/,"(../\\\\1#\\\\2)","g",$0); }' "$i"
+    awk -i inplace -e '{ print gensub(/\(([^/]\S+)\.md\)/,"(\\\\1)","g",$0); }' "$i"
+    awk -i inplace -e '{ print gensub(/\(([^/]\S+)\.md#(.*)\)/,"(\\\\1#\\\\2)","g",$0); }' "$i"
 end
 
 for i in (find content/ -iname "*.svg")

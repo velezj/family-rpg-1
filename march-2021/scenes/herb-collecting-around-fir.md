@@ -12,7 +12,7 @@ After and hour or so, the herbalist looks back, "The forest is quiet today." He 
 
 "It has been several month since I've been to this region of the forest. The herbs are rare and so I gather as many as I can, when I can, and extract very bit of essence from them. But no. The last time I came the forest was full of bird calls and the clatter of small paws hurrying about their day. .... but this is not the most familiar part of the forest to me .... few venture this far. There is nothing of worth this direction, only trees and woods until you reach the [Grendil Steepes](../places/grendil-steepes.md)."
 
-As you continue deeper, now searching for sounds of animals, you do get a few pieces of birdsong or the scurry of feet burrowing into the ground. About two hours into your journey the herbalist pulls up a clump of grass and smile "Ah yes, here we are. We're almost there, an hour at most." He keeps walking with a determined stride now that the goal is near. [The Wolves](./encounters/herb-wolves.md) sense the party and start tracking them for the next 10 minutes, finally attacking.
+As you continue deeper, now searching for sounds of animals, you do get a few pieces of birdsong or the scurry of feet burrowing into the ground. About two hours into your journey the herbalist pulls up a clump of grass and smile "Ah yes, here we are. We're almost there, an hour at most." He keeps walking with a determined stride now that the goal is near. [The Wolves](../scenes/encounters/herb-wolves.md) sense the party and start tracking them for the next 10 minutes, finally attacking.
 
 # Mary's exhaustion
 

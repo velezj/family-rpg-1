@@ -3,7 +3,7 @@ title: Goblin Cave
 toc-title: Table of Contents
 ---
 
-The party finds the goblin cave nearest [Fir](../places/fir.md)
+The party finds the goblin cave nearest [Fir](../../places/fir.md)
 
 # Narrative
 

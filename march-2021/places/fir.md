@@ -75,7 +75,7 @@ On a charisma check (DC 12) Maggor will offer tea to the party as they look arou
 
 - Maggor
   - Older gnome around 60 years old
-  - Used to be a merchant near [Jet](./jet.md), he decided to retire down south in a small village. During his search he found Fir without a store and soon decided to build one, his merchant spirit on fire. He's been there ever since and has come to love the small, close-knit group of locals in Fir.
+  - Used to be a merchant near [Jet](../places/jet.md), he decided to retire down south in a small village. During his search he found Fir without a store and soon decided to build one, his merchant spirit on fire. He's been there ever since and has come to love the small, close-knit group of locals in Fir.
   - He's always willing to tell tales of his travels
   - Is always interested in hearing tales
   - Will try to up-sell his customers, but if caught will laugh and sell his items at base price.

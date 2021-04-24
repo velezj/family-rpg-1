@@ -10,7 +10,7 @@ The sewers are in need of their seasonal cleaning and the village hired a pair o
 
 # Events
 
-- [Sewer Cleaning Quest](../scenes/sewer-1.md)
+- [Sewer Cleaning Quest](../scenes/sewers-1.md)
 
 # Notes 
 

@@ -42,7 +42,7 @@ Encounter: [Goblin Patrol While Lost Around Fir](../scenes/encounters/goblin-pat
 
 If the party stays around the forest moving for more that 15 hours (not counting rest/sleep), they will stumble upon the goblin cave.
 
-Encounter: [Goblin Cave while Lost Around Fir](../scenes/encounters/goblin-cave-while-lost-around-fir)
+Encounter: [Goblin Cave while Lost Around Fir](../scenes/encounters/goblin-cave.md)
 
 # Sam and Fir' Mayor Decision
 

@@ -33,7 +33,7 @@ A true traveler, Umrik wears simple dark brown trousers with strong sturdy boots
 
 # Hooks
 
-- [Rosaline Cotswad's](./rosaline-cotswad.md) father was a friend of Umrik, and she treats him as an uncle. She will introduce him to [Gustavo](./gustavo.md) as a potential teacher of magic.
+- [Rosaline Cotswad's](../characters/rosaline-cotswad.md) father was a friend of Umrik, and she treats him as an uncle. She will introduce him to [Gustavo](../characters/gustavo.md) as a potential teacher of magic.
 
 - [Garth Ven](../characters/garth-ven.md) and Umrik are friends.
 
