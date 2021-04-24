@@ -83,6 +83,7 @@ toc-title: Table of Contents
 
 6. Erutrea
    - [Octar](../characters/octar-mallister.md)
+   - [Jeena](../characters/jeena.md)
 
 7. Mythical
    - [Sahata](../characters/sahata.md)
