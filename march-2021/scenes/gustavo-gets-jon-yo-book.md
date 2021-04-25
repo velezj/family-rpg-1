@@ -3,6 +3,13 @@ title: Gustavo Receives Jon-Yo book from Garth
 toc-title: Table of Contents
 ---
 
-[Garth Ven](../characters/garth-ven.md) will give Gustavo an old spellbook/journal he found during his travels so that Gustavo has a spellbook to use as a new mage. The book recognizes Gustavo and reveals it's title and cover to him.
+The book from Jon-Yo found by Garth will get to Gustavo's hands and reveal its true cover when touched by Gostavo, bonding to him.
 
-# Narrative
+# From Garth Himself
+
+
+# From Mary (from Garth)
+
+
+
+# Narrative When Bonding
