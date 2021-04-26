@@ -27,6 +27,15 @@ Sent by a vision of [Mary](../characters/mary-tanner.md) surrounded by blight, s
   - Connect the party and story to [The Traveler](../setting-world/the-traveler.md) who sent the vision to her
   - bring a sense of peace and kindness to the adventure (as opposed to [Mary](../characters/mary-tanner.md) who brings a sense of action and fighting to it)
   
+## [Val](../characters/val.md)
+
+Sent by a desire for the frontier, Val quickly realizes that something is up in southern kryta.
+
+  Roles/Narrative/Story Effects
+  - [Dia](../setting-world/dia.md) representative in *party*
+  - Secondary (or main) healing in party
+  - Boisterous and loud. Good at connecting with common folks
+  
 ## [Umrik](../characters/umrik.md)
   
 While searching for possible apprentices and young mages in need of guidance, [Umrik](../characters/umrik.md) connected to [Gustavo](../characters/gustavo.md)

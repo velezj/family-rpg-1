@@ -43,7 +43,9 @@ Her once-honed muscles look slack, with almost no fat or muscle underneath the s
 
 # Goals
 
-- None right now
+- To search out information about her branded symbol(s)
+
+- To search out the Giants of old to learn to be a  true runeknight
 
 # Behavior
 
