@@ -11,15 +11,15 @@ toc-title: Table Of Contents
 
 - Skirmishes have already started as the presence of at least 3 great Demon Lord Generals has been confirmed. The Demon Lord General Tilhorn has it's sight set on Kryta and has started to coalesce the monsters near the region. This has caused an upheaval of the monsters within the kingdom, mostly near the capital of Metrun. All adventurer guilds within the kingdom have been asked to supply help dealing with the newly incited monsters appearing near the capitol. Heroes are born every day.
 
-- In the rural town of Beggarspuddle, near the borderlands between Kryta and the Wildwood, the adventurer guild has responded to the call for members to join the Kryta forces at the capitol. All able adventurers from the guild have left for the capitol. The guild hall lies empty; guild workers lay about with nothing to do. A sign hangs from the door: "Not accepting new quests due to lack of adventurers."
+- In the rural town of Beggarbottom, near the borderlands between Kryta and the Wildwood, the adventurer guild has responded to the call for members to join the Kryta forces at the capitol. All able adventurers from the guild have left for the capitol. The guild hall lies empty; guild workers lay about with nothing to do. A sign hangs from the door: "Not accepting new quests due to lack of adventurers."
 
 # Events at start
 
-- Two friends from the village of Splurt (a tiny village) head to the "big city" (Beggarspuddle) in order to start their life under their own power. They both dream of a life outside of farming and have decided to go out into the world and make it on their own. The friends are called A and B.
+- Two friends from the village of Splurt (a tiny village) head to the "big city" (Beggarsbottom) in order to start their life under their own power. They both dream of a life outside of farming and have decided to go out into the world and make it on their own. The friends are called A and B.
 
-- On their way to Beggarspuddle, the friends get attacked by a band of orcs? A single orc, or maybe two together, would not be a problem for the friends. But a whole band is too much. Just as their luck would seem to have run out, a woman appears on the road and defeats the orc leader along with several of the orcs. Seeing their leader struck down so quickly, the rest of the orcs flee the area, leaving the two friends alive and indebted to the female warrior: Mary Tanner.
+- On their way to Beggarsbottom, the friends get attacked by a band of goblins? A single goblin, or maybe two together, would not be a problem for the friends. But a whole band is too much. Just as their luck would seem to have run out, a woman appears on the road and defeats the leader. Seeing their leader struck down so quickly, the rest of the goblins flee the area, leaving the two friends alive and indebted to the female warrior: Mary Tanner.
 
-- Mary Tanner decides to join the friends on their way to Beggarspuddle, it is where she herself was going to. Along the way, she asks about where they would sleep and stay in the town. Mary quickly realizes that the two friends are naive and do not know how this world works and have no clear plan for their future. She decides to let them stay where she is staying, the "other" adventurer guild. She guides them there where the friends meet Garth and are allowed to stay in the guild hall during the nights and pay, cheaply, for food from the hall as well.
+- Mary Tanner decides to join the friends on their way to Beggarsbottom, it is where she herself was going to. Along the way, she asks about where they would sleep and stay in the town. Mary quickly realizes that the two friends are naive and do not know how this world works and have no clear plan for their future. She decides to let them stay where she is staying, the "other" adventurer guild. She guides them there where the friends meet Garth and are allowed to stay in the guild hall during the nights and pay, cheaply, for food from the hall as well.
 
 - The friends, awed by Mary and reassured by Garth, decide to join the guild and become adventurers themselves.
 
@@ -32,10 +32,3 @@ toc-title: Table Of Contents
 - The three adventurers, two newly minted, head out to clean the sewers. Little did they know that a far greater threat to the region was awakened and they were the only adventurers around to deal with it.
 
 - Mary was a great sword user, a two handed magical sword was her most prized possession. She comes back without her arm and with her sword broken in half and cracked throughout. She can not longer fight with her weapon. She brings with he a short sword and must re-train to be a warrior with it. He body is that of a high-level adventurer, but her skills and fighting prowess are back those of a school-yard thug with a sword. Thus the three head over to clean some sewers.
-
-# Possible Events
-
-- Meet the ratfolk which have been tracking teh mutations/monsters in the sewers from *their* town over to the current sewers. They will join the party and help explore what is going on if the party is willing to help their village when the source is discovered.
-
-- bring back sewer remains of mutated worms/rats to Garth. He will suggest ot take them to Rosaline Cotswad and will go with party. Her father was a friend of Garth's and she is like a niece to Garth.
-
