@@ -3,6 +3,16 @@ title: Rewards/Gold Tracking
 toc-title: Table of Contents
 ---
 
+# On Deck but not yet received
+
+| Player  | Item | Notes                        |
+|---------|------|------------------------------|
+| Gustavo | 2 GP | guard pay from Sam           |
+| Owlex   | 2 GP | guard pay from Sam           |
+| Mary    | 2 GP | guard pay from Sam           |
+| Owlex   | 3 GP | wolf pelt extra pay from Sam |
+|         |      |                              |
+
 # Coins
 
 | Player  | Gold | Silver | Copper |
