@@ -34,13 +34,13 @@ About and hour after the split, the Bugbear hears the sound of [Mary](../charact
 
 # Goblin Patrol
 
-If the party stays around the forest moving more that 10 hours (not counting sleep/rests), they will run into a goblin patrol. They can try to follow them, hide and flee, or fight them.
+If the party stays around the forest lost and moving more that 4 hours (not counting sleep/rests), they will run into a goblin patrol. They can try to follow them, hide and flee, or fight them.
 
 Encounter: [Goblin Patrol While Lost Around Fir](../scenes/encounters/goblin-patrol-while-lost-around-fir.md)
 
 # Goblin Cave
 
-If the party stays around the forest moving for more that 15 hours (not counting rest/sleep), they will stumble upon the goblin cave.
+If the party stays around the forest moving for more that 12 hours (not counting rest/sleep), they will stumble upon the goblin cave.
 
 Encounter: [Goblin Cave while Lost Around Fir](../scenes/encounters/goblin-cave.md)
 
@@ -76,6 +76,24 @@ Mary rolls a wisdom check DC 15 to see if she yells at [Owlex](../characters/owl
 Mary: "I need to sleep, my body isn't going to move anytime soon. And you must also be fatigued." she starts to say something else but then falls deeply asleep. On a perception or medicine check of DC 10 you know she's just sleeping not unconscious.
 
 Given the lack of animals in the forest, nothing will disturb them in their rest. With a survival check DC 15 they will even find a willow tree under which they can camp without been seen and be quite save even inside a normal, animal filled, forest.
+
+# Mary's Wound
+
+The party sleeps for the night, exhausted. Mary, unable to move, misses drinking her potion for illusion, and so when the morning comes, [Gustavo](../characters/gustavo.md) and [Owlex](../characters/owlex.md) see her for the first time. 
+
+**Narrative**
+
+Where before you saw a warrior in full armor, well used but well kept, with a mighty fortress-shield on her right hand and a short sword on her left, you now see quite a different sight. The entire right half of her armor is gone, leaving these twisted edges of torn metal. Burn marks and scorch marks seem to radiate out from the edges of the armor is a rippling wave. The metal looks like it slightly melted before cooling in a disfigured, almost melted, state that bring to mind the side of candles with the crusted, half-melted wax residue. Her entire arm is missing and you see multiple wrappings covering where her should was, around her chest, and around her rib-cage. A dark, deep purple substance seems to be slowly seeping through the bandages on her shoulder, and the rest of the wrappings you see look old and crusted with blood. You also breath in a subtle smell. A sour, foul, odor is coming from her shoulder wound underneath the dressings. Its weak but you can immediately tell that it's not the smell of bacteria or compost, but something more unpleasant. You can almost call it oily and once you detect it, the smell seems to stick with you at the back of your throat, almost refusing to leave your sinuses. You feel a little out of breath, as if what you breathed in isn't coming out and your lungs are just filling with the fragrance. A breeze filters over the forest and you feel your lungs finally clear themselves as the fresh air seems to almost wash away the sticky smell from you sinuses.
+
+{the smell comes from the frozen one's symbol burning off the ooze from the wound as it touches it. This vaporized ooze dissipates but you still get a whiff of it in the air.}
+
+Crawling up from her shoulder, you see these spidery purple tendrils that reach up the side of her neck. What had preciously looked like scar now seem almost fresh wounds, giving off a faint purple shimmer. You see a very slow, periodic dimming of the shimmer almost like the purple is sucked underneath the bandage until you can almost make yourself believe that it was just a trick of the light. But then the purple shimmer flows back through the tendrils of the wound. In and out, slowly beating a steady rhythm. 
+
+She still has a shield on her right side, but rather than holding it you see thick leather fasteners almost gluing the shield to her side. There are large, angry, red welts from the belts, and around the places they pass over the bandages you can see a bit of brighter red blood soaking into the straps. Below the shield where you expect to see greaves you find these thin strands of metal, woven , almost artistically, around and through her right leg. The skin and the metal joining, fusing, showing what is clearly a human leg that has been essentially embossed with strands of what used to be leg armor surrounded by recent scar tissue. Her right foot is completely wrapped in dressings, but surprisingly those are the cleanest of the dressings you can see, with no obvious seepage or damage.
+
+{ Her foot had to be cut completely to remove a curled in piece of metal that stopped her from planting it on the ground. However, once remove and treated magically it was reattached and once again magically healed. Such a feat is actually moderately common in the frontier, and at least one experienced farmer every two or three villages knows how to do everyday animal husbandry magic to heal clean cuts of bone and tendons. Thankfully, the metal piece was a clean cut and so her foot could both be healed and reattached without issue. Of course, doing such magic drains the farmer and they usually spend at least a week gaining back their magical energy so it is only used on essential or emergency situations: such as your family member appearing on your doorstep bloodied, missing and arm, unconscious, with her armor melting into her body. }
+
+
 
 
 # The Fir Canvas
