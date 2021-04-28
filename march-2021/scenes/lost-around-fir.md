@@ -119,3 +119,15 @@ This means that they will reach the spot where the goblins where spotted in 27 h
 
 **narrative**
 
+As you head over the Mayor, he smacks your back, "Glad to see you alive, and thank you for helping out Sam and tracking the goblins. So where'd they get up to?"
+
+Mary: "We lost them after traveling about an hour north-west."
+
+"North west. good good. That's away from town. We organized ourselves a canvasing plan and we've been slowly making sure there'r no other monsters within 4 hours of our town ... Sorry to take over your relay, but I sent Sam to Beggarsbottom. Gotta ask the Adventures Guild to send over some folks an' handle these buggers. She's our fastest runner, quick as a cat ... then agains she looks a bit like them so make sense .. anyhow she knows these woods best ... but ne'er you mind. Looks like you got back ok, and Sam was saying something about a paper dog vanishing and losing your scent ... couldn't quite make everything out but I knew you could take care of yerselfs ... thou now that I'm looking you seem a bit tired ... Thank you again for helping out ... now I know you's adventuring types, but I also knows 3 of you can't handle 7 critters ... and there's always more goblins than you think. Those things breed faster than rabbits in a meadow, believe you me. I got you a little extra for yer troubles" He hands Make a small leather bag, "an' ol' Lorna over at the Stand's having something for you from Sam ... something about a wolf pelt ... Sack's been shut inside his shop the whole time since he saw that pale white pelt she brought by ... thinking he might need a little something to eat ... and I knows he wants to thank you for such a nice hunt ... how'bout you head on over to Lorna's, get your things, fill yer bellies then bring some-of the food over to Sack's to let him know your gracious ... might be he's already fainted from working, so bring plenty of water for him ... don't know when to stop that one ... always' got that glimmer in his eyes when he sees something nice ...."
+
+Lorna will have the 6 + 3 GP from Sam with her. She'll treat you to food and even make some for Sack for free.
+
+When you arrive at Sack's you hear a faint grumbling sound and head inside to find Sack slumped over a table, a little drool dripping from his mouth, and his stomach grumbling for food. He will revive enough to eat the food and drink water, at which point he starts looking better. "Oh my, thank you thank you so much for taking down that wolf. It's pelt is amazing ... magnificent ... subtle ... soft ... string enough to resist tearing ... and with a beautiful pale luster ..." He closes his eyes imaging the wonderful things he can make with the material. When he opens his eyes he looks at Gustavo's feet and legs. "You're a bit scrawny ... yo I'm guessing you'd want to run when trouble comes.... I've got just the thing to thank you with. Let me make you some strong, fast boots for you .... Given me a month to cure and make the boots ... they'll be ready and we can see how they fit .... I'm sure anything made with this pelt will be incredible."
+
+*{ Sack will make a Boots of Wolf's Gait for Gustavo }*
+

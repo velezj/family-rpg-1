@@ -123,3 +123,22 @@ The mayor is currently out of town, having gone with a group to check out report
 - Newman
   - Kevin Newman (18, moved in 2 months ago)
   - Mersa Newman (18)
+
+
+# Encounters
+
+**Wild Boar**
+
+**Clam Beach**
+
+**Hunting Pelts**
+
+**Farm Deliveries**
+
+Roll 1d20:
+| Roll   | Encounter(s)                                      |
+|--------|---------------------------------------------------|
+| < 5    | 2 encounters, each having 1 harpy and 1 bloodhawk |
+| 5 - 15 | 1 encounter with 1 harpy and 1 bloodhawk          |
+| > 16   | 1 encounter with 2 harpy and 1 bloodhawk          |
+|        |                                                   |
