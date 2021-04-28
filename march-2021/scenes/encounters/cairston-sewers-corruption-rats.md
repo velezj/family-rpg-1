@@ -27,3 +27,23 @@ Split into a series of 3 encounters:
 - If partying with rat-folk, we learn of the village (hidden) and that the awakened grubs have been a problem there.
 
 - Finding the training group this close to [Cairston](../../places/cairston.md) is alarming! Why are there goblins in the sewers? They seemed more organized than most tribes. Also using hyenas.
+
+# Intro Encounter
+
+<a target="_blank" rel="noopener noreferrer" href="https://www.dndbeyond.com/encounters/eefcc0cd-ce10-42c6-9aac-723f5f3a9eaa">DNDBeyond</a>
+
+# Corrupted Grubs Encounter
+
+<a target="_blank" rel="noopener noreferrer" href="https://www.dndbeyond.com/encounters/19870469-1cc7-433e-b832-716f8ae50991">DNDBeyond</a>
+
+# Fungus Room 
+
+<a target="_blank" rel="noopener noreferrer" href="https://www.dndbeyond.com/encounters/0fcbf960-8575-411f-936a-fe0fa52da88f">DNDBeyond</a>
+
+# Goblin Training Group
+
+<a target="_blank" rel="noopener noreferrer" href="https://www.dndbeyond.com/encounters/a797e65a-9f6d-4271-ab9d-f330f329e4c5">DNDBeyond</a>
+
+# Quippers in the Waters
+
+<a target="_blank" rel="noopener noreferrer" href="https://www.dndbeyond.com/encounters/a8ca62bf-5b67-49de-80a2-7e2d2df9047b">DNDBeyond</a>

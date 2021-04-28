@@ -69,7 +69,7 @@ events:
 
 # Encounter Information
 
-
+[Sewers Encounters](../scenes/encounters/cairston-sewers-corruption-rats.md)
 
 
 <!--  LocalWords:  Cairston Kryta Owlex Kusoto Mika Strawfur Hellman

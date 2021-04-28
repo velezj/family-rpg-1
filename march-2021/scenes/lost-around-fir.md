@@ -115,3 +115,7 @@ Once the morning comes, the mayor of [Fir](../places/fir.md) will gather a group
 
 This means that they will reach the spot where the goblins where spotted in 27 hours of searching. The group will only search during the daytime, with a separate group of 12 each day, until they get to the spot where the goblins where seen (3 hours from [Fir](../places/fir.md) for a normal person). Getting to the spot will take them 27 hours of searching, which means they will reach it 3 hours into the third day of searching (total of 51 hours passed).
  
+# Meetup with Fir Mayor
+
+**narrative**
+

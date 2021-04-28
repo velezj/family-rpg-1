@@ -20,17 +20,19 @@ If you get closer you make out 2 goblins. With a Perception DC of 18 you also se
 
 # encounter
 
+<a target="_blank" rel="noopener noreferrer" href="https://www.dndbeyond.com/encounters/c77a77a4-e4e7-4a97-80ca-a1e34b68b1be">DNDBeyond</a>
+
 Enemies:
 
 | Monster           | Count | Notes |
 |-------------------|-------|-------|
 | Goblin            | 2     |       |
-| Giant Wolf Spider | 1     |       |
+| Giant Wolf Spider | 3     |       |
 
 
-| Rewards                    | notes           |
-|----------------------------|-----------------|
-| 10 GP for wolf-spider hide | half if damaged |
-| 1 GP per goblin ears       |                 |
-| 2 standard scimitars       | 25 GP each      |
-|                            |                 |
+| Rewards                            | notes                                           |
+|------------------------------------|-------------------------------------------------|
+| 2 standard scimitars               | 25 GP each                                      |
+| 1 sling                            | 1 SP                                            |
+| 5 Volmat's Patroling Sling Bullets | Deep red and smooth, slightly warm to the touch |
+|                                    |                                                 |

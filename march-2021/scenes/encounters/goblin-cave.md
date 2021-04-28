@@ -17,6 +17,8 @@ If the party stays watching/waits for more than 30 minutes
 
 # Encounter
 
+<a target="_blank" rel="noopener noreferrer" href="https://www.dndbeyond.com/encounters/c0ac43e3-8fd7-4655-b3fd-d884ffa462e4">DNDBeyond</a>
+
 | Monster      | Count | Notes               |
 |--------------|-------|---------------------|
 | goblin       | 2     |                     |
@@ -28,3 +30,13 @@ If the party stays watching/waits for more than 30 minutes
 | giant spider | 4     | patrolling top/back |
 |              |       |                     |
 
+
+**rewards**
+
+| Rewards                                                 | notes              |
+|---------------------------------------------------------|--------------------|
+| coins                                                   | 100 GP             |
+| scrap metal and materials                               | 100 GP             |
+| 1 Golden Locket with a picture inside (needs restoring) | 25 GP              |
+| 2 small gold bracelet                                   | 25 GP each = 50 GP |
+|                                                         |                    |

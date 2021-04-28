@@ -13,6 +13,9 @@ On the way to Beggardsbottom, the party encounters a lone, weakened harpy being 
 
 # Encounter
 
+<a target="_blank" rel="noopener noreferrer" href="https://www.dndbeyond.com/encounters/0f3cc767-4f18-49fc-819c-fdfb96bd22b6">DNDBeyond</a>
+
+
 | Enemy            | Number | HP | AC | Speed      | Attack           | Notes                                     |
 |------------------|--------|----|----|------------|------------------|-------------------------------------------|
 | Blood-Toll Harpy | 1      | 9  | 11 | 20, 40 fly | Bite: +3 (1d4+1) | Multi-Attack: x2                          |
@@ -40,11 +43,8 @@ If the harpy is brought to a farm, or a farm told about it rather than the mayor
 
 | Action                       | Reward                       |
 |------------------------------|------------------------------|
-| Tell Mayor or Village person | 2 GP                         |
+| Tell Mayor or Village person | 10 GP                        |
 | Tell Farmer                  | Provisions for 2 days + 2 SP |
-| Harpy Materials              | 2 GP per harpy               |
-| Stirge Materials             | 1 SP per Stirge              |
-|                              |                              |
 
 # NPC
 
