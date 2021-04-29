@@ -118,3 +118,12 @@ Tasked to protect a sacred tree, Ftata cannot just stand by while the material p
   - [Fey](../setting-world/fey.md) representative
   - Blood pack with party is a forcing function
   - Main connection to Fey realm and potential allies/enemies therein
+
+## [Unma](../characters/unma.md)
+
+Orr has given them visions of the heart. Now they must create their own pack and hunt down the abomination
+
+  Roles/Narrative/Story Effect
+  - [Orr](../setting-world/orr.md) companion
+  - Fun narrative character (blunt, silent, ignores personal injury, driven)
+  - Extra warrior for group balance

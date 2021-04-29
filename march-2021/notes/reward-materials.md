@@ -3,33 +3,42 @@ title: Rewards and Materials
 toc-title: Table of Contents
 ---
 
-** Creatures **
+**Creatures**
 
-| Material                | Reward           | Damage Mod | Damage Types                             | Notes                                                |
-|-------------------------|------------------|------------|------------------------------------------|------------------------------------------------------|
-| Beetle (swarm)          | 1 SP per beetle  | 0          | fire, acid, piercing,slashing            |                                                      |
-| Boar hide               | 5 GP             | 1/4        | fire, acid, lighting                     |                                                      |
-| Boar (Giant) hide       | 50 GP            | 1/2        | fire, acid, lighting, slashing           |                                                      |
-| Bugbear ears-only       | 10 GP            |            |                                          |                                                      |
-| Bugbear hide            | 50 GP            |            |                                          |                                                      |
-| Giant Moth: Antenna     | 1 GP per antenna | 1/4        | any physical damage                      | Dex or Nature DC 14 to retrieve without damaging     |
-| Giant Moth: Wings       | 2 SP per wing    | 1/2        | any physical damage                      |                                                      |
-| Giant Spider Shell      | 50 GP            | 1/2        | fire, acid, lighting, slashing, piercing |                                                      |
-| Giant Wolf Spider shell | 10 GP            | 1/2        | fire, acid, lighting, slashing, piercing |                                                      |
-| Goblin ears             | 1 GP             |            |                                          |                                                      |
-| Harpy materials (wings) | 20 GP            | 1/2        | fire, lighting, acid                     |                                                      |
-| Hobgoblin ears          | 10 GP            |            |                                          |                                                      |
-| Imp barb                | 200 GP           | 0          | acid                                     | Dex or Nature DC 16 to gather without being poisoned |
-|                         |                  |            |                                          | Must be preserved after 12 hours with a Nature or    |
-|                         |                  |            |                                          | Medicine DC 16 check otherwise unusable              |
-| Ooze/Jelly/Slime Core   | 1000 GP *per CR* | 0          | any physical                             | Nature DC 20 **and** Dex DC 20 to gather             |
-| Quipper                 | 1 SP per         |            |                                          |                                                      |
-| Worg Pelt               | 50 GP            | 1/2        | fire, acid, lighting                     |                                                      |
-|                         |                  |            |                                          |                                                      |
+| Material                 | Reward           | Damage Mod | Damage Types                             | Notes                                                |
+|--------------------------|------------------|------------|------------------------------------------|------------------------------------------------------|
+| Beetle (swarm)           | 1 SP per beetle  | 0          | fire, acid, piercing, slashing           |                                                      |
+| Boar hide                | 5 GP             | 1/4        | fire, acid, lighting                     |                                                      |
+| Boar (Giant) hide        | 50 GP            | 1/2        | fire, acid, lighting, slashing           |                                                      |
+| Bugbear ears-only        | 10 GP            |            |                                          |                                                      |
+| Bugbear hide             | 50 GP            |            |                                          |                                                      |
+| Cockatrice Eye           | 100 GP           | 0          | acid, lighting, radiant                  |                                                      |
+| Giant Moth: Antenna      | 1 GP per antenna | 1/4        | any physical damage                      | Dex or Nature DC 14 to retrieve without damaging     |
+| Giant Moth: Wings        | 2 SP per wing    | 1/2        | any physical damage                      |                                                      |
+| Giant Spider Shell       | 50 GP            | 1/2        | fire, acid, lighting, slashing, piercing |                                                      |
+| Giant Wolf Spider shell  | 10 GP            | 1/2        | fire, acid, lighting, slashing, piercing |                                                      |
+| Gnoll Ears               | 15 GP            |            |                                          |                                                      |
+| Goblin ears              | 1 GP             |            |                                          |                                                      |
+| Grick Hide               | 100 GP           |            |                                          |                                                      |
+| Grick Tentacles          | 1000 GP each     | 0          | special                                  | Must not have opened them before dying               |
+| Harpy materials (wings)  | 20 GP            | 1/2        | fire, lighting, acid                     |                                                      |
+| Harpy (Blood-Toll) wings | 1 GP             | 0          | fire, lighting, acid                     |                                                      |
+| Hippogriff pelt          | 100 GP           | 1/2        | fire, acid, lighting, piercing           |                                                      |
+| Hippogriff Hooves        | 50 GP per        | 0          | any physical                             | Dex or Nature DC 16 to gather                        |
+| Hobgoblin ears           | 10 GP            |            |                                          |                                                      |
+| Hyena Pelt               | 2 GP             | 1/4        | fire, acid, lighting, slashing, piercing |                                                      |
+| Imp barb                 | 200 GP           | 0          | acid                                     | Dex or Nature DC 16 to gather without being poisoned |
+|                          |                  |            |                                          | Must be preserved after 12 hours with a Nature or    |
+|                          |                  |            |                                          | Medicine DC 16 check otherwise unusable              |
+| Ooze/Jelly/Slime Core    | 1000 GP *per CR* | 0          | any physical                             | Nature DC 20 **and** Dex DC 20 to gather             |
+| Quipper                  | 1 SP per         |            |                                          |                                                      |
+| Vegepygmy (1 whole body) | 10 GP            |            |                                          | Even broken bodies will work                         |
+| Worg Pelt                | 50 GP            | 1/2        | fire, acid, lighting                     |                                                      |
+|                          |                  |            |                                          |                                                      |
 
 
 
-** Herbs and Object **
+**Herbs and Object**
 
 | Material          | Reward                | Damage Mod | Damage Types          | Notes                                   |
 |-------------------|-----------------------|------------|-----------------------|-----------------------------------------|
