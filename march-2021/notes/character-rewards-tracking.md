@@ -5,21 +5,17 @@ toc-title: Table of Contents
 
 # On Deck but not yet received
 
-| Player  | Item | Notes                        |
-|---------|------|------------------------------|
-| Gustavo | 2 GP | guard pay from Sam           |
-| Owlex   | 2 GP | guard pay from Sam           |
-| Mary    | 2 GP | guard pay from Sam           |
-| Owlex   | 3 GP | wolf pelt extra pay from Sam |
-|         |      |                              |
+| Player | Item | Notes |
+|--------|------|-------|
+|        |      |       |
 
 # Coins
 
 | Player  | Gold | Silver | Copper |
 |---------|------|--------|--------|
-| Owlex   | 7    |        | 10     |
-| Gustavo | 6    |        | 2      |
-| Mary    | 2500 | 340    | 200    |
+| Owlex   | 9    |        | 10     |
+| Gustavo | 11   |        | 2      |
+| Mary    | 2502 | 340    | 200    |
 |         |      |        |        |
 
 # Materials

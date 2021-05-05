@@ -7,6 +7,9 @@ toc-title: Table of Contents
 
 | Material                 | Reward           | Damage Mod | Damage Types                             | Notes                                                |
 |--------------------------|------------------|------------|------------------------------------------|------------------------------------------------------|
+| Ankheg Carapace          | 150 GP           |            |                                          |                                                      |
+| Beef (cow)               | 1 SP per lbs     |            |                                          |                                                      |
+| Beef (cow, fine quality) | 2 SP per lbs     |            |                                          |                                                      |
 | Beetle (swarm)           | 1 SP per beetle  | 0          | fire, acid, piercing, slashing           |                                                      |
 | Boar hide                | 5 GP             | 1/4        | fire, acid, lighting                     |                                                      |
 | Boar (Giant) hide        | 50 GP            | 1/2        | fire, acid, lighting, slashing           |                                                      |
@@ -30,6 +33,7 @@ toc-title: Table of Contents
 | Imp barb                 | 200 GP           | 0          | acid                                     | Dex or Nature DC 16 to gather without being poisoned |
 |                          |                  |            |                                          | Must be preserved after 12 hours with a Nature or    |
 |                          |                  |            |                                          | Medicine DC 16 check otherwise unusable              |
+| Mud Mephit Essence       | 15 GP            | 0          |                                          | Nature DC 12 to harvest                              |
 | Ooze/Jelly/Slime Core    | 1000 GP *per CR* | 0          | any physical                             | Nature DC 20 **and** Dex DC 20 to gather             |
 | Quipper                  | 1 SP per         |            |                                          |                                                      |
 | Vegepygmy (1 whole body) | 10 GP            |            |                                          | Even broken bodies will work                         |

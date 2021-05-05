@@ -20,6 +20,10 @@ When asked about themselves, the humanoid figure will tilt their head sideways, 
 
 As the final chunks of the beast turn ht ash, they will stand and stretch. They begin to run with a powerful, steady gait deeper into the forest. You quickly lose sight of them as they disappear into the woods, and only now realize you never even heard a sound as they got farther away from the party.
 
+# Timing
+
+14 hours to Juneston, split into 8 + 6 hour into 2 days. Traveled about 4 hours when they meet Unma.
+
 # Encounter
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.dndbeyond.com/encounters/4d037714-a2bf-45e2-a124-b5a98fb4f2bb">DNDBeyond</a>
