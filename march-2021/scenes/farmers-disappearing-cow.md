@@ -19,6 +19,8 @@ With a final shudder the monstrosity seems to cave in on itself and lays still. 
 
 You start walking down the tunnel. Mary barely fits into the space, and she has to duck her head in parts because of the low ceiling. An hour passes as you walk within the cross-crossing tunnels all over the meadow. However, you can tell you're going the right way because the drag marks and spilled refuse pointing towards the direction the creature took it's prey. Another hour passes and the tunnels get a little harder to explore because thick roots now block some of the space, making you step around and over them to continue. Finally, you get to an open chamber. It is full of bones, litter, scraps of metal and wood, rotting canvas, and all matter of melted organic materials. Roll Investigation to see what you find.
 
+Near the edge of the tunnels carved by the Arkheg, you notice a small opening to what appears to be a separate series of underground caverns and passageways. However, the sides of the passage and the roughness of the space are clearly different from those you have been traveling down, and you can feel a deep gloom permeating the air, as if resisting anything to do with the light of the sun. "Now this is interesting .... but I think for another time ... let us head back and finish our journey before we delve too deeply into the underground". With that, Mary turns around and starts heading back the way you came.
+
 
 # Timing
 
