@@ -43,7 +43,6 @@ Bo Falthon managed to get some members for the raid:
 - Darrius
 - Alex
 - Jeena
-- Vir
 - Marix
 - Bailor
 
