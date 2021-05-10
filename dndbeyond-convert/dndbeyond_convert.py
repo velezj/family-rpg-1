@@ -5,6 +5,7 @@ import collections
 import subprocess
 import tempfile
 import sys
+import pathlib
 
 
 #####
@@ -395,13 +396,9 @@ def _print_markdown_sheet( out, field_list ):
     out.write( "\n\n" )
 
 
-
-## ===============================================================
-
-if __name__ == "__main__":
-
-    inputfilename = sys.argv[1]
-    outputfilename = sys.argv[2]
+##
+# Do a full conversion from DNDBeyond pdf to markdown
+def convert_pdf_to_markdown( inputfilename, outputfilename ):
     with tempfile.NamedTemporaryFile() as f:
         _process_pdf_through_qpdf( inputfilename,
                                    f.name )
@@ -411,3 +408,34 @@ if __name__ == "__main__":
         potential_fields = _compute_potential_fields( chunks )
         with open( outputfilename, 'w' ) as outf:
             _print_markdown_sheet( outf, potential_fields )
+
+## ===============================================================
+
+if __name__ == "__main__":
+
+    arg1 = sys.argv[1]
+    arg2 = sys.argv[2]
+    path1 = pathlib.Path( arg1 )
+    path2 = pathlib.Path( arg2 )
+
+    if path1.is_dir():
+        if not path2.is_dir():
+            raise RuntimeError( "Both args need to be directories" )
+        additional_suffix = "-sheet"
+        if len(sys.argv) > 3:
+            additional_suffix = sys.argv[3]
+        print( "Directory Mode" )
+        sys.stdout.flush()
+
+        for p in path1.iterdir():
+            basename = p.stem
+            suffix = p.suffix
+            if suffix == ".pdf":
+                outputpath = path2 / (basename + additional_suffix + ".md")
+                print( "Converting '{}'  --> '{}'".format(
+                    p, outputpath ) )
+                sys.stdout.flush()
+                convert_pdf_to_markdown( p.as_posix(),
+                                         outputpath.as_posix() )
+    else:
+        convert_pdf_to_markdown( path1.as_posix(), path2.as_posix() )
