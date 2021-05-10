@@ -189,6 +189,13 @@ def _print_markdown_sheet( out, field_list ):
     # convet from list of fields to dictionary mapping field names
     fields = _field_list_to_map( field_list )
 
+    # markdown metadata
+    out.write( "---\n" )
+    out.write( "title: {} Character Sheet\n".format(
+        fields.get( "charactername", "" ) ))
+    out.write( "toc-title: Table of Contents\n" )
+    out.write( "---\n\n" )
+
     # character basic info
     out.write( "# Character Basic Info\n\n" )
     out.write( "| | |\n|---|---|\n" )
