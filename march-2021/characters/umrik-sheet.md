@@ -210,42 +210,6 @@ tinker\'s tools
 common, draconic, gnomish, undercommon
 # Spells
 
-**=== 3rd level ===**
-3 slots ooo
-
-- <a href="https://www.dndbeyond.com/spells/blink">blink</a>
-- <a href="https://www.dndbeyond.com/spells/clairvoyance">clairvoyance {c}</a>
-- <a href="https://www.dndbeyond.com/spells/counterspell">counterspell</a>
-- <a href="https://www.dndbeyond.com/spells/dispel-magic">dispel magic</a>
-- <a href="https://www.dndbeyond.com/spells/fly">fly {c}</a>
-- <a href="https://www.dndbeyond.com/spells/gaseous-form">gaseous form {c}</a>
-- <a href="https://www.dndbeyond.com/spells/glyph-of-warding">glyph of warding</a>
-- <a href="https://www.dndbeyond.com/spells/magic-circle">magic circle</a>
-- <a href="https://www.dndbeyond.com/spells/major-image">major image {c}</a>
-- <a href="https://www.dndbeyond.com/spells/nondetection">nondetection</a>
-- <a href="https://www.dndbeyond.com/spells/phantom-steed">phantom steed [r]</a>
-- <a href="https://www.dndbeyond.com/spells/protection-from-energy">protection from energy {c}</a>
-- <a href="https://www.dndbeyond.com/spells/sending">sending</a>
-- <a href="https://www.dndbeyond.com/spells/slow">slow {c}</a>
-- <a href="https://www.dndbeyond.com/spells/remove-curse">remove curse</a>
-- <a href="https://www.dndbeyond.com/spells/stinking-cloud">stinking cloud {c}</a>
-
-
-**=== 1st level ===**
-4 slots oooo
-
-- <a href="https://www.dndbeyond.com/spells/comprehend-languages">comprehend languages [r]</a>
-- <a href="https://www.dndbeyond.com/spells/fog-cloud">fog cloud {c}</a>
-- <a href="https://www.dndbeyond.com/spells/identify">identify [r]</a>
-- <a href="https://www.dndbeyond.com/spells/detect-magic">detect magic [r]{c}</a>
-- <a href="https://www.dndbeyond.com/spells/shield">shield</a>
-- <a href="https://www.dndbeyond.com/spells/mage-armor">mage armor</a>
-- <a href="https://www.dndbeyond.com/spells/protection-from-evil-and-good">protection from evil and good {c}</a>
-- <a href="https://www.dndbeyond.com/spells/sleep">sleep</a>
-- <a href="https://www.dndbeyond.com/spells/unseen-servant">unseen servant [r]</a>
-- <a href="https://www.dndbeyond.com/spells/magic-missile">magic missile</a>
-
-
 **=== cantrips ===**
 (at will)
 
@@ -254,29 +218,6 @@ common, draconic, gnomish, undercommon
 - <a href="https://www.dndbeyond.com/spells/minor-illusion">minor illusion</a>
 - <a href="https://www.dndbeyond.com/spells/mold-earth">mold earth</a>
 - <a href="https://www.dndbeyond.com/spells/ray-of-frost">ray of frost</a>
-
-
-**=== 2nd level ===**
-3 slots ooo
-
-- <a href="https://www.dndbeyond.com/spells/alter-self">alter self {c}</a>
-- <a href="https://www.dndbeyond.com/spells/detect-thoughts">detect thoughts {c}</a>
-- <a href="https://www.dndbeyond.com/spells/enlarge-reduce">enlarge/reduce {c}</a>
-- <a href="https://www.dndbeyond.com/spells/hold-person">hold person {c}</a>
-- <a href="https://www.dndbeyond.com/spells/invisibility">invisibility {c}</a>
-- <a href="https://www.dndbeyond.com/spells/locate-object">locate object {c}</a>
-- <a href="https://www.dndbeyond.com/spells/scorching-ray">scorching ray</a>
-- <a href="https://www.dndbeyond.com/spells/levitate">levitate {c}</a>
-- <a href="https://www.dndbeyond.com/spells/ray-of-enfeeblement">ray of enfeeblement {c}</a>
-
-
-**=== 4th level ===**
-3 slots ooo
-
-- <a href="https://www.dndbeyond.com/spells/dimension-door">dimension door</a>
-- <a href="https://www.dndbeyond.com/spells/fabricate">fabricate</a>
-- <a href="https://www.dndbeyond.com/spells/polymorph">polymorph {c}</a>
-- <a href="https://www.dndbeyond.com/spells/resilient-sphere">resilient sphere {c}</a>
 
 
 **=== 5th level ===**
@@ -301,6 +242,65 @@ common, draconic, gnomish, undercommon
 - <a href="https://www.dndbeyond.com/spells/globe-of-invulnerability">globe of invulnerability {c}</a>
 - <a href="https://www.dndbeyond.com/spells/investiture-of-wind">investiture of wind {c}</a>
 - <a href="https://www.dndbeyond.com/spells/globe-of-invulnerability">globe of invulnerability {c}</a>
+
+
+**=== 4th level ===**
+3 slots ooo
+
+- <a href="https://www.dndbeyond.com/spells/dimension-door">dimension door</a>
+- <a href="https://www.dndbeyond.com/spells/fabricate">fabricate</a>
+- <a href="https://www.dndbeyond.com/spells/polymorph">polymorph {c}</a>
+- <a href="https://www.dndbeyond.com/spells/resilient-sphere">resilient sphere {c}</a>
+
+
+**=== 2nd level ===**
+3 slots ooo
+
+- <a href="https://www.dndbeyond.com/spells/alter-self">alter self {c}</a>
+- <a href="https://www.dndbeyond.com/spells/detect-thoughts">detect thoughts {c}</a>
+- <a href="https://www.dndbeyond.com/spells/enlarge-reduce">enlarge/reduce {c}</a>
+- <a href="https://www.dndbeyond.com/spells/hold-person">hold person {c}</a>
+- <a href="https://www.dndbeyond.com/spells/invisibility">invisibility {c}</a>
+- <a href="https://www.dndbeyond.com/spells/locate-object">locate object {c}</a>
+- <a href="https://www.dndbeyond.com/spells/scorching-ray">scorching ray</a>
+- <a href="https://www.dndbeyond.com/spells/levitate">levitate {c}</a>
+- <a href="https://www.dndbeyond.com/spells/ray-of-enfeeblement">ray of enfeeblement {c}</a>
+
+
+**=== 1st level ===**
+4 slots oooo
+
+- <a href="https://www.dndbeyond.com/spells/comprehend-languages">comprehend languages [r]</a>
+- <a href="https://www.dndbeyond.com/spells/fog-cloud">fog cloud {c}</a>
+- <a href="https://www.dndbeyond.com/spells/identify">identify [r]</a>
+- <a href="https://www.dndbeyond.com/spells/detect-magic">detect magic [r]{c}</a>
+- <a href="https://www.dndbeyond.com/spells/shield">shield</a>
+- <a href="https://www.dndbeyond.com/spells/mage-armor">mage armor</a>
+- <a href="https://www.dndbeyond.com/spells/protection-from-evil-and-good">protection from evil and good {c}</a>
+- <a href="https://www.dndbeyond.com/spells/sleep">sleep</a>
+- <a href="https://www.dndbeyond.com/spells/unseen-servant">unseen servant [r]</a>
+- <a href="https://www.dndbeyond.com/spells/magic-missile">magic missile</a>
+
+
+**=== 3rd level ===**
+3 slots ooo
+
+- <a href="https://www.dndbeyond.com/spells/blink">blink</a>
+- <a href="https://www.dndbeyond.com/spells/clairvoyance">clairvoyance {c}</a>
+- <a href="https://www.dndbeyond.com/spells/counterspell">counterspell</a>
+- <a href="https://www.dndbeyond.com/spells/dispel-magic">dispel magic</a>
+- <a href="https://www.dndbeyond.com/spells/fly">fly {c}</a>
+- <a href="https://www.dndbeyond.com/spells/gaseous-form">gaseous form {c}</a>
+- <a href="https://www.dndbeyond.com/spells/glyph-of-warding">glyph of warding</a>
+- <a href="https://www.dndbeyond.com/spells/magic-circle">magic circle</a>
+- <a href="https://www.dndbeyond.com/spells/major-image">major image {c}</a>
+- <a href="https://www.dndbeyond.com/spells/nondetection">nondetection</a>
+- <a href="https://www.dndbeyond.com/spells/phantom-steed">phantom steed [r]</a>
+- <a href="https://www.dndbeyond.com/spells/protection-from-energy">protection from energy {c}</a>
+- <a href="https://www.dndbeyond.com/spells/sending">sending</a>
+- <a href="https://www.dndbeyond.com/spells/slow">slow {c}</a>
+- <a href="https://www.dndbeyond.com/spells/remove-curse">remove curse</a>
+- <a href="https://www.dndbeyond.com/spells/stinking-cloud">stinking cloud {c}</a>
 
 
 # Equipment

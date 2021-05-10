@@ -268,6 +268,14 @@ playing card set, thieves\' tools
 common, elvish
 # Spells
 
+**=== cantrips ===**
+(at will)
+
+- <a href="https://www.dndbeyond.com/spells/dancing-lights">dancing lights {c}</a>
+- <a href="https://www.dndbeyond.com/spells/toll-the-dead">toll the dead</a>
+- <a href="https://www.dndbeyond.com/spells/word-of-radiance">word of radiance</a>
+
+
 **=== 1st level ===**
 4 slots oooo
 
@@ -291,14 +299,6 @@ common, elvish
 - <a href="https://www.dndbeyond.com/spells/ceremony">ceremony</a>
 - <a href="https://www.dndbeyond.com/spells/feather-field">feather field</a>
 - <a href="https://www.dndbeyond.com/spells/faerie-fire">faerie fire {c}</a>
-
-
-**=== cantrips ===**
-(at will)
-
-- <a href="https://www.dndbeyond.com/spells/dancing-lights">dancing lights {c}</a>
-- <a href="https://www.dndbeyond.com/spells/toll-the-dead">toll the dead</a>
-- <a href="https://www.dndbeyond.com/spells/word-of-radiance">word of radiance</a>
 
 
 **=== 2nd level ===**

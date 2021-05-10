@@ -305,14 +305,6 @@ martial weapons, simple weapons
 common, elvish, giant, goblin, halfling, undercommon
 # Spells
 
-**=== 3rd level ===**
-2 slots oo
-
-- <a href="https://www.dndbeyond.com/spells/conjure-barrage">conjure barrage</a>
-- <a href="https://www.dndbeyond.com/spells/speak-with-plants">speak with plants</a>
-- <a href="https://www.dndbeyond.com/spells/magic-circle">magic circle</a>
-
-
 **=== 1st level ===**
 4 slots oooo
 
@@ -320,6 +312,14 @@ common, elvish, giant, goblin, halfling, undercommon
 - <a href="https://www.dndbeyond.com/spells/fey's-golden-thread">fey's golden thread</a>
 - <a href="https://www.dndbeyond.com/spells/hail-of-thorns">hail of thorns {c}</a>
 - <a href="https://www.dndbeyond.com/spells/protection-from-evil-and-good">protection from evil and good {c}</a>
+
+
+**=== 3rd level ===**
+2 slots oo
+
+- <a href="https://www.dndbeyond.com/spells/conjure-barrage">conjure barrage</a>
+- <a href="https://www.dndbeyond.com/spells/speak-with-plants">speak with plants</a>
+- <a href="https://www.dndbeyond.com/spells/magic-circle">magic circle</a>
 
 
 **=== 2nd level ===**

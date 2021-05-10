@@ -237,6 +237,14 @@ vehicles (land)
 common, draconic, giant
 # Spells
 
+**=== cantrips ===**
+(at will)
+
+- <a href="https://www.dndbeyond.com/spells/toll-the-dead">toll the dead</a>
+- <a href="https://www.dndbeyond.com/spells/sacred-flame">sacred flame</a>
+- <a href="https://www.dndbeyond.com/spells/guidance">guidance {c}</a>
+
+
 **=== 1st level ===**
 4 slots oooo
 
@@ -258,14 +266,6 @@ common, draconic, giant
 - <a href="https://www.dndbeyond.com/spells/purify-food-and-drink">purify food and drink [r]</a>
 - <a href="https://www.dndbeyond.com/spells/ceremony">ceremony [r]</a>
 - <a href="https://www.dndbeyond.com/spells/avoid-grievious-injury">avoid grievious injury [r]</a>
-
-
-**=== cantrips ===**
-(at will)
-
-- <a href="https://www.dndbeyond.com/spells/toll-the-dead">toll the dead</a>
-- <a href="https://www.dndbeyond.com/spells/sacred-flame">sacred flame</a>
-- <a href="https://www.dndbeyond.com/spells/guidance">guidance {c}</a>
 
 
 **=== 2nd level ===**

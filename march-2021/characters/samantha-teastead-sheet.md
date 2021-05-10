@@ -166,6 +166,14 @@ alchemist\'s supplies, herbalism kit, poisoner\'s kit
 common, dwarvish, goblin
 # Spells
 
+**=== cantrips ===**
+(at will)
+
+- <a href="https://www.dndbeyond.com/spells/message">message</a>
+- <a href="https://www.dndbeyond.com/spells/dancing-lights">dancing lights {c}</a>
+- <a href="https://www.dndbeyond.com/spells/mage-hand">mage hand</a>
+
+
 **=== 1st level ===**
 2 slots oo
 
@@ -176,14 +184,6 @@ common, dwarvish, goblin
 - <a href="https://www.dndbeyond.com/spells/unseen-servant">unseen servant [r]</a>
 - <a href="https://www.dndbeyond.com/spells/expeditious-retreat">expeditious retreat {c}</a>
 - <a href="https://www.dndbeyond.com/spells/illusory-script">illusory script [r]</a>
-
-
-**=== cantrips ===**
-(at will)
-
-- <a href="https://www.dndbeyond.com/spells/message">message</a>
-- <a href="https://www.dndbeyond.com/spells/dancing-lights">dancing lights {c}</a>
-- <a href="https://www.dndbeyond.com/spells/mage-hand">mage hand</a>
 
 
 # Equipment

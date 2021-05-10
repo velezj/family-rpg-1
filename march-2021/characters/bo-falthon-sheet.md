@@ -1,5 +1,5 @@
 ---
-title: rishva neilriven Character Sheet
+title: bo falthon Character Sheet
 toc-title: Table of Contents
 ---
 
@@ -7,9 +7,9 @@ toc-title: Table of Contents
 
 | | |
 |---|---|
-|Name | rishva neilriven|
+|Name | bo falthon|
 |Class/Level | paladin 6|
-|Race | half-elf|
+|Race | human|
 |Background | noble|
 
 
@@ -20,10 +20,10 @@ toc-title: Table of Contents
 | | |
 |---|---|
 | Initiative | +0|
-| AC| 18|
+| AC| 20|
 | Prof Bonus| +3|
-| Speed| 20 ft. (walking), 30 ft. (swimming)|
-| Max HP| 34
+| Speed| 30 ft. (walking)|
+| Max HP| 46
 | Hit Dice| 6d10|
 
 
@@ -31,24 +31,24 @@ toc-title: Table of Contents
 
 | | |
 |---|---|
-|Strength | +1 (12)|
+|Strength | +4 (18)|
 |Dexterity | +0 (11)|
-|Constitution | -1 (9)|
+|Constitution | +1 (12)|
 |Intelligence | -1 (8)|
-|Wisdom | +2 (15)|
-|Charisma | +2 (14)|
+|Wisdom | +3 (17)|
+|Charisma | +0 (10)|
 
 
 **saving throws**
 
 | | |
 |---|---|
-| | Strength Saving Throw | +3|
-| | Dexterity Saving Throw | +2|
-| | Constitution Saving Throw | +1|
-| | Intelligence Saving Throw | +1|
+| | Strength Saving Throw | +5|
+| | Dexterity Saving Throw | +1|
+| | Constitution Saving Throw | +2|
+| | Intelligence Saving Throw | +0|
 | •| Wisdom Saving Throw | +7|
-| •| Charisma Saving Throw | +7|
+| •| Charisma Saving Throw | +4|
 
 
 **skills**
@@ -56,23 +56,23 @@ toc-title: Table of Contents
 | Prof | Name | Mod | Base |
 |---|---|---|---|
 | | acrobatics| +0| dex|
-| | animal handling| +2| wis|
+| | animal handling| +3| wis|
 | | arcana| -1| int|
-| | athletics| +1| str|
-| | deception| +2| cha|
+| | athletics| +4| str|
+| | deception| +0| cha|
 | p| history| +2| int|
-| p| insight| +5| wis|
-| p| intimidation| +5| cha|
+| | insight| +3| wis|
+| p| intimidation| +3| cha|
 | | investigation| -1| int|
-| | medicine| +2| wis|
-| | nature| -1| int|
-| | perception| +2| wis|
-| | performance| +2| cha|
-| p| persuasion| +5| cha|
+| | medicine| +3| wis|
+| p| nature| +2| int|
+| | perception| +3| wis|
+| | performance| +0| cha|
+| p| persuasion| +3| cha|
 | p| religion| +2| int|
 | | sleightofhand| +0| dex|
-| p| stealth| +3| dex|
-| | survival| +2| wis|
+| | stealth| +0| dex|
+| | survival| +3| wis|
 
 
 # Actions
@@ -85,21 +85,21 @@ standard actions
 
 channel divinity • 1 / short rest
 
-`    your oath allows you to channel divine energy to fuel magical effects. when you use your channel divinity, you choose which option to use. you must then finish a short or long rest to use your channel divinity again. some channel divinity effects require saving throws (dc 13). `
+`    your oath allows you to channel divine energy to fuel magical effects. when you use your channel divinity, you choose which option to use. you must then finish a short or long rest to use your channel divinity again. some channel divinity effects require saving throws (dc 11). `
 
-divine sense • 3 / long rest as an action, you can detect good and evil.
+divine sense • 1 / long rest as an action, you can detect good and evil.
 until the end of your next turn, you can sense anything affected by the
 hallow spell or know the location of any celestial, fiend, undead within
-60 ft. that is not behind total cover. you can use this feature 3 times
+60 ft. that is not behind total cover. you can use this feature 1 times
 per long rest.
 
 lay on hands pool • 30 / long rest
 
 `    you have a pool of healing power that can restore 30 hp per long rest. as an action, you can touch a creature to restore any number of hp remaining in the pool, or 5 hp to either cure a disease or neutralize a poison affecting the creature. `
 
-### bonus actions {#bonus_actions}
+### reactions
 
-channel divinity: fury of the tides
+protection
 
 
 # Features/Traits
@@ -121,9 +121,9 @@ channel divinity: fury of the tides
 as an action, you can detect good and evil. until the end of your next
 turn, you can sense anything affected by the hallow spell or know the
 location of any celestial, fiend, undead within 60 ft. that is not
-behind total cover. you can use this feature 3 times per long rest.
+behind total cover. you can use this feature 1 times per long rest.
 
-`  | 3 / long rest • 1 action `
+`  | 1 / long rest • 1 action `
 
 -   lay on hands • phb 84
 
@@ -138,15 +138,18 @@ poison affecting the creature.
 
 you adopt a style of fighting as your specialty.
 
-`  | great weapon fighting • phb `
+`  | protection • phb `
 
-you can reroll a 1 or 2 on damage dice with melee weapons wielded with
-two hands.
+while wielding a shield and a creature you can see attacks a target
+other than you within 5 ft., you can use your reaction to impose
+disadvantage on the attack roll.
+
+`     | 1 reaction `
 
 -   spellcasting • phb 84
 
 you can cast prepared paladin spells using cha as your spellcasting
-modifier (spell dc 13, spell attack +5). you can use a holy symbol as a
+modifier (spell dc 11, spell attack +3). you can use a holy symbol as a
 spellcasting focus.
 
 -   divine smite • phb 85
@@ -164,34 +167,33 @@ you are immune to disease.
 
 -   sacred oath • phb 85
 
-`  | oath of the open sea `
+`  | oath of the ancients `
 
 `  | channel divinity: 1 / short rest • 1 action `
 
--   oath spells • cr
+-   channel divinity • phb 87
 
-you gain oath spells at the paladin levels listed in the oath of the
-open seas spells table. see the sacred oath class feature for how oath
-spells work.
+you gain two channel divinity options:
 
--   channel divinity • cr
+nature\'s wrath - as an action, you can cause spectral vines to spring
+up and reach for a creature within 10 ft. of you that you can see. the
+creature must succeed on a str or dex saving throw (its choice, dc 11)
+or be restrained. it can repeat the saving throw at the end of each of
+its turns, freeing itself (the vines disappear) on success.
 
-you gain 2 channel divinity options: {strong}{em}marine
-layer.{/em}{/strong} as an action you channel the sea, creating a thick
-cloud of fog that surrounds you and heavily obscures the area for 20 ft.
-in all directions, following as you move. you and all creatures within 5
-ft. of you instead treat this fog as lightly obscured. this fog lasts
-for 10 minutes, spreads around corners and cannot be dispersed.
-{strong}{em}fury of the tides.{/em}{/strong} as a bonus action, you
-channel the powerful might of the waves to bolster your attacks for 1
-minute. once per turn for the duration, when you hit a creature with
-weapon attack, you can choose to push the target 10 ft. away from you.
-if the target is pushed into an obstacle or another creature, they take
-an additional +2 bludgeoning damage.
+turn the faithless - as an action, you present your holy symbol, and
+each fey or fiend within 30 ft. of you that can hear you must make a wis
+saving throw (dc 11). on failure, the creature is turned for 1 minute or
+until it takes damage.
 
-`  | channel divinity: marine layer: 1 action `
+`  | channel divinity: nature's wrath: 1 action `
 
-`  | channel divinity: fury of the tides: 1 bonus action`
+`  | channel divinity: turn the faithless: 1 action `
+
+-   oath spells • phb 87
+
+you gain oath spells based on your level that are always prepared and
+don\'t count against your daily number of prepared spells.
 
 -   ability score improvement • phb 85
 
@@ -208,31 +210,18 @@ action on your turn.
 -   aura of protection • phb 85
 
 while you are conscious, you grant all friendly creatures (including
-you) within 10 ft. a +2 bonus to all saving throws.
+you) within 10 ft. a +1 bonus to all saving throws.
 
-### half-elf racial traits {#half_elf_racial_traits}
+### human racial traits {#human_racial_traits}
 
--   darkvision • br 39
+-   ability score increase • br 31
 
-you can see in darkness (shades of gray) up to 60 ft.
+```{=html}
+<!-- -->
+```
+-   languages • br 31
 
--   fey ancestry • br 39
-
-you have advantage on saving throws against being charmed, and magic
-can't put you to sleep.
-
--   skill versatility • br 39
-
-you gain proficiency in two skills of your choice.
-
-### feats
-
--   svirfneblin magic • ee
-
-you can cast nondetection on yourself at will, without needing a
-material component. you can also cast blindness/deafness, blur, and
-disguise self once each per long rest. int is your spellcasting ability
-and you cast these spells at their lowest possible level.
+you can speak, read, and write common and one extra language.
 
 
 # Proficiencies And Languages
@@ -251,14 +240,16 @@ dice set
 
 ### languages
 
-common, draconic, dwarvish, elvish, marquesian
+celestial, common, sylvan
 # Spells
 
 **=== 1st level ===**
 4 slots oooo
 
-- <a href="https://www.dndbeyond.com/spells/create-or-destroy-water">create or destroy water</a>
-- <a href="https://www.dndbeyond.com/spells/expeditious-retreat">expeditious retreat {c}</a>
+- <a href="https://www.dndbeyond.com/spells/shield-of-faith">shield of faith {c}</a>
+- <a href="https://www.dndbeyond.com/spells/thunderous-smite">thunderous smite {c}</a>
+- <a href="https://www.dndbeyond.com/spells/ensnaring-strike">ensnaring strike {c}</a>
+- <a href="https://www.dndbeyond.com/spells/speak-with-animals">speak with animals</a>
 - <a href="https://www.dndbeyond.com/spells/bless">bless {c}</a>
 - <a href="https://www.dndbeyond.com/spells/command">command</a>
 - <a href="https://www.dndbeyond.com/spells/cure-wounds">cure wounds</a>
@@ -269,54 +260,44 @@ common, draconic, dwarvish, elvish, marquesian
 - <a href="https://www.dndbeyond.com/spells/heroism">heroism {c}</a>
 - <a href="https://www.dndbeyond.com/spells/protection-from-evil-and-good">protection from evil and good {c}</a>
 - <a href="https://www.dndbeyond.com/spells/purify-food-and-drink">purify food and drink</a>
-- <a href="https://www.dndbeyond.com/spells/shield-of-faith">shield of faith {c}</a>
-- <a href="https://www.dndbeyond.com/spells/disguise-self">disguise self</a>
-
-
-**=== 3rd level ===**
-None
-
-- <a href="https://www.dndbeyond.com/spells/nondetection">nondetection</a>
+- <a href="https://www.dndbeyond.com/spells/compelled-duel">compelled duel {c}</a>
+- <a href="https://www.dndbeyond.com/spells/searing-smite">searing smite {c}</a>
+- <a href="https://www.dndbeyond.com/spells/wrathful-smite">wrathful smite {c}</a>
+- <a href="https://www.dndbeyond.com/spells/ceremony">ceremony</a>
+- <a href="https://www.dndbeyond.com/spells/feather-field">feather field</a>
 
 
 **=== 2nd level ===**
 2 slots oo
 
-- <a href="https://www.dndbeyond.com/spells/augury">augury</a>
+- <a href="https://www.dndbeyond.com/spells/zone-of-truth">zone of truth</a>
 - <a href="https://www.dndbeyond.com/spells/misty-step">misty step</a>
+- <a href="https://www.dndbeyond.com/spells/moonbeam">moonbeam {c}</a>
 - <a href="https://www.dndbeyond.com/spells/aid">aid</a>
 - <a href="https://www.dndbeyond.com/spells/find-steed">find steed</a>
 - <a href="https://www.dndbeyond.com/spells/lesser-restoration">lesser restoration</a>
 - <a href="https://www.dndbeyond.com/spells/locate-object">locate object {c}</a>
 - <a href="https://www.dndbeyond.com/spells/magic-weapon">magic weapon {c}</a>
 - <a href="https://www.dndbeyond.com/spells/protection-from-poison">protection from poison</a>
-- <a href="https://www.dndbeyond.com/spells/zone-of-truth">zone of truth</a>
 - <a href="https://www.dndbeyond.com/spells/branding-smite">branding smite {c}</a>
-- <a href="https://www.dndbeyond.com/spells/blindness-deafness">blindness/deafness</a>
-- <a href="https://www.dndbeyond.com/spells/blur">blur {c}</a>
 
 
 # Equipment
 
-- shield (x1)
+- shield, +2 (x1)
 - chain mail (x1)
-- scimitar (x1)
-- handaxe (x1)
-- potion of water breathing (x3)
-- ring of swimming (x1)
-- ring of water walking (x1)
-- potion of healing (greater) (x3)
+- longsword, +2 (x1)
+- longsword (x1)
+- light hammer (x1)
 - backpack (x1)
-- blanket (x1)
-- candle (x10)
-- rations (1 day) (x2)
+- bedroll (x1)
 - clothes, fine (x1)
+- mess kit (x1)
+- rations (1 day) (x10)
+- rope, hempen (50 feet) (x1)
 - signet ring (x1)
 - tinderbox (x1)
-- alms box (x1)
-- block of incense (x2)
-- censer (x1)
-- vestments (x1)
+- torch (x10)
 - waterskin (x1)
 - holy symbol (x1)
 
@@ -325,26 +306,27 @@ None
 
 **Appearance**
 
-Skin: 
+Skin: healthy white
 Hair: 
 Eyes: 
 
 
 **Personlaity**
 
-
+no one could doubt by looking at my regal bearing that i am a cut above the unwashed masses. 
+my favor, once lost, is lost forever.
 
 **Ideals**
 
-
+noble obligation. it is my duty to protect and care for the people beneath me. (good)
 
 **Bonds**
 
-
+the common folk must see me as a hero of the people.
 
 **Flaws**
 
-
+by my words and actions, i often bring shame to my family.
 
 # Background
 

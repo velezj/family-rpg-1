@@ -215,13 +215,6 @@ crossbow, light, dagger, dart, quarterstaff, sling
 common, goblin, halfling
 # Spells
 
-**=== 1st level ===**
-4 slots oooo
-
-- <a href="https://www.dndbeyond.com/spells/chaos-bolt">chaos bolt</a>
-- <a href="https://www.dndbeyond.com/spells/disguise-self">disguise self</a>
-
-
 **=== cantrips ===**
 (at will)
 
@@ -229,6 +222,13 @@ common, goblin, halfling
 - <a href="https://www.dndbeyond.com/spells/infestation">infestation</a>
 - <a href="https://www.dndbeyond.com/spells/sword-burst">sword burst</a>
 - <a href="https://www.dndbeyond.com/spells/shape-water">shape water</a>
+
+
+**=== 1st level ===**
+4 slots oooo
+
+- <a href="https://www.dndbeyond.com/spells/chaos-bolt">chaos bolt</a>
+- <a href="https://www.dndbeyond.com/spells/disguise-self">disguise self</a>
 
 
 # Equipment
