@@ -2,11 +2,21 @@ import logging
 import json
 import re
 import collections
+import subprocess
+import tempfile
+import sys
 
 
 #####
 ##### Expecting a pdf decoded and unwrapped by qpdf
 ##### `qpdf --qdf --decode-level=all X.pdf X_qpdf.pdf
+def _process_pdf_through_qpdf( filename, outputfilename ):
+    subprocess.run( [ "qpdf",
+                      "--qdf",
+                      "--decode-level=all",
+                      filename,
+                      outputfilename ],
+                    check=True )
 
 
 class Chunk( object ):
@@ -109,6 +119,7 @@ def _norm_fieldname( name ):
     #name = name.replace( ">", "&gt;" )
     name = name.replace( "<", "{" )
     name = name.replace( ">", "}" )
+    name = name.replace( "\\n", "\n" )
     name = name.replace( "\\", "" )
     return name.lower()
 
@@ -153,6 +164,23 @@ def _dndbeyond_url_for_spell( name ):
 
 
 ##
+# Given mediawiki markdown, return the markdown version
+def _mediawiki_to_markdown( text ):
+    with tempfile.NamedTemporaryFile() as f:
+        if isinstance( text, str ):
+            text = text.encode( 'utf8' )
+        f.write( text )
+        f.flush()
+        res = subprocess.run( [ "pandoc",
+                                "-f", "mediawiki",
+                                "-t", "markdown",
+                                "-s", f.name ],
+                              check=True,
+                              capture_output=True)
+        return res.stdout.decode( 'utf8' )
+
+
+##
 # Given a set of potential fields,
 # output out a "nice" markdown formatted character sheet
 def _print_markdown_sheet( out, field_list ):
@@ -161,7 +189,7 @@ def _print_markdown_sheet( out, field_list ):
     fields = _field_list_to_map( field_list )
 
     # character basic info
-    out.write( "# Character Basic Info\n" )
+    out.write( "# Character Basic Info\n\n" )
     out.write( "| | |\n|---|---|\n" )
     out.write( "|Name | {}|\n".format(
         fields.get("charactername","") ))
@@ -256,6 +284,42 @@ def _print_markdown_sheet( out, field_list ):
             fields.get( key + "mod", "" ) ) )
     out.write( "\n\n" )
 
+    out.write( "# Actions\n\n" )
+    action_numbers = []
+    for k in fields.keys():
+        if k.startswith("actions"):
+            action_numbers.append( k[ len("actions") : ] )
+    alltext = ""
+    for num in action_numbers:
+        key = "actions" + num
+        val = fields.get( key )
+        if val.startswith( "===" ):
+            val = "\n" + val
+        alltext += val + "\n"
+    alltext = _mediawiki_to_markdown( alltext )
+    out.write( alltext )
+    out.write( "\n\n" )
+
+    out.write( "# Features/Traits\n\n" )
+    feature_numbers = []
+    for k in fields.keys():
+        if k.startswith( "featurestraits" ):
+            feature_numbers.append( k[ len("featurestraits") : ] )
+    alltext = ""
+    for num in feature_numbers:
+        key = "featurestraits" + num
+        val = fields.get( key )
+        if val.startswith( "===" ):
+            val = "\n" + val
+        alltext += val + "\n"
+    alltext = _mediawiki_to_markdown( alltext )
+    out.write( alltext )
+    out.write( "\n\n" )
+
+    out.write( "# Proficiencies And Languages\n\n")
+    out.write( _mediawiki_to_markdown(
+        fields.get( "proficiencieslang", "") + "\n\n" ) )
+
 
     # spells
     spell_numbers = []
@@ -294,3 +358,56 @@ def _print_markdown_sheet( out, field_list ):
         out.write( "- {} (x{})\n".format(
             fields.get( "eq name" + num, "" ),
             fields.get( "eq qty" + num, "" )))
+    out.write( "\n\n" )
+
+    # Characteristics
+    out.write( "# Characteristics\n\n" )
+    out.write( "**Appearance**\n\n" )
+    out.write( "Skin: {}\n".format(
+        fields.get( "skin", "" ) ) )
+    out.write( "Hair: {}\n".format(
+        fields.get( "Hair", "" ) ) )
+    out.write( "Eyes: {}\n".format(
+        fields.get( "Eyes", "" ) ) )
+    out.write( fields.get( "appearance", "" ) + "\n\n" )
+    out.write( "**Personlaity**\n\n" )
+    out.write( fields.get( "personalitytraits", "" ) + "\n\n" )
+    out.write( "**Ideals**\n\n" )
+    out.write( fields.get( "ideals", "" ) + "\n\n" )
+    out.write( "**Bonds**\n\n" )
+    out.write( fields.get( "bonds", "" ) + "\n\n" )
+    out.write( "**Flaws**\n\n" )
+    out.write( fields.get( "flaws","" ) + "\n\n" )
+
+    # background
+    out.write( "# Background\n\n" )
+    out.write( fields.get( "backstory", "" ) + "\n\n" )
+
+    # notes
+    out.write( "# Notes\n\n" )
+    note_numbers = []
+    for k in fields.keys():
+        if k.startswith( "additionalnotes" ):
+            note_numbers.append( k[ len("additionalnotes") : ] )
+    for num in note_numbers:
+        key = "additionalnotes" + num
+        out.write( fields.get( key, "" ) + "\n" )
+    out.write( "\n\n" )
+
+
+
+## ===============================================================
+
+if __name__ == "__main__":
+
+    inputfilename = sys.argv[1]
+    outputfilename = sys.argv[2]
+    with tempfile.NamedTemporaryFile() as f:
+        _process_pdf_through_qpdf( inputfilename,
+                                   f.name )
+        f.flush()
+        data = f.read()
+        chunks = _parse_pdf_chunks( data )
+        potential_fields = _compute_potential_fields( chunks )
+        with open( outputfilename, 'w' ) as outf:
+            _print_markdown_sheet( outf, potential_fields )
