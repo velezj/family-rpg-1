@@ -273,12 +273,6 @@ common, draconic, dwarvish, elvish, marquesian
 - <a href="https://www.dndbeyond.com/spells/disguise-self">disguise self</a>
 
 
-**=== 3rd level ===**
-None
-
-- <a href="https://www.dndbeyond.com/spells/nondetection">nondetection</a>
-
-
 **=== 2nd level ===**
 2 slots oo
 
@@ -294,6 +288,12 @@ None
 - <a href="https://www.dndbeyond.com/spells/branding-smite">branding smite {c}</a>
 - <a href="https://www.dndbeyond.com/spells/blindness-deafness">blindness/deafness</a>
 - <a href="https://www.dndbeyond.com/spells/blur">blur {c}</a>
+
+
+**=== 3rd level ===**
+None
+
+- <a href="https://www.dndbeyond.com/spells/nondetection">nondetection</a>
 
 
 # Equipment

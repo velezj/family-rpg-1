@@ -285,6 +285,30 @@ common, gnomish
 - <a href="https://www.dndbeyond.com/spells/disguise-self">disguise self</a>
 
 
+**=== 2nd level ===**
+3 slots ooo
+
+- <a href="https://www.dndbeyond.com/spells/aid">aid</a>
+- <a href="https://www.dndbeyond.com/spells/blindness-deafness">blindness/deafness</a>
+- <a href="https://www.dndbeyond.com/spells/ray-of-enfeeblement">ray of enfeeblement {c}</a>
+- <a href="https://www.dndbeyond.com/spells/augury">augury [r]</a>
+- <a href="https://www.dndbeyond.com/spells/calm-emotions">calm emotions {c}</a>
+- <a href="https://www.dndbeyond.com/spells/continual-flame">continual flame</a>
+- <a href="https://www.dndbeyond.com/spells/enhance-ability">enhance ability {c}</a>
+- <a href="https://www.dndbeyond.com/spells/find-traps">find traps</a>
+- <a href="https://www.dndbeyond.com/spells/gentle-repose">gentle repose [r]</a>
+- <a href="https://www.dndbeyond.com/spells/hold-person">hold person {c}</a>
+- <a href="https://www.dndbeyond.com/spells/lesser-restoration">lesser restoration</a>
+- <a href="https://www.dndbeyond.com/spells/locate-object">locate object {c}</a>
+- <a href="https://www.dndbeyond.com/spells/prayer-of-healing">prayer of healing</a>
+- <a href="https://www.dndbeyond.com/spells/protection-from-poison">protection from poison</a>
+- <a href="https://www.dndbeyond.com/spells/silence">silence [r]{c}</a>
+- <a href="https://www.dndbeyond.com/spells/spiritual-weapon">spiritual weapon</a>
+- <a href="https://www.dndbeyond.com/spells/warding-bond">warding bond</a>
+- <a href="https://www.dndbeyond.com/spells/zone-of-truth">zone of truth</a>
+- <a href="https://www.dndbeyond.com/spells/invisibility">invisibility {c}</a>
+
+
 **=== 3rd level ===**
 3 slots ooo
 
@@ -314,30 +338,6 @@ common, gnomish
 - <a href="https://www.dndbeyond.com/spells/incite-greed">incite greed {c}</a>
 - <a href="https://www.dndbeyond.com/spells/motivational-speech">motivational speech</a>
 - <a href="https://www.dndbeyond.com/spells/spirit-shroud">spirit shroud {c}</a>
-
-
-**=== 2nd level ===**
-3 slots ooo
-
-- <a href="https://www.dndbeyond.com/spells/aid">aid</a>
-- <a href="https://www.dndbeyond.com/spells/blindness-deafness">blindness/deafness</a>
-- <a href="https://www.dndbeyond.com/spells/ray-of-enfeeblement">ray of enfeeblement {c}</a>
-- <a href="https://www.dndbeyond.com/spells/augury">augury [r]</a>
-- <a href="https://www.dndbeyond.com/spells/calm-emotions">calm emotions {c}</a>
-- <a href="https://www.dndbeyond.com/spells/continual-flame">continual flame</a>
-- <a href="https://www.dndbeyond.com/spells/enhance-ability">enhance ability {c}</a>
-- <a href="https://www.dndbeyond.com/spells/find-traps">find traps</a>
-- <a href="https://www.dndbeyond.com/spells/gentle-repose">gentle repose [r]</a>
-- <a href="https://www.dndbeyond.com/spells/hold-person">hold person {c}</a>
-- <a href="https://www.dndbeyond.com/spells/lesser-restoration">lesser restoration</a>
-- <a href="https://www.dndbeyond.com/spells/locate-object">locate object {c}</a>
-- <a href="https://www.dndbeyond.com/spells/prayer-of-healing">prayer of healing</a>
-- <a href="https://www.dndbeyond.com/spells/protection-from-poison">protection from poison</a>
-- <a href="https://www.dndbeyond.com/spells/silence">silence [r]{c}</a>
-- <a href="https://www.dndbeyond.com/spells/spiritual-weapon">spiritual weapon</a>
-- <a href="https://www.dndbeyond.com/spells/warding-bond">warding bond</a>
-- <a href="https://www.dndbeyond.com/spells/zone-of-truth">zone of truth</a>
-- <a href="https://www.dndbeyond.com/spells/invisibility">invisibility {c}</a>
 
 
 # Equipment

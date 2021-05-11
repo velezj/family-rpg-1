@@ -314,19 +314,19 @@ common, elvish, giant, goblin, halfling, undercommon
 - <a href="https://www.dndbeyond.com/spells/protection-from-evil-and-good">protection from evil and good {c}</a>
 
 
+**=== 2nd level ===**
+3 slots ooo
+
+- <a href="https://www.dndbeyond.com/spells/summon-beast">summon beast {c}</a>
+- <a href="https://www.dndbeyond.com/spells/zone-of-truth">zone of truth</a>
+
+
 **=== 3rd level ===**
 2 slots oo
 
 - <a href="https://www.dndbeyond.com/spells/conjure-barrage">conjure barrage</a>
 - <a href="https://www.dndbeyond.com/spells/speak-with-plants">speak with plants</a>
 - <a href="https://www.dndbeyond.com/spells/magic-circle">magic circle</a>
-
-
-**=== 2nd level ===**
-3 slots ooo
-
-- <a href="https://www.dndbeyond.com/spells/summon-beast">summon beast {c}</a>
-- <a href="https://www.dndbeyond.com/spells/zone-of-truth">zone of truth</a>
 
 
 # Equipment

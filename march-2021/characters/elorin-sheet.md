@@ -296,17 +296,12 @@ celestial, common, giant, infernal, sylvan, undercommon
 - <a href="https://www.dndbeyond.com/spells/blade-ward">blade ward</a>
 
 
-**=== 5th level ===**
-2 pact oo
-
-- <a href="https://www.dndbeyond.com/spells/enervation">enervation {c}</a>
-
-
-**=== 4th level ===**
+**=== 1st level ===**
 None
 
-- <a href="https://www.dndbeyond.com/spells/dimension-door">dimension door</a>
-- <a href="https://www.dndbeyond.com/spells/shadow-of-moil">shadow of moil {c}</a>
+- <a href="https://www.dndbeyond.com/spells/hex">hex {c}</a>
+- <a href="https://www.dndbeyond.com/spells/witch-bolt">witch bolt {c}</a>
+- <a href="https://www.dndbeyond.com/spells/mage-armor">mage armor</a>
 
 
 **=== 2nd level ===**
@@ -317,20 +312,25 @@ None
 - <a href="https://www.dndbeyond.com/spells/levitate">levitate {c}</a>
 
 
-**=== 1st level ===**
-None
-
-- <a href="https://www.dndbeyond.com/spells/hex">hex {c}</a>
-- <a href="https://www.dndbeyond.com/spells/witch-bolt">witch bolt {c}</a>
-- <a href="https://www.dndbeyond.com/spells/mage-armor">mage armor</a>
-
-
 **=== 3rd level ===**
 None
 
 - <a href="https://www.dndbeyond.com/spells/counterspell">counterspell</a>
 - <a href="https://www.dndbeyond.com/spells/gaseous-form">gaseous form {c}</a>
 - <a href="https://www.dndbeyond.com/spells/thunder-step">thunder step</a>
+
+
+**=== 4th level ===**
+None
+
+- <a href="https://www.dndbeyond.com/spells/dimension-door">dimension door</a>
+- <a href="https://www.dndbeyond.com/spells/shadow-of-moil">shadow of moil {c}</a>
+
+
+**=== 5th level ===**
+2 pact oo
+
+- <a href="https://www.dndbeyond.com/spells/enervation">enervation {c}</a>
 
 
 # Equipment

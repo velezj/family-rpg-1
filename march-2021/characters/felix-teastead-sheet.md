@@ -273,18 +273,6 @@ common, elvish
 - <a href="https://www.dndbeyond.com/spells/dancing-lights">dancing lights {c}</a>
 
 
-**=== 4th level ===**
-3 slots ooo
-
-- <a href="https://www.dndbeyond.com/spells/arcane-eye">arcane eye {c}</a>
-
-
-**=== 2nd level ===**
-3 slots ooo
-
-- <a href="https://www.dndbeyond.com/spells/enlarge-reduce">enlarge/reduce {c}</a>
-
-
 **=== 1st level ===**
 4 slots oooo
 
@@ -294,11 +282,23 @@ common, elvish
 - <a href="https://www.dndbeyond.com/spells/thunderwave">thunderwave</a>
 
 
+**=== 2nd level ===**
+3 slots ooo
+
+- <a href="https://www.dndbeyond.com/spells/enlarge-reduce">enlarge/reduce {c}</a>
+
+
 **=== 3rd level ===**
 3 slots ooo
 
 - <a href="https://www.dndbeyond.com/spells/fly">fly {c}</a>
 - <a href="https://www.dndbeyond.com/spells/tongues">tongues</a>
+
+
+**=== 4th level ===**
+3 slots ooo
+
+- <a href="https://www.dndbeyond.com/spells/arcane-eye">arcane eye {c}</a>
 
 
 # Equipment

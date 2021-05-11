@@ -256,19 +256,6 @@ abyssal, common, dwarvish, infernal, undercommon
 - <a href="https://www.dndbeyond.com/spells/find-familiar">find familiar [r]</a>
 
 
-**=== 3rd level ===**
-3 slots ooo
-
-- <a href="https://www.dndbeyond.com/spells/animate-dead">animate dead</a>
-- <a href="https://www.dndbeyond.com/spells/bestow-curse">bestow curse {c}</a>
-- <a href="https://www.dndbeyond.com/spells/fear">fear {c}</a>
-- <a href="https://www.dndbeyond.com/spells/feign-death">feign death [r]</a>
-- <a href="https://www.dndbeyond.com/spells/fireball">fireball</a>
-- <a href="https://www.dndbeyond.com/spells/slow">slow {c}</a>
-- <a href="https://www.dndbeyond.com/spells/summon-undead">summon undead {c}</a>
-- <a href="https://www.dndbeyond.com/spells/vampiric-touch">vampiric touch {c}</a>
-
-
 **=== 2nd level ===**
 3 slots ooo
 
@@ -281,6 +268,19 @@ abyssal, common, dwarvish, infernal, undercommon
 - <a href="https://www.dndbeyond.com/spells/suggestion">suggestion {c}</a>
 - <a href="https://www.dndbeyond.com/spells/enlarge-reduce">enlarge/reduce {c}</a>
 - <a href="https://www.dndbeyond.com/spells/invisibility">invisibility {c}</a>
+
+
+**=== 3rd level ===**
+3 slots ooo
+
+- <a href="https://www.dndbeyond.com/spells/animate-dead">animate dead</a>
+- <a href="https://www.dndbeyond.com/spells/bestow-curse">bestow curse {c}</a>
+- <a href="https://www.dndbeyond.com/spells/fear">fear {c}</a>
+- <a href="https://www.dndbeyond.com/spells/feign-death">feign death [r]</a>
+- <a href="https://www.dndbeyond.com/spells/fireball">fireball</a>
+- <a href="https://www.dndbeyond.com/spells/slow">slow {c}</a>
+- <a href="https://www.dndbeyond.com/spells/summon-undead">summon undead {c}</a>
+- <a href="https://www.dndbeyond.com/spells/vampiric-touch">vampiric touch {c}</a>
 
 
 # Equipment

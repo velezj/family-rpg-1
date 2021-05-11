@@ -340,7 +340,7 @@ def _print_markdown_sheet( out, field_list ):
             spell_numbers.append( k[len("spellname"):] )
             spell_headers_for.append( current_header )
     out.write( "# Spells\n\n" )
-    for spell_h in set(spell_headers_for):
+    for spell_h in sorted(set(spell_headers_for)):
         out.write( "**{}**\n".format(
             fields.get( "spellheader" + spell_h )))
         out.write( "{}\n\n".format(

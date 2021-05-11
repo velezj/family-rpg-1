@@ -235,16 +235,6 @@ common, elvish, undercommon
 - <a href="https://www.dndbeyond.com/spells/shield">shield</a>
 
 
-**=== 3rd level ===**
-2 slots oo
-
-- <a href="https://www.dndbeyond.com/spells/enemies-abound">enemies abound {c}</a>
-- <a href="https://www.dndbeyond.com/spells/fast-friends">fast friends {c}</a>
-- <a href="https://www.dndbeyond.com/spells/lightning-bolt">lightning bolt</a>
-- <a href="https://www.dndbeyond.com/spells/slow">slow {c}</a>
-- <a href="https://www.dndbeyond.com/spells/tidal-wave">tidal wave</a>
-
-
 **=== 2nd level ===**
 3 slots ooo
 
@@ -254,6 +244,16 @@ common, elvish, undercommon
 - <a href="https://www.dndbeyond.com/spells/mind-spike">mind spike {c}</a>
 - <a href="https://www.dndbeyond.com/spells/scorching-ray">scorching ray</a>
 - <a href="https://www.dndbeyond.com/spells/tasha's-mind-whip">tasha's mind whip</a>
+
+
+**=== 3rd level ===**
+2 slots oo
+
+- <a href="https://www.dndbeyond.com/spells/enemies-abound">enemies abound {c}</a>
+- <a href="https://www.dndbeyond.com/spells/fast-friends">fast friends {c}</a>
+- <a href="https://www.dndbeyond.com/spells/lightning-bolt">lightning bolt</a>
+- <a href="https://www.dndbeyond.com/spells/slow">slow {c}</a>
+- <a href="https://www.dndbeyond.com/spells/tidal-wave">tidal wave</a>
 
 
 # Equipment

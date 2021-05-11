@@ -262,6 +262,102 @@ common, infernal
 - <a href="https://www.dndbeyond.com/spells/thaumaturgy">thaumaturgy</a>
 
 
+**=== 1st level ===**
+4 slots oooo
+
+- <a href="https://www.dndbeyond.com/spells/identify">identify [r]</a>
+- <a href="https://www.dndbeyond.com/spells/searing-smite">searing smite {c}</a>
+- <a href="https://www.dndbeyond.com/spells/bane">bane {c}</a>
+- <a href="https://www.dndbeyond.com/spells/bless">bless {c}</a>
+- <a href="https://www.dndbeyond.com/spells/command">command</a>
+- <a href="https://www.dndbeyond.com/spells/create-or-destroy-water">create or destroy water</a>
+- <a href="https://www.dndbeyond.com/spells/cure-wounds">cure wounds</a>
+- <a href="https://www.dndbeyond.com/spells/detect-evil-and-good">detect evil and good {c}</a>
+- <a href="https://www.dndbeyond.com/spells/detect-magic">detect magic [r]{c}</a>
+- <a href="https://www.dndbeyond.com/spells/detect-poison-and-disease">detect poison and disease [r]{c}</a>
+- <a href="https://www.dndbeyond.com/spells/guiding-bolt">guiding bolt</a>
+- <a href="https://www.dndbeyond.com/spells/healing-word">healing word</a>
+- <a href="https://www.dndbeyond.com/spells/inflict-wounds">inflict wounds</a>
+- <a href="https://www.dndbeyond.com/spells/protection-from-evil-and-good">protection from evil and good {c}</a>
+- <a href="https://www.dndbeyond.com/spells/purify-food-and-drink">purify food and drink [r]</a>
+- <a href="https://www.dndbeyond.com/spells/sanctuary">sanctuary</a>
+- <a href="https://www.dndbeyond.com/spells/shield-of-faith">shield of faith {c}</a>
+- <a href="https://www.dndbeyond.com/spells/ceremony">ceremony [r]</a>
+- <a href="https://www.dndbeyond.com/spells/avoid-grievious-injury">avoid grievious injury [r]</a>
+
+
+**=== 2nd level ===**
+3 slots ooo
+
+- <a href="https://www.dndbeyond.com/spells/heat-metal">heat metal {c}</a>
+- <a href="https://www.dndbeyond.com/spells/magic-weapon">magic weapon {c}</a>
+- <a href="https://www.dndbeyond.com/spells/aid">aid</a>
+- <a href="https://www.dndbeyond.com/spells/augury">augury [r]</a>
+- <a href="https://www.dndbeyond.com/spells/blindness-deafness">blindness/deafness</a>
+- <a href="https://www.dndbeyond.com/spells/calm-emotions">calm emotions {c}</a>
+- <a href="https://www.dndbeyond.com/spells/continual-flame">continual flame</a>
+- <a href="https://www.dndbeyond.com/spells/enhance-ability">enhance ability {c}</a>
+- <a href="https://www.dndbeyond.com/spells/find-traps">find traps</a>
+- <a href="https://www.dndbeyond.com/spells/gentle-repose">gentle repose [r]</a>
+- <a href="https://www.dndbeyond.com/spells/hold-person">hold person {c}</a>
+- <a href="https://www.dndbeyond.com/spells/lesser-restoration">lesser restoration</a>
+- <a href="https://www.dndbeyond.com/spells/locate-object">locate object {c}</a>
+- <a href="https://www.dndbeyond.com/spells/prayer-of-healing">prayer of healing</a>
+- <a href="https://www.dndbeyond.com/spells/protection-from-poison">protection from poison</a>
+- <a href="https://www.dndbeyond.com/spells/silence">silence [r]{c}</a>
+- <a href="https://www.dndbeyond.com/spells/spiritual-weapon">spiritual weapon</a>
+- <a href="https://www.dndbeyond.com/spells/warding-bond">warding bond</a>
+- <a href="https://www.dndbeyond.com/spells/zone-of-truth">zone of truth</a>
+- <a href="https://www.dndbeyond.com/spells/hellish-rebuke">hellish rebuke</a>
+- <a href="https://www.dndbeyond.com/spells/darkness">darkness {c}</a>
+
+
+**=== 3rd level ===**
+3 slots ooo
+
+- <a href="https://www.dndbeyond.com/spells/protection-from-energy">protection from energy {c}</a>
+- <a href="https://www.dndbeyond.com/spells/elemental-weapon">elemental weapon {c}</a>
+- <a href="https://www.dndbeyond.com/spells/animate-dead">animate dead</a>
+- <a href="https://www.dndbeyond.com/spells/beacon-of-hope">beacon of hope {c}</a>
+- <a href="https://www.dndbeyond.com/spells/bestow-curse">bestow curse {c}</a>
+- <a href="https://www.dndbeyond.com/spells/clairvoyance">clairvoyance {c}</a>
+- <a href="https://www.dndbeyond.com/spells/create-food-and-water">create food and water</a>
+- <a href="https://www.dndbeyond.com/spells/daylight">daylight</a>
+- <a href="https://www.dndbeyond.com/spells/dispel-magic">dispel magic</a>
+- <a href="https://www.dndbeyond.com/spells/glyph-of-warding">glyph of warding</a>
+- <a href="https://www.dndbeyond.com/spells/magic-circle">magic circle</a>
+- <a href="https://www.dndbeyond.com/spells/mass-healing-word">mass healing word</a>
+- <a href="https://www.dndbeyond.com/spells/meld-into-stone">meld into stone [r]</a>
+- <a href="https://www.dndbeyond.com/spells/remove-curse">remove curse</a>
+- <a href="https://www.dndbeyond.com/spells/revivify">revivify</a>
+- <a href="https://www.dndbeyond.com/spells/sending">sending</a>
+- <a href="https://www.dndbeyond.com/spells/speak-with-dead">speak with dead</a>
+- <a href="https://www.dndbeyond.com/spells/spirit-guardians">spirit guardians {c}</a>
+- <a href="https://www.dndbeyond.com/spells/tongues">tongues</a>
+- <a href="https://www.dndbeyond.com/spells/water-walk">water walk [r]</a>
+- <a href="https://www.dndbeyond.com/spells/feign-death">feign death [r]</a>
+- <a href="https://www.dndbeyond.com/spells/life-transference">life transference</a>
+- <a href="https://www.dndbeyond.com/spells/fast-friends">fast friends {c}</a>
+- <a href="https://www.dndbeyond.com/spells/incite-greed">incite greed {c}</a>
+- <a href="https://www.dndbeyond.com/spells/motivational-speech">motivational speech</a>
+- <a href="https://www.dndbeyond.com/spells/spirit-shroud">spirit shroud {c}</a>
+
+
+**=== 4th level ===**
+3 slots ooo
+
+- <a href="https://www.dndbeyond.com/spells/fabricate">fabricate</a>
+- <a href="https://www.dndbeyond.com/spells/wall-of-fire">wall of fire {c}</a>
+- <a href="https://www.dndbeyond.com/spells/banishment">banishment {c}</a>
+- <a href="https://www.dndbeyond.com/spells/control-water">control water {c}</a>
+- <a href="https://www.dndbeyond.com/spells/death-ward">death ward</a>
+- <a href="https://www.dndbeyond.com/spells/divination">divination [r]</a>
+- <a href="https://www.dndbeyond.com/spells/freedom-of-movement">freedom of movement</a>
+- <a href="https://www.dndbeyond.com/spells/guardian-of-faith">guardian of faith</a>
+- <a href="https://www.dndbeyond.com/spells/locate-creature">locate creature {c}</a>
+- <a href="https://www.dndbeyond.com/spells/stone-shape">stone shape</a>
+
+
 **=== 5th level ===**
 2 slots oo
 
@@ -300,21 +396,6 @@ common, infernal
 - <a href="https://www.dndbeyond.com/spells/word-of-recall">word of recall</a>
 
 
-**=== 4th level ===**
-3 slots ooo
-
-- <a href="https://www.dndbeyond.com/spells/fabricate">fabricate</a>
-- <a href="https://www.dndbeyond.com/spells/wall-of-fire">wall of fire {c}</a>
-- <a href="https://www.dndbeyond.com/spells/banishment">banishment {c}</a>
-- <a href="https://www.dndbeyond.com/spells/control-water">control water {c}</a>
-- <a href="https://www.dndbeyond.com/spells/death-ward">death ward</a>
-- <a href="https://www.dndbeyond.com/spells/divination">divination [r]</a>
-- <a href="https://www.dndbeyond.com/spells/freedom-of-movement">freedom of movement</a>
-- <a href="https://www.dndbeyond.com/spells/guardian-of-faith">guardian of faith</a>
-- <a href="https://www.dndbeyond.com/spells/locate-creature">locate creature {c}</a>
-- <a href="https://www.dndbeyond.com/spells/stone-shape">stone shape</a>
-
-
 **=== 7th level ===**
 1 slots o
 
@@ -327,87 +408,6 @@ common, infernal
 - <a href="https://www.dndbeyond.com/spells/resurrection">resurrection</a>
 - <a href="https://www.dndbeyond.com/spells/symbol">symbol</a>
 - <a href="https://www.dndbeyond.com/spells/temple-of-the-gods">temple of the gods</a>
-
-
-**=== 2nd level ===**
-3 slots ooo
-
-- <a href="https://www.dndbeyond.com/spells/heat-metal">heat metal {c}</a>
-- <a href="https://www.dndbeyond.com/spells/magic-weapon">magic weapon {c}</a>
-- <a href="https://www.dndbeyond.com/spells/aid">aid</a>
-- <a href="https://www.dndbeyond.com/spells/augury">augury [r]</a>
-- <a href="https://www.dndbeyond.com/spells/blindness-deafness">blindness/deafness</a>
-- <a href="https://www.dndbeyond.com/spells/calm-emotions">calm emotions {c}</a>
-- <a href="https://www.dndbeyond.com/spells/continual-flame">continual flame</a>
-- <a href="https://www.dndbeyond.com/spells/enhance-ability">enhance ability {c}</a>
-- <a href="https://www.dndbeyond.com/spells/find-traps">find traps</a>
-- <a href="https://www.dndbeyond.com/spells/gentle-repose">gentle repose [r]</a>
-- <a href="https://www.dndbeyond.com/spells/hold-person">hold person {c}</a>
-- <a href="https://www.dndbeyond.com/spells/lesser-restoration">lesser restoration</a>
-- <a href="https://www.dndbeyond.com/spells/locate-object">locate object {c}</a>
-- <a href="https://www.dndbeyond.com/spells/prayer-of-healing">prayer of healing</a>
-- <a href="https://www.dndbeyond.com/spells/protection-from-poison">protection from poison</a>
-- <a href="https://www.dndbeyond.com/spells/silence">silence [r]{c}</a>
-- <a href="https://www.dndbeyond.com/spells/spiritual-weapon">spiritual weapon</a>
-- <a href="https://www.dndbeyond.com/spells/warding-bond">warding bond</a>
-- <a href="https://www.dndbeyond.com/spells/zone-of-truth">zone of truth</a>
-- <a href="https://www.dndbeyond.com/spells/hellish-rebuke">hellish rebuke</a>
-- <a href="https://www.dndbeyond.com/spells/darkness">darkness {c}</a>
-
-
-**=== 1st level ===**
-4 slots oooo
-
-- <a href="https://www.dndbeyond.com/spells/identify">identify [r]</a>
-- <a href="https://www.dndbeyond.com/spells/searing-smite">searing smite {c}</a>
-- <a href="https://www.dndbeyond.com/spells/bane">bane {c}</a>
-- <a href="https://www.dndbeyond.com/spells/bless">bless {c}</a>
-- <a href="https://www.dndbeyond.com/spells/command">command</a>
-- <a href="https://www.dndbeyond.com/spells/create-or-destroy-water">create or destroy water</a>
-- <a href="https://www.dndbeyond.com/spells/cure-wounds">cure wounds</a>
-- <a href="https://www.dndbeyond.com/spells/detect-evil-and-good">detect evil and good {c}</a>
-- <a href="https://www.dndbeyond.com/spells/detect-magic">detect magic [r]{c}</a>
-- <a href="https://www.dndbeyond.com/spells/detect-poison-and-disease">detect poison and disease [r]{c}</a>
-- <a href="https://www.dndbeyond.com/spells/guiding-bolt">guiding bolt</a>
-- <a href="https://www.dndbeyond.com/spells/healing-word">healing word</a>
-- <a href="https://www.dndbeyond.com/spells/inflict-wounds">inflict wounds</a>
-- <a href="https://www.dndbeyond.com/spells/protection-from-evil-and-good">protection from evil and good {c}</a>
-- <a href="https://www.dndbeyond.com/spells/purify-food-and-drink">purify food and drink [r]</a>
-- <a href="https://www.dndbeyond.com/spells/sanctuary">sanctuary</a>
-- <a href="https://www.dndbeyond.com/spells/shield-of-faith">shield of faith {c}</a>
-- <a href="https://www.dndbeyond.com/spells/ceremony">ceremony [r]</a>
-- <a href="https://www.dndbeyond.com/spells/avoid-grievious-injury">avoid grievious injury [r]</a>
-
-
-**=== 3rd level ===**
-3 slots ooo
-
-- <a href="https://www.dndbeyond.com/spells/protection-from-energy">protection from energy {c}</a>
-- <a href="https://www.dndbeyond.com/spells/elemental-weapon">elemental weapon {c}</a>
-- <a href="https://www.dndbeyond.com/spells/animate-dead">animate dead</a>
-- <a href="https://www.dndbeyond.com/spells/beacon-of-hope">beacon of hope {c}</a>
-- <a href="https://www.dndbeyond.com/spells/bestow-curse">bestow curse {c}</a>
-- <a href="https://www.dndbeyond.com/spells/clairvoyance">clairvoyance {c}</a>
-- <a href="https://www.dndbeyond.com/spells/create-food-and-water">create food and water</a>
-- <a href="https://www.dndbeyond.com/spells/daylight">daylight</a>
-- <a href="https://www.dndbeyond.com/spells/dispel-magic">dispel magic</a>
-- <a href="https://www.dndbeyond.com/spells/glyph-of-warding">glyph of warding</a>
-- <a href="https://www.dndbeyond.com/spells/magic-circle">magic circle</a>
-- <a href="https://www.dndbeyond.com/spells/mass-healing-word">mass healing word</a>
-- <a href="https://www.dndbeyond.com/spells/meld-into-stone">meld into stone [r]</a>
-- <a href="https://www.dndbeyond.com/spells/remove-curse">remove curse</a>
-- <a href="https://www.dndbeyond.com/spells/revivify">revivify</a>
-- <a href="https://www.dndbeyond.com/spells/sending">sending</a>
-- <a href="https://www.dndbeyond.com/spells/speak-with-dead">speak with dead</a>
-- <a href="https://www.dndbeyond.com/spells/spirit-guardians">spirit guardians {c}</a>
-- <a href="https://www.dndbeyond.com/spells/tongues">tongues</a>
-- <a href="https://www.dndbeyond.com/spells/water-walk">water walk [r]</a>
-- <a href="https://www.dndbeyond.com/spells/feign-death">feign death [r]</a>
-- <a href="https://www.dndbeyond.com/spells/life-transference">life transference</a>
-- <a href="https://www.dndbeyond.com/spells/fast-friends">fast friends {c}</a>
-- <a href="https://www.dndbeyond.com/spells/incite-greed">incite greed {c}</a>
-- <a href="https://www.dndbeyond.com/spells/motivational-speech">motivational speech</a>
-- <a href="https://www.dndbeyond.com/spells/spirit-shroud">spirit shroud {c}</a>
 
 
 **=== 8th level ===**
