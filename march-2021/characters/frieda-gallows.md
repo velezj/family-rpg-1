@@ -28,6 +28,8 @@ One evening, Frieda was contacted by a being calling itself [The Frozen One](../
 
 Fearful of the Fey coming back to get her, and suspicious of this new power seemingly given for free, Freida began her journey through Kryta. Along the way, she realized that she had been with the Fey for 200 years!
 
+Unknown to Frieda, the Fey raid was in fact targeting Sheem's previous incarnation at the time at the behest of the Demon Lord. Elorin wanted to raise a warrior and vanguard in case the demons broke their deal of having the Fey be a neutral party in the coming war.
+
 # Appearance
 
 As most gnomes, Freida's body is small and thin. Living with the Fey has given her strength and [The Frozen One's](../setting-world/celestials.md) power courses through her. However, such powers cannot be seen with the naked eye. She looks like a skinny gnome, weak and untrained.

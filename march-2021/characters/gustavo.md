@@ -25,6 +25,8 @@ behavior:
 
 # History
 
+Unknown to Gustavo, the Fey have placed on him the sign of the Feywild, used to mark the chosen representative of the Fey in the upcoming war between the Demons and the Races of the Dawn. The Fey are a neutral party, but each court chooses a representative to be the court's Knight and representative in the war. Gustavo has been chosen as the Summer Knight. This awakened his latent magical talents. This mark also confers the Fey pedigree onto Gustavo and as such he is treated as an equal to a Fey by any other Fey regardless of his human parentage. 
+
 # Appearance
 
 # Goals

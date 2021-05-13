@@ -24,6 +24,9 @@ Sheem pledge his life to the [Frozen One](../setting-world/the-frozen-one.md) an
 
 Sheem leads the [Glittering Ones](../setting-world/the-frozen-one.md) to this day and is one of the most active members, preferring to live and fight within the world rather than leading from afar.
 
+
+476 years ago, his previous incarnation was destroyed in a Fey raid. This was, unbeknownst to him, orchestrated by the Demon Lord in order to have him out of the way (basically a baby) while the demons weakened the seal holding The Outsider.
+
 # Appearance
 
 # Goals
