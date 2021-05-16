@@ -34,25 +34,25 @@ Sizes:
 
 # Dice counts
 
-| Potion               | Count | Total Dice    | +s  | -s |
-|----------------------|-------|---------------|-----|----|
-| Healing              | 4     | 8d4 micro     | 8   |    |
-| Greater Healing      | 4     | 16d4          | 16  |    |
-| Superior Healing     | 2     | 16d4          | 16  |    |
-| Supreme Healing      | 2     | 20d4 micro    | 40  |    |
-| Cheetah's Folly      | 2     |               |     |    |
-| Boosting             | 4     | 4d4           | 4   |    |
-| Genius               | 2     | 2d4           | 2   |    |
-| Spell Renewal        | 2     | 2d4           | 2   |    |
-| Emperor's New Potion | 2     |               |     |    |
-| Tea of Vitality      | 6     | 6d4 micro     |     | 6- |
-| of the Body          | 2     | 6d4           | 4   |    |
-| Comprehension        | 4     |               |     |    |
-| Fractal Thinking     | 2     | 4d4           |     |    |
-|                      |       |               |     |    |
-|                      |       | micro:   34d4 | 48+ |    |
-|                      |       | regular: 50d4 | 44+ |    |
-|                      |       | total    84d4 | 92+ | 6- |
+| Potion           | N | Total Dice    | color  | -s | +s  | status |
+|------------------|---|---------------|--------|----|-----|--------|
+| Healing          | 4 | 8d4 micro     | red    |    | 8   | y      |
+| Greater Healing  | 4 | 16d4          | red    |    | 16  | y      |
+| Superior Healing | 2 | 16d4          | red    |    | 16  | y      |
+| Supreme Healing  | 2 | 20d4 micro    | red    |    | 40  | y      |
+| Cheetah's Folly  | 2 |               |        |    |     |        |
+| Boosting         | 4 | 4d4           | yellow |    | 4   | y      |
+| Genius           | 2 | 2d4           | yellow |    | 2   | y      |
+| Spell Renewal    | 2 | 2d4           | blue   |    | 2   | y      |
+| Emperor's New    | 2 |               |        |    |     |        |
+| Tea of Vitality  | 6 | 6d4 micro     | orange | 6- |     | y      |
+| of the Body      | 2 | 6d4           | red    |    | 4   | y      |
+| Comprehension    | 4 |               |        |    |     |        |
+| Fractal Thinking | 2 | 4d4           | blue   |    |     | y      |
+|                  |   |               |        |    |     |        |
+|                  |   | micro:   34d4 |        |    | 48+ |        |
+|                  |   | regular: 50d4 |        |    | 44+ |        |
+|                  |   | total    84d4 |        | 6- | 92+ |        |
 
 # Token Counts
 
@@ -62,37 +62,38 @@ Token(+/-) sizes:
 - 20+ (micro)
 - 1-  (micro)
 
-| Token | Size   | Count     |
-|-------|--------|-----------|
-| 1+    | normal | 8         |
-| 2+    | micro  | 44        |
-| 20+   | micro  | 2         |
-| 1-    | micro  | 6         |
-|       |        |           |
-|       |        | Total: 60 |
+| Token | Size   | Count     | Status |
+|-------|--------|-----------|--------|
+| 1+    | normal | 8         | y      |
+| 2+    | micro  | 44        | y      |
+| 20+   | micro  | 2         | y      |
+| 1-    | micro  | 6         | y      |
+|       |        |           |        |
+|       |        | Total: 60 | 60     |
+|       |        |           |        |
 
 
 # Bottle Counts
 
-| Bottle           | Color  | Count | Total     |
-|------------------|--------|-------|-----------|
-| plastic small    | red    | 4     | 16        |
-|                  | green  | 2     |           |
-|                  | yellow | 6     |           |
-|                  | white  | 4     |           |
-|                  |        |       |           |
-| plastic squarish | red    | 4     | 6         |
-|                  | blue   | 2     |           |
-|                  |        |       |           |
-| plastic large    | red    | 2     | 10        |
-|                  | yellow | 4     |           |
-|                  | black  | 2     |           |
-|                  | blue   | 2     |           |
-|                  |        |       |           |
-| test tube        | red    | 2     | 2         |
-|                  |        |       |           |
-| plastic bowl     | yellow | 2     | 4         |
-|                  | red    | 2     |           |
-|                  |        |       |           |
-|                  |        |       | Total: 38 |
-|                  |        |       |           |
+| Bottle           | Color  | Count | Total     | have | colored |
+|------------------|--------|-------|-----------|------|---------|
+| plastic small    | red    | 4     | 16        | y    |         |
+|                  | green  | 2     |           |      |         |
+|                  | orange | 6     |           |      |         |
+|                  | white  | 4     |           |      |         |
+|                  |        |       |           |      |         |
+| plastic squarish | red    | 4     | 6         | y    |         |
+|                  | blue   | 2     |           |      |         |
+|                  |        |       |           |      |         |
+| plastic large    | red    | 2     | 10        | y    |         |
+|                  | yellow | 4     |           |      |         |
+|                  | black  | 2     |           |      |         |
+|                  | blue   | 2     |           |      |         |
+|                  |        |       |           |      |         |
+| test tube        | red    | 2     | 2         | y    |         |
+|                  |        |       |           |      |         |
+| plastic bowl     | yellow | 2     | 4         | y    |         |
+|                  | red    | 2     |           |      |         |
+|                  |        |       |           |      |         |
+|                  |        |       | Total: 38 | 38   |         |
+|                  |        |       |           |      |         |

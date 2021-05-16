@@ -8,7 +8,7 @@ toc-title: Table of Contents
 | | |
 |---|---|
 |Name | frieda gallows|
-|Class/Level | warlock 2|
+|Class/Level | warlock 3|
 |Race | forest gnome|
 |Background | fey hostage|
 
@@ -23,8 +23,8 @@ toc-title: Table of Contents
 | AC| 13|
 | Prof Bonus| +2|
 | Speed| 25 ft. (walking)|
-| Max HP| 15
-| Hit Dice| 2d8|
+| Max HP| 21
+| Hit Dice| 3d8|
 
 
 **base attributes**
@@ -141,6 +141,17 @@ slot or material components.
 
 you can cast detect magic at will, without expending a spell slot.
 
+-   pact boon • phb 107
+
+your otherworldly patron bestows a gift upon you for your loyal service.
+
+`  | pact of the tome • phb `
+
+your patron gives you a grimoire called a book of shadows that grants
+you additional cantrips that don\'t count against your number of
+cantrips known. if you lose the book, you can perform a 1-hour ceremony
+to receive a replacement during a short or long rest.
+
 ### forest gnome racial traits {#forest_gnome_racial_traits}
 
 -   darkvision • br 37
@@ -187,10 +198,13 @@ common, elvish, gnomish, sylvan
 - <a href="https://www.dndbeyond.com/spells/eldritch-blast">eldritch blast</a>
 - <a href="https://www.dndbeyond.com/spells/frostbite">frostbite</a>
 - <a href="https://www.dndbeyond.com/spells/minor-illusion">minor illusion</a>
+- <a href="https://www.dndbeyond.com/spells/vicious-mockery">vicious mockery</a>
+- <a href="https://www.dndbeyond.com/spells/sapping-sting">sapping sting</a>
+- <a href="https://www.dndbeyond.com/spells/toll-the-dead">toll the dead</a>
 
 
 **=== 1st level ===**
-2 pact oo
+None
 
 - <a href="https://www.dndbeyond.com/spells/charm-person">charm person</a>
 - <a href="https://www.dndbeyond.com/spells/armor-of-agathys">armor of agathys</a>
@@ -199,33 +213,39 @@ common, elvish, gnomish, sylvan
 - <a href="https://www.dndbeyond.com/spells/detect-magic">detect magic {c}</a>
 
 
+**=== 2nd level ===**
+2 pact oo
+
+- <a href="https://www.dndbeyond.com/spells/shatter">shatter</a>
+
+
 # Equipment
 
 - leather (x1)
 - dagger (x1)
-- dagger (x1)
 - spear (x1)
+- dagger (x1)
 - sling (x1)
 - book (x1)
+- backpack (x1)
 - ink (1 ounce bottle) (x1)
 - ink pen (x1)
 - parchment (one sheet) (x10)
-- backpack (x1)
 - chest (x1)
-- clothes, common (x1)
 - crowbar (x1)
 - hammer (x1)
+- clothes, common (x1)
+- arcane focus (x1)
+- little bag of sand (x1)
+- small knife (x1)
+- stake (wooden) (x9)
+- holy symbol (x1)
 - holy water (flask) (x1)
 - manacles (x1)
 - mirror, steel (x1)
 - oil (flask) (x1)
 - tinderbox (x1)
 - torch (x3)
-- stake (wooden) (x9)
-- little bag of sand (x1)
-- small knife (x1)
-- holy symbol (x1)
-- arcane focus (x1)
 
 
 # Characteristics
