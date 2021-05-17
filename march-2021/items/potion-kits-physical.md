@@ -22,14 +22,14 @@ Sizes:
 | Superior Healing     | plastic large    | red    | 8d4  | 8+    |
 | Supreme Healing      | test tube        | red    | 10d4 | 20+   |
 | Cheetah's Folly      | plastic small    | green  |      |       |
-| Boosting             | plastic large    | yellow | 1d4  | 1+    |
+| Boosting             | plastic large    | green  | 1d4  | 1+    |
 | Genius               | plastic bowl     | yellow | 1d4  | 1+    |
 | Spell Renewal        | plastic squarish | blue   | 1d4  | 1+    |
 | Emperor's New Potion | plastic large    | black  |      |       |
 | Tea of Vitality      | plastic small    | yellow | 1d4  | 1-    |
 | of the Body          | plastic bowl     | red    | 3d4  | 2+    |
 | Comprehension        | plastic small    | white  |      |       |
-| Fractal Thinking     | plastic large    | blue   | 2d4  |       |
+| Fractal Thinking     | plastic large    | rose   | 2d4  |       |
 |                      |                  |        |      |       |
 
 # Dice counts
@@ -41,14 +41,14 @@ Sizes:
 | Superior Healing | 2 | 16d4          | red    |    | 16  | y      |
 | Supreme Healing  | 2 | 20d4 micro    | red    |    | 40  | y      |
 | Cheetah's Folly  | 2 |               |        |    |     |        |
-| Boosting         | 4 | 4d4           | yellow |    | 4   | y      |
+| Boosting         | 4 | 4d4           | green  |    | 4   | y      |
 | Genius           | 2 | 2d4           | yellow |    | 2   | y      |
 | Spell Renewal    | 2 | 2d4           | blue   |    | 2   | y      |
 | Emperor's New    | 2 |               |        |    |     |        |
 | Tea of Vitality  | 6 | 6d4 micro     | orange | 6- |     | y      |
 | of the Body      | 2 | 6d4           | red    |    | 4   | y      |
 | Comprehension    | 4 |               |        |    |     |        |
-| Fractal Thinking | 2 | 4d4           | blue   |    |     | y      |
+| Fractal Thinking | 2 | 4d4           | rose   |    |     | y      |
 |                  |   |               |        |    |     |        |
 |                  |   | micro:   34d4 |        |    | 48+ |        |
 |                  |   | regular: 50d4 |        |    | 44+ |        |
