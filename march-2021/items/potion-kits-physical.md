@@ -19,14 +19,14 @@ Sizes:
 |----------------------|------------------|--------|------|-------|
 | Healing              | plastic small    | red    | 2d4  | 2+    |
 | Greater Healing      | plastic squarish | red    | 4d4  | 4+    |
-| Superior Healing     | plastic large    | red    | 8d4  | 8+    |
-| Supreme Healing      | test tube        | red    | 10d4 | 20+   |
+| Superior Healing     | test tube        | red    | 8d4  | 8+    |
+| Supreme Healing      | plastic large    | red    | 10d4 | 20+   |
 | Cheetah's Folly      | plastic small    | green  |      |       |
 | Boosting             | plastic large    | green  | 1d4  | 1+    |
 | Genius               | plastic bowl     | yellow | 1d4  | 1+    |
 | Spell Renewal        | plastic squarish | blue   | 1d4  | 1+    |
 | Emperor's New Potion | plastic large    | black  |      |       |
-| Tea of Vitality      | plastic small    | yellow | 1d4  | 1-    |
+| Tea of Vitality      | plastic small    | yellow | 1d4  |       |
 | of the Body          | plastic bowl     | red    | 3d4  | 2+    |
 | Comprehension        | plastic small    | white  |      |       |
 | Fractal Thinking     | plastic large    | rose   | 2d4  |       |
@@ -45,14 +45,14 @@ Sizes:
 | Genius           | 2 | 2d4           | yellow |    | 2   | y      |
 | Spell Renewal    | 2 | 2d4           | blue   |    | 2   | y      |
 | Emperor's New    | 2 |               |        |    |     |        |
-| Tea of Vitality  | 6 | 6d4 micro     | orange | 6- |     | y      |
+| Tea of Vitality  | 6 | 6d4 micro     | orange |    |     | y      |
 | of the Body      | 2 | 6d4           | red    |    | 4   | y      |
 | Comprehension    | 4 |               |        |    |     |        |
 | Fractal Thinking | 2 | 4d4           | rose   |    |     | y      |
 |                  |   |               |        |    |     |        |
 |                  |   | micro:   34d4 |        |    | 48+ |        |
 |                  |   | regular: 50d4 |        |    | 44+ |        |
-|                  |   | total    84d4 |        | 6- | 92+ |        |
+|                  |   | total    84d4 |        |    | 92+ |        |
 
 # Token Counts
 
@@ -60,16 +60,14 @@ Token(+/-) sizes:
 - 1+
 - 2+  (micro)
 - 20+ (micro)
-- 1-  (micro)
 
 | Token | Size   | Count     | Status |
 |-------|--------|-----------|--------|
 | 1+    | normal | 8         | y      |
 | 2+    | micro  | 44        | y      |
 | 20+   | micro  | 2         | y      |
-| 1-    | micro  | 6         | y      |
 |       |        |           |        |
-|       |        | Total: 60 | 60     |
+|       |        | Total: 54 | 54     |
 |       |        |           |        |
 
 
