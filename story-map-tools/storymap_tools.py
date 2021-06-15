@@ -8,6 +8,7 @@ import logging
 import xml.etree.ElementTree as ET
 
 import networkx as nx
+import pydot
 
 ## =========================================================================
 
@@ -100,10 +101,12 @@ def compute_nx_graph_from_yed_graphml_data( graphml_data ):
 
     # right now we work with one and only one graph per data/file
     yed_graph_node = data.findall(".//graphml:graph", ns)
-    if yed_graph_node is None or len(yed_graph_node) > 1:
+    if yed_graph_node is None:
         raise RuntimeError(
             "Unable to haandle GraphML data, "
             "can't find single graph node: {}".format( yed_graph_node ) )
+    if len(yed_graph_node) > 1:
+        _log().warning( "found multiple <graph> elements: %s", yed_graph_node )
 
 
     # create all the nodes i nthe nx graph using the graphml ids for names
@@ -126,6 +129,8 @@ def compute_nx_graph_from_yed_graphml_data( graphml_data ):
         source = edge.get('source')
         target = edge.get('target')
         color = edge.find('.//y:LineStyle', ns).get('color')
+        if color is None:
+            continue
         color_set.add( color )
         if eid is None or source is None or target is None:
             _log().warning( "Strange edge found from graphml: "
@@ -142,7 +147,7 @@ def compute_nx_graph_from_yed_graphml_data( graphml_data ):
     for (s,t) in graph.edges:
         graph.edges[s,t]['type'] = color_type_map.get(graph.edges[s,t]['color'])
 
-    return graph, color_set
+    return graph, color_set, color_type_map
 
 ## =========================================================================
 ## =========================================================================
@@ -194,12 +199,22 @@ def return_possible_next_story_points( graph, max_depth = 1 ):
 
 ## =========================================================================
 
+def write_out_reachable_graph( nx_graph, filename ):
+    subgraph = edge_type_subgraph( nx_graph, EDGE_FUTURE )
+    nx.drawing.nx_pydot.write_dot( subgraph, filename )
+        
+
+## =========================================================================
+
 def print_story_map_report( graphml_filename, max_depth=3 ):
     with open( graphml_filename ) as f:
         data = f.read()
-    graph, colors = compute_nx_graph_from_yed_graphml_data( data )
+    graph, colors, color_type_map = compute_nx_graph_from_yed_graphml_data( data )
     current_points = return_current_story_points( graph )
     possible_next_points = return_possible_next_story_points( graph )
+
+    reachable_graph_output_filename = graphml_filename + ".future-reachable.dot"
+    write_out_reachable_graph( graph, reachable_graph_output_filename )
 
     current_scenes = list([
         graph.nodes.data()[n]['label'].replace( '\n', ' ')
@@ -209,6 +224,11 @@ def print_story_map_report( graphml_filename, max_depth=3 ):
         for n in possible_next_points ])
     print( "Story Map:" )
     print( "------------------------------" )
+    print( "" )
+    print( "Reachable Future Graph at: {}".format( reachable_graph_output_filename ) )
+    print( "" )
+    print( "Color Set: {}".format( sorted(list(colors))) )
+    print( "Color->Type Map: {}".format(color_type_map) )
     print( "" )
     print( "Current Scene(s):")
     for i,x in enumerate(current_scenes):
