@@ -41,3 +41,17 @@ toc-title: Table of Contents
 - Once we reached the hills and mountains, the child had grown into a skilled hunter and tracker. They left to make their own way in the world as a hunter and general helper in the wilderness. Every few years I hear from him as I stop by certain villages and town I particularly like. We have yet to be in the same place at the same time... but I'm sure we will someday.
 
 
+**The Wierd of Sosellglade**
+- From the elemental plane of water, a water wierd somehow fell/pushed through to our plane.
+- They wierd was very confused as they ended up crossing over into a well. It was dark and they couldn't move very well. It was like being shut in a small dark room
+- of course, I didn't know that was what happened at the time
+- I was exploring the eastern side of Kryta when I stumbled onto a village that seemed to be suffering from a curse: everyone's hair had turned a deep blue overnight.
+- At first I thought that it was a cultural trait, a communal heair coloring signifying a group of an idea.
+- but I soon found out about the strange fact that it "just happened overnight".
+- Now, as soon as I went looking for traces of other planes I quickly found the Wierd. 
+- They were extremely scared. and the well was small enough that they could not fully evade the bucket when the villagers gathered water. So little parts of it's body were taken up with the water and then drunk and effecting the bodies of the villagers
+- It was a good thing I found them before too much time had passed. They were still rational and conscious and so were shielding the villagers from major effects.
+- If enough of the Weird was consumed and their mental state deteriorated, the Wierd's instinct would have sought out every piece of it's body and would have taken them back by force, most likely wiping out the entire village.
+
+- Of course, not all beings that come to this plane get here by accident. Some come here to gain power or to devour resources to further their own goals.
+- And some ... some creatures use this plane as their hunting ground ... for sport and challenge. Those are the beings that haunt my dreams. Those are the beings that must not be allowed to cross into this plane of existence. And that, my friends, is why I am a planer warden of the material plane.
