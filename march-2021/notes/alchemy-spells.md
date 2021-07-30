@@ -1,5 +1,5 @@
 ---
-title: Alchemy Spells (for Sorcerer: Alchemist subclass)
+title: Alchemy Spells (for Sorcerer Alchemist subclass)
 ---
 
 # Original Spells
