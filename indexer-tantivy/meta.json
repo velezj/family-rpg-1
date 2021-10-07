@@ -1,0 +1,65 @@
+{
+  "index_settings": {
+    "docstore_compression": "lz4"
+  },
+  "segments": [
+  ],
+  "schema": [
+    {
+      "name": "filename",
+      "type": "text",
+      "options": {
+        "indexing": {
+          "record": "position",
+          "tokenizer": "en_stem"
+        },
+        "stored": true
+      }
+    },
+    {
+      "name": "session_date",
+      "type": "text",
+      "options": {
+        "indexing": {
+          "record": "position",
+          "tokenizer": "en_stem"
+        },
+        "stored": true
+      }
+    },
+    {
+      "name": "start_audio_time",
+      "type": "text",
+      "options": {
+        "indexing": {
+          "record": "position",
+          "tokenizer": "en_stem"
+        },
+        "stored": true
+      }
+    },
+    {
+      "name": "start_line_number",
+      "type": "text",
+      "options": {
+        "indexing": {
+          "record": "position",
+          "tokenizer": "en_stem"
+        },
+        "stored": true
+      }
+    },
+    {
+      "name": "line",
+      "type": "text",
+      "options": {
+        "indexing": {
+          "record": "position",
+          "tokenizer": "en_stem"
+        },
+        "stored": true
+      }
+    }
+  ],
+  "opstamp": 12710
+}
