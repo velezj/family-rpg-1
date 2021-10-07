@@ -15,6 +15,7 @@ venv:
 	python3.7 -m venv venv
 	source venv/bin/activate.fish
 	pip install -r requirements.txt
+	python -m spacy download en_core_web_sm
 
 query.sh: venv
 	echo "#!/bin/bash" > query.sh

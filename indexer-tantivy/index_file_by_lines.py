@@ -5,6 +5,9 @@ import json
 import subprocess
 import pathlib
 
+import spacy
+nlp = spacy.load( 'en_core_web_sm' )
+
 def _log():
     return logging.getLogger( __name__ )
 
@@ -15,16 +18,18 @@ def index_file( filename, index_dir ):
         with open(filename,'r') as f:
             for i, line in enumerate(f):
                 line = line.strip()
-                jsondata = json.dumps({
-                    'filename' : filename,
-                    'session_date' : '',
-                    'start_audio_time': '',
-                    'start_line_number': str(i),
-                    'line' : line,
-                })
-                tempf.write( (jsondata + "\n").encode('utf-8') )
-                lines.append( jsondata )
-                full_json_string += jsondata + "\n"
+                doc = nlp(line)
+                for idno, sentence in enumerate(doc.sents):
+                    jsondata = json.dumps({
+                        'filename' : filename,
+                        'session_date' : '',
+                        'start_audio_time': '',
+                        'start_line_number': "{}.{}".format(i,idno),
+                        'line' : sentence,
+                    })
+                    tempf.write( (jsondata + "\n").encode('utf-8') )
+                    lines.append( jsondata )
+                    full_json_string += jsondata + "\n"
         tempf.flush()
         with open( tempf.name, 'r') as inputf:
             res = subprocess.run(
@@ -48,15 +53,17 @@ def index_files_batch( index_dir, filenames ):
             with open(filename,'r') as f:
                 for i, line in enumerate(f):
                     line = line.strip()
-                    jsondata = json.dumps({
-                        'filename' : filename,
-                        'session_date' : '',
-                        'start_audio_time': '',
-                        'start_line_number': str(i),
-                        'line' : line,
-                    })
-                    tempf.write( (jsondata + "\n").encode('utf-8') )
-                    lines.append( jsondata )
+                    doc = nlp(line)
+                    for idno, sentence in enumerate(doc.sents):
+                        jsondata = json.dumps({
+                            'filename' : filename,
+                            'session_date' : '',
+                            'start_audio_time': '',
+                            'start_line_number': "{}.{}".format(i,idno),
+                            'line' : str(sentence),
+                        })
+                        tempf.write( (jsondata + "\n").encode('utf-8') )
+                        lines.append( jsondata )
         tempf.flush()
         _log().info("Building index in '%s' (#%d lines)", index_dir, len(lines))
         with open( tempf.name, 'r') as inputf:
