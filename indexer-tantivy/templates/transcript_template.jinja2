@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Transcript</title>
+    <link rel="stylesheet" href="/static/transcript_style.css"/>
+  </head>
+  <body>
+    <div class="transcript-container">
+      <div class="transcript-filename-container">
+	<div class="transcript-filename">{{ filename }}</div>
+      </div>
+      <div class="transcript-lines-container">
+	{% for line in lines %}
+	  <div class="transcript-line">
+	    <div class="time">{{ line[0] }}</div>
+	    <div class="line">{{ line[1] }}</div>
+	  </div>
+	{% endfor %}
+      </div>
+    </div>
+  </body>
+</html>

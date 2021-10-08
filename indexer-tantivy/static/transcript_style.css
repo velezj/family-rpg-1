@@ -1,0 +1,39 @@
+div.transcript-lines-container {
+    display: flex;
+    flex-flow: column wrap;
+}
+
+div.transcript-filename-container {
+    background-color: #E6FFFB;
+    margin: 2em;
+    padding: 0.2em;
+    border: 2px solid black;
+}
+
+div.transcript-filename::before {
+    content: "Filename:";
+    font-weight: bold;
+    margin: 1em;
+}
+
+div.transcript-filename {
+    margin: 2em;
+}
+
+
+div.transcript-line {
+    display: flex;
+    flex-flow: row;
+    margin-bottom: 1em;
+}
+
+div.time {
+    font-weight: bold;
+    font-size: smaller;
+    flex: 0 0 8em;
+}
+
+div.line {
+    margin-left: 1em;
+    margin-right: 1em;
+}

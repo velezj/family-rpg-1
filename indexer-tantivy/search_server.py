@@ -24,11 +24,33 @@ def _root():
 def send_static(path):
     return flask.send_from_directory('static', path)
 
+def _get_transcript_lines(path):
+    data = {'results': []}
+    with open(path) as f:
+        data = json.load(f)
+    lines = []
+    for res in data['results']:
+        if ('alternatives' in res
+                and len(res['alternatives']) > 0
+                and 'transcript' in res['alternatives'][0]
+                and 'words' in res['alternatives'][0]
+                and len(res['alternatives'][0]['words']) > 0
+                and 'startTime' in res['alternatives'][0]['words'][0]):
+            line = res['alternatives'][0]['transcript']
+            time = res['alternatives'][0]['words'][0]['startTime']
+            lines.append((time, line))
+    return lines
+
 @APP.route("/absolute_file/<path:filepath>")
 def _send_absolute_file(filepath):
     if filepath.endswith(".md"):
         with open("/" + filepath) as f:
             return Response(f.read(), mimetype='text/plain')
+    elif filepath.endswith(".json"):
+        lines = _get_transcript_lines("/" + filepath)
+        return flask.render_template('transcript_template.jinja2',
+                                     filename="/" + filepath,
+                                     lines=lines)
     else:
         return flask.send_file("/" + filepath)
 
