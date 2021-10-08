@@ -6,7 +6,8 @@ import logging
 import subprocess
 import json
 
-from flask import Flask
+from flask import Flask, Response
+import flask
 
 APP = Flask(__name__)
 
@@ -20,12 +21,20 @@ def _root():
     return "<p>root</p>"
 
 
+@APP.route("/absolute_file/<path:filepath>")
+def _send_absolute_file(filepath):
+    if filepath.endswith(".md"):
+        with open("/" + filepath) as f:
+            return Response(f.read(), mimetype='text/plain')
+    else:
+        return flask.send_file(filepath)
+
 def _buildup_html_li_for_search_result_item(data, context_size=5):
     filename = data['filename'][0]
     line_id = data['start_line_number'][0]
     fragment = ""
     fragment += '<div class="search_item">'
-    fragment += '<div class="filename">{}</div>'.format(filename)
+    fragment += '<div class="filename"><a target="_blank" href="/absolute_file{0}">{0}</a></div>'.format(filename)
     fragment += '<div class="line_id">{}</div>'.format(line_id)
     fragment += '<div class="context">\n'
     lines = [data['line'][0]]
