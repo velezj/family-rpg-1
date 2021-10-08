@@ -9,10 +9,6 @@
       "name": "filename",
       "type": "text",
       "options": {
-        "indexing": {
-          "record": "position",
-          "tokenizer": "en_stem"
-        },
         "stored": true
       }
     },
