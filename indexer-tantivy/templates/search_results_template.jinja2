@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Search Results</title>
+    <link rel="stylesheet" href="/static/search_style.css"/>
+  </head>
+  <body>
+    <div class="query-container">
+      <h1>Query</h1>
+      <div class="query">{{ query }}</div>
+      <div class="query-num-results">{{ data_items|length }}</div>
+    </div>
+    <div class="results-container">
+      <div class="results-list-container">
+	<ol class="results-list">
+	  {% for item in data_items %}
+	    <li class="result-list-item">
+	      <div class="result-container">
+		<div class="result-filename">
+		  <a target="_blank" href="/absolute_file/{{ item.filename }}">{{ item.filename }}</a>
+		</div>
+		<div class="result-before-context">
+		  {% for before in item.before_lines %}
+		    <p class="before-context">{{ before }}</p>
+		  {% endfor %}
+		</div>
+		<div class="result">{{ item.target_line }}</div>
+		<div class="result-after-context">
+		  {% for after in item.after_lines %}
+		    <p class="after-context">{{ after }}</p>
+		  {% endfor %}
+		</div>		
+	      </div>
+	    </li>
+	  {% endfor %}
+	</ol>
+      </div>
+    </div>
+  </body>
+
+</html>

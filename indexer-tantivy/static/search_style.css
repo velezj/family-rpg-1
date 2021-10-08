@@ -1,0 +1,18 @@
+div.result {
+    font-weight: bold;
+}
+
+div.query-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+div.query-container div {
+    margin: 1em;
+}
+
+div.query-container div.query-num-results::before {
+    content: "#";
+}
