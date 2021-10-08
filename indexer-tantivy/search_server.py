@@ -161,9 +161,18 @@ def _run_query(text_query, context_size=5):
     data_items = _augment_data_items(data_items, context_size)
     return (data_items, res.stderr)
 
+@APP.route("/search/")
 @APP.route("/search/<text_query>")
-def _search(text_query):
-    data_items, errstring = _run_query(text_query)
+def _search(text_query=None):
+    if text_query is None:
+        text_query = flask.request.args.get('search')
+    data_items = None
+    errstring = None
+    if text_query is None:
+        data_items = []
+        errstring = ""
+    else:
+        data_items, errstring = _run_query(text_query)
     if data_items is None:
         return flask.render_template("search_error_template.jinja2",
                                      query=text_query,

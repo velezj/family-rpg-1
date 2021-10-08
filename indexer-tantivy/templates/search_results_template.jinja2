@@ -5,6 +5,13 @@
     <link rel="stylesheet" href="/static/search_style.css"/>
   </head>
   <body>
+    <div class="query-input-container">
+      <form action="/search/" method="GET">
+	<label>Run Query</label>
+	<input type="search" id="search" name="search">
+	<button type="submit">go!</button>
+      </form>
+    </div>
     <div class="query-container">
       <h1>Query</h1>
       <div class="query">{{ query }}</div>
