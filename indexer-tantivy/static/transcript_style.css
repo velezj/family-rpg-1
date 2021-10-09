@@ -37,3 +37,8 @@ div.line {
     margin-left: 1em;
     margin-right: 1em;
 }
+
+div.marked-line {
+    font-size: bigger;
+    background-color: #cef776;
+}

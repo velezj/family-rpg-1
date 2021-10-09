@@ -24,7 +24,7 @@
 	    <li class="result-list-item">
 	      <div class="result-container">
 		<div class="result-filename">
-		  <a target="_blank" href="/absolute_file/{{ item.filename }}">{{ item.filename }}</a>
+		  <a target="_blank" href="/view/file/{{item.mark_index}}/{{ item.filename }}#marked-element">{{ item.filename }}</a>
 		</div>
 		<div class="result-before-context">
 		  {% for before in item.before_lines %}

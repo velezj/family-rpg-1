@@ -41,6 +41,91 @@ def _get_transcript_lines(path):
             lines.append((time, line))
     return lines
 
+
+def _is_file_markdown_notes(filepath):
+    return filepath.endswith(".md")
+def _is_file_transcript(filepath):
+    if not filepath.endswith(".json"):
+        return False
+    try:
+        with open(filepath) as f:
+            data = json.load(f)
+            return ("results" in data
+                    and isinstance(data['results'], list)
+                    and "alternatives" in data['results'][0])
+    except json.JSONDecodeError:
+        return False
+    return False
+
+def _load_markdown_notes(filepath):
+    data = {
+        "filepath": filepath,
+        "lines": None
+    }
+    with open(filepath) as f:
+        data["lines"] = map(lambda x: x.rstrip(), f.readlines())
+    return data
+
+def _load_transcript(filepath):
+    data = {
+        "filepath": filepath,
+        "lines": None
+    }
+    with open(filepath) as f:
+        original_data = json.load(f)
+    lines = []
+    for item in original_data['results']:
+        if not 'alternatives' in item:
+            continue
+        if not 'transcript' in item['alternatives'][0]:
+            continue
+        line_string = item['alternatives'][0]['transcript']
+        time = item['alternatives'][0]['words'][0]['startTime']
+        lines.append({'line': line_string, 'time': time})
+    data['lines'] = lines
+    return data
+
+def _load_raw_file(filepath):
+    with open(filepath) as f:
+        return {'filepath': filepath,
+                'data': f.read()}
+
+
+"""
+A list of ( predicate, loader, template ) for files. Each is a function
+that takes a single argument, the file path. The predicate returns
+true IFF the paired loader should be used to load the file into
+data and the given template should be used to render it
+"""
+VIEW_FILE_TEMPLATES = [
+    (_is_file_markdown_notes,
+     _load_markdown_notes,
+     "view_markdown_notes_template.jinja2"),
+    (_is_file_transcript,
+     _load_transcript,
+     "view_transcript_template.jinja2"),
+    (lambda x: True, _load_raw_file, "view_raw_file_template.jinja2")
+]
+
+@APP.route("/view/file/<mark_index>/<path:filepath>")
+def _view_file(mark_index,filepath):
+    data = None
+    template_name = None
+    filepath = "/" + filepath
+    for predicate, loader, template in VIEW_FILE_TEMPLATES:
+        if predicate(filepath):
+            data = loader(filepath)
+            template_name = template
+            print("Using VIEW: {}".format(template_name))
+            break
+    data['mark_index'] = mark_index
+    try:
+        data['mark_index'] = int(mark_index)
+    except:
+        pass
+    return flask.render_template(template_name, data=data)
+
+
 @APP.route("/absolute_file/<path:filepath>")
 def _send_absolute_file(filepath):
     if filepath.endswith(".md"):
@@ -112,6 +197,9 @@ def _augment_single_item(data, context_size):
         target_index -= (context_size - line_number + 1)
     before_lines = []
     target_line = data['line'][0]
+    mark_index = line_number
+    if line_id == '':
+        mark_index = data['start_audio_time'][0]
     after_lines = []
     if line_id != '':
         res = subprocess.run(
@@ -138,7 +226,8 @@ def _augment_single_item(data, context_size):
         'after_lines': after_lines,
         'target_line': target_line,
         'context_size': context_size,
-        'target_index': target_index
+        'target_index': target_index,
+        'mark_index': mark_index
     }
 
 

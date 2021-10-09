@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Transcript</title>
+    <link rel="stylesheet" href="/static/markdown_notes_style.css"/>
+  </head>
+  <body>
+    <div class="markdown-notes-container">
+      {% for line in data.lines %}
+	{% if loop.index0 == data.mark_index %}
+	  <div class="line marked-line" id="marked-element"><p><pre>{{ line }}</pre></p></div>
+	{% else %}
+	  <div class="line"><p><pre>{{ line }}</pre></p></div>
+	{% endif %}
+      {% endfor %}
+    </div>
+  </body>
+</html>

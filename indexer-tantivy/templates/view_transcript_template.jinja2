@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Transcript</title>
+    <link rel="stylesheet" href="/static/transcript_style.css"/>
+  </head>
+  <body>
+    <div class="transcript-container">
+      <div class="transcript-filename-container">
+	<div class="transcript-filename">{{ data.filepath }}</div>
+      </div>
+      <div class="transcript-lines-container">
+	{% for line in data.lines %}
+	  {% if line.time == data.mark_index %}
+	    <a id="marked-element"/>
+	    <div class="transcript-line marked-line">
+	  {% elif loop.index0 == data.mark_index %}
+	    <a id="marked-element" />
+	    <div class="transcript-line marked-line">
+	  {% else %}
+	    <div class="transcript-line">
+	  {% endif %}
+	      <div class="time">{{ line.time }}</div>
+	      <div class="line">{{ line.line }}</div>
+	  </div>
+	{% endfor %}
+      </div>
+    </div>
+  </body>
+</html>
