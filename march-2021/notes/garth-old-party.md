@@ -44,7 +44,7 @@ While on a mission, the party was attacked by a group of monsters. During the at
 
 # Aftermath
 
-The axe that embedded itself into Bailor was poisoned. Using their magic, Garth and Umrik managed to capture her spirit and mind as she died as well as stop the passage of time for her body. However, they are mages and not healers. They were frightened, panicked, and Bailor had so little time to live. Their spells and efforts were not, exactly, perfect. Eventually they were able to get her body physically healed. Her mind and spirit were not so lucky. While still Bailor, deep wounds and scar remain to this day on her mind and spirit. She is not fully sane. One of the reasons Garth and Bailor layed down roots near each other is for Garth to keep her in check and watch over her.
+The axe that embedded itself into Bailor was poisoned. Using their magic, Garth and Umrik managed to capture her spirit and mind as she died as well as stop the passage of time for her body. However, they are mages and not healers. They were frightened, panicked, and Bailor had so little time to live. Their spells and efforts were not, exactly, perfect. Eventually they were able to get her body physically healed. Her mind and spirit were not so lucky. It took Garth and Umrik 5 years to discover and use the techniques required to heal Bailor's spirit and mind from the poison caused by Ernstyn and his weapon. This same poison/corruption is evident in Mary's scar. While still Bailor, deep wounds and scar remain to this day on her mind and spirit. She is not fully sane. One of the reasons Garth and Bailor layed down roots near each other is for Garth to keep her in check and watch over her.
 
 They looked for the bodies of X, Y, and Z. They never found them.
 
